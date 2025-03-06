@@ -1,0 +1,1 @@
+b0723	ECK0712	sdhA	succinate:quinone oxidoreductase, FAD binding protein // DhsA // SdhA

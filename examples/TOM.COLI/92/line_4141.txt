@@ -1,0 +1,1 @@
+b2934	ECK2929	cmtB	mannitol-specific PTS enzyme IIA component CmtB // TolM // Enzyme IIA<sup>Cmt</sup> // EIIA<sup>Cmt</sup> // Enzyme III<sup>Cmt</sup> // CmtB

@@ -1,0 +1,1 @@
+b3256	ECK3243	accC	biotin carboxylase // AccC // FabG

@@ -1,0 +1,1 @@
+b1622	ECK1617	malY	negative regulator of MalT activity/cystathionine &beta;-lyase // MalY // bifunctional &beta;-cystathionase, PLP-dependent and regulator of maltose regulon

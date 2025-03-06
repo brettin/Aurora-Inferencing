@@ -1,0 +1,1 @@
+b3322	ECK3309	gspB	type II secretion system protein GspB // GspB // PioO // PinO // calcium-binding protein required for initiation of chromosome replication

@@ -1,0 +1,1 @@
+b4425	ECK1223	rttR	small RNA RttR // rttR // small RNA processed from <i>tyrT</i> transcript

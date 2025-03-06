@@ -1,0 +1,1 @@
+b4017	ECK4009	arpA	regulator of acetyl CoA synthetase // ArpA // YjaC // Arp

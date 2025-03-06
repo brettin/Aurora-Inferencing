@@ -1,0 +1,1 @@
+b3094	ECK3085	exuR	DNA-binding transcriptional repressor ExuR // ExuR // negative regulator of exu regulon, exuT, uxaAC, and uxuB // ExuR

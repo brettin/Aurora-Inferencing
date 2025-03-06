@@ -1,0 +1,1 @@
+b3028	ECK3019	mdaB	NADPH:quinone oxidoreductase MdaB // MdaB // NADPH quinone reductase

@@ -1,0 +1,1 @@
+b0652	ECK0645	gltL	glutamate/aspartate ABC transporter ATP binding subunit // GltL

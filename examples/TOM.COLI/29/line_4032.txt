@@ -1,0 +1,1 @@
+b1910	ECK1909	cysT	tRNA-Cys(GCA) // tRNA<sup>cysT</sup>

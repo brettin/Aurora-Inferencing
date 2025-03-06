@@ -1,0 +1,1 @@
+b3462	ECK3446	ftsX	cell division protein FtsX // FtsS // FtsX

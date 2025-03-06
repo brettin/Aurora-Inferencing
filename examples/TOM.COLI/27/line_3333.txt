@@ -1,0 +1,1 @@
+b4175	ECK4171	hflC	regulator of FtsH protease // HflA // HflC

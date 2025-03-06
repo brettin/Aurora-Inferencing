@@ -1,0 +1,1 @@
+b0337	ECK0334	codA	cytosine/isoguanine deaminase // CodA

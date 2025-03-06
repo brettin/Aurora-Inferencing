@@ -1,0 +1,1 @@
+b1356	ECK1354	racR	Rac prophage; DNA-binding transcriptional repressor RacR // RacR // YdaR // RarC // DicA // RacR

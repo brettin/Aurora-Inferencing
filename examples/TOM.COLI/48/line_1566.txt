@@ -1,0 +1,1 @@
+b4240	ECK4235	treB	trehalose-specific PTS enzyme IIBC component // Enzyme IIBC<sup>tre</sup> // enzyme IIBC component of trehalose PTS // TreB

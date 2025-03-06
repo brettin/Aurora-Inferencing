@@ -1,0 +1,1 @@
+b0430	ECK0424	cyoC	cytochrome <i>bo</i><sub>3</sub> subunit 3 // CyoC // cytochrome <i>bo</i><sub>3</sub> terminal oxidase subunit III // cytochrome <i>o</i> ubiquinol oxidase subunit III // cytochrome <i>bo</i><sub>3</sub> ubiquinol oxidase subunit III

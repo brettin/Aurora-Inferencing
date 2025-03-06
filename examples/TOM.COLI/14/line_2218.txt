@@ -1,0 +1,1 @@
+b1015	ECK1006	putP	proline:Na<sup>+</sup> symporter // PutC // PutP // PPI // proline permease I // PutP proline SSS transporter

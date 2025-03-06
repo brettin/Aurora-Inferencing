@@ -1,0 +1,1 @@
+b0216	ECK0216	aspV	tRNA-Asp(GUC) // tRNA<sup>aspV</sup>

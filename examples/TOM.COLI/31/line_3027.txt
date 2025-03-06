@@ -1,0 +1,1 @@
+b2587	ECK2585	kgtP	&alpha;-ketoglutarate:H<sup>+</sup> symporter // WitA // KgtP // &alpha;-ketoglutarate MFS transporter

@@ -1,0 +1,1 @@
+b0956	ECK0947	matP	macrodomain Ter protein // YcbG // MatP

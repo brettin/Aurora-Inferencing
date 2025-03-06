@@ -1,0 +1,1 @@
+b1227	ECK1221	narI	nitrate reductase A subunit &gamma; // ChlI // NarI

@@ -1,0 +1,1 @@
+b2676	ECK2670	nrdF	ribonucleoside-diphosphate reductase 2 subunit &beta; // YgaD // NrdF

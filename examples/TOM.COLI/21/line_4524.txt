@@ -1,0 +1,1 @@
+b2470	ECK2465	acrD	multidrug efflux pump RND permease AcrD // YffA // AcrD

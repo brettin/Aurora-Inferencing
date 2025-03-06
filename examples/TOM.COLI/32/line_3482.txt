@@ -1,0 +1,1 @@
+b0664	ECK0655	glnX	tRNA-Gln(CUG) // tRNA<sup>glnX</sup> // tRNA<sup>Gln2</sup>

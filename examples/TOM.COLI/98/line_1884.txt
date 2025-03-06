@@ -1,0 +1,1 @@
+b0550	ECK0541	rusA	DLP12 prophage; crossover junction endodeoxyribonuclease RusA // YbcP // RusA // Rus // DLP12 prophage; endodeoxyribonuclease RUS (Holliday junction resolvase)

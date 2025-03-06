@@ -1,0 +1,1 @@
+b3647	ECK3637	ligB	DNA ligase B // LigB // YicF

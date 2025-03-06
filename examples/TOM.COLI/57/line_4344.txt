@@ -1,0 +1,1 @@
+b1989	ECK1984	asnV	tRNA-Asn(GUU) // tRNA<sup>asnV</sup>

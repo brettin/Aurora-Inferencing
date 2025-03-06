@@ -1,0 +1,1 @@
+b1225	ECK1219	narH	nitrate reductase A subunit &beta; // ChlC // NarH

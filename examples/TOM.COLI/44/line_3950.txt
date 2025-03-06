@@ -1,0 +1,1 @@
+b1570	ECK1564	dicA	DNA-binding transcriptional dual regulator DicA // FtsT // DicA // DicA

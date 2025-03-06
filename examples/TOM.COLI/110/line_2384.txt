@@ -1,0 +1,1 @@
+b4106	ECK4099	phnC	phosphonate/phosphate ABC transporter ATP binding subunit // cryptic phosphonate ABC transporter ATP binding subunit // PhnC

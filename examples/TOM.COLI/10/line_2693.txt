@@ -1,0 +1,1 @@
+b3208	ECK3197	mtgA	peptidoglycan glycosyltransferase MtgA // Mgt // YrbM // MtgA

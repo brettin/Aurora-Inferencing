@@ -1,0 +1,1 @@
+b0620	ECK0613	dpiA	DNA-binding transcriptional dual regulator DpiA-phosphorylated // DpiA-P<sup>asp57</sup> // MpdA // CriR // CitB response regulator - phosphorylated // DpiA response regulator - phosphorylated // DpiA-P<sup>asp</sup> // DNA-binding transcriptional dual regulator DpiA // DpiA // CitB // DpiA response regulator

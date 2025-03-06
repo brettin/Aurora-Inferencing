@@ -1,0 +1,1 @@
+b4021	ECK4013	pepE	peptidase E // PepE // peptidase E, a dipeptidase where amino-terminal residue is aspartate

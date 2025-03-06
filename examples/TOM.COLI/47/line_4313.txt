@@ -1,0 +1,1 @@
+b3739	ECK3732	atpI	ATP synthase accessory factor AtpI // AtpI // UncI

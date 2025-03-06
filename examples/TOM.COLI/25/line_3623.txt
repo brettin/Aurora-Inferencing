@@ -1,0 +1,1 @@
+b2169	ECK2162	fruB	FruB - his299 phosphorylated // FruB-P<sup>his299</sup> // fructose-specific PTS multiphosphoryl transfer protein FruB // FruB // Fpr // FruF // diphosphoryl transfer protein // DTP // EIIA-M-H<sup>fru</sup> // EIIA<sup>fru</sup> // Enzyme IIA<sup>fru</sup> // EIII<sup>fru</sup> // Enzyme III<sup>fru</sup>

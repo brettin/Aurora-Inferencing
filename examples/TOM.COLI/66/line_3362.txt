@@ -1,0 +1,1 @@
+b2538	ECK2535	hcaE	putative 3-phenylpropionate/cinnamate dioxygenase subunit &alpha; // DigA // YfhU // HcaA // HcaE // HcaA1 // 3-phenylpropionate dioxygenase, large subunit // 3-phenylpropionate dioxygenase, &alpha; subunit

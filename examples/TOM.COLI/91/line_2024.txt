@@ -1,0 +1,1 @@
+b2516	ECK2512	rodZ	cytoskeleton protein RodZ // YfgA // RodZ // transmembrane component of cytoskeleton

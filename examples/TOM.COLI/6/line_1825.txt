@@ -1,0 +1,1 @@
+b3609	ECK3599	secB	protein export chaperone SecB // SecB

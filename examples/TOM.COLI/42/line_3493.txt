@@ -1,0 +1,1 @@
+b3053	ECK3043	glnE	fused glutamine synthetase deadenylase/glutamine synthetase adenylyltransferase // GlnE

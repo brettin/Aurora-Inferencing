@@ -1,0 +1,1 @@
+b0058	ECK0059	rluA	23S rRNA pseudouridine<sup>746</sup> and tRNA pseudouridine<sup>32</sup> synthase // YabO // RluA // ribosomal large subunit pseudouridine synthase A // 23S rRNA and tRNA pseudouridine synthase

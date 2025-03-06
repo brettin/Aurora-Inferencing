@@ -1,0 +1,1 @@
+b0208	ECK0208	yafC	DNA-binding transcriptional regulator YafC // YafC // predicted DNA-binding transcriptional regulator LYSR-type

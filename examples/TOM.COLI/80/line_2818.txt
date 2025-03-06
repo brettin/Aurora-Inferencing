@@ -1,0 +1,1 @@
+b2114	ECK2107	metG	methionine&mdash;tRNA ligase // MetG // MetRS

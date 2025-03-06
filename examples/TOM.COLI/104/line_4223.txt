@@ -1,0 +1,1 @@
+b0033	ECK0034	carB	carbamoyl-phosphate synthetase large subunit // CarB // PyrA // carbamoyl phosphate synthetase, &beta; chain // carbamoyl-phosphate synthetase subunit &beta;

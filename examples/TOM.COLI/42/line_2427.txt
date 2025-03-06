@@ -1,0 +1,1 @@
+b0052	ECK0053	pdxA	4-hydroxythreonine-4-phosphate dehydrogenase // PdxA

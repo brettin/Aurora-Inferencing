@@ -1,0 +1,1 @@
+b1275	ECK1269	cysB	DNA-binding transcriptional dual regulator CysB // positive transcriptional regulator for cysteine regulon // CysB // CysB

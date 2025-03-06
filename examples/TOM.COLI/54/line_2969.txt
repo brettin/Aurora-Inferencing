@@ -1,0 +1,1 @@
+b3455	ECK3439	livG	branched chain amino acid/phenylalanine ABC transporter ATP binding subunit LivG // HrbC // HrbD // HrbB // LivG

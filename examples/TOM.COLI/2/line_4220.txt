@@ -1,0 +1,1 @@
+b2761	ECK2756	cas3	CRISPR-associated endonuclease/helicase Cas3 // YgcB // Cas3

@@ -1,0 +1,1 @@
+b2352	ECK2346	yfdI	CPS-53 (KpLE1) prophage; serotype-specific glucosyl transferase YfdI // GtrS // YfdI // GtrIV // GtrIV<sub>EC</sub>

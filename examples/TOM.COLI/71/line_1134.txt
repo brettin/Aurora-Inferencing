@@ -1,0 +1,1 @@
+b0901	ECK0892	ycaK	putative oxidoreductase YcaK // YcaK // putative NAD(P)H-dependent oxidoreductase YcaK

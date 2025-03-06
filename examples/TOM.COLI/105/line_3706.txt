@@ -1,0 +1,1 @@
+b0043	ECK0044	fixC	putative oxidoreductase FixC // YaaS // FixC // flavoprotein (electron transport), possibly involved in anaerobic carnitine metabolism

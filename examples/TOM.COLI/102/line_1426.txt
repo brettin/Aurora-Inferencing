@@ -1,0 +1,1 @@
+b1665	ECK1661	valV	tRNA-Val(GAC) // tRNA<sup>valV</sup>

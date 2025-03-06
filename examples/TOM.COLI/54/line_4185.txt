@@ -1,0 +1,1 @@
+b1736	ECK1734	chbA	<i>N,N'</i>-diacetylchitobiose-specific PTS enzyme IIA component // CelC // EIIA<sup>chb</sup> // Enzyme IIA<sup>chb</sup> // EIII<sup>chb</sup> // Enzyme III<sup>chb</sup> // ChbA

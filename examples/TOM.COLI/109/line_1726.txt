@@ -1,0 +1,1 @@
+b2705	ECK2700	srlD	sorbitol-6-phosphate 2-dehydrogenase // GutD // SrlD

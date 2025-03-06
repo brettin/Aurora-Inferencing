@@ -1,0 +1,1 @@
+b1260	ECK1254	trpA	tryptophan synthase subunit &alpha; // Try // TrpA // &alpha; subunit // TSase &alpha; // A protein

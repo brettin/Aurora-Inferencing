@@ -1,0 +1,1 @@
+b0082	ECK0083	rsmH	16S rRNA m<sup>4</sup>C1402 methyltransferase // RsmH // YabC // MraW

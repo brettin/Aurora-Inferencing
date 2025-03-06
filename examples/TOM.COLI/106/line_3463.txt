@@ -1,0 +1,1 @@
+b0485	ECK0479	glsA	glutaminase 1 // GlsA // YbaS

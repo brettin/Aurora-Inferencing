@@ -1,0 +1,1 @@
+b0676	ECK0664	nagC	DNA-binding transcriptional dual regulator NagC // NagR // NagC // transcriptional repressor of nag (N-acetylglucosamine) operon // NagC

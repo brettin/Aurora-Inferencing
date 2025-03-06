@@ -1,0 +1,1 @@
+b3371	ECK3359	frlB	fructoselysine 6-phosphate deglycase // YhfN // FrlB

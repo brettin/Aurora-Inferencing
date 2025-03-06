@@ -1,0 +1,1 @@
+b4174	ECK4170	hflK	regulator of FtsH protease // HslY // HflA // HflK

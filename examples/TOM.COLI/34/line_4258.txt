@@ -1,0 +1,1 @@
+b3871	ECK3864	bipA	50S ribosomal subunit assembly factor BipA // YihK // BipA // TypA // ribosome-dependent GTPase, ribosome assembly factor

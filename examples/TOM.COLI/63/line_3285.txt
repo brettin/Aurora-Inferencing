@@ -1,0 +1,1 @@
+b4259	ECK4252	holC	DNA polymerase III subunit &chi; // HolC

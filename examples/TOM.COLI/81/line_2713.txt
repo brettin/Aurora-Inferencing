@@ -1,0 +1,1 @@
+b0149	ECK0148	mrcB	PBP1B&gamma; // PonB // PbpF // MrcB // penicillin binding protein 1B&gamma; // peptidoglycan glycosyltransferase / peptidoglycan DD-transpeptidase MrcB // PBP1B // PBP1Bs // PBP1B&alpha; // penicillin binding protein 1B // penicillin binding protein 1B&alpha;

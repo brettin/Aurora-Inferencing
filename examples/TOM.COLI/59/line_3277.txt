@@ -1,0 +1,1 @@
+b0148	ECK0147	hrpB	RNA-dependent NTPase HrpB // YadO // HrpB // putative ATP-dependent RNA helicase HrpB

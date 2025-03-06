@@ -1,0 +1,1 @@
+b1663	ECK1659	mdtK	multidrug efflux pump MdtK // NorM // MdtK // YdhE // NorE

@@ -1,0 +1,1 @@
+b3224	ECK3213	nanT	<i>N</i>-acetylneuraminate:H<sup>+</sup> symporter // NanT // sialic acid transporter NanT

@@ -1,0 +1,1 @@
+b3730	ECK3723	glmU	fused N-acetylglucosamine-1-phosphate uridyltransferase and glucosamine-1-phosphate acetyltransferase // YieA // GlmU

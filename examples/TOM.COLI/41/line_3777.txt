@@ -1,0 +1,1 @@
+b0221	ECK0222	fadE	acyl-CoA dehydrogenase // FadE // YafH

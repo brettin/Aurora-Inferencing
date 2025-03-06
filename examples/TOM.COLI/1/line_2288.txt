@@ -1,0 +1,1 @@
+b3259	ECK3246	prmA	ribosomal protein L11 methyltransferase // YhdI // PrmA // methylase for 50S ribosomal subunit protein L11 // methyltransferase of 50S ribosomal subunit protein L11 // methyltransferase for 50S ribosomal subunit protein L11

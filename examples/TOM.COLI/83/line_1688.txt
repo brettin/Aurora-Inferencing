@@ -1,0 +1,1 @@
+b1680	ECK1676	sufS	L-cysteine desulfurase // CsdB // YnhB // SufS

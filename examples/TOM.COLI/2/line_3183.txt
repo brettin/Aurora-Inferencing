@@ -1,0 +1,1 @@
+b2652	ECK2648	ileY	tRNA-Ile(CAU) // tRNA<sup>ileY</sup>

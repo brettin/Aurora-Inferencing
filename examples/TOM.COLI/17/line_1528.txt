@@ -1,0 +1,1 @@
+b0170	ECK0169	tsf	protein chain elongation factor EF-Ts // Tsf // EF1B

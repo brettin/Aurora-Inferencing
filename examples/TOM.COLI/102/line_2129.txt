@@ -1,0 +1,1 @@
+b1350	ECK1347	recE	Rac prophage; exonuclease VIII, ds DNA exonuclease, 5' --> 3' specific // RmuB // Rac // SbcA // RecE // RecE

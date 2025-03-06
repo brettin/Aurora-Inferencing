@@ -1,0 +1,1 @@
+b0169	ECK0168	rpsB	30S ribosomal subunit protein S2 // RpsB

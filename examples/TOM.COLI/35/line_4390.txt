@@ -1,0 +1,1 @@
+b2692	ECK2687	argZ	tRNA-Arg(ACG) // tRNA<sup>argZ</sup>

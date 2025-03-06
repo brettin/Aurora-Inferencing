@@ -1,0 +1,1 @@
+b2742	ECK2737	nlpD	murein hydrolase activator NlpD // NlpD // NlpD divisome associated factor, activates peptidoglycan hydrolase

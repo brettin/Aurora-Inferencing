@@ -1,0 +1,1 @@
+b2933	ECK2928	cmtA	mannitol-specific PTS enzyme IICB component CmtA // EIICB<sup>Cmt</sup> // Enzyme IICB<sup>Cmt</sup> // CmtA

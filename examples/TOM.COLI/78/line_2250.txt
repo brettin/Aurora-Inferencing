@@ -1,0 +1,1 @@
+b3728	ECK3721	pstS	phosphate ABC transporter periplasmic binding protein // PhoS // NmpA // PiBP // PstS

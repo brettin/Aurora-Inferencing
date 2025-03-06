@@ -1,0 +1,1 @@
+b2607	ECK2604	trmD	tRNA m<sup>1</sup>G37 methyltransferase // TrmD

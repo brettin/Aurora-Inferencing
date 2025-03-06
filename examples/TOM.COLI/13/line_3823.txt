@@ -1,0 +1,1 @@
+b0156	ECK0155	erpA	iron-sulfur cluster insertion protein ErpA // YadR // ErpA // essential respiratory protein A

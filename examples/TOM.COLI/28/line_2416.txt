@@ -1,0 +1,1 @@
+b0932	ECK0923	pepN	aminopeptidase N // PepN // &alpha;-aminoacylpeptide hydrolase

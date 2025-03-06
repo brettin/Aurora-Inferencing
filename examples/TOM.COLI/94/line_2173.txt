@@ -1,0 +1,1 @@
+b0059	ECK0060	rapA	RNA polymerase-binding ATPase and RNAP recycling factor // YabA // RapA // HepA // RNA polymerase (RNAP)-binding ATPase and RNAP recycling factor

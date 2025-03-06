@@ -1,0 +1,1 @@
+b2483	ECK2479	hyfC	hydrogenase 4 component C // HyfC

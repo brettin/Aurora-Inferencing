@@ -1,0 +1,1 @@
+b0827	ECK0817	moeA	molybdopterin molybdotransferase // NarE // ChlE // BisB // MoeA

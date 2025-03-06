@@ -1,0 +1,1 @@
+b2396	ECK2390	alaX	tRNA-Ala(GGC) // tRNA<sup>alaX</sup>

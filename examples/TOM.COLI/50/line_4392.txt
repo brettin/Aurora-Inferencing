@@ -1,0 +1,1 @@
+b3796	ECK3789	argX	tRNA-Arg(CCG) // tRNA<sup>argX</sup>

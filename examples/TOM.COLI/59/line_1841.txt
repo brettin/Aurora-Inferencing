@@ -1,0 +1,1 @@
+b2917	ECK2913	scpA	methylmalonyl-CoA mutase // YliK // Sbm // ScpA

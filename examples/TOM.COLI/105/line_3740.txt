@@ -1,0 +1,1 @@
+b0592	ECK0585	fepB	ferric enterobactin ABC transporter periplasmic binding protein // FepB

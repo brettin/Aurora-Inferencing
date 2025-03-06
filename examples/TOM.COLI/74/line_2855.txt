@@ -1,0 +1,1 @@
+b2075	ECK2071	mdtB	multidrug efflux pump RND permease subunit MdtB // YegN // MdtB

@@ -1,0 +1,1 @@
+b0110	ECK0109	ampD	1,6-anhydro-<i>N</i>-acetylmuramoyl-L-alanine amidase // AmpD

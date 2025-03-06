@@ -1,0 +1,1 @@
+b2134	ECK2127	pbpG	peptidoglycan DD-endopeptidase PbpG // YohB // PbpG // PBP7 // PBP8 // penicillin-binding protein 7

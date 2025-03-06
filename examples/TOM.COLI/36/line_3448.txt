@@ -1,0 +1,1 @@
+b2590	ECK2588	gltW	tRNA-Glu(UUC) // tRNA<sup>gltW</sup>

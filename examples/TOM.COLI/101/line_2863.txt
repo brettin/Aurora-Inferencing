@@ -1,0 +1,1 @@
+b4346	ECK4336	mcrB	McrB<sub>S</sub> // RglB // McrB // Type IV methyl-directed restriction enzyme EcoKMcrB subunit // MrcB subunit of 5-methylcytosine restriction system // McrB<sub>L</sub> // 5-methylcytosine-specific restriction enzyme subunit McrB

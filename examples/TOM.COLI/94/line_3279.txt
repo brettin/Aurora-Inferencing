@@ -1,0 +1,1 @@
+b0125	ECK0124	hpt	hypoxanthine phosphoribosyltransferase // Hpt

@@ -1,0 +1,1 @@
+b4475	ECK3406	rtcA	RNA 3'-terminal phosphate cyclase // YhgK // YhgJ // RtcA

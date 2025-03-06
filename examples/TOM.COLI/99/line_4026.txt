@@ -1,0 +1,1 @@
+b3110	ECK3100	cyuP	L-cysteine importer // CyuP // DlsT // YhaO

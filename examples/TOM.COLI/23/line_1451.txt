@@ -1,0 +1,1 @@
+b2497	ECK2493	uraA	uracil:H<sup>+</sup> symporter UraA // UraA // uracil NCS2 transporter

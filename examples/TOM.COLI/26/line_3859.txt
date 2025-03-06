@@ -1,0 +1,1 @@
+b2269	ECK2263	elaD	protease ElaD // ElaD // deubiquitinase

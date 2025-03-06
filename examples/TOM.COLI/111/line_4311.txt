@@ -1,0 +1,1 @@
+b1412	ECK1405	azoR	FMN dependent NADH:quinone oxidoreductase // AzoR // AcpD // FMN dependent azoreductase

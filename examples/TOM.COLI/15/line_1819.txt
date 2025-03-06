@@ -1,0 +1,1 @@
+b3300	ECK3287	secY	Sec translocon subunit SecY // SecY // PrlA

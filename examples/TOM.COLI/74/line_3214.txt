@@ -1,0 +1,1 @@
+b2712	ECK2707	hypF	carbamoyl--[HypE] ligase // HydA // HypF // hydrogenase maturation protein // carbamoyltransferase HypF

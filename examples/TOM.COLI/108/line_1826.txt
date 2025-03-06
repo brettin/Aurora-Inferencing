@@ -1,0 +1,1 @@
+b0098	ECK0099	secA	protein translocation ATPase // Pea // Azi // PrlD // SecA

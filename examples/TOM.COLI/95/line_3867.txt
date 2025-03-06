@@ -1,0 +1,1 @@
+b0289	ECK0288	ecpE	putative fimbrial chaperone EcpE // MatF // YagV // EcpE // <i>E. coli</i> common pilus chaperone

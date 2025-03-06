@@ -1,0 +1,1 @@
+b0239	ECK0240	frsA	fermentation-respiration switch protein // YafA // FrsA

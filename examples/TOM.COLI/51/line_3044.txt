@@ -1,0 +1,1 @@
+b3909	ECK3902	kdgT	2-dehydro-3-deoxy-D-gluconate:H<sup>+</sup> symporter // KdgT

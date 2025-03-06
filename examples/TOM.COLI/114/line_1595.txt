@@ -1,0 +1,1 @@
+b2474	ECK2470	tmcA	tRNA<sup>Met</sup> cytidine acetyltransferase // YpfI // TmcA

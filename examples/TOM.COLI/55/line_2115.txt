@@ -1,0 +1,1 @@
+b3778	ECK3770	rep	ATP-dependent DNA helicase Rep // MmrA // MbrA // DasC // Rep // Rep helicase, a single-stranded DNA-dependent ATPase

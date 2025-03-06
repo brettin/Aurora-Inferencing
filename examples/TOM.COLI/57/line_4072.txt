@@ -1,0 +1,1 @@
+b0570	ECK0562	cusS	CusS-<i>N</i>-phospho-L-histidine // AgrS // YbcZ // CusS // CusS-P<SUP>his271</SUP> // sensor histidine kinase CusS

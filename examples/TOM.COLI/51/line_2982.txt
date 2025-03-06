@@ -1,0 +1,1 @@
+b4043	ECK4035	lexA	DNA-binding transcriptional repressor LexA // Tsl // Spr // UmuA // ExrA // LexA // LexA

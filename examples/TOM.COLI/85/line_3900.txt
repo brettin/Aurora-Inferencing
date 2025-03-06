@@ -1,0 +1,1 @@
+b3860	ECK3852	dsbA	thiol:disulfide oxidoreductase - DsbA<sub>oxidized</sub> // PpfA // IarA // Dsf // DsbA // DsbA<sub>oxidized</sub> // thiol:disulfide oxidoreductase DsbA // DsbA<sub>reduced</sub> // thiol:disulfide oxidoreductase - DsbA<sub>reduced</sub> // protein disulfide oxidoreductase DsbA

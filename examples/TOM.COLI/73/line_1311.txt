@@ -1,0 +1,1 @@
+b0210	ECK0210	yafE	putative S-adenosylmethionine-dependent methyltransferase // YafE

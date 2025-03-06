@@ -1,0 +1,1 @@
+b1165	ECK1152	ymgA	putative two-component system connector protein YmgA // YmgA // protein involved in biofilm formation

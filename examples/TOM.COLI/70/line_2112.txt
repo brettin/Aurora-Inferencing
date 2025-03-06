@@ -1,0 +1,1 @@
+b2039	ECK2033	rfbA	glucose-1-phosphate thymidylyltransferase 1 // Som // RfbA // RmlA // dTDP-glucose pyrophosphorylase

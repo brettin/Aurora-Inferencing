@@ -1,0 +1,1 @@
+b1479	ECK1473	maeA	malate dehydrogenase (oxaloacetate-decarboxylating) // MaeA // SfcA // malate dehydrogenase, NAD-requiring // NAD<sup>+</sup>-dependent malate dehydrogenase // NAD<sup>+</sup>-dependent malic enzyme

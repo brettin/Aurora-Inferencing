@@ -1,0 +1,1 @@
+b0213	ECK0213	yafS	putative S-adenosyl-L-methionine-dependent methyltransferase // YafS

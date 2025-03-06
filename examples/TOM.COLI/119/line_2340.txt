@@ -1,0 +1,1 @@
+b1602	ECK1597	pntB	pyridine nucleotide transhydrogenase subunit &beta; // PntB

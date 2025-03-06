@@ -1,0 +1,1 @@
+b3924	ECK3916	fpr	flavodoxin/ferredoxin-NADP<sup>+</sup> reductase // FlxR // MvrA // Fpr // dA1

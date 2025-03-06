@@ -1,0 +1,1 @@
+b4235	ECK4230	tldE	metalloprotease subunit TldE // Mcb // TldE // PmbA // protease involved in Microcin B17 maturation and in sensitivity to the DNA gyrase inhibitor LetD

@@ -1,0 +1,1 @@
+b2429	ECK2424	murP	N-acetylmuramic acid-specific PTS enzyme IICB component / anhydro-N-acetylmuramic acid transporter // MurP // YfeV // EIIBC<sup>NAcMur</sup> // Enzyme IIBC<sup>NAcMur</sup> // MurP

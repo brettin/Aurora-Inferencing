@@ -1,0 +1,1 @@
+b2910	ECK2905	zapA	cell division protein ZapA // ZapA // YgfE // cell division factor ZapA, localizes to the cytokinetic ring

@@ -1,0 +1,1 @@
+b0595	ECK0588	entB	<i>holo</i> EntB // enterobactin synthase component B // EntB // EntG

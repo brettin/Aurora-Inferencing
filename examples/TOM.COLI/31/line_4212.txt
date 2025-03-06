@@ -1,0 +1,1 @@
+b1000	ECK0991	cbpA	curved DNA-binding protein // CbpA // co-chaperone CbpA

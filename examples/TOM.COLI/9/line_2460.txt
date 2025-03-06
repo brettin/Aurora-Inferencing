@@ -1,0 +1,1 @@
+b0134	ECK0133	panB	3-methyl-2-oxobutanoate hydroxymethyltransferase // PanB

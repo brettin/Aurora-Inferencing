@@ -1,0 +1,1 @@
+b0536	ECK0529	argU	tRNA-Arg(UCU) // tRNA<sup>argU</sup>

@@ -1,0 +1,1 @@
+b4160	ECK4156	psd	phosphatidylserine decarboxylase proenzyme // Psd // phosphatidylserine decarboxylase, &pi; subunit // phosphatidylserine decarboxylase, &beta; chain // Psd&beta; // phosphatidylserine decarboxylase, &alpha; chain // Psd&alpha;

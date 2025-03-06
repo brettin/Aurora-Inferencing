@@ -1,0 +1,1 @@
+b1487	ECK1481	ddpA	putative D,D-dipeptide ABC transporter periplasmic binding protein // DdpA // YddS

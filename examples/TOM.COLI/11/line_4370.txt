@@ -1,0 +1,1 @@
+b0112	ECK0111	aroP	aromatic amino acid:H<sup>+</sup> symporter AroP // AroR // AroP // AroP  phenylalanine/tyrosine/tryptophan APC transporter

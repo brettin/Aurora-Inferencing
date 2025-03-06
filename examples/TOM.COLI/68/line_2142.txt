@@ -1,0 +1,1 @@
+b0196	ECK0196	rcsF	sensor lipoprotein RcsF // RcsF

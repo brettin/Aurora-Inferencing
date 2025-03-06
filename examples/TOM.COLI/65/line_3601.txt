@@ -1,0 +1,1 @@
+b0084	ECK0085	ftsI	peptidoglycan DD-transpeptidase FtsI // Sep // PbpB // FtsI // PBP3 // essential cell division protein FtsI // penicillin-binding protein 3

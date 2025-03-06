@@ -1,0 +1,1 @@
+b0650	ECK0643	hscC	chaperone protein HscC // YbeW // HscC // Hsc62 // Hsc62, Hsp70 family chaperone, binds to RpoD and inhibits transcription

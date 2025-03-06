@@ -1,0 +1,1 @@
+b3783	ECK3775	rho	transcription termination factor Rho // RnsC // Tsu // Sun // NusD // Psu // SbaA // PsuA // NitA // Rho // transcription termination factor Rho;  polarity suppressor

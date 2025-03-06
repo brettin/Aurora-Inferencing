@@ -1,0 +1,1 @@
+b2841	ECK2839	araE	arabinose:H<sup>+</sup> symporter // AraE // arabinose MFS transporter

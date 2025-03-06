@@ -1,0 +1,1 @@
+b2441	ECK2436	eutB	ethanolamine ammonia-lyase subunit &alpha; // EutB

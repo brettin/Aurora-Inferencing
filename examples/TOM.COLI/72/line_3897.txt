@@ -1,0 +1,1 @@
+b4136	ECK4130	dsbD	thiol-disulfide exchange protein DsbD<sub>oxidized</sub> // DsbD<sub>oxidized</sub> // thiol-disulfide exchange protein DsbD // HtrI // DipZ // CycZ // DsbD // thiol:disulfide exchange protein DsbD<sub>reduced</sub> // inner membrane copper tolerance protein

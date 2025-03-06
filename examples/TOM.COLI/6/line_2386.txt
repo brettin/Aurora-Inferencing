@@ -1,0 +1,1 @@
+b4134	ECK4128	pheU	tRNA-Phe(GAA) // tRNA<sup>pheU</sup>

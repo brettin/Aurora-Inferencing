@@ -1,0 +1,1 @@
+b0401	ECK0395	brnQ	branched chain amino acid transporter BrnQ // HrbA // LIV-II // BrnQ // BrnQ branched chain amino acid LIVCS transporter

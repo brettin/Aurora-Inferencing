@@ -1,0 +1,1 @@
+b1095	ECK1081	fabF	3-oxoacyl-[acyl carrier protein] synthase 2 // Vtr // Cvc // VtrB // FabJ // FabF // &beta;-ketoacyl-ACP synthase II // &beta;-ketoacyl-[acyl carrier protein] synthase II

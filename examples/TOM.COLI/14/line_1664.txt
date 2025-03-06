@@ -1,0 +1,1 @@
+b4483	ECK3833	tatD	3' &rarr; 5' ssDNA/RNA  exonuclease TatD // YigX // YigW // MttC // TatD // ExoXI // exonuclease XI

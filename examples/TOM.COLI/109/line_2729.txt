@@ -1,0 +1,1 @@
+b0009	ECK0009	mog	molybdopterin adenylyltransferase // YaaG // MogA // ChlG // BisD // Mog

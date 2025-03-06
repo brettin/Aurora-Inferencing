@@ -1,0 +1,1 @@
+b0083	ECK0084	ftsL	cell division protein FtsL // YabD // MraR // FtsL // essential cell division protein FtsL

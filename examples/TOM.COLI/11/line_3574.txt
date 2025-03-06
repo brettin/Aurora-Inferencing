@@ -1,0 +1,1 @@
+b2661	ECK2655	gabD	succinate-semialdehyde dehydrogenase (NADP<sup>+</sup>) GabD // GabD // NADP<sup>+</sup>-dependent succinate-semialdehyde dehydrogenase

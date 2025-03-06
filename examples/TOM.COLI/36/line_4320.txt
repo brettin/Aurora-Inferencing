@@ -1,0 +1,1 @@
+b3738	ECK3731	atpB	ATP synthase F<sub>o</sub> complex subunit a // UncB // PapD // AtpB // protein 6 // chain A // ATP synthase F<sub>o</sub> complex - a subunit

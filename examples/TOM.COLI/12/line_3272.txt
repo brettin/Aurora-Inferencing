@@ -1,0 +1,1 @@
+b4350	ECK4340	hsdR	type I restriction enzyme EcoKI endonuclease subunit // Hsr // Hsp // HsdR // type I restriction enzyme EcoKI R protein // host restriction endonuclease R

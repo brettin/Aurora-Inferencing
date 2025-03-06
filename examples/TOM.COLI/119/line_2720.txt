@@ -1,0 +1,1 @@
+b2684	ECK2678	mprA	DNA-binding transcriptional regulator MprA // MprA // EmrR // MprA

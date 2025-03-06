@@ -1,0 +1,1 @@
+b1127	ECK1113	pepT	peptidase T // PepT

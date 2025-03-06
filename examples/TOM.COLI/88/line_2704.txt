@@ -1,0 +1,1 @@
+b0465	ECK0459	mscK	potassium dependent, small conductance mechanosensitive channel // KefA // MscK // AefA

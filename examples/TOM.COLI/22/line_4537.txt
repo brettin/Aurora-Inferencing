@@ -1,0 +1,1 @@
+b0114	ECK0113	aceE	pyruvate dehydrogenase E1 component // AceE // subunit of E1p component of pyruvate dehydrogenase complex

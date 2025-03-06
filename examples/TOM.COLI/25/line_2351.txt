@@ -1,0 +1,1 @@
+b4041	ECK4033	plsB	glycerol-3-phosphate 1-<i>O</i>-acyltransferase // <i>sn</i>-glycerol-3-phosphate acyltransferase // GPAT // glycerolphosphate acyltransferase // glycerol-3-phosphate <i>O</i>-acyltransferase // PlsB

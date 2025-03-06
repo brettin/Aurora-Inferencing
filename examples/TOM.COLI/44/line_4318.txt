@@ -1,0 +1,1 @@
+b3732	ECK3725	atpD	ATP synthase F<sub>1</sub> complex subunit &beta; // UncD // PapB // AtpD // ATP synthase F<sub>1</sub> complex - beta subunit

@@ -1,0 +1,1 @@
+b1224	ECK1218	narG	nitrate reductase A subunit &alpha; // ChlC // NarC // NarG

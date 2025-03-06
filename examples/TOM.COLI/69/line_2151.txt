@@ -1,0 +1,1 @@
+b0301	ECK0301	rclC	DUF417 domain-containing inner membrane protein RclC // RclC // YkgB // reactive chlorine species resistance protein C

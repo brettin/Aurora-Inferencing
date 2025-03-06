@@ -1,0 +1,1 @@
+b2306	ECK2300	hisP	lysine/arginine/ornithine ABC transporter / histidine ABC transporter, ATP binding subunit // HisP

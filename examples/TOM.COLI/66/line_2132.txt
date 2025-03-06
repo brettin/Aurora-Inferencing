@@ -1,0 +1,1 @@
+b2820	ECK2816	recB	exodeoxyribonuclease V subunit RecB // Ior // RorA // RecB

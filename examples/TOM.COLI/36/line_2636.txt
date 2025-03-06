@@ -1,0 +1,1 @@
+b2207	ECK2199	napD	NapA signal peptide-binding chaperone NapD // YojF // NapD // signal peptide-binding chaperone for NapA

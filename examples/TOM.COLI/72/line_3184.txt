@@ -1,0 +1,1 @@
+b3069	ECK3059	ileX	tRNA-Ile(CAU) // tRNA(2Ile) // tRNA(minorIle) // tRNA<sup>ileX</sup>

@@ -1,0 +1,1 @@
+b0729	ECK0717	sucD	succinyl-CoA synthetase subunit &alpha; // SucD // &alpha; subunit

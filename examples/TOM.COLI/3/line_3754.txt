@@ -1,0 +1,1 @@
+b2525	ECK2522	fdx	oxidized ferredoxin // Fdx // reduced ferredoxin

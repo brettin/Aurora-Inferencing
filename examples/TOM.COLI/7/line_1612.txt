@@ -1,0 +1,1 @@
+b3795	ECK3788	thrP	threonine/serine:H<sup>+</sup> symporter ThrP // ThrP // YifK

@@ -1,0 +1,1 @@
+b0659	ECK0651	ybeY	endoribonuclease YbeY // YbeY // endoribonuclease involved in maturation of 16S rRNA and ribosome quality control

@@ -1,0 +1,1 @@
+b0666	ECK0657	metU	tRNA-Met(CAU) // tRNA<sup>metU</sup>

@@ -1,0 +1,1 @@
+b3736	ECK3729	atpF	ATP synthase F<sub>o</sub> complex subunit b // UncF // PapF // AtpF // B chain // ATP synthase F<sub>o</sub> complex - b subunit

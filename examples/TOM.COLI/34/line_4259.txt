@@ -1,0 +1,1 @@
+b3827	ECK3821	bioP	biotin transporter // BioP // BirB // YigM

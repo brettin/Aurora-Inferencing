@@ -1,0 +1,1 @@
+b0400	ECK0394	phoR	sensor histidine kinase PhoR // NmpB // PhoR

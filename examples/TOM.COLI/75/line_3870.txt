@@ -1,0 +1,1 @@
+b0292	ECK0291	ecpB	putative fimbrial chaperone EcpB // EcpB // YagY // MatC // <i>E. coli</i> common pilus chaperone

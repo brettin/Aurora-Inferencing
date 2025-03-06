@@ -1,0 +1,1 @@
+b1221	ECK1215	narL	DNA-binding transcriptional dual regulator NarL-phosphorylated // NarR // FrdR // NarL // NarL-P<sup>asp59</sup> // NarL response regulator - phosphorylated // DNA-binding transcriptional dual regulator NarL // nitrate/nitrite response regulator NarL

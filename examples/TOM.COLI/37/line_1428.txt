@@ -1,0 +1,1 @@
+b0744	ECK0733	valT	tRNA-Val(UAC) // tRNA<sup>valT</sup>

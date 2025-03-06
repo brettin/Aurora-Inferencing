@@ -1,0 +1,1 @@
+b0431	ECK0425	cyoB	cytochrome <i>bo</i><sub>3</sub> subunit 1 // CyoB // cytochrome <i>bo</i><sub>3</sub> terminal oxidase subunit I // cytochrome <i>o</i> ubiquinol oxidase subunit I // cytochrome <i>bo</i><sub>3</sub> ubiquinol oxidase subunit I

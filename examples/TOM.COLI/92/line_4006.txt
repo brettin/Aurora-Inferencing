@@ -1,0 +1,1 @@
+b3528	ECK3513	dctA	C4 dicarboxylate/orotate:H<sup>+</sup> symporter // DctA // SBP2 // DctA DAACS transporter

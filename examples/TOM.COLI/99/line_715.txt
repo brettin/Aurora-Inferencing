@@ -1,0 +1,1 @@
+b2603	ECK2600	yfiR	DUF4154 domain-containing protein YfiR // YfiR // putative periplasmic protein involved in swarming motility

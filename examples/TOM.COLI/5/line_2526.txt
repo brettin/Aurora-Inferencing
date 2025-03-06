@@ -1,0 +1,1 @@
+b2964	ECK2959	nupG	nucleoside:H<sup>+</sup> symporter NupG // Gru // NupG

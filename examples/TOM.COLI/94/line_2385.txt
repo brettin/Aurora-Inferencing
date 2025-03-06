@@ -1,0 +1,1 @@
+b2967	ECK2962	pheV	tRNA-Phe(GAA) // tRNA<sup>pheV</sup>

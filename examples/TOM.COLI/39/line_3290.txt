@@ -1,0 +1,1 @@
+b4412	ECK0017	hokC	protein HokC // Gef // HokC // HokC, Gef toxin; interferes with membrane function when in excess

@@ -1,0 +1,1 @@
+b0178	ECK0177	skp	periplasmic chaperone Skp // FirA // Skp // OmpH // HlpA // HLP-I

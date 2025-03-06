@@ -1,0 +1,1 @@
+b0186	ECK0185	ldcC	lysine decarboxylase 2 // LdcC // Ldc // LdcH // lysine decarboxylase, constitutive

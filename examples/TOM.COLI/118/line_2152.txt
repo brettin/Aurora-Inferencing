@@ -1,0 +1,1 @@
+b0303	ECK0302	rclB	DUF1471 domain-containing protein RclB // RclB // YkgI // putative protein, hypochlorite stress response

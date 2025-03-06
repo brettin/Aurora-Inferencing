@@ -1,0 +1,1 @@
+b1092	ECK1078	fabD	[acyl-carrier-protein] <i>S</i>-malonyltransferase // TfpA // FabD

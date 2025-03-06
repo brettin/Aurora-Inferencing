@@ -1,0 +1,1 @@
+b3976	ECK3967	thrU	tRNA-Thr(UGU) // tRNA<sup>Thr4</sup>(UGU) // tRNA<sup>thrU</sup>

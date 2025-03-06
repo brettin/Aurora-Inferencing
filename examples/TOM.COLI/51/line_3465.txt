@@ -1,0 +1,1 @@
+b2556	ECK2553	glrK	GlrK-<i>N</i>-phospho-L-histidine // GlrK-P<sup>his259</sup> // phosphorylated GlrK // histidine kinase GlrK // QseE // GlrK // YfhZ // YfhK

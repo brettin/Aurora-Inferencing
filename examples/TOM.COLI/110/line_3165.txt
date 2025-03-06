@@ -1,0 +1,1 @@
+b0265	ECK0023	insA2	IS1 protein InsA // InsA2

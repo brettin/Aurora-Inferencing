@@ -1,0 +1,1 @@
+b1068	ECK1053	yceM	putative oxidoreductase YceM // YceM // MviM // putative oxidoreductase, NAD(P)-binding Rossmann-fold domain

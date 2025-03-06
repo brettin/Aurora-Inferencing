@@ -1,0 +1,1 @@
+b3440	ECK3425	yhhX	putative oxidoreductase YhhX // YhhX // putative oxidoreductase with NAD(P)-binding Rossmann-fold domain

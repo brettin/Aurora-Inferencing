@@ -1,0 +1,1 @@
+b2411	ECK2406	ligA	DNA ligase // Lop // PdeC // DnaL // LigA // Lig

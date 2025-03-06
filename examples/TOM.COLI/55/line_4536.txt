@@ -1,0 +1,1 @@
+b0115	ECK0114	aceF	dihydrolipoyl-[pyruvate dehydrogenase E2 subunit] // AceF // AceF-dihydrolipoate // <i>S</i>-acetyldihydrolipoyl-[pyruvate dehydrogenase E2 subunit] // AceF-S-acetyldihydrolipoate // lipoyl-[pyruvate dehydrogenase E2 sbunit] // pyruvate dehydrogenase E2 subunit // dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex

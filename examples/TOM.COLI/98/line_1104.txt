@@ -1,0 +1,1 @@
+b1056	ECK1041	yceI	protein YceI // YceI

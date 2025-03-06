@@ -1,0 +1,1 @@
+b0925	ECK0916	ldtD	L,D-transpeptidase LdtD // YcbB // LdtD

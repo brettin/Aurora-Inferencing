@@ -1,0 +1,1 @@
+b2161	ECK2154	nupX	putative nucleoside transporter // NupX // YeiJ

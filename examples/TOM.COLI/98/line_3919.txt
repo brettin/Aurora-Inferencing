@@ -1,0 +1,1 @@
+b0015	ECK0015	dnaJ	chaperone protein DnaJ // GrpC // GroP // DnaJ // DnaK co-chaperone Hsp40

@@ -1,0 +1,1 @@
+b1023	ECK1013	pgaB	poly-&beta;-1,6-<i>N</i>-acetyl-D-glucosamine <i>N</i>-deacetylase and &beta;-1,6 glycoside hydrolase // YcdR // HmsF // PgaB

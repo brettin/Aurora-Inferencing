@@ -1,0 +1,1 @@
+b0211	ECK0211	mltD	membrane-bound lytic murein transglycosylase D // YafG // MltD // DniR

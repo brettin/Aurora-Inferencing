@@ -1,0 +1,1 @@
+b2829	ECK2825	ptsP	PtsP-<i>N</i>-phospho-L-histidine // phosphoenolpyruvate-protein phosphotransferase PtsP // YgdO // YgdF // PtsP // EI<sup>Ntr</sup> // EI<sup>nitrogen</sup> // enzyme I<sup>Ntr</sup>

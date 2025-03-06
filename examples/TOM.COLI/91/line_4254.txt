@@ -1,0 +1,1 @@
+b4409	ECK1620	blr	&beta;-lactam resistance protein // Blr

@@ -1,0 +1,1 @@
+b0642	ECK0635	leuS	leucine&mdash;tRNA ligase // Syl // LeuS // LeuRS

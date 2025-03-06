@@ -1,0 +1,1 @@
+b2918	ECK2914	argK	methylmalonyl-CoA mutase-interacting GTPase YgfD // YgfD // ArgK // GTPase that interacts with methylmalonyl-CoA mutase

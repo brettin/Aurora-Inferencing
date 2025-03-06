@@ -1,0 +1,1 @@
+b0145	ECK0144	dksA	RNA polymerase-binding transcription factor DksA // MsmA // DksA // DksA

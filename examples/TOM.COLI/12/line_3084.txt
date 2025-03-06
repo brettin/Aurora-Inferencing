@@ -1,0 +1,1 @@
+b0537	ECK0530	intD	DLP12 prophage; putative integrase // Int // IntD

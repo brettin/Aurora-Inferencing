@@ -1,0 +1,1 @@
+b0590	ECK0583	fepD	ferric enterobactin ABC transporter membrane subunit FebD // FepD // FepD

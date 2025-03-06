@@ -1,0 +1,1 @@
+b2078	ECK2074	baeS	BaeS-<i>N</i>-phospho-L-histidine // BaeS-P<sup>his250</sup> // phosphorylated BaeS // sensor histidine kinase BaeS // BaeS

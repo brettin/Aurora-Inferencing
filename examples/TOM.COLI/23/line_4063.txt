@@ -1,0 +1,1 @@
+b4208	ECK4204	cycA	D-serine/alanine/glycine:H<sup>+</sup>symporter // DagA // YtfD // CycA // CycA APC transporter

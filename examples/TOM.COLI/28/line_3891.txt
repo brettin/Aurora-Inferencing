@@ -1,0 +1,1 @@
+b1952	ECK1950	dsrB	protein DsrB // DsrB

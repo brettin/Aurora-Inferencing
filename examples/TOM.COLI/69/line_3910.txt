@@ -1,0 +1,1 @@
+b0224	ECK0225	dpaA	peptidoglycan <i>meso</i>-diaminopimelic acid protein amidase A // DpaA // YafK // LdtF

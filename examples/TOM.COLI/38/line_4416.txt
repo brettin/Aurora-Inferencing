@@ -1,0 +1,1 @@
+b3210	ECK3200	arcB	ArcB-<i>N</i>-phospho-L-histidine-292 // ArcB // ArcB-P<sup>his292</sup> // ArcB-phospho-L-aspartate-576 // ArcB-P<sup>asp576</sup> // ArcB-<i>N</i>-phospho-L-histidine-717 // ArcB-P<SUP>his717</SUP> // sensor histidine kinase ArcB

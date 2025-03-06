@@ -1,0 +1,1 @@
+b4077	ECK4070	gltP	glutamate/aspartate : H<sup>+</sup> symporter GltP // GltP // GltII

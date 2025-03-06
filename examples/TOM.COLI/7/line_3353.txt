@@ -1,0 +1,1 @@
+b2496	ECK2492	hda	inibitor of reinitiation of DNA replication // IdaB // Hda // YfgE // regulator of DnaA that prevents premature reinitiation of DNA replication

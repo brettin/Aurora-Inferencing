@@ -1,0 +1,1 @@
+b3076	ECK3066	ebgA	evolved &beta;-D-galactosidase subunit &alpha; // EbgA

@@ -1,0 +1,1 @@
+b2890	ECK2885	lysS	lysine&mdash;tRNA ligase // HerC // AsuD // LysS // LysRSs

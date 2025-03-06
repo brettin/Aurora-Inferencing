@@ -1,0 +1,1 @@
+b1883	ECK1884	cheB	CheB-P<SUP>asp</SUP> // CheB // protein-glutamate methylesterase-P<sup>asp</sup> // CheB-phosphate // phospho-CheB // peptidoglutaminase II // protein-glutamate methylesterase/protein glutamine deamidase // chemotaxis protein CheB

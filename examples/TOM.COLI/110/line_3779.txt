@@ -1,0 +1,1 @@
+b3846	ECK3838	fadB	multifunctional enoyl-CoA hydratase, 3-hydroxyacyl-CoA epimerase, &Delta;<sup>3</sup>-<i>cis</i>- &Delta;<sup>2</sup>-<i>trans</i>-enoyl-CoA isomerase, L-3-hydroxyacyl-CoA dehydrogenase // OldB // FadB

@@ -1,0 +1,1 @@
+b3565	ECK3554	xylA	xylose isomerase // XylA

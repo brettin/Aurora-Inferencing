@@ -1,0 +1,1 @@
+b0777	ECK0766	bioC	malonyl-acyl carrier protein methyltransferase // BioC // malonyl-[acp] methyltransferase

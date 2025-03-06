@@ -1,0 +1,1 @@
+b1975	ECK1971	serU	tRNA-Ser(CGA) // tRNA<sup>serU</sup> // tRNA<sup>Ser2</sup>

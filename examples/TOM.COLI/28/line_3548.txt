@@ -1,0 +1,1 @@
+b2094	ECK2087	gatA	galactitol-specific PTS enzyme IIA component // Enzyme IIA <sup>Gat</sup> // EIIA <sup>Gat</sup> // GatA

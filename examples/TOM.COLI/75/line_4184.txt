@@ -1,0 +1,1 @@
+b1738	ECK1736	chbB	<I>N,N'</I>-diacetylchitobiose-specific PTS enzyme IIB component // CelA // Enzyme IIB<sup>cel</sup> // EIIB<sup>cel</sup> // EII<sup>chb</sup> // Enzyme IIB<sup>chb</sup> // ChbB

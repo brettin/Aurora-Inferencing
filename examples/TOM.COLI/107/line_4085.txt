@@ -1,0 +1,1 @@
+b2696	ECK2691	csrA	carbon storage regulator // ZfiA // CsrA // pleiotropic regulatory protein for carbon source metabolism // translational dual regulator CsrA

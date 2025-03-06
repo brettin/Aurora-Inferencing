@@ -1,0 +1,1 @@
+b0127	ECK0126	yadG	putative ABC transporter ATP-binding protein YadG // YadG

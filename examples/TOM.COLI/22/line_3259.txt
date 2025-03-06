@@ -1,0 +1,1 @@
+b4000	ECK3992	hupA	DNA-binding protein HU-&alpha; // HupA // transcriptional dual regulator HU-&alpha; (HU-2)

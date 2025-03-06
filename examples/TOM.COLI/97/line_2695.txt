@@ -1,0 +1,1 @@
+b1051	ECK1037	msyB	acidic protein MsyB // MsyB // acidic protein that suppresses heat sensitivity of a <i>secY</i> mutant

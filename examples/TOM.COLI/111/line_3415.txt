@@ -1,0 +1,1 @@
+b3612	ECK3602	gpmM	2,3-bisphosphoglycerate-independent phosphoglycerate mutase // GpmI // GpmC // GpmM // YibO // PgmI

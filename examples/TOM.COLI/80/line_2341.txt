@@ -1,0 +1,1 @@
+b1603	ECK1598	pntA	pyridine nucleotide transhydrogenase subunit &alpha; // PntA

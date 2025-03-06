@@ -1,0 +1,1 @@
+b1032	ECK1018	serX	tRNA-Ser(GGA) // tRNA<sup>serX</sup> // tRNA<sup>Ser5</sup>

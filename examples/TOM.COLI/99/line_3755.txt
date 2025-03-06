@@ -1,0 +1,1 @@
+b0518	ECK0511	fdrA	putative oxamate carbamoyltransferase FdrA // YlbD // FdrA // putative acyl-CoA synthetase with NAD(P)-binding Rossmann-fold domain

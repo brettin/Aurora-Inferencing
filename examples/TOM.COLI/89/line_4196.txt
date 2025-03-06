@@ -1,0 +1,1 @@
+b0162	ECK0161	cdaR	DNA-binding transcriptional activator CdaR // SdaR // CdaR // YaeG // CdaR

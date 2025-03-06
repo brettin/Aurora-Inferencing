@@ -1,0 +1,1 @@
+b0195	ECK0195	trmO	tRNA m<sup>6</sup>t<sup>6</sup>A37 methyltransferase // TrmO // TsaA // YaeB

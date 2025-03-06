@@ -1,0 +1,1 @@
+b3035	ECK3026	tolC	outer membrane channel TolC // WeeA // Toc // RefI // MukA // MtcB // TolC

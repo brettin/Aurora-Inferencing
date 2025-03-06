@@ -1,0 +1,1 @@
+b3725	ECK3718	pstB	phosphate ABC transporter ATP binding subunit // PhoT // PstB

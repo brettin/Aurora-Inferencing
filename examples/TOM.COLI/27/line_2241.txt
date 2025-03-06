@@ -1,0 +1,1 @@
+b3947	ECK3939	ptsA	putative PTS multiphosphoryl transfer protein PtsA // FrwA // YijH // PtsA // Enzyme I<sup>Ani</sup> // TTP // triphosphoryl transfer protein

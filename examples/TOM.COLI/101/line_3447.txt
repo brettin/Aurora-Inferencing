@@ -1,0 +1,1 @@
+b2400	ECK2394	gltX	glutamate&mdash;tRNA ligase // GltM // GltX // GluRS

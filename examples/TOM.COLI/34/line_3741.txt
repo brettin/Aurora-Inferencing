@@ -1,0 +1,1 @@
+b0584	ECK0576	fepA	ferric enterobactin outer membrane transporter // Fep // Cbt // Cbr // FeuB // FepA // FepA

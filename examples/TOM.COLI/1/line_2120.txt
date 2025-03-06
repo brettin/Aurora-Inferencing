@@ -1,0 +1,1 @@
+b2698	ECK2693	recX	RecA inhibitor RecX // RecX // OraA // regulatory protein RecX; inhibitor of RecA

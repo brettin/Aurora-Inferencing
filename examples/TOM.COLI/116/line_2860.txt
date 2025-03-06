@@ -1,0 +1,1 @@
+b0842	ECK0832	mdfA	multidrug efflux pump MdfA / Na<sup>+</sup>:H<sup>+</sup> antiporter / K<sup>+</sup>:H<sup>+</sup> antiporter // CmlA // Cmr // MdfA // MdfA

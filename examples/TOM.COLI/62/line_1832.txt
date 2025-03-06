@@ -1,0 +1,1 @@
+b0722	ECK0711	sdhD	succinate:quinone oxidoreductase, membrane protein SdhD // DhsD // SdhD // CybS // small subunit of cytochrome b<sub>556</sub>

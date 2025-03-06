@@ -1,0 +1,1 @@
+b1681	ECK1677	sufD	Fe-S cluster scaffold complex subunit SufD // YnhC // SufD // SufD component of SufBCD Fe-S cluster scaffold complex

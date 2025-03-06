@@ -1,0 +1,1 @@
+b3749	ECK3743	rbsA	ribose ABC transporter ATP binding subunit // RbsP // RbsT // RbsA

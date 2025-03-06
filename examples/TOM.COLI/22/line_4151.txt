@@ -1,0 +1,1 @@
+b0881	ECK0872	clpS	specificity factor for ClpA-ClpP chaperone-protease complex // ClpS // YljA

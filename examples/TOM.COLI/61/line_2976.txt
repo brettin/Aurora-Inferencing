@@ -1,0 +1,1 @@
+b1653	ECK1649	lhr	ATP-dependent helicase Lhr // RhlF // Lhr // member of  ATP-dependent helicase superfamily II

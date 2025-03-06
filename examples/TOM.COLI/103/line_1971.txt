@@ -1,0 +1,1 @@
+b3649	ECK3639	rpoZ	RNA polymerase subunit &omega; // SpoS // RpoZ

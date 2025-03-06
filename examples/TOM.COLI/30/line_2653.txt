@@ -1,0 +1,1 @@
+b0679	ECK0667	nagE	N-acetylglucosamine-specific PTS enzyme IIABC component // PtsN // PstN // NagE

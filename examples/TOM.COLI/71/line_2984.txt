@@ -1,0 +1,1 @@
+b4270	ECK4263	leuX	tRNA-Leu(CAA) // tRNA<sup>leuX</sup>

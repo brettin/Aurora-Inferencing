@@ -1,0 +1,1 @@
+b2324	ECK2318	mnmC	fused tRNA 5-aminomethyl-2-thiouridylate methyltransferase and tRNA 5-aminomethyl-2-thiouridylate synthase // YfcK // MnmC // TrmC // fused 5-methylaminomethyl-2-thiouridine-forming methyltransferase and FAD-dependent demodification enzyme

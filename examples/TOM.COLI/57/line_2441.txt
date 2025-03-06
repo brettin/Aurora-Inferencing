@@ -1,0 +1,1 @@
+b0143	ECK0142	pcnB	poly(A) polymerase I // PcnB // PAP I

@@ -1,0 +1,1 @@
+b3935	ECK3927	priA	primosomal protein N' // SrgA // replication factor Y // PriA // PriA helicase

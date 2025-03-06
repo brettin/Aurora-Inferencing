@@ -1,0 +1,1 @@
+b0491	ECK0485	fetB	putative iron ABC exporter membrane subunit FetB // YbbM // FetB

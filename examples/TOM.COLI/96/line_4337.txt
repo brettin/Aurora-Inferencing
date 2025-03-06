@@ -1,0 +1,1 @@
+b3760	ECK3754	aspT	tRNA-Asp(GUC) // tRNA<sup>aspT</sup>

@@ -1,0 +1,1 @@
+b3255	ECK3242	accB	biotin carboxyl carrier protein // FabE // AccB // apo-[acetyl-CoA:carbon-dioxide ligase (ADP forming)] // BCCP // AccB

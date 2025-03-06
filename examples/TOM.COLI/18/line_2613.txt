@@ -1,0 +1,1 @@
+b1467	ECK1461	narY	nitrate reductase Z subunit &beta; // ChlZ // NarY

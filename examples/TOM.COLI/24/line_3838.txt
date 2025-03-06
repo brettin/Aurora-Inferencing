@@ -1,0 +1,1 @@
+b0586	ECK0579	entF	seryl-[EntF peptidyl-carrier protein] // <i>holo</i> [EntF peptidyl-carrier protein] // enterochelin synthase F // enterobactin synthetase component F // aryl carrier protein / serine activating enzyme // apo-serine activating enzyme // EntF

@@ -1,0 +1,1 @@
+b3152	ECK3140	yraR	putative nucleoside-diphosphate-sugar epimerase // YraR

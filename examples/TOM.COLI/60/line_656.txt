@@ -1,0 +1,1 @@
+b2902	ECK2897	ygfF	putative oxidoreductase YgfF // YqfD // YgfF // putative NAD(P)-binding oxidoreductase with NAD(P)-binding Rossmann-fold domain

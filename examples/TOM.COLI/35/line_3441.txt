@@ -1,0 +1,1 @@
+b2551	ECK2548	glyA	serine hydroxymethyltransferase // GlyA

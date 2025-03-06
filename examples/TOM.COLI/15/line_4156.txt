@@ -1,0 +1,1 @@
+b0155	ECK0154	clcA	chloride:H<sup>+</sup> antiporter ClcA // EriC // ClcA // YadQ // ClC-ec1

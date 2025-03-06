@@ -1,0 +1,1 @@
+b1206	ECK1194	dauA	aerobic C4-dicarboxylate transporter DauA // DauA // YchM // DauA

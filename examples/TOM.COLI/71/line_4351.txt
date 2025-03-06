@@ -1,0 +1,1 @@
+b2064	ECK2058	asmA	putative assembly protein AsmA // YegA // AsmA

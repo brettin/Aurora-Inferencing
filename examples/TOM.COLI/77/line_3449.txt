@@ -1,0 +1,1 @@
+b4008	ECK4000	gltV	tRNA-Glu(UUC) // tRNA<sup>gltV</sup>

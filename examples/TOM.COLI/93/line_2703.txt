@@ -1,0 +1,1 @@
+b3291	ECK3277	mscL	large conductance mechanosensitive channel // YhdC // MscL

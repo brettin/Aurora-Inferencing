@@ -1,0 +1,1 @@
+b4314	ECK4305	fimA	type 1 fimbriae major subunit // PilA // FimD // FimA

@@ -1,0 +1,1 @@
+b1261	ECK1255	trpB	tryptophan synthase subunit &beta; // TrpB // &beta; subunit

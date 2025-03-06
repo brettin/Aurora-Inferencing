@@ -1,0 +1,1 @@
+b2812	ECK2808	tcdA	tRNA threonylcarbamoyladenosine dehydratase // TcdA // CsdL // YgdL // CSD sulfur transfer protein

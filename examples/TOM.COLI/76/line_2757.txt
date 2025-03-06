@@ -1,0 +1,1 @@
+b0260	ECK0262	mmuP	CP4-6 prophage; <i>S</i>-methyl-L-methionine transporter // MmuP // YkfD

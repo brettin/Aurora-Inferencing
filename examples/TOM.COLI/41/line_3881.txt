@@ -1,0 +1,1 @@
+b0173	ECK0172	dxr	1-deoxy-D-xylulose 5-phosphate reductoisomerase // YaeM // IspC // Dxr

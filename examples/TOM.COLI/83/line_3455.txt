@@ -1,0 +1,1 @@
+b0653	ECK0646	gltK	glutamate/aspartate ABC transporter membrane subunit GltK // GltK

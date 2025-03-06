@@ -1,0 +1,1 @@
+b1010	ECK1001	rutC	3-aminoacrylate deaminase // YcdK // RutC // putative aminoacrylate peracid reductase RutC

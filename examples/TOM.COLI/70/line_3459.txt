@@ -1,0 +1,1 @@
+b3213	ECK3203	gltD	glutamate synthase subunit GltD // OssB // PsiQ // AspB // GltD // glutamate synthase, small subunit

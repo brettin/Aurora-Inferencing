@@ -1,0 +1,1 @@
+b3965	ECK3957	trmA	tRNA m<sup>5</sup>U54 methyltransferase // RumT // TrmA

@@ -1,0 +1,1 @@
+b0014	ECK0014	dnaK	chaperone protein DnaK // GrpC // GrpF // Seg // DnaK // Hsp70 // heat shock protein 70

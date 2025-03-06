@@ -1,0 +1,1 @@
+b0668	ECK0658	glnW	tRNA-Gln(UUG) // tRNA<sup>glnW</sup> // tRNA<sup>Gln1</sup>

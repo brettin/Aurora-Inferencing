@@ -1,0 +1,1 @@
+b4112	ECK4105	basS	BasS-<i>N</i>-phospho-L-histidine // BasS-P<sup>his152</sup> // PmrB // phosphorylated BasS // PmrB-<i>N</i>-phospho-L-histidine // sensor histidine kinase BasS // DgkR // BasS

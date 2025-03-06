@@ -1,0 +1,1 @@
+b3064	ECK3054	tsaD	N<sup>6</sup>-L-threonylcarbamoyladenine synthase, TsaD subunit // TsaD // YgjD // Gcp // tRNA adenosine(37) threonylcarbamoyltransferase complex, transferase subunit

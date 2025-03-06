@@ -1,0 +1,1 @@
+b3306	ECK3293	rpsH	30S ribosomal subunit protein S8 // RpsH

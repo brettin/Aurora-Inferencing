@@ -1,0 +1,1 @@
+b2240	ECK2232	glpT	GlpT // GlpT glycerol-3-P MFS transporter

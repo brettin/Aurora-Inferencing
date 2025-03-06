@@ -1,0 +1,1 @@
+b2760	ECK2755	casA	type I-E CRISPR system Cascade subunit CasA // YgcL // CasA // Cse1 // Cascade subunit A

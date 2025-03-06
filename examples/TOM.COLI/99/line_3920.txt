@@ -1,0 +1,1 @@
+b3066	ECK3056	dnaG	DNA primase // SdgA // ParB // DnaP // DnaG

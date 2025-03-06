@@ -1,0 +1,1 @@
+b1340	ECK1337	smrA	DNA endonuclease SmrA // SmrA // YdaL // conserved protein with endonuclease activity SmrA

@@ -1,0 +1,1 @@
+b2189	ECK2183	proL	tRNA-Pro(GGG) // tRNA<sup>proL</sup>

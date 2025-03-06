@@ -1,0 +1,1 @@
+b1060	ECK1045	bssS	regulator of biofilm formation // YceP // BssS

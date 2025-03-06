@@ -1,0 +1,1 @@
+b3323	ECK3310	gspA	type II secretion system protein GspA // YheD // GspA

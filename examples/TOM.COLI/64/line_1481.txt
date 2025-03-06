@@ -1,0 +1,1 @@
+b2028	ECK2023	ugd	UDP-glucose 6-dehydrogenase // Udg // YefA // Ugd // PmrE

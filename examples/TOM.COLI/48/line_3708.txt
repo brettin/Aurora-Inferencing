@@ -1,0 +1,1 @@
+b0041	ECK0042	fixA	putative electron transfer flavoprotein FixA // YaaQ // FixA // putative electron transfer flavoprotein subunit, ETFP adenine nucleotide-binding domain

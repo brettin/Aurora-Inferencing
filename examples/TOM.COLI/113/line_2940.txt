@@ -1,0 +1,1 @@
+b0181	ECK0180	lpxA	acyl-[acyl-carrier-protein]&mdash;UDP-<i>N</i>-acetylglucosamine <i>O</i>-acyltransferase // LpxA // UDP-N-acetylglucosamine acyltransferase

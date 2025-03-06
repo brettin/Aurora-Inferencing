@@ -1,0 +1,1 @@
+b0199	ECK0199	metN	L-methionine/D-methionine ABC transporter ATP binding subunit // MetD // Abc // MetN

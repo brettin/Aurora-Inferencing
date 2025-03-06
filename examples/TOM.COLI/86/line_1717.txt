@@ -1,0 +1,1 @@
+b4059	ECK4051	ssb	ssDNA-binding protein // LexC // ExrB // Ssb

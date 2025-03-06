@@ -1,0 +1,1 @@
+b4195	ECK4191	ulaC	L-ascorbate specific PTS enzyme IIA component // SgaA // YjfU // PtxA // EII<sup>Sga</sup> // EII<sup>Ula</sup> // Enzyme II<sup>Sga</sup> // Enzyme II<sup>Ula</sup> // UlaC

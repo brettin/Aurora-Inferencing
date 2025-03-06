@@ -1,0 +1,1 @@
+b0473	ECK0467	htpG	chaperone protein HtpG // HtpG // C62.5 // Hsp90 // heat shock protein 90

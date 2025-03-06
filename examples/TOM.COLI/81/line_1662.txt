@@ -1,0 +1,1 @@
+b0365	ECK0362	tauA	taurine ABC transporter periplasmic binding protein // YaiR // SsiA // taurine transport system periplasmic protein // Ssi1 // TauA

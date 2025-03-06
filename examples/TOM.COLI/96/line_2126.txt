@@ -1,0 +1,1 @@
+b2892	ECK2887	recJ	ssDNA-specific exonuclease RecJ // RecJ

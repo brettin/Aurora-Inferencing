@@ -1,0 +1,1 @@
+b2539	ECK2536	hcaF	putative 3-phenylpropionate/cinnamate dioxygenase subunit &beta; // HcaA // YfhV // HcaB // DigB // HcaF // HcaA2 // 3-phenylpropionate dioxygenase, small subunit // 3-phenylpropionate dioxygenase, &beta; subunit

@@ -1,0 +1,1 @@
+b3252	ECK3240	csrD	regulator of CsrB and CsrC decay // YhdA // CsrD

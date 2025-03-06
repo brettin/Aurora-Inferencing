@@ -1,0 +1,1 @@
+b3258	ECK3245	panF	PanF // PanF sodium/pantothenate SSS transporter

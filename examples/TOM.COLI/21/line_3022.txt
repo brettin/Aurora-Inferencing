@@ -1,0 +1,1 @@
+b0342	ECK0339	lacA	galactoside <i>O</i>-acetyltransferase // LacA // thiogalactoside acetyltransferase

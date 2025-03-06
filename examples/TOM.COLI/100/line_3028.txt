@@ -1,0 +1,1 @@
+b3351	ECK3339	kefG	glutathione-regulated potassium-efflux system ancillary protein KefG // KefG // YheR // protein required for KefB activity

@@ -1,0 +1,1 @@
+b3956	ECK3947	ppc	phosphoenolpyruvate carboxylase // Glu // Asp // Ppc // PEPC

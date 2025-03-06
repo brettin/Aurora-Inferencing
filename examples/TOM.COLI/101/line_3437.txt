@@ -1,0 +1,1 @@
+b2864	ECK2860	glyU	tRNA-Gly(CCC) // tRNA<sup>glyU</sup>

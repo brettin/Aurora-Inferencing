@@ -1,0 +1,1 @@
+b3277	ECK3264	ileU	tRNA-Ile(GAU) // tRNA<sup>ileU</sup>

@@ -1,0 +1,1 @@
+b2267	ECK2261	elaA	putative acetyltransferase ElaA // YfbC // ElaA

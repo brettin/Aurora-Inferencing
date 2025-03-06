@@ -1,0 +1,1 @@
+b1194	ECK1182	ycgR	flagellar brake protein YcgR // YcgR // molecular brake that regulates flagellar motility in response to c-di-GMP

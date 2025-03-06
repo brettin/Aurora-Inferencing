@@ -1,0 +1,1 @@
+		insCD4	IS2 element transposase InsAB' // InsAB'

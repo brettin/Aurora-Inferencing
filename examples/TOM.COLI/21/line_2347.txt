@@ -1,0 +1,1 @@
+b2259	ECK2253	pmrD	signal transduction protein PmrD // PmrD // polymyxin B resistance protein

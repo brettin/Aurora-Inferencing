@@ -1,0 +1,1 @@
+b0487	ECK0481	cueR	DNA-binding transcriptional dual regulator CueR // YbbI // CueR // CopR // CueR

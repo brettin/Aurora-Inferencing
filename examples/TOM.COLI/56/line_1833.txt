@@ -1,0 +1,1 @@
+b0721	ECK0710	sdhC	succinate:quinone oxidoreductase, membrane protein SdhC // DhsC // CybA // SdhC // large subunit of cytochrome b<sub>556</sub> // CybL

@@ -1,0 +1,1 @@
+b0099	ECK0100	mutT	8-oxo-dGTP diphosphatase // NudA // MutT

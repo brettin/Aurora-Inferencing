@@ -1,0 +1,1 @@
+b0971	ECK0962	serT	tRNA-Ser(UGA) // tRNA<sup>serT</sup> // tRNA<sup>Ser1</sup>

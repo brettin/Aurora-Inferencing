@@ -1,0 +1,1 @@
+b0765	ECK0754	modC	molybdate ABC transporter ATP binding subunit // NarD // ChlD // ModC

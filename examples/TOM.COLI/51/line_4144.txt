@@ -1,0 +1,1 @@
+b1871	ECK1872	cmoB	tRNA U34 carboxymethyltransferase // YecP // CmoB

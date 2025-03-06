@@ -1,0 +1,1 @@
+b1101	ECK1087	ptsG	EIIBC<sup>glc</sup> - phosphorylated // glucose-specific PTS enzyme IIBC component // PtsG // Tgl // Umg // UmgC // GptA // Cat // Car // GlcA // EIIBC<sup>glc</sup> // Enzyme IIBC<sup>glc</sup> // EIIB<sup>glc</sup> // Enzyme IIB<sup>glc</sup>

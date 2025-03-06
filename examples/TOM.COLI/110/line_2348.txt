@@ -1,0 +1,1 @@
+b3059	ECK3049	plsY	putative glycerol-3-phosphate acyltransferase // PlsY // YgiH // conserved inner membrane protein YgiH

@@ -1,0 +1,1 @@
+b0185	ECK0184	accA	acetyl-CoA carboxyltransferase subunit &alpha; // AccA

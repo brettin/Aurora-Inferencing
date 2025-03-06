@@ -1,0 +1,1 @@
+b0484	ECK0478	copA	soluble Cu<sup>+</sup> chaperone // YbaR // CopA // CopA(Z) // Cu<sup>+</sup> exporting P-type ATPase // AtcU

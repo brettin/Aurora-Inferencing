@@ -1,0 +1,1 @@
+b2156	ECK2149	lysP	CadR // LysP // lysine:proton symporter // lysine transporter // lysine specific permease

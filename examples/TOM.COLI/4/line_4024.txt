@@ -1,0 +1,1 @@
+b3182	ECK3171	dacB	peptidoglycan DD-endopeptidase DacB // DacB // D-alanyl-D-alanine carboxypeptidase DacB // PBP4 // penicillin-binding protein 4

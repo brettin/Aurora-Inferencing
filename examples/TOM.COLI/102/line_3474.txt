@@ -1,0 +1,1 @@
+b3426	ECK3412	glpD	aerobic glycerol 3-phosphate dehydrogenase // GlyD // GlpD

@@ -1,0 +1,1 @@
+b1960	ECK1958	vsr	DNA mismatch endonuclease Vsr // Vsr // DNA mismatch endonuclease of the very short patch (VSP) mismatch repair pathway

@@ -1,0 +1,1 @@
+b0304	ECK0303	rclA	cupric reductase RclA // RclA // YkgC // putative oxidoreductase with FAD/NAD(P)-binding domain and dimerization domain; hypochlorite stress response // putative pyridine nucleotide-disulfide oxidoreductase RclA // flavin-dependent oxidoreductase

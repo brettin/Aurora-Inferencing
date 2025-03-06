@@ -1,0 +1,1 @@
+b2521	ECK2517	sseA	3-mercaptopyruvate sulfurtransferase // MstA // SseA

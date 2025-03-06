@@ -1,0 +1,1 @@
+b2945	ECK2940	endA	DNA-specific endonuclease I // EndA

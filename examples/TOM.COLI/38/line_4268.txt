@@ -1,0 +1,1 @@
+b1112	ECK1098	bhsA	DUF1471 domain-containing multiple stress resistance outer membrane protein BhsA // ComC // YcfR // BhsA // outer membrane protein involved in copper permeability, stress resistance and biofilm formation

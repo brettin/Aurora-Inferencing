@@ -1,0 +1,1 @@
+b2370	ECK2366	evgS	EvgS-<i>N</i>-phospho-L-histidine-721 // EvgS-P<sup>his721</sup> // phosphorylated EvgS // EvgS-phospho-L-aspartate // EvgS-P<sup>asp1009</sup> // EvgS-<i>N</i>-phospho-L-histidine-1137 // EvgS-P<SUP>his1137</SUP> // sensor histidine kinase EvgS // EvgS

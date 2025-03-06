@@ -1,0 +1,1 @@
+b3978	ECK3969	glyT	tRNA-Gly(UCC) // tRNA<sup>glyT</sup>

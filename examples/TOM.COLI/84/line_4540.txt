@@ -1,0 +1,1 @@
+b2316	ECK2310	accD	acetyl-CoA carboxyltransferase subunit &beta; // Usg // DedB // AccD

@@ -1,0 +1,1 @@
+b0840	ECK0830	deoR	DNA-binding transcriptional repressor DeoR // NucR // DeoR // transcriptional repressor for deo operon, tsx, nupG // DeoR

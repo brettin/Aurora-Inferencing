@@ -1,0 +1,1 @@
+b0376	ECK0371	ampH	peptidoglycan DD-carboxypeptidase/peptidoglycan DD-endopeptidase // YaiH // AmpH // penicillin-binding protein // DD-carboxypeptidase/DD-endopeptidase AmpH

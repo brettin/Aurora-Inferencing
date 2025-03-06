@@ -1,0 +1,1 @@
+b2921	ECK2917	srsR	DNA-binding transcriptional activator YgfI // SrsR // YgfI // DhfA

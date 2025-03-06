@@ -1,0 +1,1 @@
+b2380	ECK2376	pyrS	PyrS-<i>N</i>-phospho-L-histidine // PyrS-P<sup>his371</sup> // sensor histidine kinase PyrS // YpdA // PyrS

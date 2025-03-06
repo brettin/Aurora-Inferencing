@@ -1,0 +1,1 @@
+b3907	ECK3900	rhaT	rhamnose/lyxose:H<sup>+</sup> symporter // RhaT

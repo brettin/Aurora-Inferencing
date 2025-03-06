@@ -1,0 +1,1 @@
+b1035	ECK1021	ycdY	chaperone protein YcdY // YcdY // protein involved in maturation of YcdX

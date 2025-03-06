@@ -1,0 +1,1 @@
+b2224	ECK2217	atoB	acetyl-CoA acetyltransferase // AtoB

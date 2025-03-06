@@ -1,0 +1,1 @@
+b3204	ECK3193	ptsN	PtsN-<i>N</i>-phospho-L-histidine // phosphotransferase system enzyme IIA(Ntr) // YhbI // RpoP // PtsN // EIIA<sup>Ntr</sup> // enzyme IIA<sup>Ntr</sup> // EIIA(Ntr)

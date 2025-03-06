@@ -1,0 +1,1 @@
+b1842	ECK1843	holE	DNA polymerase III subunit &theta; // HolE
