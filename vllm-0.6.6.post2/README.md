@@ -6,6 +6,10 @@ I highly recommend building the environment on a compute node as this has not be
 on a login node.
 
 ```
+# to get an interactive node. You might have to change the allocation given to the -A option.
+qsub -l select=1 -A candle_aesp_CNDA -q debug -l filesystems=flare:home -l walltime=60:00 -I
+
+cd Aurora-Inferencing/vllm-06.6.post2/
 ./install.sh
 ```
 
