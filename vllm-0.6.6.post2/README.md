@@ -2,6 +2,8 @@
 To build the conda environment, see the install.sh script. You will need to change the
 name of the conda environment. I use --prefix to name the conda environment, but using
 --name is fine too. I use --prefix so that I can control the location of the conda env.
+I highly recommend building the environment on a compute node as this has not been tested
+on a login node.
 
 ```
 ./install.sh
