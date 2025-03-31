@@ -15,4 +15,4 @@ export HF_DATASETS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
 export TRANSFORMERS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
 export HF_HOME=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
 
-export PS1="\u@\h: "
+# export PS1="\u@\h: "
