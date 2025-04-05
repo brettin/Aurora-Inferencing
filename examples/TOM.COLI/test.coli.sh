@@ -57,7 +57,7 @@ for ((d=0; d<NUM_DIRS; d+=NUM_HOSTS)); do
         host=${HOSTS[$i]}
         
         echo "Running test.coli.py with directory $dir and host $host"
-        python "$SCRIPT_DIR/test.coli.py" "$dir" "$host" &
+        python "$SCRIPT_DIR/test.coli.py" "$dir" "$host" 2>&1 > test.coli.py.log &
     done
     
     # Wait for all processes in this batch to complete
