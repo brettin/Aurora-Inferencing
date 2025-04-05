@@ -36,3 +36,9 @@ to PBS. It does not occur when running from a terminal session that was not init
 
 OSError: AF_UNIX path length cannot exceed 107 bytes: '/var/tmp/pbs.3774485.aurora-pbs-0001.hostmgmt.cm.aurora.alcf.anl.gov/ray/session_2025-03-31_17-02-50_053952_74995/sockets/plasma_store'
 
+
+qsub -l select=2 -A candle_aesp_CNDA -q debug -l filesystems=flare:home -l walltime=60:00 -I
+cd $HOME/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2
+source env.sh
+./start_all_p.sh
+
