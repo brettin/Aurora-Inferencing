@@ -1,9 +1,82 @@
+# Table of Contents
+1. [Overview](#overview)
+2. [Installation](#installation)
+3. [Running](#running)
+4. [How It Works](#how-it-works)
 
-To build the conda environment, see the install.sh script. You will need to change the
-name of the conda environment. I use --prefix to name the conda environment, but using
---name is fine too. I use --prefix so that I can control the location of the conda env.
-I highly recommend building the environment on a compute node as this has not been tested
-on a login node.
+# Overview
+
+This script is designed to run the `test.coli.py` Python script across multiple directories and hosts in a controlled, parallel manner. It ensures that only one test.coli.py process runs on each host at any given time, while maximizing throughput by processing directories in parallel batches.
+
+# Installation
+
+1. Place the script in the same directory as your `test.coli.py` file
+2. Make the script executable:
+   ```bash
+   chmod +x run_tests.sh
+   ```
+3. Ensure you have a valid hostfile in the same directory containing the list of hosts to use
+4. Verify that `test.coli.py` is executable:
+   ```bash
+   chmod +x test.coli.py
+   ```
+
+# Running
+
+1. Execute the script:
+   ```bash
+   ./run_tests.sh
+   ```
+2. When prompted, enter the number of directories to process (0 to N-1)
+3. The script will:
+   - Read the hostfile to determine available hosts
+   - Process directories in batches equal to the number of available hosts
+   - Wait for each batch to complete before starting the next batch
+   - Continue until all directories have been processed
+
+# How It Works
+
+## Setup and Initialization
+1. The script first determines its own directory location and the path to the hostfile
+2. It performs validation checks:
+   - Ensures the hostfile exists and is not empty
+   - Verifies that test.coli.py exists and is executable
+3. It prompts the user to enter the number of directories to process
+4. It reads all hostnames from the hostfile into an array
+
+## Batch Processing Logic
+The core of the script uses a nested loop structure to process directories in batches:
+
+1. **Outer Loop**: Iterates through directories in batches of NUM_HOSTS
+   ```bash
+   for ((d=0; d<NUM_DIRS; d+=NUM_HOSTS)); do
+   ```
+   This ensures we process directories in groups equal to the number of available hosts
+
+2. **Inner Loop**: For each batch, launches up to NUM_HOSTS processes
+   ```bash
+   for ((i=0; i<NUM_HOSTS && d+i<NUM_DIRS; i++)); do
+   ```
+   The condition `d+i<NUM_DIRS` prevents processing beyond the total number of directories
+
+3. **Process Launch**: For each directory-host pair:
+   - Calculates the actual directory number: `dir=$((d+i))`
+   - Selects the appropriate host: `host=${HOSTS[$i]}`
+   - Launches test.coli.py with these parameters in the background: `python "$SCRIPT_DIR/test.coli.py" "$dir" "$host" &`
+
+4. **Batch Completion**: After launching all processes in a batch:
+   ```bash
+   wait
+   ```
+   This command waits for all background processes to complete before moving to the next batch
+
+## Example Flow
+If you have 5 hosts and 12 directories:
+1. First batch: Directories 0-4 run on hosts 0-4
+2. After these complete, second batch: Directories 5-9 run on hosts 0-4
+3. After these complete, final batch: Directories 10-11 run on hosts 0-1
+
+This approach efficiently distributes the workload while ensuring no host is overloaded with multiple simultaneous processes.
 
 ```
 # to get an interactive node. You might have to change the allocation given to the -A option.
