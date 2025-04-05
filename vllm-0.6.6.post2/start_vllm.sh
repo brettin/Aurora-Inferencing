@@ -47,6 +47,5 @@ echo "$(date) TSB done starting ray on $VLLM_HOST_IP"
 echo "$(date) TSB starting vllm on host ${HOSTNAME}"
 echo "$(date) TSB writing log to $SCRIPT_DIR/${HOSTNAME}.vllm.log"
 
-python -u -m vllm.entrypoints.openai.api_server --host $(hostname) --model meta-llama/Llama-3.3-70B-Instruct --port 8000 --tensor-parallel-size 8 --device xpu --dtype float16 --trust-remote-code --max-model-len 32000
-# > ${SCRIPT_DIR}/${HOSTNAME}.vllm.log 2>&1
+python -u -m vllm.entrypoints.openai.api_server --host $(hostname) --model meta-llama/Llama-3.3-70B-Instruct --port 8000 --tensor-parallel-size 8 --device xpu --dtype float16 --trust-remote-code --max-model-len 32000 > ${SCRIPT_DIR}/${HOSTNAME}.vllm.log 2>&1
 
