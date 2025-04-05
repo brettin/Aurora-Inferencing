@@ -2,15 +2,15 @@ import sys, os
 from openai import OpenAI
 
 # Ensure that a file path is provided
-if len(sys.argv) != 2:
-    print(f"usage: {sys.argv[0]} dirname") 
+if len(sys.argv) != 3:
+    print(f"usage: {sys.argv[0]} dirname hostname")
     sys.exit(1)
 
 directory = sys.argv[1]
+host = sys.argv[2]
 
 # Model configuration
 model = "meta-llama/Llama-3.3-70B-Instruct"
-host = "localhost"
 port = "8000"
 key = "EMPTY"
 
