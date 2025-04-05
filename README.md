@@ -1,4 +1,5 @@
 # Run inferencing
 
-source env.aurora.sh
-ZE_AFFINITY_MASK="0.0" python ./test.py 
+This repo contains an example of how to launch multiple vllm servers, one per node.
+
+See the readme file in vllm-0.6.6-post2 directory.
