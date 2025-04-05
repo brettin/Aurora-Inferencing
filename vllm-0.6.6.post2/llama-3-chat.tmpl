@@ -1,0 +1,23 @@
+i{% set ns = namespace(found=false) -%}
+{% for message in messages %}
+  {% if message['role'] == 'system' %}
+    {% set ns.found = true %}
+    <|start_header_id|>system<|end_header_id|>
+    {{ message['content'].strip() }}<|eot_id|>
+  {% endif %}
+{% endfor %}
+{% if not ns.found %}
+  <|start_header_id|>system<|end_header_id|>
+  You are a helpful assistant.<|eot_id|>
+{% endif %}
+{% for message in messages %}
+  {% if message['role'] == 'user' %}
+    <|start_header_id|>user<|end_header_id|>
+    {{ message['content'].strip() }}<|eot_id|>
+  {% elif message['role'] == 'assistant' %}
+    <|start_header_id|>assistant<|end_header_id|>
+    {{ message['content'].strip() }}<|eot_id|>
+  {% endif %}
+{% endfor %}
+<|start_header_id|>assistant<|end_header_id|>
+

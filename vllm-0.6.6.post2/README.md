@@ -7,12 +7,32 @@ on a login node.
 
 ```
 # to get an interactive node. You might have to change the allocation given to the -A option.
-qsub -l select=1 -A candle_aesp_CNDA -q debug -l filesystems=flare:home -l walltime=60:00 -I
+qsub -l select=10 -A candle_aesp_CNDA -q debug-scaling -l filesystems=flare:home -l walltime=60:00 -I
 
 cd Aurora-Inferencing/vllm-06.6.post2/
 ./install.sh
 ```
 
+Running multiple servers.
+From the interactive terminal, set up the environment and then launch the vllm servers.
+
+```
+source env.sh
+./start_all_p.sh
+```
+
+I don't yet have a good way to check to see that all of the servers are running. Right now,
+I grep the log file looking for Uvicorn running
+
+```
+grep -c "Uvicorn running" start_all_p.log
+```
+
+There is an example in examples/TOM.COLI/test.coli.py
+
+
+
+Running one server.
 To start the vllm server on the compute node of an interactive job, ssh from the head
 node into your interactive node. It's important to start vllm from this new window and
 not the window that was provided by the qsub -I command. That command is doing something
@@ -35,4 +55,10 @@ This error occurs when running from the terminal session that starts when submit
 to PBS. It does not occur when running from a terminal session that was not initiated by qsub.
 
 OSError: AF_UNIX path length cannot exceed 107 bytes: '/var/tmp/pbs.3774485.aurora-pbs-0001.hostmgmt.cm.aurora.alcf.anl.gov/ray/session_2025-03-31_17-02-50_053952_74995/sockets/plasma_store'
+
+
+qsub -l select=2 -A candle_aesp_CNDA -q debug -l filesystems=flare:home -l walltime=60:00 -I
+cd $HOME/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2
+source env.sh
+./start_all_p.sh
 

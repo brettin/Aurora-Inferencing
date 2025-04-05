@@ -1,0 +1,10 @@
+module load daos/base
+
+daos container create --type POSIX ${DAOS_POOL}  ${DAOS_CONT} --properties rd_fac:1
+
+daos pool list
+daos pool query ${DAOS_POOL}
+daos cont list ${DAOS_POOL}
+daos container get-prop  $DAOS_POOL  $DAOS_CONT
+daos pool autotest $DAOS_POOL
+
