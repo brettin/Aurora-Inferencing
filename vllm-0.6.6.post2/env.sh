@@ -15,5 +15,12 @@ export NUMEXPR_MAX_THREADS=208
 export HF_DATASETS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
 export TRANSFORMERS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
 export HF_HOME=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+export RAY_TMPDIR="/tmp"
+export TMPDIR="/tmp"
+export ZE_FLAT_DEVICE_HIERARCHY=FLAT
 
-export PS1="\u@\h:$(basename $(pwd -P))> "
+export PS1="(vllm)\u@\h:$(basename $(pwd -P))> "
+
+if [ -n "$PBS_NODEFILE" ] && [ -f "$PBS_NODEFILE" ]; then
+    cp "$PBS_NODEFILE" hostfile
+fi
