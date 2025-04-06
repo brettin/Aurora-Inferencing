@@ -1,4 +1,5 @@
 import asyncio
+import os
 from openai import AsyncOpenAI
 import argparse
 parser = argparse.ArgumentParser()
@@ -8,8 +9,8 @@ parser.add_argument("--port", type=int, default=8000, help="port number, default
 parser.add_argument("--host", type=str, default="localhost", help="host name, default localhost")
 parser.add_argument("--model", type=str, default="meta-llama/Llama-3.3-70B-Instruct", help="repo/model, default meta-llama/Llama-3.3-70B-Instruct")
 parser.add_argument("--key", type=str, default="EMPTY", help="the key passed to the vllm entrypoint when it was started")
-parser.add_argument('directory', help='Directory containing gene ID files')
-parser.add_argument('--batch-size', type=int, default=1, help='Number of prompts to send in a batch (default: 1)')
+parser.add_argument("--batch_size", type=int, default=1, help='Number of prompts to send in a batch (default: 1)')
+parser.add_argument('--dir', type=str, default="0", help='Directory containing gene ID files')
 
 args = parser.parse_args()
 
@@ -17,13 +18,14 @@ print(f'using host: {args.host}')
 print(f'using port: {args.port}')
 print(f'using model: {args.model}')
 print(f'using api-key: {args.key}')
-print(f'using dir: {args.directory}')
-print(f'using batch size: {args.batch-size}')
+print(f'using dir: {args.dir}')
+print(f'using batch size: {args.batch_size}')
 
 model=args.model
 key=args.key
 host=args.host
 port=args.port
+dirname=args.dir
 base_url=f"http://{host}:{port}/v1"
 # Done dealing with command line arguments.
 
@@ -42,8 +44,10 @@ async def fetch_completion(prompt):
 async def main():
 
     # build a prompt for every file in the directory
-    for filename in os.listdir(directory):
-        file_path = os.path.join(directory, filename)
+    all_prompts = []
+    all_gene_ids = []
+    for filename in os.listdir(dirname):
+        file_path = os.path.join(dirname, filename)
         with open(file_path, "r", encoding="utf-8") as file:
             for line in file:
                 line = line.strip()
@@ -61,6 +65,7 @@ async def main():
 
                 all_prompts.append(prompt)
                 all_gene_ids.append(gene_id)
+                print(f"DEBUG: processed file {file_path}, total prompts {len(all_prompts)}")
     # done building a prompt for every file in the directory
 
     batch_size = 2  # set your desired batch size
