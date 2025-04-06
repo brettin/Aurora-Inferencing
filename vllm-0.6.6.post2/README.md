@@ -50,6 +50,7 @@ This script is designed to run the `test.coli.py` Python script across multiple 
 
    ```
    source source env.sh
+   source unset_proxy.sh
    cd ../examples/TOM.COLI
    ./test.coli.async.sh
    ```
