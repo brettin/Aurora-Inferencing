@@ -59,9 +59,9 @@ for ((d=0; d<NUM_DIRS; d+=NUM_HOSTS)); do
         dir=$((d+i))
         host=${HOSTS[$i]}
         
-	echo "python ./test.coli.async.py --port 9999 --host ${host} --key CELS --num_prompts 38 --dir ${dir} > test.coli.async.${dir}.log"
+	echo "python ./test.coli.async.py --port 8000 --host ${host} --key CELS --num_prompts 38 --dir ${dir} > test.coli.async.${dir}.log"
 
-	python ./test.coli.async.py --port 9999 --host rbdgx2 --key CELS --num_prompts 38 --dir 0 > test.coli.async.${dir}.log &
+	python ./test.coli.async.py --port 8000 --host ${host} --key CELS --num_prompts 38 --dir 0 > test.coli.async.${dir}.log &
 
     done
     
