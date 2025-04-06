@@ -19,8 +19,6 @@ export RAY_TMPDIR="/tmp"
 export TMPDIR="/tmp"
 export ZE_FLAT_DEVICE_HIERARCHY=FLAT
 
-export PS1="(vllm)\u@\h:$(basename $(pwd -P))> "
-
 if [ -n "$PBS_NODEFILE" ] && [ -f "$PBS_NODEFILE" ]; then
     cp "$PBS_NODEFILE" hostfile
 fi
