@@ -13,3 +13,25 @@ sys	0m0.188s
 real	0m25.148s
 user	0m0.648s
 sys	0m0.183s
+
+
+
+
+(/rbscratch/brettin/conda_envs/vLLM) brettin@rbdgx1:/rbscratch/brettin/Aurora-Inferencing/examples/TOM.COLI$ time ./test.coli.async.sh
+
+Script directory: /rbscratch/brettin/Aurora-Inferencing/examples/TOM.COLI
+Hostfile path: /rbscratch/brettin/Aurora-Inferencing/examples/TOM.COLI/../../vllm-0.6.6.post2/hostfile
+Enter the number of directories to process (0 to N-1): 120
+
+python ./test.coli.async.py --port 9999 --host rbdgx2 --key CELS --num_prompts 38 --dir 0 > test.coli.async.38.log
+
+...
+
+python ./test.coli.async.py --port 9999 --host rbdgx2.cels.anl.gov --key CELS --num_prompts 38 --dir 119 > test.coli.async.119.log
+Waiting for batch to complete...
+All directories have been processed
+
+real	51m55.634s
+user	1m15.424s
+sys	0m21.632s
+
