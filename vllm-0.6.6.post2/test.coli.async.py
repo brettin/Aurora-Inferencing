@@ -17,7 +17,7 @@ print(f'using host: {args.host}')
 print(f'using port: {args.port}')
 print(f'using model: {args.model}')
 print(f'using api-key: {args.key}')
-print(f'using dir: {args.directory')
+print(f'using dir: {args.directory}')
 print(f'using batch size: {args.batch-size}')
 
 model=args.model
