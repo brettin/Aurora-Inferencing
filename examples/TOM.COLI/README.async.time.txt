@@ -35,3 +35,25 @@ real	51m55.634s
 user	1m15.424s
 sys	0m21.632s
 
+
+
+
+
+
+### Time to start 20 servers
+
+-------------------
+Starting server tests...
+----------------------------------------
+Summary:
+Total hosts tested: 20
+Servers UP: 20
+Servers DOWN: 0
+----------------------------------------
+All vLLM servers are up and running
+
+aurora-pbs-0001.hostmgmt.cm.aurora.alcf.anl.gov: 
+                                                                 Req'd  Req'd   Elap
+Job ID               Username Queue    Jobname    SessID NDS TSK Memory Time  S Time
+-------------------- -------- -------- ---------- ------ --- --- ------ ----- - -----
+3905960.aurora-pbs-* brettin  debug-s* submit_al*  74281  20 41*    --  01:00 R 00:34
