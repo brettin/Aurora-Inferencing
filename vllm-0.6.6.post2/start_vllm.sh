@@ -3,8 +3,9 @@
 SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 HOSTNAME=$(hostname)
 NUM_GPUS=12
-echo "$(date) TSB script directory is: $SCRIPT_DIR"
-echo "$(date) TSB hostname: $HOSTNAME"
+echo "$(date) TSB script directory is: ${SCRIPT_DIR}"
+echo "$(date) TSB executing script: ${BASH_SOURCE[0]}"
+echo "$(date) TSB hostname: ${HOSTNAME}"
 
 export HTTP_PROXY=http://proxy.alcf.anl.gov:3128
 export HTTPS_PROXY=http://proxy.alcf.anl.gov:3128
