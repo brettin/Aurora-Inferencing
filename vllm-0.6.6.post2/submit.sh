@@ -34,11 +34,11 @@ TOTAL_HOSTS=0
 TEMP_DIR=$(mktemp -d -p $SCRIPT_DIR)
 
 # Function to start vLLM on a host
-start_vllm() {
+start_vllm_on_host() {
     local host=$1
     local log_file="$TEMP_DIR/${host}.log"
     
-    if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "cd $SCRIPT_DIR && ./start_vllm.sh" 2>&1 > "$log_file"; then
+    if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "cd $SCRIPT_DIR && ./start_vllm_on_host.sh" 2>&1 > "$log_file"; then
         echo "$(date) Successfully started vLLM on $host"
         return 0
     else
