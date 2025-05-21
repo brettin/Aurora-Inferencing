@@ -9,35 +9,21 @@
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
-# Exit on any error and enable debug output
-set -e
-set -x
-
-SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2"
-echo "$(date) Script directory: $SCRIPT_DIR"
-echo "$(date) Hostfile path: $PBS_NODEFILE"
 
 # Check if hostfile exists and has content
 if [ ! -f "$PBS_NODEFILE" ]; then
     echo "$(date) Error: hostfile not found at $PBS_NODEFILE"
     exit 1
 fi
-
-if [ ! -s "$PBS_NODEFILE" ]; then
-    echo "$(date) Error: hostfile is empty at $PBS_NODEFILE"
-    exit 1
-fi
-
-echo "$(date) Contents of hostfile:"
-cat "$PBS_NODEFILE"
-echo "$(date) -------------------"
-cat "$PBS_NODEFILE" > $SCRIPT_DIR/hostfile
-
 # Check if start_vllm.sh exists and is executable
 if [ ! -x "$SCRIPT_DIR/start_vllm.sh" ]; then
     echo "$(date) Error: start_vllm.sh not found or not executable in $SCRIPT_DIR"
     exit 1
 fi
+
+
+SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2"
+cat "$PBS_NODEFILE" > $SCRIPT_DIR/hostfile
 
 # Initialize counters
 ERROR_COUNT=0
@@ -46,19 +32,13 @@ TOTAL_HOSTS=0
 
 # Create a temporary directory for log files
 TEMP_DIR=$(mktemp -d -p $SCRIPT_DIR)
-echo "$(date) Created temporary directory: $TEMP_DIR"
 
 # Function to start vLLM on a host
 start_vllm() {
-    echo "$(date) DEBUG: Entering start_vllm function"
     local host=$1
-    echo "$(date) DEBUG: Host parameter: $host"
     local log_file="$TEMP_DIR/${host}.log"
-    echo "$(date) DEBUG: Log file: $log_file"
     
-    echo "$(date) Starting vLLM on host: $host"
-    # Run SSH command and capture its output
-    if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "cd $SCRIPT_DIR && source ./env.sh && ./start_vllm.sh" 2>&1 > "$log_file"; then
+    if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "cd $SCRIPT_DIR && ./start_vllm.sh" 2>&1 > "$log_file"; then
         echo "$(date) Successfully started vLLM on $host"
         return 0
     else
@@ -70,16 +50,14 @@ start_vllm() {
 # Initialize pids array
 declare -a pids
 
-echo "$(date) DEBUG: About to start reading hostfile"
 # Launch all hosts in parallel
 while IFS= read -r host || [ -n "$host" ]; do
-    echo "$(date) DEBUG: Read host: '$host'"
     if [ -z "$host" ]; then
-        echo "$(date) DEBUG: Skipping empty line"
         continue
     fi
     
     echo "$(date) DEBUG: Processing host: '$host'"
+    
     TOTAL_HOSTS=$((TOTAL_HOSTS + 1))
     echo "$(date) DEBUG: Calling start_vllm with host: '$host'"
     start_vllm "$host" &
