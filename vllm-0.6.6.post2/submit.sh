@@ -37,7 +37,7 @@ start_vllm_on_host() {
     local host=$1
     local log_file="$TEMP_DIR/${host}.log"
     
-    if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "cd $SCRIPT_DIR && ./start_vllm_on_host.sh" 2>&1 > "$log_file"; then
+    if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "cd $SCRIPT_DIR && ./start_vllm.sh" 2>&1 > "$log_file"; then
         echo "$(date) Successfully started vLLM on $host"
         return 0
     else
@@ -59,7 +59,7 @@ while IFS= read -r host || [ -n "$host" ]; do
     
     TOTAL_HOSTS=$((TOTAL_HOSTS + 1))
     echo "$(date) DEBUG: Calling start_vllm with host: '$host'"
-    start_vllm "$host" &
+    start_vllm_on_host "$host" &
     pid=$!
     pids+=($pid)
     echo "$(date) DEBUG: Started process with PID: $pid"
