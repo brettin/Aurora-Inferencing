@@ -2,10 +2,8 @@
 
 SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 HOSTNAME=$(hostname)
-NUM_GPUS=12
-echo "$(date) TSB script directory is: ${SCRIPT_DIR}"
-echo "$(date) TSB executing script: ${BASH_SOURCE[0]}"
-echo "$(date) TSB hostname: ${HOSTNAME}"
+echo "$(date) TSB script directory is: $SCRIPT_DIR"
+echo "$(date) TSB hostname: $HOSTNAME"
 
 export HTTP_PROXY=http://proxy.alcf.anl.gov:3128
 export HTTPS_PROXY=http://proxy.alcf.anl.gov:3128
@@ -19,6 +17,7 @@ module use /opt/aurora/24.180.3/spack/unified/0.8.0/install/modulefiles/oneapi/2
 module use /soft/preview/pe/24.347.0-RC2/modulefiles
 module add oneapi/release
 
+export tiles=12
 export ZE_FLAT_DEVICE_HIERARCHY=FLAT
 export NUMEXPR_MAX_THREADS=208
 
@@ -33,11 +32,13 @@ export VLLM_HOST_IP=$(getent hosts $(hostname).hsn.cm.aurora.alcf.anl.gov | awk 
 export RAY_ADDRESS=$VLLM_HOST_IP:6379
 
 echo "$(date) TSB starting ray on $VLLM_HOST_IP"
-ray --logging-level info  start --head --verbose --node-ip-address=$VLLM_HOST_IP --port=6379 --num-cpus=64 --num-gpus=8
+ray --logging-level info  start --head --verbose --node-ip-address=$VLLM_HOST_IP --port=6379 --num-cpus=64 --num-gpus=$tiles
 echo "$(date) TSB done starting ray on $VLLM_HOST_IP"
 
 echo "$(date) TSB starting vllm on host ${HOSTNAME}"
 echo "$(date) TSB writing log to $SCRIPT_DIR/${HOSTNAME}.vllm.log"
-vllm serve meta-llama/Llama-3.1-70B-Instruct --port 8000 --tensor-parallel-size $NUM_GPUS --device xpu --dtype float16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log 2>&1
+
+vllm serve meta-llama/Llama-3.1-70B-Instruct --port 8000 --tensor-parallel-size 8 --device xpu --dtype float16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log 2>&1
+
 # python -u -m vllm.entrypoints.openai.api_server --host $(hostname) --model meta-llama/Llama-3.3-70B-Instruct --port 8000 --tensor-parallel-size 8 --device xpu --dtype float16 --trust-remote-code --max-model-len 32000 > ${SCRIPT_DIR}/${HOSTNAME}.vllm.log 2>&1
 
