@@ -2,10 +2,10 @@
 #PBS -N submit_all_p
 #PBS -l walltime=00:60:00
 #PBS -A candle_aesp_CNDA
-#PBS -q debug
+#PBS -q debug-scaling
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=2
+#PBS -l select=10
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
