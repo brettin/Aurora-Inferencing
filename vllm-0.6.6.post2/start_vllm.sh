@@ -33,7 +33,7 @@ export VLLM_HOST_IP=$(getent hosts $(hostname).hsn.cm.aurora.alcf.anl.gov | awk 
 export RAY_ADDRESS=$VLLM_HOST_IP:6379
 
 echo "$(date) TSB starting ray on $VLLM_HOST_IP"
-ray --logging-level info  start --head --verbose --node-ip-address=$VLLM_HOST_IP --port=6379 --num-cpus=64 --num-gpus=$NUM_GPUS
+ray --logging-level info  start --head --verbose --node-ip-address=$VLLM_HOST_IP --port=6379 --num-cpus=64 --num-gpus=8
 echo "$(date) TSB done starting ray on $VLLM_HOST_IP"
 
 echo "$(date) TSB starting vllm on host ${HOSTNAME}"
