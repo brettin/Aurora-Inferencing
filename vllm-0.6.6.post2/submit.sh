@@ -5,7 +5,7 @@
 #PBS -q debug-scaling
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=20
+#PBS -l select=1
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
@@ -13,9 +13,9 @@
 set -e
 set -x
 
-echo "$(date) Script directory: $PBS_O_WORKDIR"
+SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2"
+echo "$(date) Script directory: $SCRIPT_DIR"
 echo "$(date) Hostfile path: $PBS_NODEFILE"
-cd $PBS_O_WORKDIR
 
 # Check if hostfile exists and has content
 if [ ! -f "$PBS_NODEFILE" ]; then
@@ -31,11 +31,11 @@ fi
 echo "$(date) Contents of hostfile:"
 cat "$PBS_NODEFILE"
 echo "$(date) -------------------"
-cat "$PBS_NODEFILE" > $PBS_O_WORKDIR/hostfile
+cat "$PBS_NODEFILE" > $SCRIPT_DIR/hostfile
 
 # Check if start_vllm.sh exists and is executable
-if [ ! -x "$PBS_O_WORKDIR/start_vllm.sh" ]; then
-    echo "$(date) Error: start_vllm.sh not found or not executable in $PBS_O_WORKDIR"
+if [ ! -x "$SCRIPT_DIR/start_vllm.sh" ]; then
+    echo "$(date) Error: start_vllm.sh not found or not executable in $SCRIPT_DIR"
     exit 1
 fi
 
@@ -45,9 +45,8 @@ SUCCESS_COUNT=0
 TOTAL_HOSTS=0
 
 # Create a temporary directory for log files
-TEMP_DIR=$(mktemp -d -p $PBS_O_WORKDIR)
+TEMP_DIR=$(mktemp -d -p $SCRIPT_DIR)
 echo "$(date) Created temporary directory: $TEMP_DIR"
-# trap 'rm -rf "$TEMP_DIR"' EXIT
 
 # Function to start vLLM on a host
 start_vllm() {
@@ -59,7 +58,7 @@ start_vllm() {
     
     echo "$(date) Starting vLLM on host: $host"
     # Run SSH command and capture its output
-    if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "cd $PBS_O_WORKDIR && source ./env.sh && ./start_vllm.sh" 2>&1 > "$log_file"; then
+    if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "cd $SCRIPT_DIR && source ./env.sh && ./start_vllm.sh" 2>&1 > "$log_file"; then
         echo "$(date) Successfully started vLLM on $host"
         return 0
     else
@@ -75,7 +74,6 @@ echo "$(date) DEBUG: About to start reading hostfile"
 # Launch all hosts in parallel
 while IFS= read -r host || [ -n "$host" ]; do
     echo "$(date) DEBUG: Read host: '$host'"
-    # Skip empty lines
     if [ -z "$host" ]; then
         echo "$(date) DEBUG: Skipping empty line"
         continue
