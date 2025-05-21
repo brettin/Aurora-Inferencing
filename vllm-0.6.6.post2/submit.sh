@@ -9,6 +9,8 @@
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
+SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2"
+cat "$PBS_NODEFILE" > $SCRIPT_DIR/hostfile
 
 # Check if hostfile exists and has content
 if [ ! -f "$PBS_NODEFILE" ]; then
@@ -21,9 +23,6 @@ if [ ! -x "$SCRIPT_DIR/start_vllm.sh" ]; then
     exit 1
 fi
 
-
-SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2"
-cat "$PBS_NODEFILE" > $SCRIPT_DIR/hostfile
 
 # Initialize counters
 ERROR_COUNT=0
