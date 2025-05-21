@@ -12,17 +12,21 @@ parser.add_argument("--model", type=str, default="meta-llama/Llama-3.3-70B-Instr
                     help="repo/model, default meta-llama/Llama-3.3-70B-Instruct")
 parser.add_argument("--key", type=str, default="EMPTY",
         help="the key passed to the vllm entrypoint when it was started")
+parser.add_argument("--timeout", type=float, default=60.0,
+        help="timeout in seconds for API calls (default: 60.0)")
 
 args = parser.parse_args()
 print(f'using host: {args.host}')
 print(f'using port: {args.port}')
 print(f'using model: {args.model}')
 print(f'using api-key: {args.key}')
+print(f'using timeout: {args.timeout} seconds')
 
 model=args.model
 key=args.key
 host=args.host
 port=args.port
+timeout=args.timeout
 base_url=f"http://{host}:{port}/v1"
 # Done dealing with command line arguments.
 
@@ -32,11 +36,22 @@ client = AsyncOpenAI(api_key=key,
         base_url=base_url)
 
 async def fetch_completion(prompt):
-    response = await client.chat.completions.create(
-        model=model,
-        messages=[{"role": "user", "content": prompt}]
-    )
-    return response.choices[0].message.content
+    try:
+        # Use asyncio.wait_for to implement timeout
+        response = await asyncio.wait_for(
+            client.chat.completions.create(
+                model=model,
+                messages=[{"role": "user", "content": prompt}]
+            ),
+            timeout=timeout
+        )
+        return response.choices[0].message.content
+    except asyncio.TimeoutError:
+        print(f"Request timed out after {timeout} seconds")
+        return f"ERROR: Request timed out after {timeout} seconds"
+    except Exception as e:
+        print(f"Error: {e}")
+        return f"ERROR: {str(e)}"
 
 async def main():
     prompts = [
