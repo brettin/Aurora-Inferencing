@@ -67,6 +67,19 @@ This script is designed to run the `test.coli.py` Python script across multiple 
 
 Yet to be finalized.
 
+Call stack:
+
+   submit.sh (PBS job)
+   ├── SSH process 1 (background)
+   │   └── start_vllm.sh (foreground)
+   │       ├── ray start (goes to background once it starts)
+   │       └── vllm serve (foreground)
+   ├── SSH process 2 (background)
+   │   └── start_vllm.sh (foreground)
+   │       ├── ray start (goes to background once it starts)
+   │       └── vllm serve (foreground)
+   └── ... (more SSH processes)
+
 ## Example Flow
 If you have 5 hosts and 12 directories:
 1. First batch: Directories 0-4 run on hosts 0-4
