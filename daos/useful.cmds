@@ -1,7 +1,8 @@
+
+qsub -l select=1 -l walltime=01:00:00 -A candle_aesp_CNDA -l filesystems=home:flare:daos_user -q debug -I
 module load daos/base
 
 daos container create --type POSIX ${DAOS_POOL}  ${DAOS_CONT} --properties rd_fac:1
-
 daos pool list
 daos pool query ${DAOS_POOL}
 daos cont list ${DAOS_POOL}
