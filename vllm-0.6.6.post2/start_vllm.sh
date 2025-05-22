@@ -21,10 +21,22 @@ export tiles=12
 export ZE_FLAT_DEVICE_HIERARCHY=FLAT
 export NUMEXPR_MAX_THREADS=208
 
-export HF_DATASETS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
-export TRANSFORMERS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
-export HF_HOME=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
-export HF_MODULES_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+# DAOS
+module use /soft/modulefiles
+module load daos/base
+export DAOS_POOL=candle_aesp_CNDA
+export DAOS_CONT=brettin_posix
+
+export HF_DATASETS_CACHE=/tmp/$DAOS_POOL/$DAOS_CONT
+export TRANSFORMERS_CACHE=/tmp/$DAOS_POOL/$DAOS_CONT
+export HF_HOME=/tmp/$DAOS_POOL/$DAOS_CONT
+export HF_MODULES_CACHE=/tmp/$DAOS_POOL/$DAOS_CONT
+# END
+
+# export HF_DATASETS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+# export TRANSFORMERS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+# export HF_HOME=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+# export HF_MODULES_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
 
 export TMPDIR=/tmp
 export RAY_TMPDIR=/tmp
