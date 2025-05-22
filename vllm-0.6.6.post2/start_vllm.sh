@@ -31,6 +31,8 @@ export HF_DATASETS_CACHE=/tmp/$DAOS_POOL/$DAOS_CONT
 export TRANSFORMERS_CACHE=/tmp/$DAOS_POOL/$DAOS_CONT
 export HF_HOME=/tmp/$DAOS_POOL/$DAOS_CONT
 export HF_MODULES_CACHE=/tmp/$DAOS_POOL/$DAOS_CONT
+
+launch-dfuse.sh ${DAOS_POOL}:${DAOS_CONT}
 # END
 
 # export HF_DATASETS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
