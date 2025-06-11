@@ -22,10 +22,22 @@ export ZE_FLAT_DEVICE_HIERARCHY=FLAT
 export NUMEXPR_MAX_THREADS=208
 
 # DAOS
+<<<<<<< HEAD
+#module use /soft/modulefiles
+#module load daos/base
+#export DAOS_POOL=candle_aesp_CNDA
+#export DAOS_CONT=brettin_posix
+#
+#export HF_DATASETS_CACHE=/tmp/$DAOS_POOL/$DAOS_CONT
+#export TRANSFORMERS_CACHE=/tmp/$DAOS_POOL/$DAOS_CONT
+#export HF_HOME=/tmp/$DAOS_POOL/$DAOS_CONT
+#export HF_MODULES_CACHE=/tmp/$DAOS_POOL/$DAOS_CONT
+=======
 module use /soft/modulefiles
 module load daos/base
 export DAOS_POOL=candle_aesp_CNDA
 export DAOS_CONT=brettin_posix
+>>>>>>> parent of 5163ccd (updated)
 
 export HF_DATASETS_CACHE=/tmp/$DAOS_POOL/$DAOS_CONT
 export TRANSFORMERS_CACHE=/tmp/$DAOS_POOL/$DAOS_CONT
