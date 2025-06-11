@@ -48,7 +48,7 @@ def call_model(prompts):
     """Call the model with a list of prompts without timeout."""
     messages_list = []
     for prompt in prompts:
-        messages_list.append({"role": "user", "content": prompt})  # Remove the extra list wrapping
+        messages_list.append({"role": "user", "content": prompt})
     
     try:
         print(f"Sending {len(messages_list)} prompts to the model {model}...")
@@ -137,19 +137,20 @@ for i in range(0, len(all_prompts), batch_size):
     # Call the model with the batch of prompts
     # responses = call_model_with_timeout(batch_prompts, timeout)
     responses = call_model(batch_prompts)
+    print(responses)
 
     # Process the responses
-    for j, response in enumerate(responses):
-        gene_id = batch_gene_ids[j]
-        print("\nGene IDs: ", gene_id)
-        print("\nPrompt: ", batch_prompts[j])
+    #for j, response in enumerate(responses):
+    #    gene_id = batch_gene_ids[j]
+    #    print("\nGene IDs: ", gene_id)
+    #    print("\nPrompt: ", batch_prompts[j])
+          
+    #    if response is None:
+    #        print("\nResponse: ERROR - Request timed out or failed")
+    #    else:
+    #        print("\nResponse: ", response)
+    #        #print("\nResponse: ", response.choices[0].message.content)
         
-        if response is None:
-            print("\nResponse: ERROR - Request timed out or failed")
-        else:
-            print("\nResponse: ", response)
-            #print("\nResponse: ", response.choices[0].message.content)
-        
-        print("\n" + "-" * 80 + "\n")
+    #    print("\n" + "-" * 80 + "\n")
 
 print(f"Processed {len(all_prompts)} prompts in {(len(all_prompts) + batch_size - 1)//batch_size} batches")
