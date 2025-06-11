@@ -54,6 +54,7 @@ def call_model_with_timeout(prompts, timeout_seconds):
         ])
     
     def api_call():
+        print(f"Sending {len(messages_list)} prompts to the model {model}...")
         return client.chat.completions.create(
             model=model,
             messages=messages_list,
