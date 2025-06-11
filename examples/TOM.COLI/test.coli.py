@@ -23,18 +23,19 @@ parser.add_argument('directory', help='Directory containing gene ID files')
 parser.add_argument('host', help='Hostname of the vLLM server')
 parser.add_argument('--batch-size', type=int, default=1, help='Number of prompts to send in a batch (default: 1)')
 parser.add_argument('--timeout', type=int, default=60, help='Timeout in seconds for API calls (default: 60)')
+parser.add_argument('--model', default='meta-llama/Llama-3.1-70B-Instruct', help='Model name to use (default: meta-llama/Llama-3.1-70B-Instruct)')
+parser.add_argument('--port', default='8000', help='Port number for the vLLM server (default: 8000)')
+parser.add_argument('--key', default='EMPTY', help='API key for authentication (default: EMPTY)')
+
 args = parser.parse_args()
 
 directory = args.directory
 host = args.host
 batch_size = args.batch_size
 timeout = args.timeout
-
-# Model configuration
-# model = "meta-llama/Llama-3.3-70B-Instruct"
-model = "meta-llama/Llama-3.1-70B-Instruct"
-port = "8000"
-key = "EMPTY"
+model = args.model
+port = args.port
+key = args.key
 
 openai_api_base = f"http://{host}:{port}/v1"
 
