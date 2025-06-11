@@ -54,7 +54,7 @@ def call_model(prompts):
         print(f"Sending {len(messages_list)} prompts to the model {model}...")
         return client.chat.completions.create(
             model=model,
-            messages=messages_list[0],
+            messages=messages_list,  # Send all messages in the batch
             temperature=0.0,
             max_tokens=1024,
             stream=False
@@ -147,7 +147,8 @@ for i in range(0, len(all_prompts), batch_size):
         if response is None:
             print("\nResponse: ERROR - Request timed out or failed")
         else:
-            print("\nResponse: ", response.choices[0].message.content)
+            print("\nResponse: ", response)
+            #print("\nResponse: ", response.choices[0].message.content)
         
         print("\n" + "-" * 80 + "\n")
 
