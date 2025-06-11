@@ -42,6 +42,25 @@ client = OpenAI(
     base_url=openai_api_base,
 )
 
+def call_model(prompts):
+    """Call the model with a list of prompts without timeout."""
+    messages_list = []
+    for prompt in prompts:
+        messages_list.append([{"role": "user", "content": prompt}])
+    
+    try:
+        print(f"Sending {len(messages_list)} prompts to the model {model}...")
+        return client.chat.completions.create(
+            model=model,
+            messages=messages_list[0],
+            temperature=0.0,
+            max_tokens=1024,
+            stream=False
+        )
+    except Exception as e:
+        print(f"Error calling model: {e}")
+        return None
+
 def call_model_with_timeout(prompts, timeout_seconds):
     """
     Call the model with a batch of prompts with a timeout
@@ -114,8 +133,9 @@ for i in range(0, len(all_prompts), batch_size):
     print(f"Sending {len(batch_prompts)} prompts to the model...")
     
     # Call the model with the batch of prompts
-    responses = call_model_with_timeout(batch_prompts, timeout)
-    
+    # responses = call_model_with_timeout(batch_prompts, timeout)
+    responses = call_model(batch_prompts)
+
     # Process the responses
     for j, response in enumerate(responses):
         gene_id = batch_gene_ids[j]
