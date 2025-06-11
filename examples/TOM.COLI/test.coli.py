@@ -48,7 +48,7 @@ def call_model(prompts):
     """Call the model with a list of prompts without timeout."""
     messages_list = []
     for prompt in prompts:
-        messages_list.append([{"role": "user", "content": prompt}])
+        messages_list.append({"role": "user", "content": prompt})  # Remove the extra list wrapping
     
     try:
         print(f"Sending {len(messages_list)} prompts to the model {model}...")
