@@ -1,13 +1,17 @@
 #!/bin/bash
 #PBS -N submit_all_p
-#PBS -l walltime=00:60:00
+#PBS -l walltime=00:10:00
 #PBS -A candle_aesp_CNDA
-#PBS -q debug-scaling
+#PBS -q debug
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=10
-#PBS -l filesystems=flare:home
+#PBS -l select=2
+#PBS -l filesystems=flare:home:daos_user
 #PBS -l place=scatter
+
+NUM_NODES=$(cat $PBS_NODEFILE | wc -l)
+set -e
+set -x
 
 SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2"
 cat "$PBS_NODEFILE" > $SCRIPT_DIR/hostfile
@@ -23,6 +27,21 @@ if [ ! -x "$SCRIPT_DIR/start_vllm.sh" ]; then
     exit 1
 fi
 
+# DAOS
+# module use /soft/modulefiles
+# module load daos/base
+# export DAOS_POOL=candle_aesp_CNDA
+# export DAOS_CONT=brettin_posix
+# echo "$(date) TSB available containers $(daos cont list ${DAOS_POOL})"
+# echo "$(date) TSB mounting ${DAOS_POOL}:${DAOS_CONT} on ${NUM_NODES} nodes"
+# launch-dfuse.sh ${DAOS_POOL}:${DAOS_CONT}
+# mpiexec -n $NUM_NODES -ppn 1 ls -l /tmp/$DAOS_POOL/$DAOS_CONT
+# END DAOS
+
+# COPPER
+module load copper
+launch_copper.sh
+# END COOPER
 
 # Initialize counters
 ERROR_COUNT=0
@@ -54,24 +73,20 @@ while IFS= read -r host || [ -n "$host" ]; do
     if [ -z "$host" ]; then
         continue
     fi
-    
-    echo "$(date) DEBUG: Processing host: '$host'"
-    
     TOTAL_HOSTS=$((TOTAL_HOSTS + 1))
-    echo "$(date) DEBUG: Calling start_vllm with host: '$host'"
+    
+    echo "$(date) DEBUG: Calling start_vllm_on_host: HOST: $host"
     start_vllm_on_host "$host" &
     pid=$!
     pids+=($pid)
-    echo "$(date) DEBUG: Started process with PID: $pid"
 done < "$PBS_NODEFILE"
 
 echo "$(date) DEBUG: Finished reading hostfile"
 echo "$(date) Waiting for all processes to complete..."
 echo "$(date) Number of processes to wait for: ${#pids[@]}"
 
-# When all servers have launched
-# Create new host file that contains running servers
-# launch test.coli.async.sh
+# When all servers have launched create new host file that
+# contains running servers
 
 # Wait for all background processes and count successes/failures
 for pid in "${pids[@]}"; do
