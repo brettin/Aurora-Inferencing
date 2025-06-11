@@ -31,7 +31,8 @@ batch_size = args.batch_size
 timeout = args.timeout
 
 # Model configuration
-model = "meta-llama/Llama-3.3-70B-Instruct"
+# model = "meta-llama/Llama-3.3-70B-Instruct"
+model = "meta-llama/Llama-3.1-70B-Instruct"
 port = "8000"
 key = "EMPTY"
 
