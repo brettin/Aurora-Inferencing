@@ -1,17 +1,34 @@
 import sys, os
 import argparse
+import time
+import concurrent.futures
 from openai import OpenAI
+from openai.types.chat import ChatCompletion
 
-# Parse command line arguments
-parser = argparse.ArgumentParser(description='Process gene IDs and query the model')
+# This script processes gene ID files from a specified directory and queries a vLLM server running a large language model.
+# It reads gene IDs from the files in that dir, constructs all the prompts, and them processes the prompts in batches as it
+# sends them to the model via API calls with configurable timeout and batch size, and handles the responses.
+parser = argparse.ArgumentParser(description='''
+
+This script processes gene ID files and queries a vLLM server running a large language model. It performs the following operations:
+
+1. Reads gene ID files from a specified directory
+2. Constructs prompts for each gene ID
+3. Processes prompts in configurable batch sizes
+4. Sends batches to the vLLM server via API calls
+5. Handles responses and saves results
+''')
+
 parser.add_argument('directory', help='Directory containing gene ID files')
 parser.add_argument('host', help='Hostname of the vLLM server')
 parser.add_argument('--batch-size', type=int, default=1, help='Number of prompts to send in a batch (default: 1)')
+parser.add_argument('--timeout', type=int, default=60, help='Timeout in seconds for API calls (default: 60)')
 args = parser.parse_args()
 
 directory = args.directory
 host = args.host
 batch_size = args.batch_size
+timeout = args.timeout
 
 # Model configuration
 model = "meta-llama/Llama-3.3-70B-Instruct"
@@ -25,9 +42,9 @@ client = OpenAI(
     base_url=openai_api_base,
 )
 
-def call_model(prompts):
+def call_model_with_timeout(prompts, timeout_seconds):
     """
-    Call the model with a batch of prompts
+    Call the model with a batch of prompts with a timeout
     """
     # Create a list of messages for each prompt
     messages_list = []
@@ -36,15 +53,31 @@ def call_model(prompts):
             {"role": "user", "content": prompt},
         ])
     
-    # Call the model with the batch of prompts
-    chat_responses = client.chat.completions.create(
-        model=model,
-        messages=messages_list,
-        temperature=0.0,
-        max_tokens=2056,
-    )
+    def api_call():
+        return client.chat.completions.create(
+            model=model,
+            messages=messages_list,
+            temperature=0.0,
+            max_tokens=2056,
+        )
     
-    return chat_responses
+    try:
+        # Use ThreadPoolExecutor to implement timeout
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            future = executor.submit(api_call)
+            start_time = time.time()
+            chat_responses = future.result(timeout=timeout_seconds)
+            elapsed_time = time.time() - start_time
+            print(f"API call completed in {elapsed_time:.2f} seconds")
+            return chat_responses
+    except concurrent.futures.TimeoutError:
+        print(f"API call timed out after {timeout_seconds} seconds")
+        # Return a list of None values with the same length as prompts
+        return [None] * len(prompts)
+    except Exception as e:
+        print(f"Error calling model: {e}")
+        # Return a list of None values with the same length as prompts
+        return [None] * len(prompts)
 
 # Collect all prompts from files
 all_prompts = []
@@ -80,14 +113,19 @@ for i in range(0, len(all_prompts), batch_size):
     print(f"Sending {len(batch_prompts)} prompts to the model...")
     
     # Call the model with the batch of prompts
-    responses = call_model(batch_prompts)
+    responses = call_model_with_timeout(batch_prompts, timeout)
     
     # Process the responses
     for j, response in enumerate(responses):
         gene_id = batch_gene_ids[j]
         print("\nGene IDs: ", gene_id)
         print("\nPrompt: ", batch_prompts[j])
-        print("\nResponse: ", response.choices[0].message.content)
+        
+        if response is None:
+            print("\nResponse: ERROR - Request timed out or failed")
+        else:
+            print("\nResponse: ", response.choices[0].message.content)
+        
         print("\n" + "-" * 80 + "\n")
 
 print(f"Processed {len(all_prompts)} prompts in {(len(all_prompts) + batch_size - 1)//batch_size} batches")
