@@ -81,25 +81,23 @@ all_prompts = []
 all_gene_ids = []
 
 # Read gene IDs and query locally
-for filename in os.listdir(directory):
-    if filename.endswith(".txt"):
-        file_path = os.path.join(directory, filename)
-        with open(file_path, "r", encoding="utf-8") as file:
-            for line in file:
-                line = line.strip()
-                gene_id = line
-                prompt = (
-                    "Please tell me (using the knowledge you have been trained on) what you know about this bacterial gene whose various IDs are given here, though they all refer to the same gene: "
-                    + line
-                    + ". In particular, we want to know the following information: Is this gene well studied or is it hypothetical with unknown function? "
-                    "Is the gene essential for survival? Is the gene or gene product a good antibacterial drug target? What other genes does this gene interact with? "
-                    "Is this gene part of an operon (cluster of genes on the chromosome that work together to carry out complex functions)? "
-                    "Is this gene involved in transcriptional regulation? Is it known what gene regulates this gene's expression? "
-                    "Does this gene also occur in other bacteria? If you were starting out as a research microbiologist, what might be a hypothesis you could explore related to this protein that would have significant scientific impact? "
-                    "Where possible, give concise answers to these questions as well as describe the function of the gene more generally if it is known."
-                )
-                all_prompts.append(prompt)
-                all_gene_ids.append(gene_id)
+file_path = os.path.join(directory, "1.txt")
+with open(file_path, "r", encoding="utf-8") as file:
+    for line in file:
+        line = line.strip()
+        gene_id = line
+        prompt = (
+            "Please tell me (using the knowledge you have been trained on) what you know about this bacterial gene whose various IDs are given here, though they all refer to the same gene: "
+            + line
+            + ". In particular, we want to know the following information: Is this gene well studied or is it hypothetical with unknown function? "
+            "Is the gene essential for survival? Is the gene or gene product a good antibacterial drug target? What other genes does this gene interact with? "
+            "Is this gene part of an operon (cluster of genes on the chromosome that work together to carry out complex functions)? "
+            "Is this gene involved in transcriptional regulation? Is it known what gene regulates this gene's expression? "
+            "Does this gene also occur in other bacteria? If you were starting out as a research microbiologist, what might be a hypothesis you could explore related to this protein that would have significant scientific impact? "
+            "Where possible, give concise answers to these questions as well as describe the function of the gene more generally if it is known."
+        )
+        all_prompts.append(prompt)
+        all_gene_ids.append(gene_id)
 
 # Process prompts in batches
 for i in range(0, len(all_prompts), batch_size):
