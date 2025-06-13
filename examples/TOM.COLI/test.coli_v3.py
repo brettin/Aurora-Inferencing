@@ -52,7 +52,10 @@ key = args.key
 #    api_key=key,
 #    base_url=openai_api_base,
 #)
-llm = LLM(model=model, tokenizer=model, port=port, host=host)
+from vllm import LLM
+llm = LLM(model=model, tokenizer=model)
+
+sys.exit()
 
 def call_model(prompts):
     """Call the model with a list of prompts without timeout."""
