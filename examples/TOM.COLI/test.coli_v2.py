@@ -19,7 +19,7 @@ This script processes gene ID files and queries a vLLM server running a large la
 5. Handles responses and saves results
 ''')
 
-parser.add_argument('directory', help='Directory containing gene ID files')
+parser.add_argument('file', help='File containing gene IDs')
 parser.add_argument('host', help='Hostname of the vLLM server')
 parser.add_argument('--batch-size', type=int, default=1, help='Number of prompts to send in a batch (default: 1)')
 parser.add_argument('--timeout', type=int, default=60, help='Timeout in seconds for API calls (default: 60)')
@@ -29,7 +29,7 @@ parser.add_argument('--key', default='EMPTY', help='API key for authentication (
 
 args = parser.parse_args()
 
-directory = args.directory
+file_path = args.file
 host = args.host
 batch_size = args.batch_size
 timeout = args.timeout
@@ -81,7 +81,6 @@ all_prompts = []
 all_gene_ids = []
 
 # Read gene IDs and query locally
-file_path = os.path.join(directory, "1.txt")
 with open(file_path, "r", encoding="utf-8") as file:
     for line in file:
         line = line.strip()
