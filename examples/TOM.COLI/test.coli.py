@@ -52,13 +52,15 @@ def call_model(prompts):
     
     try:
         print(f"Sending {len(messages_list)} prompts to the model {model}...")
-        return client.chat.completions.create(
+        response = client.chat.completions.create(
             model=model,
             messages=messages_list,  # Send all messages in the batch
             temperature=0.0,
             max_tokens=1024,
             stream=False
         )
+        print(f'received {len(response.choices)} choices')
+        return response
     except Exception as e:
         print(f"Error calling model: {e}")
         return None
