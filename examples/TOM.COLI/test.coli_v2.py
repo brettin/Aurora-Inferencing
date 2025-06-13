@@ -62,7 +62,20 @@ def call_model(prompts):
             return response
         except Exception as e:
             print_with_timestamp(f"Error calling model for prompt: {e}")
-            return None
+            # Try one more time before giving up
+            try:
+                print_with_timestamp(f"Retrying prompt...")
+                response = client.chat.completions.create(
+                    model=model,
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=0.0,
+                    max_tokens=1024,
+                    stream=False
+                )
+                return response
+            except Exception as e2:
+                print_with_timestamp(f"Error on retry attempt: {e2}")
+                return None
 
     print_with_timestamp(f"Sending {len(prompts)} prompts to the model {model}...")
     with concurrent.futures.ThreadPoolExecutor() as executor:
