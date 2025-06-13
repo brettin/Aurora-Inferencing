@@ -2,8 +2,7 @@ import sys, os
 import argparse
 import time
 import concurrent.futures
-from openai import OpenAI
-from openai.types.chat import ChatCompletion
+from vllm import LLM, SamplingParams
 from datetime import datetime
 
 def print_with_timestamp(message):
@@ -41,37 +40,25 @@ model = args.model
 port = args.port
 key = args.key
 
-openai_api_base = f"http://{host}:{port}/v1"
-
-client = OpenAI(
-    api_key=key,
-    base_url=openai_api_base,
-)
+# Initialize vLLM client
+llm = LLM(model=model, tokenizer=model, host=host, port=port)
 
 def call_model(prompts):
     """Call the model with a list of prompts without timeout."""
     def process_single_prompt(prompt):
         try:
-            response = client.chat.completions.create(
-                model=model,
-                messages=[{"role": "user", "content": prompt}],
+            sampling_params = SamplingParams(
                 temperature=0.0,
                 max_tokens=1024,
-                stream=False
             )
+            response = llm.generate(prompt, sampling_params)
             return response
         except Exception as e:
             print_with_timestamp(f"Error calling model for prompt: {e}")
             # Try one more time before giving up
             try:
                 print_with_timestamp(f"Retrying prompt...")
-                response = client.chat.completions.create(
-                    model=model,
-                    messages=[{"role": "user", "content": prompt}],
-                    temperature=0.0,
-                    max_tokens=1024,
-                    stream=False
-                )
+                response = llm.generate(prompt, sampling_params)
                 return response
             except Exception as e2:
                 print_with_timestamp(f"Error on retry attempt: {e2}")
@@ -123,14 +110,12 @@ for i in range(0, len(all_prompts), batch_size):
     print_with_timestamp(f"\nProcessing batch {i//batch_size + 1} of {(len(all_prompts) + batch_size - 1)//batch_size}")
     print_with_timestamp(f"Sending {len(batch_prompts)} prompts to the model...")
     
-    # Call the model with the batch of prompts
-    # responses = call_model_with_timeout(batch_prompts, timeout)
     responses = call_model(batch_prompts)
     for j, response in enumerate(responses):
         if response is None:
-            print_with_timestamp(f"ERROR: Return TYpe is None for Gene ID: {batch_gene_ids[j]}")
+            print_with_timestamp(f"ERROR: Return Type is None for Gene ID: {batch_gene_ids[j]}")
         else:
-            print_with_timestamp(f"{response.choices[0].message.content}")
+            print_with_timestamp(f"{response.outputs[0].text}")
         print_with_timestamp("\n" + "-" * 80 + "\n")
 
 print_with_timestamp(f"Processed {len(all_prompts)} prompts in {(len(all_prompts) + batch_size - 1)//batch_size} batches")
