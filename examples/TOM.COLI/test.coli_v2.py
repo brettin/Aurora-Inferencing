@@ -126,9 +126,9 @@ for i in range(0, len(all_prompts), batch_size):
     # Call the model with the batch of prompts
     # responses = call_model_with_timeout(batch_prompts, timeout)
     responses = call_model(batch_prompts)
-    for response in responses:
+    for j, response in enumerate(responses):
         if response is None:
-            print_with_timestamp("Return Type is None. ERROR: Request failed or timed out")
+            print_with_timestamp(f"ERROR: Return TYpe is None for Gene ID: {batch_gene_ids[j]}")
         else:
             print_with_timestamp(f"{response.choices[0].message.content}")
         print_with_timestamp("\n" + "-" * 80 + "\n")
