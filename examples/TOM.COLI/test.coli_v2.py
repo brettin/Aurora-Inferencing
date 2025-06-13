@@ -114,7 +114,10 @@ for i in range(0, len(all_prompts), batch_size):
     # responses = call_model_with_timeout(batch_prompts, timeout)
     responses = call_model(batch_prompts)
     for response in responses:
-        print_with_timestamp(f"{response.choices[0].message.content}")
+        if response is None:
+            print_with_timestamp("Return Type is None. ERROR: Request failed or timed out")
+        else:
+            print_with_timestamp(f"{response.choices[0].message.content}")
         print_with_timestamp("\n" + "-" * 80 + "\n")
 
 print_with_timestamp(f"Processed {len(all_prompts)} prompts in {(len(all_prompts) + batch_size - 1)//batch_size} batches")
