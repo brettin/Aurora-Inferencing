@@ -4,19 +4,23 @@ import time
 import concurrent.futures
 from openai import OpenAI
 from openai.types.chat import ChatCompletion
+from datetime import datetime
 
-# This script processes gene ID files from a specified directory and queries a vLLM server running a large language model.
-# It reads gene IDs from the files in that dir, constructs all the prompts, and them processes the prompts in batches as it
-# sends them to the model via API calls with configurable timeout and batch size, and handles the responses.
+def print_with_timestamp(message):
+    """Helper function to print messages with timestamp."""
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print(f"[{timestamp}] {message}")
+
 parser = argparse.ArgumentParser(description='''
 
-This script processes gene ID files and queries a vLLM server running a large language model. It performs the following operations:
+This script processes gene IDs from a specified file and queries a vLLM server running a large language model. It performs the following operations:
 
-1. Reads gene ID files from a specified directory
+1. Reads gene IDs from a specified input file
 2. Constructs prompts for each gene ID
 3. Processes prompts in configurable batch sizes
 4. Sends batches to the vLLM server via API calls
 5. Handles responses and saves results
+
 ''')
 
 parser.add_argument('file', help='File containing gene IDs')
@@ -57,10 +61,10 @@ def call_model(prompts):
             )
             return response
         except Exception as e:
-            print(f"Error calling model for prompt: {e}")
+            print_with_timestamp(f"Error calling model for prompt: {e}")
             return None
 
-    print(f"Sending {len(prompts)} prompts to the model {model}...")
+    print_with_timestamp(f"Sending {len(prompts)} prompts to the model {model}...")
     with concurrent.futures.ThreadPoolExecutor() as executor:
         # Submit all prompts to be processed in parallel
         future_to_prompt = {executor.submit(process_single_prompt, prompt): prompt for prompt in prompts}
@@ -69,7 +73,7 @@ def call_model(prompts):
             response = future.result()
             responses.append(response)
     
-    print(f'Received {len(responses)} responses')
+    print_with_timestamp(f'Received {len(responses)} responses')
     return responses
 
 def call_model_with_timeout(prompts, timeout_seconds):
@@ -103,14 +107,14 @@ for i in range(0, len(all_prompts), batch_size):
     batch_prompts = all_prompts[i:i+batch_size]
     batch_gene_ids = all_gene_ids[i:i+batch_size]
     
-    print(f"\nProcessing batch {i//batch_size + 1} of {(len(all_prompts) + batch_size - 1)//batch_size}")
-    print(f"Sending {len(batch_prompts)} prompts to the model...")
+    print_with_timestamp(f"\nProcessing batch {i//batch_size + 1} of {(len(all_prompts) + batch_size - 1)//batch_size}")
+    print_with_timestamp(f"Sending {len(batch_prompts)} prompts to the model...")
     
     # Call the model with the batch of prompts
     # responses = call_model_with_timeout(batch_prompts, timeout)
     responses = call_model(batch_prompts)
     for response in responses:
-        print(f"{response.choices[0].message.content}")
-        print("\n" + "-" * 80 + "\n")
+        print_with_timestamp(f"{response.choices[0].message.content}")
+        print_with_timestamp("\n" + "-" * 80 + "\n")
 
-print(f"Processed {len(all_prompts)} prompts in {(len(all_prompts) + batch_size - 1)//batch_size} batches")
+print_with_timestamp(f"Processed {len(all_prompts)} prompts in {(len(all_prompts) + batch_size - 1)//batch_size} batches")
