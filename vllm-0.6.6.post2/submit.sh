@@ -1,11 +1,11 @@
 #!/bin/bash
 #PBS -N submit_all_p
-#PBS -l walltime=00:10:00
+#PBS -l walltime=01:00:00
 #PBS -A candle_aesp_CNDA
 #PBS -q debug
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=2
+#PBS -l select=1
 #PBS -l filesystems=flare:home:daos_user
 #PBS -l place=scatter
 
@@ -39,8 +39,8 @@ fi
 # END DAOS
 
 # COPPER
-module load copper
-launch_copper.sh
+# module load copper
+# launch_copper.sh
 # END COOPER
 
 # Initialize counters
