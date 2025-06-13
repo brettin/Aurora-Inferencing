@@ -112,7 +112,8 @@ for i in range(0, len(all_prompts), batch_size):
     # Call the model with the batch of prompts
     # responses = call_model_with_timeout(batch_prompts, timeout)
     responses = call_model(batch_prompts)
-    print(responses)
-
+    for response in responses:
+        print(f"{response.choices[0].message.content}")
+        print("\n" + "-" * 80 + "\n")
 
 print(f"Processed {len(all_prompts)} prompts in {(len(all_prompts) + batch_size - 1)//batch_size} batches")
