@@ -1,8 +1,8 @@
 import sys, os
 import argparse
 import time
+from openai import OpenAI
 import concurrent.futures
-from vllm import LLM, SamplingParams
 from datetime import datetime
 
 def print_with_timestamp(message):
