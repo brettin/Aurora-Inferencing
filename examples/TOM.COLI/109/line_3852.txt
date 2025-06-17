@@ -1,1 +1,0 @@
-b2685	ECK2679	emrA	multidrug efflux pump membrane fusion protein EmrA // EmrA

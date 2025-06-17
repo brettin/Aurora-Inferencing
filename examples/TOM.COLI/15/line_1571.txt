@@ -1,1 +1,0 @@
-b3919	ECK3911	tpiA	triose-phosphate isomerase // Tpi // TpiA

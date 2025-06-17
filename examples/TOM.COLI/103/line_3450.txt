@@ -1,1 +1,0 @@
-b3757	ECK3751	gltU	tRNA-Glu(UUC) // tRNA<sup>gltU</sup>

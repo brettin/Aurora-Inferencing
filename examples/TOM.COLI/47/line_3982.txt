@@ -1,1 +1,0 @@
-b3235	ECK3224	degS	serine endoprotease // HtrH // HhoB // DegS

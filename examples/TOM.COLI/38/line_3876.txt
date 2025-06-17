@@ -1,1 +1,0 @@
-b3077	ECK3067	ebgC	DUF386 domain-containing evolved &beta;-D-galactosidase subunit &beta; // EbgC // evolved &beta;-D-galactosidase subunit &beta;

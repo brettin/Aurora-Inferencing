@@ -1,1 +1,0 @@
-b2975	ECK2969	glcA	glycolate/lactate:H<sup>+</sup> symporter GlcA // GlcA // YghK

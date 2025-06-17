@@ -1,1 +1,0 @@
-b0452	ECK0446	tesB	acyl-CoA thioesterase II // TesB

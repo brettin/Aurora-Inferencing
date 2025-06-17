@@ -1,1 +1,0 @@
-b2155	ECK2148	cirA	iron-catecholate outer membrane transporter CirA // Cir // FeuA // CirA // colicin I receptor

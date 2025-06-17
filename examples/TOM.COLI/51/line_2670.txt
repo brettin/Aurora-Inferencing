@@ -1,1 +1,0 @@
-b4170	ECK4166	mutL	DNA mismatch repair protein MutL // MutL

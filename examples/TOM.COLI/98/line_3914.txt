@@ -1,1 +1,0 @@
-b0470	ECK0464	dnaX	DNA polymerase III subunit &gamma; // DnaZ // DnaX // DNA polymerase III subunit &tau; // DNA elongation factor III

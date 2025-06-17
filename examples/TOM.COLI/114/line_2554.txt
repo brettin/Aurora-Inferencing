@@ -1,1 +1,0 @@
-b4074	ECK4067	nrfE	putative cytochrome c-type biogenesis protein NrfE // YjcL // NrfE // formate-dependent nitrite reductase; possible assembly function

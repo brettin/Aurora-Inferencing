@@ -1,1 +1,0 @@
-b3295	ECK3282	rpoA	RNA polymerase subunit &alpha; // Sez // Phs // Pez // RpoA

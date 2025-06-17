@@ -1,1 +1,0 @@
-b2784	ECK2778	relA	GDP/GTP pyrophosphokinase // RelA // stringent factor // ppGpp synthetase I // PSI // ppGpp synthase I // (p)ppGpp synthetase I

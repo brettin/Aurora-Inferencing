@@ -1,1 +1,0 @@
-b1420	ECK1413	mokB	putative regulatory protein MokB // MokB // regulatory peptide whose translation enables hokB expression

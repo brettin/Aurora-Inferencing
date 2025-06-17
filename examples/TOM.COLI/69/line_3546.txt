@@ -1,1 +1,0 @@
-b2092	ECK2085	gatC	galactitol-specific PTS enzyme IIC component // Enzyme IIC<sup>Gat</sup> // EIIC<sup>Gat</sup> // GatC

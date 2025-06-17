@@ -1,1 +1,0 @@
-b3775	ECK3767	ppiC	peptidyl-prolyl <i>cis-trans</i> isomerase C // PpiC // Par10 // parvulin // rotamase C

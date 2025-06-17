@@ -1,1 +1,0 @@
-b2047	ECK2041	wcaJ	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase // WcaJ // undecaprenyl-phosphate glucose phosphotransferase

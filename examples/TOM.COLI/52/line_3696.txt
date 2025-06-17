@@ -1,1 +1,0 @@
-b1075	ECK1060	flgD	flagellar biosynthesis, initiation of hook assembly // FlaV // FlgD

@@ -1,1 +1,0 @@
-b1421	ECK1415	trg	methyl-accepting chemotaxis protein Trg // MCP-III // ribose/galactose/glucose chemoreceptor protein // Trg // Trg dimer // chemotaxis signaling protein III

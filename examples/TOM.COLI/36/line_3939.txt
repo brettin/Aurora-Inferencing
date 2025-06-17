@@ -1,1 +1,0 @@
-b0226	ECK0227	dinJ	antitoxin/DNA-binding transcriptional repressor DinJ // DinJ // SosA // DinJ antitoxin of YafQ-DinJ toxin-antitoxin system / DNA-binding transcriptional repressor

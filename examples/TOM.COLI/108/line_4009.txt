@@ -1,1 +1,0 @@
-b1961	ECK1959	dcm	DNA-cytosine methyltransferase // Mec // Dcm

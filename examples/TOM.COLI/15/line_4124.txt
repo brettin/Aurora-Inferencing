@@ -1,1 +1,0 @@
-b3032	ECK3023	cpdA	cAMP phosphodiesterase // CpdA // Icc

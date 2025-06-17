@@ -1,1 +1,0 @@
-b2522	ECK2519	sseB	protein SseB // SseB

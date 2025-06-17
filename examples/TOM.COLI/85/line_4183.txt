@@ -1,1 +1,0 @@
-b1737	ECK1735	chbC	<i>N,N'</i>-diacetylchitobiose-specific PTS enzyme IIC component // Hic // CelB // EIIC<sup>cel</sup> // Enzyme IIC<sup>cel</sup> // EIIC<sup>chb</sup> // Enzyme IIC<sup>chb</sup> // ChbC

@@ -1,1 +1,0 @@
-b1740	ECK1738	nadE	NH<sub>3</sub>-dependent NAD<sup>+</sup> synthetase // Efg // NtrL // NadE

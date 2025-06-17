@@ -1,1 +1,0 @@
-b0021	ECK0022	insB1	IS1 protein InsB // InsB1

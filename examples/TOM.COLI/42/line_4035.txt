@@ -1,1 +1,0 @@
-b2425	ECK2420	cysP	thiosulfate/sulfate ABC transporter periplasmic binding protein CysP // TSBP // CysP

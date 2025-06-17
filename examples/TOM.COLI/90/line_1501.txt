@@ -1,1 +1,0 @@
-b1230	ECK1225	tyrV	tRNA-Tyr(GUA) // tRNA<sup>tyrV</sup>

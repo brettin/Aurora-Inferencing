@@ -1,1 +1,0 @@
-b3324	ECK3311	gspC	type II secretion system protein GspC // YheE // GspC

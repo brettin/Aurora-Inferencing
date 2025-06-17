@@ -1,1 +1,0 @@
-b0344	ECK0341	lacZ	&beta;-galactosidase // LacZ

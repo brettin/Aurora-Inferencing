@@ -1,1 +1,0 @@
-b0981	ECK0972	etk	protein-tyrosine kinase Etk // YccC // Etk // autophosphorylating protein tyrosine kinase

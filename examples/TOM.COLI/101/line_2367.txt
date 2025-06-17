@@ -1,1 +1,0 @@
-b1130	ECK1116	phoP	DNA-binding transcriptional dual regulator PhoP-phosphorylated // PhoP // PhoP-P<sup>asp51</sup> // PhoP response regulator - phosphorylated // DNA-binding transcriptional dual regulator PhoP // PhoP response regulator

@@ -1,1 +1,0 @@
-b1252	ECK1246	tonB	Ton complex subunit TonB // ExbA // TonB

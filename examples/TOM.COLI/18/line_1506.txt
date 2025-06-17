@@ -1,1 +1,0 @@
-b1907	ECK1906	tyrP	TyrP // tyrosine ArAAP transporter

@@ -1,1 +1,0 @@
-b4348	ECK4338	hsdS	type I restriction enzyme EcoKI specificity subunit // Hss // Hsp // HsdS // specificity determinant for hsdM and hsdR

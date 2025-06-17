@@ -1,1 +1,0 @@
-b0423	ECK0417	thiI	tRNA uridine 4-sulfurtransferase // NuvA // YajK // ThiI // 4-thiouridine synthetase

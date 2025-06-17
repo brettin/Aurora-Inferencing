@@ -1,1 +1,0 @@
-b0812	ECK0801	dps	DNA protection during starvation protein // Vtm // PexB // Dps // stationary phase nucleoid protein that sequesters iron and protects DNA from damage

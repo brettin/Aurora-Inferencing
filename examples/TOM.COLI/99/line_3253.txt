@@ -1,1 +1,0 @@
-b0974	ECK0965	hyaC	hydrogenase 1 cytochrome <i>b</i> subunit // CybH // HyaC // hydrogenase 1 - B subunit // hydrogenase 1 - &gamma; subunit

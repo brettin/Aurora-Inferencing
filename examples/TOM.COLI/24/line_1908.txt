@@ -1,1 +1,0 @@
-b2946	ECK2941	rsmE	16S rRNA m<sup>3</sup>U1498 methyltransferase // YggJ // RsmE

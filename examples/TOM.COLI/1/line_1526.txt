@@ -1,1 +1,0 @@
-b4355	ECK4345	tsr	methyl-accepting chemotaxis protein Tsr // CheD // Tsr // serine chemoreceptor protein // Tsr dimer // MCP-I // chemotaxis signaling protein I

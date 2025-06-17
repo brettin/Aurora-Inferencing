@@ -1,1 +1,0 @@
-b2093	ECK2086	gatB	galactitol-specific PTS enzyme IIB component // Enzyme IIB <sup>Gat</sup> // EIIB <sup>Gat</sup> // GatB

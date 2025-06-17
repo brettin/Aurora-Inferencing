@@ -1,1 +1,0 @@
-b3606	ECK3596	trmL	tRNA (cytidine/uridine-2'-<i>O</i>)-ribose methyltransferase // TrmL // YibK

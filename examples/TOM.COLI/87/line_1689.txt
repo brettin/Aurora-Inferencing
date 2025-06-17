@@ -1,1 +1,0 @@
-b1679	ECK1675	sufE	sulfur carrier protein SufE // YnhA // SufE // sulfur acceptor for SufS cysteine desulfurase

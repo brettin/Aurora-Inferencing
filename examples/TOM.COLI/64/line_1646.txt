@@ -1,1 +1,0 @@
-b3119	ECK3108	tdcR	DNA-binding transcriptional activator TdcR // TdcR // threonine dehydratase operon activator protein // TdcR

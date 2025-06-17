@@ -1,1 +1,0 @@
-b0588	ECK0581	fepC	ferric enterobactin ABC transporter ATP binding subunit // FepC

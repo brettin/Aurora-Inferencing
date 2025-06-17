@@ -1,1 +1,0 @@
-b1159	ECK1145	mcrA	e14 prophage; Type IV methyl-directed restriction enzyme EcoKMcrA // RglA // McrA // restriction of DNA at 5-methylcytosine residues // EcoKMcrA // 5-methylcytosine-specific restriction enzyme McrA

@@ -1,1 +1,0 @@
-b4372	ECK4363	holD	DNA polymerase III subunit &psi; // HolD

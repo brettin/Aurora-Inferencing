@@ -1,1 +1,0 @@
-b3798	ECK3791	leuT	tRNA-Leu(CAG) // tRNA<sup>leuT</sup>

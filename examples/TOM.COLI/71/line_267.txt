@@ -1,1 +1,0 @@
-b4520	ECK1156	ymgF	inner membrane protein YmgF // YmgF // inner membrane protein that interacts with cell division proteins

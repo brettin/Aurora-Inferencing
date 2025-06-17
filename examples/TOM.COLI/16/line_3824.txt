@@ -1,1 +1,0 @@
-b2566	ECK2564	era	30S ribosomal subunit maturation GTPase Era // SdgE // RbaA // Era

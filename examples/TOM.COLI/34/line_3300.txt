@@ -1,1 +1,0 @@
-b1237	ECK1232	hns	DNA-binding transcriptional dual regulator H-NS // Irk // MsyA // PilG // TopS // TopX // VirR // Drs // Drc // Cur // Hns // FimG // DrdX // BglY // HnsA // DNA-binding protein HLP-II (HU, BH2, HD, NS) // OsmZ // H-NS // H-NS

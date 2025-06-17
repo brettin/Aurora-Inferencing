@@ -1,1 +1,0 @@
-b3212	ECK3202	gltB	glutamate synthase subunit GltB // OssB // PsiQ // AspB // GltB // glutamate synthase, large subunit

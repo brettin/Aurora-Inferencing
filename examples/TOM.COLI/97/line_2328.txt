@@ -1,1 +1,0 @@
-b0857	ECK0848	potI	putrescine ABC transporter membrane subunit PotI // PotI

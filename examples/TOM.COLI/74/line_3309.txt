@@ -1,1 +1,0 @@
-b2307	ECK2301	hisM	lysine/arginine/ornithine ABC transporter / histidine ABC transporter, membrane subunit HisM // HisM

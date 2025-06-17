@@ -1,1 +1,0 @@
-b3601	ECK3590	mtlR	transcriptional repressor MtlR // MtlR // repressor for mtl

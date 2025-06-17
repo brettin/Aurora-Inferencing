@@ -1,1 +1,0 @@
-b0507	ECK0500	gcl	glyoxylate carboligase // Gcl

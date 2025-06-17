@@ -1,1 +1,0 @@
-b2241	ECK2233	glpA	anaerobic glycerol-3-phosphate dehydrogenase subunit A // GlpA

@@ -1,1 +1,0 @@
-b4370	ECK4361	leuQ	tRNA-Leu(CAG) // tRNA<sup>leuQ</sup>

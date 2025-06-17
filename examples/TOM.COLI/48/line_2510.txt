@@ -1,1 +1,0 @@
-b3405	ECK3392	ompR	OmpR-Phosphorylated // DNA-binding transcriptional dual regulator OmpR // OmpR // Kmt // Cry // OmpB // OmpR response regulator

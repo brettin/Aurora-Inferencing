@@ -1,1 +1,0 @@
-b2231	ECK2223	gyrA	DNA gyrase subunit A // ParD // NorA // NfxA // NalA // HisW // GyrA

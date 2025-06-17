@@ -1,1 +1,0 @@
-b3932	ECK3924	hslV	peptidase component of the HslVU protease // ClpQ // YiiC // HtpO // HslV

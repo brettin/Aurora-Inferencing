@@ -1,1 +1,0 @@
-b0408	ECK0402	secD	Sec translocon accessory complex subunit SecD // SecD

@@ -1,1 +1,0 @@
-b0762	ECK0751	acrZ	multidrug efflux pump accessory protein AcrZ // AcrZ // YbhT // small membrane protein that interacts with the AcrAB-TolC multidrug efflux pump

@@ -1,1 +1,0 @@
-b2405	ECK2399	xapR	DNA-binding transcriptional activator XapR // YfeB // PndR // XapR // XapR

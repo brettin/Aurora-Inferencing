@@ -1,1 +1,0 @@
-b0873	ECK0864	hcp	protein <i>S</i>-nitrosylase // Hcp // YbjW // PriS // fuscoredoxin // prismane protein // hybrid-cluster protein // nitric oxide reductase

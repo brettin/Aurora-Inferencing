@@ -1,1 +1,0 @@
-b0692	ECK0680	potE	putrescine transporter PotE // PotE // putrescine:ornithine antiporter // putrescine symporter

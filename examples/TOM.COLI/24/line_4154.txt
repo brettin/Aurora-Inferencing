@@ -1,1 +1,0 @@
-b0882	ECK0873	clpA	ATP-dependent Clp protease ATP-binding subunit ClpA // LopD // ATP-binding component of serine protease // ClpA

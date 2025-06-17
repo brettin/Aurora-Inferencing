@@ -1,1 +1,0 @@
-b0907	ECK0898	serC	phosphoserine/phosphohydroxythreonine aminotransferase // SerC // PdxF // PdxC

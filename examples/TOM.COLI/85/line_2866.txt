@@ -1,1 +1,0 @@
-b0806	ECK0795	mcbA	DUF1471 domain-containing protein McbA // YbiM // McbA // protein involved in colanic acid production

@@ -1,1 +1,0 @@
-b2184	ECK2178	radD	putative DNA repair helicase RadD // YejI // YejJ // YejH // RadD

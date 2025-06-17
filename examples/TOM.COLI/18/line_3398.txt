@@ -1,1 +1,0 @@
-b0829	ECK0819	gsiA	glutathione ABC transporter ATP binding subunit GsiA // GsiA // YliA

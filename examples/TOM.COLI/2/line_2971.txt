@@ -1,1 +1,0 @@
-b1139	ECK1125	lit	e14 prophage; cell death peptidase Lit // Lit // Lit, cell death peptidase; phage exclusion

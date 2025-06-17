@@ -1,1 +1,0 @@
-b2434	ECK2429	ypeA	putative acetyltransferase YpeA // YpeA // putative acyltransferase with acyl-CoA N-acyltransferase domain

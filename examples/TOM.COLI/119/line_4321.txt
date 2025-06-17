@@ -1,1 +1,0 @@
-b3734	ECK3727	atpA	ATP synthase F<sub>1</sub> complex subunit &alpha; // UncA // PapA // AtpA

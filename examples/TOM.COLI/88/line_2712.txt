@@ -1,1 +1,0 @@
-b0635	ECK0628	mrdA	peptidoglycan DD-transpeptidase MrdA // PbpA // MrdA // PBP2 // penicillin-binding protein 2

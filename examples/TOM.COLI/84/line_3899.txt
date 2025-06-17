@@ -1,1 +1,0 @@
-b1185	ECK1173	dsbB	protein thiol:quinone oxidoreductase DsbB<sub>oxidized</sub> // RosB // IarB // DsbX // RoxB // YcgA // DsbB // DsbB<sub>oxidized</sub> // protein thiol:quinone oxidoreductase DsbB // DsbB<sub>reduced</sub> // protein thiol:quinone oxidoreductase DsbB<sub>reduced</sub> // quinone reductase DsbB

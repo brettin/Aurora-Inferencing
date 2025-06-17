@@ -1,1 +1,0 @@
-b2622	ECK2618	intA	CP4-57 prophage; integrase IntA // IntX // IntA // SlpA

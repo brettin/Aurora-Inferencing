@@ -1,1 +1,0 @@
-b3265	ECK3252	acrE	multidrug efflux pump membrane fusion lipoprotein AcrE // EnvC // AcrE

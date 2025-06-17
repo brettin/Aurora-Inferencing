@@ -1,1 +1,0 @@
-b2886	ECK2881	ygfS	putative electron transport protein YgfS // YgfS // putative oxidoreductase, 4Fe-4S ferredoxin-type subunit

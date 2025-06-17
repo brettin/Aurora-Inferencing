@@ -1,1 +1,0 @@
-b0345	ECK0342	lacI	DNA-binding transcriptional repressor LacI // LacI // transcriptional repressor of the lac operon // LacI

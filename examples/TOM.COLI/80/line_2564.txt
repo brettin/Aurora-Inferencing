@@ -1,1 +1,0 @@
-b2675	ECK2669	nrdE	ribonucleoside-diphosphate reductase 2 subunit &alpha; // NrdE

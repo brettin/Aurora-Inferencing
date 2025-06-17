@@ -1,1 +1,0 @@
-b0780	ECK0769	ybhK	putative transferase YbhK // YbhK // putative transferase with NAD(P)-binding Rossmann-fold domain

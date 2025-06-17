@@ -1,1 +1,0 @@
-b3334	ECK3321	gspM	type II secretion system protein GspM // HopZ // GspM // PshM

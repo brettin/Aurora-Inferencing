@@ -1,1 +1,0 @@
-b3853	ECK3845	alaT	L-alanyl-tRNA<SUP>alaT</SUP> // tRNA-Ala(UGC) // tRNA<sup>alaT</sup>

@@ -1,1 +1,0 @@
-b4109	ECK4102	rdcA	regulator of diguanylate cyclase RdcA // RdcA // CrfC // YjdA // clamp-binding protein CrfC // clamp-binding sister replication fork colocalization protein

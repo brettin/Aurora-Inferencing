@@ -1,1 +1,0 @@
-b2318	ECK2312	truA	tRNA pseudouridine<sup>38-40</sup> synthase // LeuK // HisT // AsuC // TruA

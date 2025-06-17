@@ -1,1 +1,0 @@
-b2072	ECK2066	pphC	protein-serine/threonine phosphatase PphC // PphC // YegK

@@ -1,1 +1,0 @@
-b1291	ECK1286	sapD	putrescine ABC exporter ATP binding protein SapD // TrkE // SapD

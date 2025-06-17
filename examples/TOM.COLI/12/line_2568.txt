@@ -1,1 +1,0 @@
-b3206	ECK3195	npr	Npr-<i>N</i>-phospho-L-histidine // phosphorelay protein NPr // YhbK // Npr // RpoR // PtsO // phosphocarrier protein NPr

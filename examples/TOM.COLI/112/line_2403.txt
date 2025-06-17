@@ -1,1 +1,0 @@
-b1022	ECK1012	pgaC	poly-<i>N</i>-acetyl-D-glucosamine synthase subunit PgaC // YcdQ // HmsR // PgaC // PGA synthase subunit PgaC

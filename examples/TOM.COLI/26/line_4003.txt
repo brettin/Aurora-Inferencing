@@ -1,1 +1,0 @@
-b4123	ECK4116	dcuB	anaerobic C4-dicarboxylate transporter DcuB // GenF // DcuB

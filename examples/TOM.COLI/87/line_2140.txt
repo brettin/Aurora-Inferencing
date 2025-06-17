@@ -1,1 +1,0 @@
-b4110	ECK4103	rdcB	regulator of diguanylate cyclase RdcB // RdcB // YjcZ

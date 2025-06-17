@@ -1,1 +1,0 @@
-b0060	ECK0061	polB	DNA polymerase II // DinA // PolB

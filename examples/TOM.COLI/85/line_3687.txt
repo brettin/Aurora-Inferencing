@@ -1,1 +1,0 @@
-b1071	ECK1056	flgM	anti-sigma factor for FliA (&sigma;<sup>28</sup>) // FlgM

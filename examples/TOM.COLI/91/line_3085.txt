@@ -1,1 +1,0 @@
-b4271	ECK4264	intB	KpLE2 phage-like element; putative integrase // YjgC // IntB

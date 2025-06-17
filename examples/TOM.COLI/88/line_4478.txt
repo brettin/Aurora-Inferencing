@@ -1,1 +1,0 @@
-b0203	ECK0203	alaV	tRNA-Ala(UGC) // tRNA<sup>alaV</sup>

@@ -1,1 +1,0 @@
-b0712	ECK0701	pxpC	5-oxoprolinase component C // PxpC // YbgK // putative carboxyltransferase subunit YbgK

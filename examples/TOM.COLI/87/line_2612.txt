@@ -1,1 +1,0 @@
-b1468	ECK1462	narZ	nitrate reductase Z subunit &alpha; // ChlZ // NarZ

@@ -1,1 +1,0 @@
-b0825	ECK0815	fsaA	fructose-6-phosphate aldolase 1 // YbiZ // FsaA // MipB // Fsa

@@ -1,1 +1,0 @@
-b3496	ECK3481	dtpB	dipeptide/tripeptide:H<sup>+</sup> symporter DtpB // DtpB // YhiP

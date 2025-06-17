@@ -1,1 +1,0 @@
-b1269	ECK1263	rluB	23S rRNA pseudouridine<sup>2605</sup> synthase // RluB // YciL // ribosomal large subunit pseudouridine synthase B

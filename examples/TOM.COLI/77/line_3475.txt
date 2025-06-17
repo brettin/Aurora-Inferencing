@@ -1,1 +1,0 @@
-b2243	ECK2235	glpC	anaerobic glycerol-3-phosphate dehydrogenase subunit C // GlpC

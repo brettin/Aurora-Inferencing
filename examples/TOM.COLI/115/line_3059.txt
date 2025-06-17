@@ -1,1 +1,0 @@
-b0174	ECK0173	ispU	<i>ditrans,polycis</i>-undecaprenyl-diphosphate synthase [(2<i>E</i>,6<i>E</i>)-farnesyl-diphosphate specific] // IspU // Rth // YaeS // UppS

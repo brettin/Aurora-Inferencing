@@ -1,1 +1,0 @@
-b0526	ECK0519	cysS	cysteine&mdash;tRNA ligase // Syc // CysS // CysRS

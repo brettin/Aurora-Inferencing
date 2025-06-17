@@ -1,1 +1,0 @@
-b4138	ECK4132	dcuA	C4-dicarboxylate transporter DcuA // GenA // DcuA

@@ -1,1 +1,0 @@
-b3934	ECK3926	cytR	DNA-binding transcriptional repressor CytR // CytR // CytR

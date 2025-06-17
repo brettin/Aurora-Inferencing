@@ -1,1 +1,0 @@
-b3447	ECK3431	ggt	glutathione hydrolase, small subunit // Ggt-small // glutathione hydrolase, large subunit // Ggt-large // glutathione hydrolase proenzyme // Ggt // &gamma;-glutamyltranspeptidase // &gamma;-glutamyl hydrolase

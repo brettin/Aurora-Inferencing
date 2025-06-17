@@ -1,1 +1,0 @@
-b1480	ECK1474	sra	ribosome-associated protein Sra // Sra // RpsV // protein D // 30S ribosomal subunit protein S22

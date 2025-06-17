@@ -1,1 +1,0 @@
-b0755	ECK0744	gpmA	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase // Gpm // GpmA

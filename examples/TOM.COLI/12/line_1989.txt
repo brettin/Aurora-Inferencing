@@ -1,1 +1,0 @@
-b1089	ECK1075	rpmF	50S ribosomal subunit protein L32 // RpmF

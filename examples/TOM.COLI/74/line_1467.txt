@@ -1,1 +1,0 @@
-b1618	ECK1613	uidR	DNA-binding transcriptional repressor UidR // GusR // UidR // UidR

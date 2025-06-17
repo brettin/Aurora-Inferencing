@@ -1,1 +1,0 @@
-b1427	ECK1420	rimL	ribosomal-protein-L12-serine <i>N</i>-acetyltransferase // RimL

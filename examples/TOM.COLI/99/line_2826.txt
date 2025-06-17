@@ -1,1 +1,0 @@
-b0926	ECK0917	mepK	peptidoglycan L,D-endopeptidase // YcbK // MepK

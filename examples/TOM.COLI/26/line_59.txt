@@ -1,1 +1,0 @@
-b3573	ECK3562	ysaA	putative electron transport protein YsaA // YsaA // YiaI // putative hydrogenase, 4Fe-4S ferredoxin-type component

@@ -1,1 +1,0 @@
-b4025	ECK4017	pgi	glucose-6-phosphate isomerase // Pgi

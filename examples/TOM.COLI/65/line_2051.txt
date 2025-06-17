@@ -1,1 +1,0 @@
-b2517	ECK2513	rlmN	23S rRNA m<sup>2</sup>A2503 methyltransferase/tRNA m<sup>2</sup>A37 methyltransferase // YfgB // RlmN // ribosomal RNA large subunit methyltransferase N

@@ -1,1 +1,0 @@
-b0621	ECK0614	dcuC	anaerobic C4-dicarboxylate transporter DcuC // DcuC

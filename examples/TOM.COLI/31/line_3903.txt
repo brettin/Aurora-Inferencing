@@ -1,1 +1,0 @@
-b3540	ECK3527	dppF	dipeptide ABC transporter ATP binding subunit DppF // DppE // DppF

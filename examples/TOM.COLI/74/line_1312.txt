@@ -1,1 +1,0 @@
-b0209	ECK0209	yafD	endonuclease/exonuclease/phosphatase domain-containing protein YafD // YafD

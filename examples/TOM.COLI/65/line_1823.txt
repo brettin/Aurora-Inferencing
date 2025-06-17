@@ -1,1 +1,0 @@
-b3981	ECK3972	secE	Sec translocon subunit SecE // SecE // MbrC // PrlG

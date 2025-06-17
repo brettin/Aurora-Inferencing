@@ -1,1 +1,0 @@
-b0187	ECK0186	yaeR	VOC domain-containing protein YaeR // YaeR // putative lyase

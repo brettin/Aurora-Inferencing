@@ -1,1 +1,0 @@
-b0240	ECK0241	crl	RNA polymerase holoenzyme assembly factor Crl // Crl

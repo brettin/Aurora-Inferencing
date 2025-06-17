@@ -1,1 +1,0 @@
-b1805	ECK1803	fadD	long-chain-fatty-acid&mdash;CoA ligase // OldD // FadD // fatty acyl-CoA synthetase

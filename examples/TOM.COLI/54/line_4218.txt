@@ -1,1 +1,0 @@
-b2759	ECK2754	casB	type I-E CRISPR system Cascade subunit CasB // YgcK // CasB // Cse2 // Cascade subunit B

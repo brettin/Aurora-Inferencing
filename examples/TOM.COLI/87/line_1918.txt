@@ -1,1 +1,0 @@
-b2570	ECK2568	rseC	protein RseC // RseC // SoxR and &sigma;<sup>E</sup> factor regulatory protein RseC

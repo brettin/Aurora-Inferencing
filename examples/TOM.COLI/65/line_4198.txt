@@ -1,1 +1,0 @@
-b2194	ECK2186	ccmH	holocytochrome <I>c</I> synthase CcmH component // YejP // cytochrome <I>c</I> maturation protein H // CcmH // thiol:disulfide oxidoreductase CcmH

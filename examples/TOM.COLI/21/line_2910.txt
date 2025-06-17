@@ -1,1 +1,0 @@
-b0743	ECK0732	lysT	tRNA-Lys(UUU) // tRNA<sup>lysT</sup>

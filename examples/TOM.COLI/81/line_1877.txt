@@ -1,1 +1,0 @@
-b1006	ECK0997	rutG	pyrimidine:H<sup>+</sup> symporter // YcdG // RutG

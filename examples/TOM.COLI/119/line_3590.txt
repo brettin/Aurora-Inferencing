@@ -1,1 +1,0 @@
-b2800	ECK2795	fucA	L-fuculose-phosphate aldolase // Prd // FucC // FucA

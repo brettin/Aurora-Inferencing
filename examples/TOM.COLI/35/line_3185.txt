@@ -1,1 +1,0 @@
-b0202	ECK0202	ileV	tRNA-Ile(GAU) // tRNA<sup>ileV</sup>

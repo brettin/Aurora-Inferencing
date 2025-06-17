@@ -1,1 +1,0 @@
-b3852	ECK3844	ileT	tRNA-Ile(GAU) // tRNA<sup>ileT</sup>

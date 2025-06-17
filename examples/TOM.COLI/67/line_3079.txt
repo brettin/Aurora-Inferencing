@@ -1,1 +1,0 @@
-b2349	ECK2343	intS	CPS-53 (KpLE1) prophage; prophage CPS-53 integrase // IntC // YfdB // IntS

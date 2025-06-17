@@ -1,1 +1,0 @@
-b1086	ECK1071	rluC	23S rRNA pseudouridine<sup>955/2504/2580</sup> synthase // YceC // RluC // ribosomal large subunit pseudouridine synthase C // ribosomal large subunit (23S rRNA) pseudouridine synthase C

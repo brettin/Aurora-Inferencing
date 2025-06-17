@@ -1,1 +1,0 @@
-b1150	ECK1136	ymfR	e14 prophage; IPR020297 domain-containing protein YmfR // YmfR

@@ -1,1 +1,0 @@
-b2506	ECK2502	yfgI	nalidixic acid resistance protein YfgI // YfgI // conserved protein, involved in DNA damage response

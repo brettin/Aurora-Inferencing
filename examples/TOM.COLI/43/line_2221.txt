@@ -1,1 +1,0 @@
-b1849	ECK1850	purT	phosphoribosylglycinamide formyltransferase 2 // PurT // GART2 // glycinamide ribonucleotide transformylase 2 // 5'-phosphoribosylglycinamide transformylase 2 // GAR transformylase 2 // GAR transformylase T

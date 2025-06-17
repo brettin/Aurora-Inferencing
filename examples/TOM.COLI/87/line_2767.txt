@@ -1,1 +1,0 @@
-b1594	ECK1589	mlc	DNA-binding transcriptional repressor Mlc // Mlc // DgsA // Mlc

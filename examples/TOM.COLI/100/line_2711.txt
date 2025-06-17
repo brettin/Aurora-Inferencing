@@ -1,1 +1,0 @@
-b0634	ECK0627	mrdB	peptidoglycan glycosyltransferase MrdB // RodA // MrdB // SEDS family protein MrdB

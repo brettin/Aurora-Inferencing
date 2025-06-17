@@ -1,1 +1,0 @@
-b0543	ECK0534	emrE	DLP12 prophage; multidrug/betaine/choline efflux transporter EmrE // MvrC // EmrE // EB<sup>R</sup>

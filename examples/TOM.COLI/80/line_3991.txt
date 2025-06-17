@@ -1,1 +1,0 @@
-b1483	ECK1477	ddpF	putative D,D-dipeptide ABC transporter ATP-binding subunit DdpF // DdpF // YddO

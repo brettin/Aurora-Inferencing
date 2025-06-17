@@ -1,1 +1,0 @@
-b1025	ECK1015	dgcT	probable diguanylate cyclase DgcT // DgcT // YcdT

@@ -1,1 +1,0 @@
-b0728	ECK0716	sucC	succinyl-CoA synthetase subunit &beta; // SucC // &beta; subunit

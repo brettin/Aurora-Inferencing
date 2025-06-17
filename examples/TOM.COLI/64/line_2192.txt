@@ -1,1 +1,0 @@
-b4211	ECK4207	qorB	NAD(P)H:quinone oxidoreductase // QorB // YtfG // QOR2

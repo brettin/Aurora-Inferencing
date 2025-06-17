@@ -1,1 +1,0 @@
-b3966	ECK3958	btuB	cobalamin outer membrane transporter // Cer // Bfe // BtuB // Vitamin B12 outer membrane transporter

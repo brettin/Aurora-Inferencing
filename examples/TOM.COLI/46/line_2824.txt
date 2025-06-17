@@ -1,1 +1,0 @@
-b2175	ECK2169	mepS	peptidoglycan endopeptidase/peptidoglycan L,D-carboxypeptidase // YeiV // Spr // MepS

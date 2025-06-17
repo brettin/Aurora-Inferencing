@@ -1,1 +1,0 @@
-b2268	ECK2262	rbn	ribonuclease BN // Rnz // EcoZ // ZipD // ElaC // Rbn

@@ -1,1 +1,0 @@
-b1038	ECK1024	csgF	curli assembly component CsgF // CsgF

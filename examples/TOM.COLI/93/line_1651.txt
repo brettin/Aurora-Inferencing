@@ -1,1 +1,0 @@
-b3116	ECK3105	tdcC	threonine/serine:H<sup>+</sup> symporter TdcC // TdcC // threonine/serine STP transporter

@@ -1,1 +1,0 @@
-b1403	ECK0357	insC2	IS2 insertion element repressor InsA // InsC2

@@ -1,1 +1,0 @@
-b3200	ECK3189	lptA	lipopolysaccharide transport system protein LptA // YhbN // LptA

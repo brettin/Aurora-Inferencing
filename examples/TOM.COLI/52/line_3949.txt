@@ -1,1 +1,0 @@
-b1575	ECK1569	dicB	Qin prophage; cell division inhibition protein DicB // FtsT // DicB

@@ -1,1 +1,0 @@
-b0158	ECK0157	btuF	vitamin B<sub>12</sub> ABC transporter periplasmic binding protein // BtuF // YadT

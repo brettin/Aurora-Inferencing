@@ -1,1 +1,0 @@
-b2831	ECK2827	mutH	DNA mismatch repair protein MutH // Prv // MutR // MutH

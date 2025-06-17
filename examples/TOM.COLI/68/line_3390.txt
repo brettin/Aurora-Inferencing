@@ -1,1 +1,0 @@
-b3325	ECK3312	gspD	type II secretion system secretin GspD<sub>&alpha;</sub> // GspD // YheF // GspD<sub>&alpha;</sub> // GspD<sub>&alpha;</sub>

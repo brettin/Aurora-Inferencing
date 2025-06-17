@@ -1,1 +1,0 @@
-b0101	ECK0101	yacG	DNA gyrase inhibitor YacG // YacG

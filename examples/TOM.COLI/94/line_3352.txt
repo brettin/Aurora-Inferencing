@@ -1,1 +1,0 @@
-b3510	ECK3494	hdeA	periplasmic acid stress chaperone HdeA // YhhC // YhiB // HdeA // HdeA monomer, chaperone active form

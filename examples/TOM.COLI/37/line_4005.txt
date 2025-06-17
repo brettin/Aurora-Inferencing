@@ -1,1 +1,0 @@
-b3507	ECK3491	dctR	putative DNA-binding transcriptional regulator DctR // DctR // YhiF

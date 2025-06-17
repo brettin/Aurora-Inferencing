@@ -1,1 +1,0 @@
-b1207	ECK1195	prs	ribose-phosphate diphosphokinase // DnaR // Prs // PrsA

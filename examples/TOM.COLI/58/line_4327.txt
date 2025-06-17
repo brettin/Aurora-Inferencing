@@ -1,1 +1,0 @@
-b2222	ECK2215	atoA	acetyl-CoA:acetoacetyl-CoA transferase subunit &beta; // AtoA

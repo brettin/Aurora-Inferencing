@@ -1,1 +1,0 @@
-b3375	ECK3362	frlR	DNA-binding transcriptional regulator FrlR // YhfR // FrlR

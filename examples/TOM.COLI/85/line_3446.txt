@@ -1,1 +1,0 @@
-b0144	ECK0143	gluQ	glutamyl-Q tRNA<sup>Asp</sup> synthetase // GluQ // YadB

@@ -1,1 +1,0 @@
-b1616	ECK1611	uidB	glucuronide:H<sup>+</sup> symporter // UidP // GusB // UidB // glucuronide GPH transporter

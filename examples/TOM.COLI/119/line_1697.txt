@@ -1,1 +1,0 @@
-b0726	ECK0714	sucA	subunit of E1(0) component of 2-oxoglutarate dehydrogenase // SucA // E1(o) subunit

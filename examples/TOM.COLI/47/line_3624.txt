@@ -1,1 +1,0 @@
-b2167	ECK2160	fruA	fructose-specific PTS multiphosphoryl transfer protein FruA // FruA // PtsF // Enzyme IIBC<sup>fru</sup> // EIIBC<sup>fru</sup> // EIIB'BC<sup>fru</sup> // Enzyme IIB'BC<sup>fru</sup>

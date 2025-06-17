@@ -1,1 +1,0 @@
-b0440	ECK0434	hupB	DNA-binding protein HU-&beta; // DpeA // HopD // DbhB // HupB // transcriptional dual regulator HU-&beta;, NS1 (HU-1)

@@ -1,1 +1,0 @@
-b3659	ECK3649	setC	putative arabinose exporter // SetC // YicK // YicK MFS Transporter

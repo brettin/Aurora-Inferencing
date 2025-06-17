@@ -1,1 +1,0 @@
-b4165	ECK4161	glyY	tRNA-Gly(GCC) // tRNA<sup>glyY</sup>

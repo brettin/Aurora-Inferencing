@@ -1,1 +1,0 @@
-b2220	ECK2213	atoC	DNA-binding transcriptional activator AtoC-phosphorylated // AtoC-P<sup>asp55</sup> // AtoC response regulator - phosphorylated // AtoC-P // DNA-binding transcriptional activator/ornithine decarboxylase inhibitor AtoC // AtoC // AtoC response regulator // AtoC transcriptional activator; Az protein inhibitor of ODC

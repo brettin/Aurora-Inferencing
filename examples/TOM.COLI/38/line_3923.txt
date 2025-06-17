@@ -1,1 +1,0 @@
-b4052	ECK4044	dnaB	replicative DNA helicase // GrpD // GrpA // GroP // DnaB

@@ -1,1 +1,0 @@
-b2418	ECK2413	pdxK	pyridoxine/pyridoxal/pyridoxamine kinase // PdxL // YfeI // PdxK // PLK1 // pyridoxal kinase I

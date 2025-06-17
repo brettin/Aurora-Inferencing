@@ -1,1 +1,0 @@
-b0198	ECK0198	metI	L-methionine/D-methionine ABC transporter membrane subunit // MetD // YaeE // MetI

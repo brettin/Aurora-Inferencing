@@ -1,1 +1,0 @@
-b3714	ECK3707	adeP	adenine:H<sup>+</sup> symporter // AdeP // YieG // PurP

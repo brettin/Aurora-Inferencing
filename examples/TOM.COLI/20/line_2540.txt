@@ -1,1 +1,0 @@
-b2288	ECK2282	nuoA	NADH:quinone oxidoreductase subunit A // NuoA // NADH:ubiquinone oxidoreductase, membrane subunit A

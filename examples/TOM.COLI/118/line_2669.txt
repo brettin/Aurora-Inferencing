@@ -1,1 +1,0 @@
-b3635	ECK3625	mutM	DNA-formamidopyrimidine glycosylase // Fpg // MutM // 8-oxoguanine DNA glycosylase

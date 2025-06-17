@@ -1,1 +1,0 @@
-b4361	ECK4351	dnaC	DNA replication protein DnaC // DnaD // DnaC // chromosome replication; initiation and chain elongation

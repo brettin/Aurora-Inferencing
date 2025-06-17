@@ -1,1 +1,0 @@
-b3178	ECK3167	ftsH	ATP-dependent zinc metalloprotease FtsH // Std // TolZ // MrsC // FtsH // HflB

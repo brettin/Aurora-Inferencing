@@ -1,1 +1,0 @@
-b2463	ECK2458	maeB	malate dehydrogenase (oxaloacetate-decarboxylating) (NADP<sup>+</sup>) // YpfF // MaeB // NADP<sup>+</sup>-dependent malate dehydrogenase // NADP<sup>+</sup>-dependent malic enzyme

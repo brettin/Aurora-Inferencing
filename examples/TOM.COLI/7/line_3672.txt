@@ -1,1 +1,0 @@
-b1941	ECK1939	fliI	flagellar export ATPase FliI // Fla // FlaC // FliI

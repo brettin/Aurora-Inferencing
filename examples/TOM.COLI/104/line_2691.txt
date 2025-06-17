@@ -1,1 +1,0 @@
-b3600	ECK3589	mtlD	mannitol-1-phosphate 5-dehydrogenase // MtlD

@@ -1,1 +1,0 @@
-b1250	ECK1244	kch	K<sup>+</sup> channel Kch // Kch

@@ -1,1 +1,0 @@
-b1140	ECK1126	intE	e14 prophage; putative integrase // YcfI // IntE

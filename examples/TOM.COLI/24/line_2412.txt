@@ -1,1 +1,0 @@
-b0254	ECK0256	perR	CP4-6 prophage; putative transcriptional regulator PerR // PerR

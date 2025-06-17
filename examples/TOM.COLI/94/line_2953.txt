@@ -1,1 +1,0 @@
-b0116	ECK0115	lpd	lipoamide dehydrogenase // Lpd // Dhl // LpdA // E3 subunit

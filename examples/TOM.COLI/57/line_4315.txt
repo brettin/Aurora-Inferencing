@@ -1,1 +1,0 @@
-b3733	ECK3726	atpG	ATP synthase F<sub>1</sub> complex subunit &gamma; // UncG // PapC // AtpG // ATP synthase F<sub>1</sub> complex - gamma subunit

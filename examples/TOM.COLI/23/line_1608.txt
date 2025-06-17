@@ -1,1 +1,0 @@
-b3273	ECK3260	thrV	tRNA-Thr(GGU) // tRNA<sup>Thr1</sup>(GGU) // tRNA<sup>thrV</sup>

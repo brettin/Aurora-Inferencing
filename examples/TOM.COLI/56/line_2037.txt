@@ -1,1 +1,0 @@
-b1084	ECK1069	rne	ribonuclease E // SmbB // Ams // Rne

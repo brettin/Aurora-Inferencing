@@ -1,1 +1,0 @@
-b4209	ECK4205	ytfE	iron-sulfur cluster repair protein YtfE // YtfE // DnrN // RIC // protein involved in repair of stress-damaged iron-sulfur clusters // high-affinity, low-capacity nitrite reductase

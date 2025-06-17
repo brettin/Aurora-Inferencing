@@ -1,1 +1,0 @@
-b4316	ECK4307	fimC	type 1 fimbriae periplasmic chaperone // PilB // FimC

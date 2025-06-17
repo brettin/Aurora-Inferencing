@@ -1,1 +1,0 @@
-b0948	ECK0939	rlmL	fused 23S rRNA m<sup>2</sup>G2445 methyltransferase and 23S rRNA m<sup>7</sup>G2069 methyltransferase // RlmK // YcbY // RlmL // RlmKL // ribosomal RNA large subunit methyltransferase L

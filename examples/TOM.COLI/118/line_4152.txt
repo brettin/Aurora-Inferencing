@@ -1,1 +1,0 @@
-b0437	ECK0431	clpP	ATP-dependent Clp protease proteolytic subunit // LopP // heat shock protein F21.5 // ClpP

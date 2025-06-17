@@ -1,1 +1,0 @@
-b3780	ECK3772	rhlB	ATP-dependent RNA helicase RhlB // MmrA // RhlB // ATP-dependent RNA helicase of the RNA degradosome

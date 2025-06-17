@@ -1,1 +1,0 @@
-b3017	ECK3008	ftsP	cell division protein FtsP // Sui // SufI // FtsP // cell division protein required during stress conditions

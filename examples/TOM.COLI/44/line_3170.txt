@@ -1,1 +1,0 @@
-b2237	ECK2229	inaA	putative lipopolysaccharide kinase InaA // YfaG // InaA // pH-inducible protein involved in stress response

@@ -1,1 +1,0 @@
-b1343	ECK1340	dbpA	ATP-dependent RNA helicase DbpA // RhlC // DbpA // ATP-dependent RNA helicase, specific for 23S rRNA

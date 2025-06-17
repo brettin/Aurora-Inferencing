@@ -1,1 +1,0 @@
-b0399	ECK0393	phoB	DNA-binding transcriptional dual regulator PhoB-phosphorylated // PhoT // PhoB response regulator - phosphorylated // PhoB-P<sup>asp53</sup> // DNA-binding transcriptional dual regulator PhoB // PhoB // PhoB response regulator

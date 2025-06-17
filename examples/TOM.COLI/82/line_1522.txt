@@ -1,1 +1,0 @@
-b1344	ECK1341	ttcA	tRNA cytosine<sup>32</sup> 2-sulfurtransferase TtcA // TtcA // YdaO // tRNA C32 thiolase

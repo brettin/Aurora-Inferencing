@@ -1,1 +1,0 @@
-b0184	ECK0183	dnaE	DNA polymerase III subunit &alpha; // SdgC // PolC // DnaE

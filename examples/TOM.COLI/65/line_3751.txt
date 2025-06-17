@@ -1,1 +1,0 @@
-b4291	ECK4281	fecA	ferric citrate outer membrane transporter // FecA

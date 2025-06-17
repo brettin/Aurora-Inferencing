@@ -1,1 +1,0 @@
-b3961	ECK3953	oxyR	DNA-binding transcriptional dual regulator OxyR // Mor // MomR // OxyR // bifunctional regulatory protein sensor for oxidative stress // OxyR

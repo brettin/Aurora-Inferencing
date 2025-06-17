@@ -1,1 +1,0 @@
-b4125	ECK4118	dcuS	DcuS-<i>N</i>-phospho-L-histidine // YjdH // DcuS-P<sup>his349</sup> // sensory histidine kinase DcuS - phosphorylated // sensor histidine kinase DcuS // DcuS

@@ -1,1 +1,0 @@
-b1262	ECK1256	trpC	fused indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase // TrpC // TrpF

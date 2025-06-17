@@ -1,1 +1,0 @@
-b0197	ECK0197	metQ	L-methionine/D-methionine ABC transporter membrane anchored binding protein // MetQ // MetD // YaeC

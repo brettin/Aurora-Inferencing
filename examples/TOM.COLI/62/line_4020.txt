@@ -1,1 +1,0 @@
-b1190	ECK1178	dadX	alanine racemase 2 // DadB // AlnB // AlnA // DadX // alanine racemase 2, PLP-binding // alanine racemase, catabolic

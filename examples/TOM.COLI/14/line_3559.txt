@@ -1,1 +1,0 @@
-b2943	ECK2938	galP	galactose:H<sup>+</sup> symporter // GalP // GalP

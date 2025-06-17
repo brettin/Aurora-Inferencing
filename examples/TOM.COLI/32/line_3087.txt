@@ -1,1 +1,0 @@
-b1432	ECK1426	insQ	putative RNA-guided DNA endonuclease InsQ // TnpB // InsQ // YdcM // putative accessory protein InsQ for insertion sequence element IS609

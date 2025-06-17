@@ -1,1 +1,0 @@
-b3750	ECK3744	rbsC	ribose ABC transporter membrane subunit // RbsT // RbsP // RbsC

@@ -1,1 +1,0 @@
-b3161	ECK3149	mtr	tryptophan:H<sup>+</sup> symporter Mtr // Mtr // tryptophan-specific transporter

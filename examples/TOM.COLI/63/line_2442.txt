@@ -1,1 +1,0 @@
-b2743	ECK2738	pcm	protein-L-isoaspartate <i>O</i>-methyltransferase // Pcm // L-isoaspartate protein carboxylmethyltransferase type II

@@ -1,1 +1,0 @@
-b3335	ECK3322	gspO	type II secretion system prepilin peptidase // YheC // HopO // HopD // GspO // HofD

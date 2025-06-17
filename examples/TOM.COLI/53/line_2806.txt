@@ -1,1 +1,0 @@
-b2815	ECK2811	metW	tRNA-initiator Met(CAU) // tRNA<sup>metW</sup> // tRNA<sup>fMet1</sup>

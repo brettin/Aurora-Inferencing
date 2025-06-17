@@ -1,1 +1,0 @@
-b0811	ECK0800	glnH	L-glutamine ABC transporter periplasmic binding protein // GlnBP // GlnH

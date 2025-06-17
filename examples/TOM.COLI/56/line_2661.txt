@@ -1,1 +1,0 @@
-b0109	ECK0108	nadC	quinolinate phosphoribosyltransferase (decarboxylating) // NadC

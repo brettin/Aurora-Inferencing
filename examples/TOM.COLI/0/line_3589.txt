@@ -1,1 +1,0 @@
-b2802	ECK2797	fucI	L-fucose isomerase // FucI

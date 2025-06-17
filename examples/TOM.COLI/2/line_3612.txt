@@ -1,1 +1,0 @@
-b2386	ECK2382	fryC	putative PTS enzyme IIC component FryC // YpdG // FryC // Enzyme IIC<sup>Fry</sup> // EIIC<sup>Fry</sup>

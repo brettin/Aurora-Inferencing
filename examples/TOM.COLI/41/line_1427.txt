@@ -1,1 +1,0 @@
-b2401	ECK2395	valU	tRNA-Val(UAC) // tRNA<sup>valU</sup>

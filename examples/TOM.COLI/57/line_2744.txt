@@ -1,1 +1,0 @@
-b0781	ECK0770	moaA	GTP 3',8'-cyclase // NarA // ChlA // BisA // MoaA // molybdopterin biosynthesis protein A

@@ -1,1 +1,0 @@
-b4474	ECK3360	frlC	fructoselysine 3-epimerase // YhfP // YhfO // FrlC

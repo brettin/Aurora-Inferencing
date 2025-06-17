@@ -1,1 +1,0 @@
-b3134	ECK3122	agaW	<I>N</I>-acetyl-D-galactosamine specific PTS truncated enzyme IIC component // YhaZ // AgaW // EIIC'<sup>Aga</sup> // EIIC'<sup>GalNAc</sup> // Enzyme IIC'<sup>Aga</sup> // Enzyme IIC'<sup>GalNAc</sup>

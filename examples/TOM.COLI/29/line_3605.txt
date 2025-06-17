@@ -1,1 +1,0 @@
-b0094	ECK0095	ftsA	cell division protein FtsA // DivA // FtsA // essential cell division protein FtsA

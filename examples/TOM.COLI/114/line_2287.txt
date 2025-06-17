@@ -1,1 +1,0 @@
-b2330	ECK2324	prmB	ribosomal protein L3 <i>N</i><sup>5</sup>-glutamine methyltransferase // PrmB // YfcB // ribosomal large subunit L3 protein glutamine methyltransferase // protein-glutamine N-methyltransferase // 50S ribosomal subunit protein L3 <i>N</i><sup>5</sup>-glutamine methyltransferase

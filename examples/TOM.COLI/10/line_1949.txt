@@ -1,1 +1,0 @@
-b0023	ECK0024	rpsT	30S ribosomal subunit protein S20 // SupS // RpsT

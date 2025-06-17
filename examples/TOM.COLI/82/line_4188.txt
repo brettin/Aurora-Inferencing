@@ -1,1 +1,0 @@
-b1216	ECK1210	chaA	Na<sup>+</sup>/K<sup>+</sup>:H<sup>+</sup> antiporter ChaA // ChaA

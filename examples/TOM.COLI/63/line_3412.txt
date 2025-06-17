@@ -1,1 +1,0 @@
-b3608	ECK3598	gpsA	glycerol-3-phosphate dehydrogenase // GpsA

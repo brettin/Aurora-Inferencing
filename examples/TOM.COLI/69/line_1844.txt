@@ -1,1 +1,0 @@
-b0377	ECK0372	sbmA	peptide antibiotic/peptide nucleic acid transporter // SbmA

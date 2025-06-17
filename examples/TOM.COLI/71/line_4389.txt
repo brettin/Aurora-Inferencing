@@ -1,1 +1,0 @@
-b1166	ECK1153	ariR	putative two-component system connector protein AriR // YmgB // AriR // regulator of acid resistance, influenced by indole

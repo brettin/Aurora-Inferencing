@@ -1,1 +1,0 @@
-b1136	ECK1122	icd	isocitrate dehydrogenase // IcdE // IcdA // Icd

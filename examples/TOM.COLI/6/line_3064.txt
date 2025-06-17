@@ -1,1 +1,0 @@
-b2747	ECK2742	ispD	2-<i>C</i>-methyl-D-erythritol 4-phosphate cytidylyltransferase // YgbP // IspD // 4-diphosphocytidyl-2C-methyl-D-erythritol synthase

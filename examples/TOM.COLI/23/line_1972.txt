@@ -1,1 +1,0 @@
-b2741	ECK2736	rpoS	RNA polymerase sigma factor RpoS // OtsX // SigS // Nur // KatF // DpeB // AppR // AbrD // RpoS // sigma 38 factor // sigma S factor // &sigma;S // RNA polymerase, sigma S (sigma 38) factor

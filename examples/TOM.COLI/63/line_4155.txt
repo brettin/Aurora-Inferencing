@@ -1,1 +1,0 @@
-b1592	ECK1587	clcB	putative chloride:H<sup>+</sup> antiporter ClcB // MriT // ClcB // YnfJ // ClC-ec2

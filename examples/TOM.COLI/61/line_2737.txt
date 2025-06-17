@@ -1,1 +1,0 @@
-b2877	ECK2873	mocA	molybdenum cofactor cytidylyltransferase // YgfJ // MocA

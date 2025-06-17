@@ -1,1 +1,0 @@
-b3266	ECK3253	acrF	multidrug efflux pump RND permease AcrF // EnvD // AcrF // AcrF

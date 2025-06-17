@@ -1,1 +1,0 @@
-b0409	ECK0403	secF	Sec translocon accessory complex subunit SecF // SecF

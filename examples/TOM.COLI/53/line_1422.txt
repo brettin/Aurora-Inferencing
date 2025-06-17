@@ -1,1 +1,0 @@
-b0746	ECK0735	valZ	tRNA-Val(UAC) // tRNA<sup>valZ</sup>

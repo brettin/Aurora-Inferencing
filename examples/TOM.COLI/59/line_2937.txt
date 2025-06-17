@@ -1,1 +1,0 @@
-b0179	ECK0178	lpxD	UDP-3-<i>O</i>-(3-hydroxymyristoyl)glucosamine <i>N</i>-acyltransferase // OmsA // FirA // LpxD

@@ -1,1 +1,0 @@
-b4143	ECK4137	groL	chaperonin GroEL // GroL // MopA // GroEL // cpn60

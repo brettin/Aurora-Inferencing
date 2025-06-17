@@ -1,1 +1,0 @@
-b3865	ECK3857	yihA	GTP-binding protein YihA // EngB // YihA // cell division protein; putative checkpoint GTPase

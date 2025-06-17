@@ -1,1 +1,0 @@
-b0049	ECK0050	apaH	diadenosine tetraphosphatase // CfcB // ApaH // bis(5'-nucleosyl)-tetraphosphatase

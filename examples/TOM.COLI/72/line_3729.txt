@@ -1,1 +1,0 @@
-b0150	ECK0149	fhuA	ferrichrome outer membrane transporter/phage receptor // TonA // FhuA

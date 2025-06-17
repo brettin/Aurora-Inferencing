@@ -1,1 +1,0 @@
-b0879	ECK0870	macB	ABC-type tripartite efflux pump ATP binding/membrane subunit // YbjZ // MacB

@@ -1,1 +1,0 @@
-b3590	ECK3579	selB	selenocysteyl-tRNA-specific translation elongation factor // FdhA // SelB

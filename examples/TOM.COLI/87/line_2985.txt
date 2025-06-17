@@ -1,1 +1,0 @@
-b0672	ECK0660	leuW	tRNA-Leu(UAG) // tRNA<sup>leuW</sup>

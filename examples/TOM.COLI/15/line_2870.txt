@@ -1,1 +1,0 @@
-b2782	ECK2776	mazF	endoribonuclease toxin MazF // MazF // ChpA // ChpAK // MazF toxin of the MazF-MazE toxin-antitoxin system that exhibits ribonuclease activity

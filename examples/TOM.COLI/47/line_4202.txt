@@ -1,1 +1,0 @@
-b2198	ECK2190	ccmD	cytochrome <i>c</i> maturation protein D // YojM // heme trafficking system protein D // CcmD

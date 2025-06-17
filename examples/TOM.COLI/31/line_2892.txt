@@ -1,1 +1,0 @@
-b4035	ECK4027	malK	maltose ABC transporter ATP binding subunit // MalB // MalK

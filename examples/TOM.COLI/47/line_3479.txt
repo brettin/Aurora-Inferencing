@@ -1,1 +1,0 @@
-b0212	ECK0212	gloB	hydroxyacylglutathione hydrolase GloB // YafR // GloB // glyoxalase II

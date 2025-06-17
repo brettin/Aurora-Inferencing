@@ -1,1 +1,0 @@
-b0438	ECK0432	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX // LopC // ClpX

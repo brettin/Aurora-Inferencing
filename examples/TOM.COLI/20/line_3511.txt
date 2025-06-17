@@ -1,1 +1,0 @@
-b2977	ECK2971	glcG	putative heme-binding protein GlcG // YghC // GlcG // conserved protein GlcG

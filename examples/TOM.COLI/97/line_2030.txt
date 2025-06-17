@@ -1,1 +1,0 @@
-b1266	ECK1260	rnm	RNase AM // TrpH // YciV // RNA/ssDNA 5'&rarr;3' exonuclease // Rnm

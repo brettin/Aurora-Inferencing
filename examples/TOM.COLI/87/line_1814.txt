@@ -1,1 +1,0 @@
-b1706	ECK1704	selO	protein adenylyltransferase SelO // SelO // YdiU // UPF0061 family protein YdiU

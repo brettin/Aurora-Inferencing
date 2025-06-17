@@ -1,1 +1,0 @@
-b0540	ECK0298	insE3	DLP12 prophage; IS3 element protein InsE // InsE3

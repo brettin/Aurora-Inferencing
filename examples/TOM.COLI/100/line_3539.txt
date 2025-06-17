@@ -1,1 +1,0 @@
-b2808	ECK2803	gcvA	DNA-binding transcriptional dual regulator GcvA // GcvA // positive regulator of gcv operon // GcvA

@@ -1,1 +1,0 @@
-b0069	ECK0070	sgrR	DNA-binding transcriptional dual regulator SgrR // YabN // SgrR // SgrR

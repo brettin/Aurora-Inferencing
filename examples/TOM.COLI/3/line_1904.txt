@@ -1,1 +1,0 @@
-b3146	ECK3134	rsmI	16S rRNA 2'-<i>O</i>-ribose C1402 methyltransferase // RsmI // YraL // ribosomal RNA small subunit methyltransferase I

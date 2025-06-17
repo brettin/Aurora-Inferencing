@@ -1,1 +1,0 @@
-b4168	ECK4164	tsaE	N<sup>6</sup>-L-threonylcarbamoyladenine synthase, TsaE subunit // TsaE // YjeE // tRNA adenosine(37) threonylcarbamoyltransferase complex, ATPase subunit

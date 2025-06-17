@@ -1,1 +1,0 @@
-b2042	ECK2036	galF	UTP:glucose-1-phosphate uridylyltransferase, low activity // YefG // WcaN // GalF

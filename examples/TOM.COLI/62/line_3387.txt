@@ -1,1 +1,0 @@
-b3328	ECK3315	gspG	type II secretion system major pseudopilin GspG // HopG // GspG // HofG

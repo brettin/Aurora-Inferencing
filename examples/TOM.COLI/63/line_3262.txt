@@ -1,1 +1,0 @@
-b1829	ECK1828	htpX	protease HtpX // HtpX // zinc dependent endoprotease

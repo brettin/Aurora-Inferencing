@@ -1,1 +1,0 @@
-b2373	ECK2369	oxc	oxalyl-CoA decarboxylase // YfdU // Oxc

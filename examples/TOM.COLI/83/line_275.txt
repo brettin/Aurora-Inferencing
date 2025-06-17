@@ -1,1 +1,0 @@
-b1149	ECK1135	ymfN	e14 prophage; chimeric replication protein/phage terminase YmfN // YmfN // e14 prophage; putative DNA-binding transcriptional regulator // e14 prophage; phage terminase-like protein YmfN

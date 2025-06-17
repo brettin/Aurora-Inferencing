@@ -1,1 +1,0 @@
-b1093	ECK1079	fabG	3-oxoacyl-[acyl-carrier-protein] reductase FabG // FabG // 3-oxoacyl-[acyl-carrier-protein] reductase subunit

@@ -1,1 +1,0 @@
-b2786	ECK2780	barA	BarA-<i>N</i>-phospho-L-histidine-861 // BarA-P<sup>his861</sup> // His-861 phosphorylated BarA // BarA-<i>N</i>-phospho-L-histidine-302 // BarA-P<sup>his302</sup> // His-302 phosphorylated BarA // BarA-phospho-L-aspartate-718 // Asp-718 phosphorylated BarA // BarA-P<SUP>asp718</SUP> // sensor histidine kinase BarA // AirS // BarA

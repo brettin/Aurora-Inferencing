@@ -1,1 +1,0 @@
-b1782	ECK1780	mipA	MltA-interacting protein // YeaF // MipA // scaffolding protein that interacts with murein polymerase and murein hydrolase

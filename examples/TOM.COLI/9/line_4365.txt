@@ -1,1 +1,0 @@
-b3501	ECK3486	arsR	DNA-binding transcriptional repressor ArsR // ArsE // ArsR // ArsR

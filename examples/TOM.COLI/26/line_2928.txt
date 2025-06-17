@@ -1,1 +1,0 @@
-b0027	ECK0028	lspA	lipoprotein signal peptidase // LspA // Lsp // signal peptidase II // leader peptidase II // SPase II // diacylglycerol prolipoprotein signal peptidase // premurein-leader peptidase // prolipoprotein signal peptidase

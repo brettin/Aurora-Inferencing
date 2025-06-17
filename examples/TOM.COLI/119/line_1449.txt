@@ -1,1 +1,0 @@
-b0480	ECK0474	ushA	5'-nucleotidase / UDP-sugar hydrolase // UshA

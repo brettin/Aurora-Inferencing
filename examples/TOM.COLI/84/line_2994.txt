@@ -1,1 +1,0 @@
-b1798	ECK1796	leuE	leucine exporter // YeaS // LeuE // LeuE leucine RhtB transporter

@@ -1,1 +1,0 @@
-b4113	ECK4106	basR	DNA-binding transcriptional dual regulator BasR-phosphorylated // PmrA // BasR // BasR-P<sup>asp51</sup> // BasR response regulator - phosphorylated // DNA-binding transcriptional dual regulator BasR // BasR response regulator

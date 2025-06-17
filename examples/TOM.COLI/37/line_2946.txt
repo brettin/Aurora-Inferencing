@@ -1,1 +1,0 @@
-b3201	ECK3190	lptB	lipopolysaccharide transport system ATP binding protein LptB // YhbG // LptB

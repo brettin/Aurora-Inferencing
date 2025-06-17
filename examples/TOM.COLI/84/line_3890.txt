@@ -1,1 +1,0 @@
-b3887	ECK3880	dtd	D-aminoacyl-tRNA deacylase // Dtd // YihZ // D-Tyr-tRNA<sup>Tyr</sup> deacylase

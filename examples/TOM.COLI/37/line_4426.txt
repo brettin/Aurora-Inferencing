@@ -1,1 +1,0 @@
-b0062	ECK0063	araA	L-arabinose isomerase // AraA

@@ -1,1 +1,0 @@
-b4349	ECK4339	hsdM	type I restriction enzyme EcoKI methylase subunit // Hsp // Hsm // HsdM // host modification, DNA methylase M // type I restriction enzyme EcoKI M protein // type I restriction enzyme EcoKI methyltransferase component

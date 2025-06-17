@@ -1,1 +1,0 @@
-b0709	ECK0698	dtpD	dipeptide:H<sup>+</sup> symporter DtpD // DtpD // YbgH

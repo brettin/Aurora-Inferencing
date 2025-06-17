@@ -1,1 +1,0 @@
-b4252	ECK4245	tabA	DUF386 domain-containing toxin-antitoxin biofilm protein TabA // YjgK // TabA

@@ -1,1 +1,0 @@
-b0578	ECK0570	nfsB	NAD(P)H-dependent nitroreductase NfsB // Ntr // NfsB // DprA // NfnB

@@ -1,1 +1,0 @@
-b1014	ECK1005	putA	fused DNA-binding transcriptional repressor / proline dehydrogenase / 1-pyrroline-5-carboxylate dehydrogenase PutA // PutC // PoaA // PutA // proline utilization A // PutA

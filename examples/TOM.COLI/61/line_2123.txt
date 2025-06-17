@@ -1,1 +1,0 @@
-b3822	ECK3816	recQ	ATP-dependent DNA helicase RecQ // RecQ

@@ -1,1 +1,0 @@
-b2011	ECK2005	sbcB	exodeoxyribonuclease I // RmuA // XonA // CpeA // SbcB // ExoI // exonuclease I, 3' --> 5' specific, deoxyribophosphodiesterase

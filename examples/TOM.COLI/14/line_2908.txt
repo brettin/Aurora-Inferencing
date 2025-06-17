@@ -1,1 +1,0 @@
-b2404	ECK2398	lysV	tRNA-Lys(UUU) // tRNA<sup>lysV</sup>

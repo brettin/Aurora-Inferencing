@@ -1,1 +1,0 @@
-b0305	ECK0304	rclR	DNA-binding transcriptional activator RclR // RclR // YkgD // RclR

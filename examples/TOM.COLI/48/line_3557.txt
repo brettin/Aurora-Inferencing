@@ -1,1 +1,0 @@
-b2151	ECK2144	galS	DNA-binding transcriptional dual regulator GalS // MglD // GalS // GalS

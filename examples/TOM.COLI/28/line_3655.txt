@@ -1,1 +1,0 @@
-b3288	ECK3274	fmt	10-formyltetrahydrofolate:L-methionyl-tRNA<sup>fMet</sup> <i>N</i>-formyltransferase // Ftm // YhdD // Fmt

@@ -1,1 +1,0 @@
-b2395	ECK2389	pdeA	putative cyclic di-GMP phosphodiesterase PdeA // PdeA // YfeA

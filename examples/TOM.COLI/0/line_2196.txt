@@ -1,1 +1,0 @@
-b2381	ECK2377	pyrR	DNA-binding transcriptional dual regulator PyrR-phosphorylated // YpdB-P<sup>asp</sup> // YpdB response regulator - phosphorylated // phosphorylated DNA-binding transcriptional activator YpdB // PyrR-P<sup>asp</sup> // DNA-binding transcriptional activator PyrR // YpdB // PyrR

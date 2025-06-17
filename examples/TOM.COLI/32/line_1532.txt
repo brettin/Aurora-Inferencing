@@ -1,1 +1,0 @@
-b1807	ECK1805	tsaB	N<sup>6</sup>-L-threonylcarbamoyladenine synthase, TsaB subunit // TsaB // YeaZ // tRNA adenosine(37) threonylcarbamoyltransferase complex, dimerization subunit

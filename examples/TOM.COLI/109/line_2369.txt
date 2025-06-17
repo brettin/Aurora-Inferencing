@@ -1,1 +1,0 @@
-b0241	ECK0242	phoE	outer membrane porin PhoE // OmpE // outer membrane pore protein E (E,Ic,NmpAB) // PhoE // outer membrane phosphoporin

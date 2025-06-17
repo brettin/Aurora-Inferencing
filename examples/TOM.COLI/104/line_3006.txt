@@ -1,1 +1,0 @@
-b0819	ECK0809	ldtB	L,D-transpeptidase LdtB // LdtB // YbiS

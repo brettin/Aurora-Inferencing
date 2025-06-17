@@ -1,1 +1,0 @@
-b1055	ECK1040	trhO	tRNA U34 hydroxylase TrhO // TrhO // YceA // UPF0176 protein YceA // tRNA wobble base hydroxylase TrhO

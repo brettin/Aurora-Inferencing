@@ -1,1 +1,0 @@
-b1659	ECK1655	punR	DNA-binding transcriptional activator PunR // PunR // putative LysR family DNA-binding transcriptional regulator YdhB // YdhB

@@ -1,1 +1,0 @@
-b2686	ECK2680	emrB	multidrug efflux pump membrane subunit EmrB // EmrB

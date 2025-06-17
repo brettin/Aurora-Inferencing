@@ -1,1 +1,0 @@
-b3326	ECK3313	gspE	type II secretion system ATPase GspE // YheG // GspE

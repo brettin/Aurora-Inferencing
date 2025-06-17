@@ -1,1 +1,0 @@
-b1485	ECK1479	ddpC	putative D,D-dipeptide ABC transporter membrane subunit DdpC // DdpC // YddQ

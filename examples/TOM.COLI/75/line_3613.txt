@@ -1,1 +1,0 @@
-b2387	ECK2383	fryB	putative PTS enzyme IIB component FryB // YpdH // FryB // Enzyme IIB<sup>Fry</sup> // EIIB<sup>Fry</sup>

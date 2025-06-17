@@ -1,1 +1,0 @@
-b2350	ECK2344	yfdG	CPS-53 (KpLE1) prophage; putative bactoprenol-linked glucose translocase // GtrA // YfdG // gtrA<sub>EC</sub>

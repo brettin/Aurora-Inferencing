@@ -1,1 +1,0 @@
-b4150	ECK4146	ampC	&beta;-lactamase // AmpA // AmpC

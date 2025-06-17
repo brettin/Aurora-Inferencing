@@ -1,1 +1,0 @@
-b1713	ECK1711	pheT	phenylalanine&mdash;tRNA ligase subunit &beta; // PheT

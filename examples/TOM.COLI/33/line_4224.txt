@@ -1,1 +1,0 @@
-b0032	ECK0033	carA	carbamoyl-phosphate synthetase small subunit // CarA // Arg // PyrA // carbamoyl phosphate synthetase, &alpha; chain // carbamoyl-phosphate synthetase subunit &alpha;

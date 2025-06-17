@@ -1,1 +1,0 @@
-b4393	ECK4385	trpR	DNA-binding transcriptional repressor TrpR // RtrY // TrpR // TrpR

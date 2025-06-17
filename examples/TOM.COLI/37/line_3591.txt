@@ -1,1 +1,0 @@
-b0095	ECK0096	ftsZ	cell division protein FtsZ // SulB // SfiB // FtsZ // essential cell division protein FtsZ

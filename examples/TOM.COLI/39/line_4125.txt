@@ -1,1 +1,0 @@
-b3816	ECK3810	corA	Ni<sup>2+</sup>/Co<sup>2+</sup>/Mg<sup>2+</sup> transporter // CorA // CorA magnesium ion MIT transporter // nickel/cobalt/magnesium transporter

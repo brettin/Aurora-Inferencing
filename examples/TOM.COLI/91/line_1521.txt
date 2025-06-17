@@ -1,1 +1,0 @@
-b3061	ECK3051	ttdA	L(+)-tartrate dehydratase subunit &alpha; // YgjA // TtdA

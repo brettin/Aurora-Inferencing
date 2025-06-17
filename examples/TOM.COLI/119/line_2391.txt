@@ -1,1 +1,0 @@
-b2598	ECK2595	pheL	<i>phe</i> operon leader peptide // PheL // leader peptide of chorismate mutase-P-prephenate dehydratase

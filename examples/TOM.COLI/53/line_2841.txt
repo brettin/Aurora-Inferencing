@@ -1,1 +1,0 @@
-b4080	ECK4073	mdtP	putative multidrug efflux pump outer membrane channel // MdtP // YjcP // SdsP

@@ -1,1 +1,0 @@
-b0283	ECK0282	paoD	molybdenum cofactor insertion chaperone PaoD // PaoD // YagQ // molybdenum cofactor insertion chaperone for PaoABC

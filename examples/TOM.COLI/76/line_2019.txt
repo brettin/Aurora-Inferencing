@@ -1,1 +1,0 @@
-b2914	ECK2910	rpiA	ribose-5-phosphate isomerase A // YgfC // RpiA

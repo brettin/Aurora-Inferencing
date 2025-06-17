@@ -1,1 +1,0 @@
-b0759	ECK0748	galE	UDP-glucose 4-epimerase // GalD // GalE

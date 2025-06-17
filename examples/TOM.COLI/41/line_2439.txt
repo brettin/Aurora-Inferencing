@@ -1,1 +1,0 @@
-b0457	ECK0451	pdeB	cyclic di-GMP phosphodiesterase PdeB // PdeB // YlaB

@@ -1,1 +1,0 @@
-b1351	ECK1348	racC	Rac prophage; protein RacC // RacC // SbcA

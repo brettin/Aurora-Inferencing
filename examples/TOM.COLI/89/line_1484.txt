@@ -1,1 +1,0 @@
-b2426	ECK2421	ucpA	oxidoreductase UcpA // YfeF // UcpA

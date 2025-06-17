@@ -1,1 +1,0 @@
-b1265	ECK1259	trpL	<i>trp</i> operon leader peptide // TrpL

@@ -1,1 +1,0 @@
-b3773	ECK3765	ilvY	DNA-binding transcriptional dual regulator IlvY // IlvY // positive regulator for ilvC // IlvY

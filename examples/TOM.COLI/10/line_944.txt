@@ -1,1 +1,0 @@
-b1694	ECK1692	ydiF	putative acetate-CoA transferase YdiF // YdiF // fused predicted acetyl-CoA:acetoacetyl-CoA transferase: &alpha; subunit/&beta; subunit

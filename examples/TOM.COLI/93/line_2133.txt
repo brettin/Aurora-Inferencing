@@ -1,1 +1,0 @@
-b2699	ECK2694	recA	DNA recombination/repair protein RecA // Tif // UmuB // Zab // Srf // RnmB // RecH // LexB // RecA

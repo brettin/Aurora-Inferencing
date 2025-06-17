@@ -1,1 +1,0 @@
-b3652	ECK3642	recG	ATP-dependent DNA helicase RecG // SpoV // RadC // RecG

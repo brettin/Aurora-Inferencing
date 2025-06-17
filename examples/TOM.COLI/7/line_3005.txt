@@ -1,1 +1,0 @@
-b1113	ECK1099	ldtC	L,D-transpeptidase LdtC // LdtC // YcfS

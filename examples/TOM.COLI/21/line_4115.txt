@@ -1,1 +1,0 @@
-b0080	ECK0081	cra	DNA-binding transcriptional dual regulator Cra // Shl // FruC // FruR // Cra // Cra

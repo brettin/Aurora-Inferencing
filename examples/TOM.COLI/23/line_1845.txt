@@ -1,1 +1,0 @@
-b0398	ECK0392	sbcD	ATP-dependent structure-specific DNA nuclease - SbcD subunit // YajA // SbcD // orf-45

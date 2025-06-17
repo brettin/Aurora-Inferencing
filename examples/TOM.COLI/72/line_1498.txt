@@ -1,1 +1,0 @@
-b3835	ECK3829	ubiB	ubiquinone biosynthesis protein UbiB // YigQ // YigS // AarF // YigR // UbiB // putative protein kinase involved in ubiquinone biosynthesis

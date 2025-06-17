@@ -1,1 +1,0 @@
-b1450	ECK1444	mcbR	DNA-binding transcriptional dual regulator McbR // YncC // McbR // McbR

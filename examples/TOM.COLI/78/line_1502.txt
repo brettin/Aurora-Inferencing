@@ -1,1 +1,0 @@
-b3977	ECK3968	tyrU	tRNA-Tyr(GUA) // tRNA<sup>tyrU</sup>

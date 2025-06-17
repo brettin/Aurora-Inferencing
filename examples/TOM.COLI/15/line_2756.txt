@@ -1,1 +1,0 @@
-b1448	ECK1442	mnaT	L-amino acid N-acyltransferase // MnaT // YncA

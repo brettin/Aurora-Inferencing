@@ -1,1 +1,0 @@
-b0807	ECK0796	rlmF	23S rRNA m<sup>6</sup>A1618 methyltransferase // YbiN // RlmF // ribosomal RNA large subunit methyltransferase F

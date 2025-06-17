@@ -1,1 +1,0 @@
-b2440	ECK2435	eutC	ethanolamine ammonia-lyase subunit &beta; // EutC

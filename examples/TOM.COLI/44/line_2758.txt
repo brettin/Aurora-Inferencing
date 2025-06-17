@@ -1,1 +1,0 @@
-b0261	ECK0263	mmuM	CP4-6 prophage; homocysteine <i>S</i>-methyltransferase // YagD // MmuM

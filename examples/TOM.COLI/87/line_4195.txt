@@ -1,1 +1,0 @@
-b2143	ECK2136	cdd	cytidine/deoxycytidine deaminase // Cdd

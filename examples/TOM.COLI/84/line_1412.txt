@@ -1,1 +1,0 @@
-b3626	ECK3616	waaJ	UDP-glucose:(glucosyl)LPS &alpha;-1,2-glucosyltransferase // WaaR // WaaJ // RfaJ // UDP-D-glucose:(galactosyl)lipopolysaccharide glucosyltransferase

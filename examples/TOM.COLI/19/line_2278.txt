@@ -1,1 +1,0 @@
-b1831	ECK1830	proQ	RNA chaperone ProQ // YobE // YoeC // YebJ // ProQ // RNA chaperone, involved in posttranscriptional control of ProP levels

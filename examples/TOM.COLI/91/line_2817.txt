@@ -1,1 +1,0 @@
-b4019	ECK4011	metH	cobalamin-dependent methionine synthase // MetH

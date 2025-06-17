@@ -1,1 +1,0 @@
-b4207	ECK4203	fklB	peptidyl-prolyl <i>cis-trans</i> isomerase FklB // YtfC // FklB // FKBP22 // FKBP-type peptidyl-prolyl <i>cis-trans</i> isomerase FklB

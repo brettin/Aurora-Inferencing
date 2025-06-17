@@ -1,1 +1,0 @@
-b0589	ECK0582	fepG	ferric enterobactin ABC transporter membrane subunit FepG // FepG

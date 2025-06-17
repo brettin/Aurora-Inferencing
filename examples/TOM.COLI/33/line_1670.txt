@@ -1,1 +1,0 @@
-b2583	ECK2581	tapT	tRNA 3-amino-3-carboxypropyltransferase // TuaA // TapT // YfiP // tRNA aminocarboxypropyltransferase // DTW domain-containing protein YfiP

@@ -1,1 +1,0 @@
-b2508	ECK2504	guaB	inosine 5'-monophosphate dehydrogenase // GuaR // GuaB

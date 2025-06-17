@@ -1,1 +1,0 @@
-b0576	ECK0568	pheP	PheP // PheP phenylalanine APC transporter

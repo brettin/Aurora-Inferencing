@@ -1,1 +1,0 @@
-b3787	ECK3779	wecC	UDP-<i>N</i>-acetyl-D-mannosamine dehydrogenase // MnaB // Rff // RffD // WecC

@@ -1,1 +1,0 @@
-b4457	ECK3858	csrC	small regulatory RNA CsrC // CsrC // SraK // PsrA21 // RyiB // Tpk2 // IS198 // RNA inhibitor of CsrA

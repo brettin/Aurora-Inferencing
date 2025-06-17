@@ -1,1 +1,0 @@
-b0432	ECK0426	cyoA	cytochrome <i>bo</i><sub>3</sub> subunit 2 // CyoA // cytochrome <i>bo</i><sub>3</sub> terminal oxidase subunit II // cytochrome <i>o</i> ubiquinol oxidase subunit II // cytochrome <i>bo</i><sub>3</sub> ubiquinol oxidase subunit II

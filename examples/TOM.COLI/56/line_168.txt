@@ -1,1 +1,0 @@
-b2137	ECK2130	yohF	putative oxidoreductase YohF // YohE // YohF // putative oxidoreductase with NAD(P)-binding Rossmann-fold domain

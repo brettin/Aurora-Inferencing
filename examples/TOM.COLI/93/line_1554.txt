@@ -1,1 +1,0 @@
-b2960	ECK2955	trmB	tRNA m<sup>7</sup>G46 methyltransferase // YggH // TrmB // TrmI

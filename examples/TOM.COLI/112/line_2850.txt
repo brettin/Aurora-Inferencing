@@ -1,1 +1,0 @@
-b1053	ECK1038	mdtG	efflux pump MdtG // MdtG // YceE // MdtG drug MFS transporter // MdtG multidrug efflux pump

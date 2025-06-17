@@ -1,1 +1,0 @@
-b2703	ECK2698	srlE	sorbitol-specific PTS enzyme IIBC<sub>1</sub> component // SrlA // GutA // Sbl // GutE // SrlE // enzyme IIB component of sorbitol PTS // Enzyme IIB <sup>sorbitol</sup> // SrlE

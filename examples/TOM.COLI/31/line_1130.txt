@@ -1,1 +1,0 @@
-b0905	ECK0896	ycaO	ribosomal protein S12 methylthiotransferase accessory factor YcaO // YcaO // protein involved in &beta;-methylthiolation of ribosomal protein S12

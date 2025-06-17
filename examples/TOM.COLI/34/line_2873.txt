@@ -1,1 +1,0 @@
-b0294	ECK0293	matA	DNA-binding transcriptional dual regulator MatA // EcpR // YkgK // MatA // MatA

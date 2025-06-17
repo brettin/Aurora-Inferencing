@@ -1,1 +1,0 @@
-b1702	ECK1700	ppsA	phosphoenolpyruvate synthetase // Pps // PpsA

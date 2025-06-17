@@ -1,1 +1,0 @@
-b0868	ECK0859	ybjS	putative epimerase YbjS // YbjS // putative NAD(P)H-binding oxidoreductase with NAD(P)-binding Rossmann-fold domain

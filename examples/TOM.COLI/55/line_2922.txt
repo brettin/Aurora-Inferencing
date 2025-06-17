@@ -1,1 +1,0 @@
-b1518	ECK1511	lsrG	(4<i>S</i>)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase // LsrG // YneC // phospho-AI-2 isomerase

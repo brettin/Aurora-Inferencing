@@ -1,1 +1,0 @@
-b0075	ECK0077	leuL	<i>leu</i> operon leader peptide // LeuL

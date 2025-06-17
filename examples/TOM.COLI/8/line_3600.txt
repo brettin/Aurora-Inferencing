@@ -1,1 +1,0 @@
-b0890	ECK0881	ftsK	cell division DNA translocase FtsK // DinH // FtsK // essential cell division protein FtsK

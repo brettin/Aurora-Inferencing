@@ -1,1 +1,0 @@
-b0048	ECK0049	folA	dihydrofolate reductase // Tmr // TmrA // FolA // DHFR

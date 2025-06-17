@@ -1,1 +1,0 @@
-b2527	ECK2524	hscB	[Fe-S] cluster biosynthesis co-chaperone HscB // YfhE // HscB // Hsc20 // Hsc20 co-chaperone that acts with Hsc66 in IscU iron-sulfur cluster assembly // co-chaperone for [Fe-S] cluster biosynthesis

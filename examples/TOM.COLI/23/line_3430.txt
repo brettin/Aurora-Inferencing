@@ -1,1 +1,0 @@
-b0200	ECK0200	gmhB	D-<i>glycero</i>-&beta;-D-<i>manno</i>-heptose-1,7-bisphosphate 7-phosphatase // GmhB // YaeD // D,D-heptose 1,7-bisphosphate phosphatase

@@ -1,1 +1,0 @@
-b0281	ECK0280	intF	CP4-6 prophage; putative phage integrase // YagO // IntF

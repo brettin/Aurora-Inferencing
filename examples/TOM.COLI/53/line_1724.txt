@@ -1,1 +1,0 @@
-b2707	ECK2702	srlR	DNA-binding transcriptional repressor SrlR // GutR // SrlR // SrlR

@@ -1,1 +1,0 @@
-b1911	ECK1910	glyW	tRNA-Gly(GCC) // tRNA<sup>glyW</sup>

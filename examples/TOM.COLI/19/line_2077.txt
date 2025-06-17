@@ -1,1 +1,0 @@
-b0025	ECK0026	ribF	bifunctional riboflavin kinase / FMN adenylyltransferase // YaaC // RibF

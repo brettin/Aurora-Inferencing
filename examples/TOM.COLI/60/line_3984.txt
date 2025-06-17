@@ -1,1 +1,0 @@
-b0161	ECK0160	degP	periplasmic serine endoprotease DegP // Ptd // protease Do // HtrA // DegP

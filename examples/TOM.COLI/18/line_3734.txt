@@ -1,1 +1,0 @@
-b0490	ECK0484	fetA	putative iron ABC exporter ATP-binding subunit FetA // YbbL // FetA

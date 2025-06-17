@@ -1,1 +1,0 @@
-b0050	ECK0051	apaG	DUF525 domain-containing protein ApaG // ApaG

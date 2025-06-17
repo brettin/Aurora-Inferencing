@@ -1,1 +1,0 @@
-b2183	ECK2177	rsuA	16S rRNA pseudouridine<sup>516</sup> synthase // YejD // RsuA

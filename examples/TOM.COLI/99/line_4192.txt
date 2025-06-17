@@ -1,1 +1,0 @@
-b0175	ECK0174	cdsA	CDP-diglyceride synthetase // Cds // CdsA

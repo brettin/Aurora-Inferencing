@@ -1,1 +1,0 @@
-b0042	ECK0043	fixB	putative electron transfer flavoprotein FixB // YaaR // FixB // putative electron transfer flavoprotein, NAD/FAD-binding domain and ETFP adenine nucleotide-binding domain-like

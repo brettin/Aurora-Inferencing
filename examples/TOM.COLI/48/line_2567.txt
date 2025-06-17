@@ -1,1 +1,0 @@
-b2234	ECK2226	nrdA	ribonucleoside-diphosphate reductase 1 subunit &alpha; // DnaF // NrdA

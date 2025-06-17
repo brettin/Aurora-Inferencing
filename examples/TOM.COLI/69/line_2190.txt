@@ -1,1 +1,0 @@
-b3026	ECK3017	qseC	QseC-<i>N</i>-phospho-L-histidine // YgiY // QseC-P<sup>his246</sup> // phosphorylated QseC // sensor histidine kinase QseC // QseC

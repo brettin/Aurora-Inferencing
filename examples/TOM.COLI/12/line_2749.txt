@@ -1,1 +1,0 @@
-b3741	ECK3734	mnmG	5-carboxymethylaminomethyluridine-tRNA synthase subunit MnmG // GidA // MnmG // protein involved in modification of U34 in tRNA // TrmF

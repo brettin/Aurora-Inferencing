@@ -1,1 +1,0 @@
-b1058	ECK1043	yceO	DUF2770 domain-containing protein YceO // YceO // small protein involved in biofilm formation and acid stress response

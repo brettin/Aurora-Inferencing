@@ -1,1 +1,0 @@
-b0214	ECK0214	rnhA	ribonuclease HI // Sin // Cer // Rnh // SdrA // HerA // DasF // RnhA // type I RNase H // RNase H // RNase HI // RNase HI, degrades RNA of DNA-RNA hybrids, participates in DNA replication

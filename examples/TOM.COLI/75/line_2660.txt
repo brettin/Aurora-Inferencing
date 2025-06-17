@@ -1,1 +1,0 @@
-b0639	ECK0632	nadD	nicotinate-nucleotide adenylyltransferase // FusB // YbeN // NadD

@@ -1,1 +1,0 @@
-b2208	ECK2200	napF	ferredoxin-type protein // YojG // NapF

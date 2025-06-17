@@ -1,1 +1,0 @@
-b3668	ECK3659	uhpB	UhpB-<i>N</i>-phospho-L-histidine // UhpB-P<sup>his313</sup> // UhpB-P<sup>his</sup> // sensor histidine kinase UhpB // UhpB

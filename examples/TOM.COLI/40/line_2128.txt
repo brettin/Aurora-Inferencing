@@ -1,1 +1,0 @@
-b3700	ECK3692	recF	recombination mediator protein RecF // UvrF // RecF

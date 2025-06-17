@@ -1,1 +1,0 @@
-b1580	ECK1575	rspB	putative zinc-binding dehydrogenase RspB // RspB // putative oxidoreductase, Zn-dependent and NAD(P)-binding

@@ -1,1 +1,0 @@
-b3162	ECK3150	deaD	ATP-dependent RNA helicase DeaD // RhlD // MssB // DeaD // CsdA // DEAD-box RNA helicase

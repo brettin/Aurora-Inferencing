@@ -1,1 +1,0 @@
-b2576	ECK2574	srmB	ATP-dependent RNA helicase SrmB // RhlA // RbaB // SrmB // DEAD-box RNA helicase

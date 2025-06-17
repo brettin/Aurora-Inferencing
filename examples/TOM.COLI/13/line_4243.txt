@@ -1,1 +1,0 @@
-b4354	ECK4344	btsT	pyruvate:H<sup>+</sup> symporter // BtsT // YjiY

@@ -1,1 +1,0 @@
-b3724	ECK3717	phoU	negative regulator of the <i>pho</i> regulon // Pst // PhoT // PhoU

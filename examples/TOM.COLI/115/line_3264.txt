@@ -1,1 +1,0 @@
-b3754	ECK3748	hsrA	putative transporter HsrA // YieO // HsrA // multidrug efflux pump HsrA

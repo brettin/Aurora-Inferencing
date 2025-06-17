@@ -1,1 +1,0 @@
-b0320	ECK0318	yahF	putative acyl-CoA synthetase YahF // YahF // putative acyl-CoA synthetase with NAD(P)-binding domain and succinyl-CoA synthetase domain

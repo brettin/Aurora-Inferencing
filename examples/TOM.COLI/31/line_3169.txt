@@ -1,1 +1,0 @@
-b0884	ECK0875	infA	translation initiation factor IF-1 // InfA // IF1 // protein chain initiation factor IF-1

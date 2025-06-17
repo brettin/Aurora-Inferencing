@@ -1,1 +1,0 @@
-b0640	ECK0633	holA	DNA polymerase III subunit &delta; // HolA

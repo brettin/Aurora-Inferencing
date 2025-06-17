@@ -1,1 +1,0 @@
-b3821	ECK3815	pldA	outer membrane phospholipase A // PldA // OMPLA

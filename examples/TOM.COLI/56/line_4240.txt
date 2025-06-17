@@ -1,1 +1,0 @@
-b1709	ECK1707	btuD	vitamin B<sub>12</sub> ABC transporter ATP binding subunit // BtuD

@@ -1,1 +1,0 @@
-b4293	ECK4283	fecI	RNA polymerase sigma factor FecI // FecI // &sigma;19 // RNA polymerase, sigma 19 factor

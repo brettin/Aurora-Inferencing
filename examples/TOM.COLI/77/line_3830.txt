@@ -1,1 +1,0 @@
-b4155	ECK4151	epmA	EF-P-lysine lysyltransferase // EpmA // YjeA // GenX // PoxA

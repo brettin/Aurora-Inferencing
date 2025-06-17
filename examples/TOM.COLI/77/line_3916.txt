@@ -1,1 +1,0 @@
-b0215	ECK0215	dnaQ	DNA polymerase III subunit &epsilon; // MutD // DnaQ

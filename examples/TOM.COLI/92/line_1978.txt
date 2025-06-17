@@ -1,1 +1,0 @@
-b3987	ECK3978	rpoB	RNA polymerase subunit &beta; // Stl // Stv // TabD // SdgB // Ron // Rif // NitB // GroN // FtsR // RpoB

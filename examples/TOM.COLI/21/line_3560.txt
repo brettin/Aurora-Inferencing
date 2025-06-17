@@ -1,1 +1,0 @@
-b0756	ECK0745	galM	galactose-1-epimerase // GalM

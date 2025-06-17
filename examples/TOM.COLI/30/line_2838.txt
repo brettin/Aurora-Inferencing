@@ -1,1 +1,0 @@
-b4120	ECK4113	melB	melibiose:H<sup>+</sup>/Na<sup>+</sup>/Li<sup>+</sup> symporter // MelB // MelB GPH transporter

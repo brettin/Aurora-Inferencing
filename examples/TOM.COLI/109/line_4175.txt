@@ -1,1 +1,0 @@
-b1882	ECK1883	cheY	CheY-acetylated // modified chemotaxis regulator transmitting signal to flagellar motor component // acetylated CheY // CheY-P<sup>asp</sup> // CheY // phosphorylated chemotaxis regulator protein CheY // phospho-CheY // chemotaxis protein CheY // chemotaxis response regulator protein CheY

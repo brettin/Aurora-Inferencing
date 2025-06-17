@@ -1,1 +1,0 @@
-b2736	ECK2731	ygbJ	putative L-threonate dehydrogenase // YgbJ // putative dehydrogenase, with NAD(P)-binding Rossmann-fold domain

@@ -1,1 +1,0 @@
-b0010	ECK0010	satP	acetate/succinate:H<sup>+</sup> symporter // SatP // YaaH

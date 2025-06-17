@@ -1,1 +1,0 @@
-b3018	ECK3009	plsC	1-acylglycerol-3-phosphate <i>O</i>-acyltransferase PlsC // ParF // PlsC

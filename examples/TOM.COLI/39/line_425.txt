@@ -1,1 +1,0 @@
-b3910	ECK3903	yiiM	6-hydroxyaminopurine reductase // YiiM // protein involved in base analog detoxification // 2-amino-6-<i>N</i>-hydroxylaminopurine resistance protein

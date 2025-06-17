@@ -1,1 +1,0 @@
-b3461	ECK3445	rpoH	RNA polymerase sigma factor RpoH // Hin // Fam // HtpR // RpoH // sigma H factor // sigma H // sigma 32 // sigma 32 factor // &sigma;32 // RNA polymerase, sigma 32 (sigma H) factor

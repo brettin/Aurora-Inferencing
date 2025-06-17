@@ -1,1 +1,0 @@
-b0463	ECK0457	acrA	multidrug efflux pump membrane fusion lipoprotein AcrA // SipB // Mbl // Lir // NbsA // MtcA // AcrA // acridine efflux pump // AcrA membrane fusion protein // periplasmic adaptor protein AcrA

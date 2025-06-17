@@ -1,1 +1,0 @@
-b3232	ECK3221	zapE	cell division protein ZapE // ZapE // YhcM // cell division factor ZapE with ATPase activity

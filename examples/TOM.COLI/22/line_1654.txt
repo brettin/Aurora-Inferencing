@@ -1,1 +1,0 @@
-b1729	ECK1727	tcyP	cystine/sulfocysteine:cation symporter // TcyP // YdjN

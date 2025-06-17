@@ -1,1 +1,0 @@
-b2893	ECK2888	dsbC	protein disulfide isomerase DsbC // XprA // DsbC // disulfide oxidoreductase 2 // thiol:disulfide oxidoreductase DsbC // protein disulfide oxidoreductase DsbC

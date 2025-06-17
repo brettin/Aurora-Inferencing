@@ -1,1 +1,0 @@
-b0001	ECK0001	thrL	<i>thr</i> operon leader peptide // ThrL

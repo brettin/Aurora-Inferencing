@@ -1,1 +1,0 @@
-b3813	ECK3808	uvrD	DNA helicase II // UvrE // SrjC // Rad // Dda // RecL // PdeB // MutU // UvrD

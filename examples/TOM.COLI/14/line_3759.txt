@@ -1,1 +1,0 @@
-b1476	ECK1470	fdnI	formate dehydrogenase N subunit &gamma; // FdnI // formate dehydrogenase N cytochrome <i>b</i> subunit

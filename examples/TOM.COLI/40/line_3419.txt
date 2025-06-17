@@ -1,1 +1,0 @@
-b4476	ECK3421	gntU	low-affinity gluconate transporter // GntU

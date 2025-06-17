@@ -1,1 +1,0 @@
-b0053	ECK0054	surA	chaperone SurA // SurA

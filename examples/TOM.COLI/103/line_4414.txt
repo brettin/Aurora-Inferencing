@@ -1,1 +1,0 @@
-b4550	ECK3278	arfA	alternative ribosome-rescue factor A // ArfA // YhdL

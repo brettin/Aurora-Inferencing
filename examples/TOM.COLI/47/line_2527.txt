@@ -1,1 +1,0 @@
-b2393	ECK2388	nupC	nucleoside:H<sup>+</sup> symporter NupC // Cru // NupC // NupC nucleoside NUP transporter

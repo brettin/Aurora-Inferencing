@@ -1,1 +1,0 @@
-b0880	ECK0871	cspD	DNA replication inhibitor CspD // YbjA // CspH // CspD

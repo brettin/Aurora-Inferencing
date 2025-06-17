@@ -1,1 +1,0 @@
-b3903	ECK3896	rhaA	L-rhamnose isomerase // RhaA

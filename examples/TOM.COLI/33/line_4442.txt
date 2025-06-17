@@ -1,1 +1,0 @@
-b0451	ECK0445	amtB	ammonium transporter // YbaG // AmtB ammonium Amt transporter // AmtB

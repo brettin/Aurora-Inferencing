@@ -1,1 +1,0 @@
-b2702	ECK2697	srlA	sorbitol-specific PTS enzyme IIC<sub>2</sub> component // Sbl // GutA // SrlA // enzyme IIC component of sorbitol PTS // Enzyme IIC <sup>sorbitol</sup> // SrlA

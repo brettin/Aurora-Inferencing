@@ -1,1 +1,0 @@
-b3699	ECK3691	gyrB	DNA gyrase subunit B // NalC // ParA // PcbA // PcpA // HopA // Cou // HisU // HimB // AcrB // GyrB

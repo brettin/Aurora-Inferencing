@@ -1,1 +1,0 @@
-b0228	ECK0229	rayT	REP-associated tyrosine transposase // RayT // YafM // TnpA<sub>REP</sub>

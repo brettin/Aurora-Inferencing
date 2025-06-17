@@ -1,1 +1,0 @@
-b3973	ECK3965	birA	DNA-binding transcriptional repressor/biotin-[acetyl-CoA-carboxylase] ligase BirA // BirA // BioR // DhbB // biotin-[acetylCoA carboxylase] holoenzyme synthetase and biotin operon repressor // BirA

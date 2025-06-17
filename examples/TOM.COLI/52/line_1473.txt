@@ -1,1 +1,0 @@
-b3667	ECK3658	uhpC	UhpC-glucose-6-P // UhpC // regulatory protein UhpC-glucose-6-phosphate // modified regulatory protein UhpC // inner membrane protein sensing glucose-6-phosphate // regulatory protein UhpC // unmodified regulatory protein UhpC

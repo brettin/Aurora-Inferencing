@@ -1,1 +1,0 @@
-b0854	ECK0845	potF	putrescine ABC transporter periplasmic binding protein // PotF

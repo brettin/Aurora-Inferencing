@@ -1,1 +1,0 @@
-b3653	ECK3643	gltS	glutamate:sodium symporter // GltC // GltS

@@ -1,1 +1,0 @@
-b0194	ECK0194	proS	proline&mdash;tRNA ligase // DrpA // Drp // ProS // ProRS

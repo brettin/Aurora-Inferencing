@@ -1,1 +1,0 @@
-b2197	ECK2189	ccmE	periplasmic heme chaperone // YejS // cyctochrome <i>c</i> maturation protein E // CcmE

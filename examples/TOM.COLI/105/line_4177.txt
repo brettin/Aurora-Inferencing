@@ -1,1 +1,0 @@
-b1884	ECK1885	cheR	chemotaxis protein methyltransferase // CheX // CheR // MCP O-methyltransferase // methyl-accepting chemotaxis protein O-methyltransferase // S-adenosyl-L-methionine:protein-L-glutamate O-methyltransferase

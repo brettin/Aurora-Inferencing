@@ -1,1 +1,0 @@
-b3784	ECK3776	rfe	UDP-<i>N</i>-acetylglucosamine&mdash;undecaprenyl-phosphate <i>N</i>-acetylglucosaminephosphotransferase // WecA // Rfe

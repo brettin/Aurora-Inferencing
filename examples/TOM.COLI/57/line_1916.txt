@@ -1,1 +1,0 @@
-b0176	ECK0175	rseP	intramembrane zinc metalloprotease RseP // EcfE // YaeL // RseP // signal peptide peptidase

@@ -1,1 +1,0 @@
-b1954	ECK1952	dsrA	small regulatory RNA DsrA // DsrA // DsrA small regulatory RNA; riboregulator of RpoS and H-NS production

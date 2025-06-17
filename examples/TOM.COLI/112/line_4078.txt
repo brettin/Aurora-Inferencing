@@ -1,1 +1,0 @@
-b1449	ECK1443	curA	NADPH-dependent curcumin/dihydrocurcumin reductase // YncB // CurA

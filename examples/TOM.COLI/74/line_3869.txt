@@ -1,1 +1,0 @@
-b0291	ECK0290	ecpC	putative fimbrial usher protein EcpC // MatD // YagX // EcpC

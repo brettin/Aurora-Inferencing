@@ -1,1 +1,0 @@
-b3869	ECK3862	glnL	protein histidine kinase NtrB // GlnL // GlnR // NtrB

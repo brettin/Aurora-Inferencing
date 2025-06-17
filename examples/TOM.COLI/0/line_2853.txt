@@ -1,1 +1,0 @@
-b2077	ECK2073	mdtD	putative multidrug efflux pump MdtD // IceT // YegB // MdtD

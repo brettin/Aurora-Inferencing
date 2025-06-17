@@ -1,1 +1,0 @@
-b3779	ECK3771	gpp	guanosine-5'-triphosphate,3'-diphosphate phosphatase // GppA // Gpp

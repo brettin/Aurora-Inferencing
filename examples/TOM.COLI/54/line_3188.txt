@@ -1,1 +1,0 @@
-b0026	ECK0027	ileS	isoleucine&mdash;tRNA ligase // IlvS // IleS // IleRS

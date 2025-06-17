@@ -1,1 +1,0 @@
-b0018	ECK0018	mokC	regulatory protein MokC // MokC // GefL // regulatory peptide whose translation enables hokC (gef) expression

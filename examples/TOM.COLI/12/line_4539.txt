@@ -1,1 +1,0 @@
-b4015	ECK4007	aceA	isocitrate lyase // Icl // AceA

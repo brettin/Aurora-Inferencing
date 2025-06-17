@@ -1,1 +1,0 @@
-b3243	ECK3232	aaeR	DNA-binding transcriptional activator AaeR // YhcS // AaeR // QseA // quorum sensing transcriptional regulator of LYSR-type // LysR-type transcriptional regulator AaeR

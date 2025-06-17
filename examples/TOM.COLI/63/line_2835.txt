@@ -1,1 +1,0 @@
-b2262	ECK2256	menB	1,4-dihydroxy-2-naphthoyl-CoA synthase // MenB

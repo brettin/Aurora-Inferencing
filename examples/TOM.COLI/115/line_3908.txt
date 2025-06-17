@@ -1,1 +1,0 @@
-b0619	ECK0612	dpiB	DpiB-<i>N</i>-phospho-L-histidine // DpiB-P<sup>his347</sup> // CitA-P<sup>his</sup> // sensor histidine kinase DpiB - phosphorylated // sensor histidine kinase DpiB // DpiB // YbeP // CitA // MpdB

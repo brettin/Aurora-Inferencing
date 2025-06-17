@@ -1,1 +1,0 @@
-b0433	ECK0427	ampG	muropeptide:H<sup>+</sup> symporter // AmpG

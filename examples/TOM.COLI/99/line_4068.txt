@@ -1,1 +1,0 @@
-b1191	ECK1179	cvrA	putative K<sup>+</sup>:H<sup>+</sup> antiporter // CvrA // YcgO

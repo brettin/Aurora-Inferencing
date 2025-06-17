@@ -1,1 +1,0 @@
-b0282	ECK0281	yagP	putative LysR family substrate binding domain-containing protein YagP // YkgT // YagP

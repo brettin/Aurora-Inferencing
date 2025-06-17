@@ -1,1 +1,0 @@
-b1290	ECK1285	sapF	putrescine ABC exporter ATP binding protein SapF // SapF

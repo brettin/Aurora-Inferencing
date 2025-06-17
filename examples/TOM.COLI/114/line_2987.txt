@@ -1,1 +1,0 @@
-b3174	ECK3163	leuU	tRNA-Leu(GAG) // tRNA<sup>leuU</sup>

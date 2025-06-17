@@ -1,1 +1,0 @@
-b2924	ECK2920	mscS	small conductance mechanosensitive channel MscS // MscS // YggB

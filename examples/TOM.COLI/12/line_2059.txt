@@ -1,1 +1,0 @@
-b3179	ECK3168	rlmE	23S rRNA 2'-<i>O</i>-ribose U2552 methyltransferase // RrmJ // MrsF // FtsJ // RlmE // ribosomal RNA large subunit methyltransferase E

@@ -1,1 +1,0 @@
-b0411	ECK0405	tsx	nucleoside-specific channel-forming protein Tsx // NupA // Tsx

@@ -1,1 +1,0 @@
-b0402	ECK0396	proY	putative transporter ProY // YajM // ProY // ProY cryptic proline APC transporter

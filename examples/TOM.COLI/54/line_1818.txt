@@ -1,1 +1,0 @@
-b3591	ECK3580	selA	selenocysteine synthase // FdhA // SelA

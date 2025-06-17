@@ -1,1 +1,0 @@
-b4345	ECK4335	mcrC	Type IV methyl-directed restriction enzyme EcoKMcrBC subunit // McrC // MrcC subunit of 5-methylcytosine restriction system // 5-methylcytosine-specific restriction enzyme subunit McrC

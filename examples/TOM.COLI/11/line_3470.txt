@@ -1,1 +1,0 @@
-b3926	ECK3918	glpK	glycerol kinase // GlpK

@@ -1,1 +1,0 @@
-b3067	ECK3057	rpoD	RNA polymerase sigma factor RpoD // Alt // RpoD // sigma D factor // sigma 70 factor // &sigma;70 // RNA polymerase, sigma 70 (sigma D) factor

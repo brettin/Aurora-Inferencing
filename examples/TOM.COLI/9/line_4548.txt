@@ -1,1 +1,0 @@
-b1339	ECK1335	abgR	putative LysR-type DNA-binding transcriptional regulator AbgR // AbgR

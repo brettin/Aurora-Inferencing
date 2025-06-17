@@ -1,1 +1,0 @@
-b4337	ECK4328	mdtM	multidrug efflux pump / bile salt:H<sup>+</sup> antiporter / Na<sup>+</sup>:H<sup>+</sup> antiporter / K<sup>+</sup>:H<sup>+</sup> antiporter // MdtM // YjiO // MdtM drug MFS transporter // multidrug efflux pump MdtM

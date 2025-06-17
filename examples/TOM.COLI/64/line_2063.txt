@@ -1,1 +1,0 @@
-b1822	ECK1820	rlmA	23S rRNA m<sup>1</sup>G745 methyltransferase // YebH // RrmA // RlmA // ribosomal RNA large subunit methyltransferase A // rRNA large subunit methyltransferase A

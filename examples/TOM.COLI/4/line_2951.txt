@@ -1,1 +1,0 @@
-b2835	ECK2831	lplT	lysophospholipid transporter // YgeD // LplT

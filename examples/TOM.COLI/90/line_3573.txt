@@ -1,1 +1,0 @@
-b2663	ECK2657	gabP	4-aminobutanoate:H<sup>+</sup> symporter // GabP // GabP permease // GABA permease // GABA proton symporter

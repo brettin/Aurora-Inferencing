@@ -1,1 +1,0 @@
-b3133	ECK3121	agaV	<i>N</i>-acetyl-D-galactosamine specific PTS enzyme IIB component // YhaY // AgaV // EIIB<sup>Aga</sup> // EIIB<sup>GalNAc</sup> // Enzyme IIB<sup>Aga</sup> // Enzyme IIB<sup>GalNAc</sup>

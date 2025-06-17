@@ -1,1 +1,0 @@
-b1129	ECK1115	phoQ	sensor histidine kinase PhoQ // PhoQ

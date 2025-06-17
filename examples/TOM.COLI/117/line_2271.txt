@@ -1,1 +1,0 @@
-b0333	ECK0330	prpC	2-methylcitrate synthase // YahS // YzzD // PrpC

@@ -1,1 +1,0 @@
-b1133	ECK1119	mnmA	tRNA-specific 2-thiouridylase // YcfB // AsuE // TrmU // MnmA

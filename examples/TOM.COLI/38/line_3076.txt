@@ -1,1 +1,0 @@
-b0375	ECK0370	iprA	putative DNA-binding transcriptional regulator IprA // IprA // YaiV

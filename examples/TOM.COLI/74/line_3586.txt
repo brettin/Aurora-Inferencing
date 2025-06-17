@@ -1,1 +1,0 @@
-b2801	ECK2796	fucP	L-fucose:H+ symporter // FucP // FucP fucose MFS transporter

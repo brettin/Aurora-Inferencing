@@ -1,1 +1,0 @@
-b0632	ECK0625	dacA	D-alanyl-D-alanine carboxypeptidase DacA // Pfv // DacA // PBP5 // penicillin-binding protein 5 // murein D,D-carboxypeptidase DacA // D-alanine carboxypeptidase IA

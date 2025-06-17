@@ -1,1 +1,0 @@
-b0477	ECK0471	gsk	inosine/guanosine kinase // Gsk

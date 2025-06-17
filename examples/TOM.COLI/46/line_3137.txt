@@ -1,1 +1,0 @@
-		insCD3	IS2 element transposase InsAB' // InsAB'

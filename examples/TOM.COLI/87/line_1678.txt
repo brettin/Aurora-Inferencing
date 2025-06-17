@@ -1,1 +1,0 @@
-b2559	ECK2557	tadA	tRNA adenosine<sup>34</sup> deaminase // TadA // YfhC // tRNA-specific adenosine deaminase

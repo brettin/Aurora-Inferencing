@@ -1,1 +1,0 @@
-b0476	ECK0470	aes	acetylesterase // YbaC // Aes

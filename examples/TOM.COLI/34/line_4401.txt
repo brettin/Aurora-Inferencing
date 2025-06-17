@@ -1,1 +1,0 @@
-b2923	ECK2919	argO	L-arginine exporter // YggA // ArgO

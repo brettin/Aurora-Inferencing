@@ -1,1 +1,0 @@
-b0598	ECK0591	cstA	pyruvate transporter CstA // YbdC // CstA // cst-2 // carbon starvation protein A

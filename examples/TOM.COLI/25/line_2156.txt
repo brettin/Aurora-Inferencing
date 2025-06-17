@@ -1,1 +1,0 @@
-b1347	ECK1344	rcbA	Rac prophage; double-strand break reduction protein // YdaC // RcbA

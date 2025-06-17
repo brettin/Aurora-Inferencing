@@ -1,1 +1,0 @@
-b3603	ECK3593	lldP	lactate/glycolate:H<sup>+</sup> symporter LldP // Lct // LctP // LldP

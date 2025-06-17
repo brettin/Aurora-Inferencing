@@ -1,1 +1,0 @@
-b4069	ECK4062	acs	acetyl-CoA synthetase (AMP-forming) // AcsA // YfaC // Acs

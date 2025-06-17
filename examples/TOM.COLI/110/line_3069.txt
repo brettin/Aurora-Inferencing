@@ -1,1 +1,0 @@
-b2530	ECK2527	iscS	cysteine desulfurase IscS // NuvC // YzzO // YfhO // IscS

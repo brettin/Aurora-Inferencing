@@ -1,1 +1,0 @@
-b1465	ECK1459	narV	nitrate reductase Z subunit &gamma; // ChlZ // NarV

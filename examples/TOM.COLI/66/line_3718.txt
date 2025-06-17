@@ -1,1 +1,0 @@
-b4317	ECK4308	fimD	type I fimbriae usher protein // FimD_1 // FimD // FimD_2 // FimD usher

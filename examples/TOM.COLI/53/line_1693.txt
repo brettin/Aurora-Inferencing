@@ -1,1 +1,0 @@
-b1684	ECK1680	sufA	iron-sulfur cluster insertion protein SufA // YdiC // SufA // Fe-S transport protein in Fe-S cluster assembly

@@ -1,1 +1,0 @@
-b2422	ECK2417	cysA	sulfate/thiosulfate ABC transporter ATP binding subunit // CysA

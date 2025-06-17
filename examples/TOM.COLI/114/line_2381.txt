@@ -1,1 +1,0 @@
-b4101	ECK4094	phnG	carbon-phosphorus lyase core complex subunit PhnG // PhnG // PhnG subunit of methylphosphonate degradation complex

@@ -1,1 +1,0 @@
-b2016	ECK2010	yeeZ	putative epimerase YeeZ // YeeZ // putative epimerase, with NAD(P)-binding Rossmann-fold domain

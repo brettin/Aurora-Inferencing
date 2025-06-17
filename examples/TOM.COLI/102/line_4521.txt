@@ -1,1 +1,0 @@
-b0464	ECK0458	acrR	DNA-binding transcriptional repressor AcrR // YbaH // AcrR // AcrR

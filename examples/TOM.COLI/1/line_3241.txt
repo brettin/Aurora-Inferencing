@@ -1,1 +1,0 @@
-b2725	ECK2720	hycA	regulator of the transcriptional regulator FhlA // HevA // HycA

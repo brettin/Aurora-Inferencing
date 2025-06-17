@@ -1,1 +1,0 @@
-b0111	ECK0110	ampE	protein AmpE // AmpE

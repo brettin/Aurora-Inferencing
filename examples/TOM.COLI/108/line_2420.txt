@@ -1,1 +1,0 @@
-b4260	ECK4253	pepA	aminopeptidase A/I // PepA // XerB // CarP // PepA

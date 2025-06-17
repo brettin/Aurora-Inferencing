@@ -1,1 +1,0 @@
-b0206	ECK0206	aspU	tRNA-Asp(GUC) // tRNA<sup>aspU</sup>

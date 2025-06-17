@@ -1,1 +1,0 @@
-b1192	ECK1180	ldcA	murein tetrapeptide carboxypeptidase // YcgQ // LdcA // L,D-carboxypeptidase A

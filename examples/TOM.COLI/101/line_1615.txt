@@ -1,1 +1,0 @@
-b0003	ECK0003	thrB	homoserine kinase // ThrB

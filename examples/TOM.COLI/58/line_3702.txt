@@ -1,1 +1,0 @@
-b0028	ECK0029	fkpB	peptidyl-prolyl <i>cis-trans</i> isomerase FkpB // YaaD // FkpB // SlpA

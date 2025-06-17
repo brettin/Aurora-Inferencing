@@ -1,1 +1,0 @@
-b0929	ECK0920	ompF	outer membrane porin F // NfxB // TolF // Cry // CmlB // outer membrane protein F // colB // outer membrane protein A<sub>1</sub> // outer membrane protein 1a // outer membrane protein 4 // outer membrane protein b // outer membrane protein 0-9 // OmpF // matrix porin

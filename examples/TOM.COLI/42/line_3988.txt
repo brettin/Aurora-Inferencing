@@ -1,1 +1,0 @@
-b0447	ECK0441	decR	DNA-binding transcriptional activator DecR // CyuR // DecR // YbaO // DecR

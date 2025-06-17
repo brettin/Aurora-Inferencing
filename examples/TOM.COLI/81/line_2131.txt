@@ -1,1 +1,0 @@
-b2822	ECK2818	recC	exodeoxyribonuclease V subunit RecC // RecC

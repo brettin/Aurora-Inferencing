@@ -1,1 +1,0 @@
-b1951	ECK1949	rcsA	DNA-binding transcriptional activator RcsA // CpsR // RcsA // positive regulator of capsular polysaccharide synthesis // positive DNA-binding transcriptional regulator of capsular polysaccharide synthesis, activates its own expression

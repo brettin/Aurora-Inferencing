@@ -1,1 +1,0 @@
-b3979	ECK3970	thrT	tRNA-Thr(GGU) // tRNA<sup>Thr3</sup>(GGU) // tRNA<sup>thrT</sup>

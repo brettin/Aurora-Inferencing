@@ -1,1 +1,0 @@
-b3723	ECK3716	bglG	transcriptional antiterminator BglG // BglC // BglG

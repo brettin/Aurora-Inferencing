@@ -1,1 +1,0 @@
-b2729	ECK2724	hypD	Fe-(CN)<sub>2</sub>CO cofactor assembly scaffold protein HypD // HydF // HypD // HypD, scaffold protein for assembly of the Fe-(CN)<sub>2</sub>CO cofactor

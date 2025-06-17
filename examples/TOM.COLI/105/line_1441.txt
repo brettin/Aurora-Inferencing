@@ -1,1 +1,0 @@
-b0949	ECK0940	uup	ATP-binding protein Uup // YcbH // YcbI // Uup // ATP-binding protein with possible role in replication

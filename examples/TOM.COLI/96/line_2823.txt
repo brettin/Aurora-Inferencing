@@ -1,1 +1,0 @@
-b4013	ECK4005	metA	homoserine <i>O</i>-succinyltransferase // MetA

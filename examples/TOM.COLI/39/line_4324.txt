@@ -1,1 +1,0 @@
-b2221	ECK2214	atoD	acetyl-CoA:acetoacetyl-CoA transferase subunit &alpha; // AtoD

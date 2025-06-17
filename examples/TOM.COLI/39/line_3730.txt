@@ -1,1 +1,0 @@
-b2731	ECK2726	fhlA	DNA-binding transcriptional activator FhlA // Fhl // FhlA // formate hydrogen-lyase transcriptional activator for fdhF, hyc and hyp operons // FhlA

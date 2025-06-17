@@ -1,1 +1,0 @@
-b1413	ECK1406	hrpA	ATP-dependent 3'&rarr;5' RNA helicase HrpA // HrpA

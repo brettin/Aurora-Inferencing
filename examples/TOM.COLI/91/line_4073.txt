@@ -1,1 +1,0 @@
-b0571	ECK0563	cusR	DNA-binding transcriptional activator CusR-phosphorylated // AgrR // YlcA // CusR // CusR response regulator - phosphorylated // CusR-P<SUP>asp51</SUP> // CusR-P<SUP>asp</SUP> // DNA-binding transcriptional activator CusR // CusR response regulator

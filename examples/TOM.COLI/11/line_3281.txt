@@ -1,1 +1,0 @@
-b1969	ECK1965	hprR	DNA-binding transcriptional dual regulator HprR-phosphorylated // Modified YedW DNA-binding response regulator in two-component system with YedV // YedW-P // HprR-P // DNA-binding transcriptional dual regulator HprR // YedW // HprR

@@ -1,1 +1,0 @@
-b2733	ECK2728	mutS	DNA mismatch repair protein MutS // Plm // Ant // Fdv // MutS

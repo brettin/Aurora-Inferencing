@@ -1,1 +1,0 @@
-b2695	ECK2690	serV	tRNA-Ser(GCU) // tRNA<sup>serV</sup> // tRNA<sup>Ser3</sup>

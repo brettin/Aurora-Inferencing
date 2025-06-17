@@ -1,1 +1,0 @@
-b3156	ECK3144	yhbS	putative <i>N</i>-acetyltransferase YhbS // YhbS // putative acyltransferase with acyl-CoA N-acyltransferase domain

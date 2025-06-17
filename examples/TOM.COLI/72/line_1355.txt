@@ -1,1 +1,0 @@
-b4031	ECK4023	xylE	D-xylose:H<sup>+</sup> symporter // XylE // xylose MFS transporter

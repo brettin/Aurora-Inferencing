@@ -1,1 +1,0 @@
-b0417	ECK0411	thiL	thiamine monophosphate kinase // ThiJ // ThiL // ATP:thiamine-phosphate phosphotransferase

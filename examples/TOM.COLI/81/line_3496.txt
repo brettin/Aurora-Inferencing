@@ -1,1 +1,0 @@
-b3870	ECK3863	glnA	adenylyl-[glutamine synthetase] // GlnA // adenylyl-[L-glutamate:ammonia Ligase (ADP-forming)] // adenylyl-GS // glutamine synthetase

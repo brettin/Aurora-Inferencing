@@ -1,1 +1,0 @@
-b1634	ECK1630	dtpA	dipeptide/tripeptide:H<sup>+</sup> symporter DtpA // TppB // YdgR // DtpA // TppB peptide POT transporter

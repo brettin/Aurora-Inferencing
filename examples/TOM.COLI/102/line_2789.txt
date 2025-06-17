@@ -1,1 +1,0 @@
-b0350	ECK0347	mhpD	2-hydroxypentadienoate hydratase // MhpS // MhpD

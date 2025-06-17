@@ -1,1 +1,0 @@
-b0774	ECK0763	bioA	adenosylmethionine-8-amino-7-oxononanoate aminotransferase // BioA

@@ -1,1 +1,0 @@
-b3541	ECK3528	dppD	dipeptide ABC transporter ATP binding subunit DppD // DppD

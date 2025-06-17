@@ -1,1 +1,0 @@
-b0244	ECK0245	thrW	tRNA-Thr(CGU) // tRNA<sup>Thr2</sup>(CGU) // tRNA<sup>thrW</sup>

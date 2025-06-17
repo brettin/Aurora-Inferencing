@@ -1,1 +1,0 @@
-b3415	ECK3402	gntT	high-affinity gluconate transporter // YhgC // UsgA // GntM // GntT

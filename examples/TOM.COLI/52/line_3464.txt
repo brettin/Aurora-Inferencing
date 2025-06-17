@@ -1,1 +1,0 @@
-b2554	ECK2551	glrR	DNA-binding transcriptional activator GlrR-phosphorylated // GlrR-P<sup>asp56</sup> // YfhA // GlrR // GlrR response regulator - phosphorylated // DNA-binding transcriptional activator GlrR // QseF // GlrR response regulator

@@ -1,1 +1,0 @@
-b4312	ECK4303	fimB	Type 1 fimbriae regulatory protein FimB // Pil // FimB // regulator for fimA

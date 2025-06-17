@@ -1,1 +1,0 @@
-b0525	ECK0518	ppiB	peptidyl-prolyl <i>cis-trans</i> isomerase B // PpiB // rotamase B

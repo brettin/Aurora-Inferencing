@@ -1,1 +1,0 @@
-b0353	ECK0350	mhpT	3-hydroxyphenylpropionate/3-hydroxycinnamate:H<sup>+</sup> symporter // YaiK // MhpT

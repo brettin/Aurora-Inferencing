@@ -1,1 +1,0 @@
-b0180	ECK0179	fabZ	3-hydroxy-acyl-[acyl-carrier-protein] dehydratase // YaeA // SefA // FabZ

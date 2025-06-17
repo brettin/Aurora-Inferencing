@@ -1,1 +1,0 @@
-b3171	ECK3160	metY	tRNA-initiator Met(CAU) // tRNA<sup>metY</sup> // tRNA<sup>fMet2</sup>

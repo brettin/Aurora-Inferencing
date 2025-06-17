@@ -1,1 +1,0 @@
-b0097	ECK0098	secM	SecA translation regulator // SrrA // SecM // YacA // secretion monitor

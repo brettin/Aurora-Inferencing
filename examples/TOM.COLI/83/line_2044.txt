@@ -1,1 +1,0 @@
-b4022	ECK4014	rluF	23S rRNA pseudouridine<sup>2604</sup> and tRNA<sup>Tyr</sup> pseudouridine<sup>35</sup> synthase // RluF // YjbC // ribosomal large subunit pseudouridine synthase F

@@ -1,1 +1,0 @@
-b3282	ECK3269	tsaC	L-threonylcarbamoyladenylate synthase // TsaC // YrdC // RimN // threonylcarbamoyl-AMP synthase

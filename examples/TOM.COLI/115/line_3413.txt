@@ -1,1 +1,0 @@
-b3001	ECK2995	gpr	L-glyceraldehyde 3-phosphate reductase // Gpr // MgrA // YghZ // AKR14A1

@@ -1,1 +1,0 @@
-b2055	ECK2049	wcaE	WcaE // colanic acid biosynthesis fucosyltransferase WcaE

@@ -1,1 +1,0 @@
-b2810	ECK2806	csdA	cysteine sulfinate desulfinase // YgdJ // CsdA

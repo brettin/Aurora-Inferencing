@@ -1,1 +1,0 @@
-b2526	ECK2523	hscA	iron-sulfur cluster biosynthesis chaperone HscA // Hsc // HscA // Hsc66 // chaperone, member of Hsp70 protein family // chaperone for [Fe-S] cluster biosynthesis

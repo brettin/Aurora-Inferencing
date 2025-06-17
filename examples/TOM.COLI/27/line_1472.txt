@@ -1,1 +1,0 @@
-b3666	ECK3657	uhpT	hexose-6-phosphate:phosphate antiporter // UhpT // UhpT-hexose phosphate MFS transporter

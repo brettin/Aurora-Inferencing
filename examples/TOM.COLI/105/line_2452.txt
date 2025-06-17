@@ -1,1 +1,0 @@
-b0284	ECK0283	paoC	aldehyde dehydrogenase, molybdenum cofactor-binding subunit // YagR // PaoC

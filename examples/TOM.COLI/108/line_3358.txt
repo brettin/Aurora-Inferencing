@@ -1,1 +1,0 @@
-b1967	ECK1963	hchA	protein/nucleic acid deglycase 1 // YzzC // YedU // HchA // Hsp31 // glyoxalase III // Maillard deglycase 1

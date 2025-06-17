@@ -1,1 +1,0 @@
-b1162	ECK1149	bluR	DNA-binding transcriptional repressor BluR // BluR // YcgE // BluR

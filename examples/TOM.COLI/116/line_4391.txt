@@ -1,1 +1,0 @@
-b2693	ECK2688	argY	tRNA-Arg(ACG) // tRNA<sup>argY</sup>

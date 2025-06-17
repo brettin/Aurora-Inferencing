@@ -1,1 +1,0 @@
-b4003	ECK3995	zraS	ZraS-<i>N</i>-phospho-L-histidine // ZraS-P<sup>his254</sup> // sensor histidine kinase ZraS // HydH // ZraS

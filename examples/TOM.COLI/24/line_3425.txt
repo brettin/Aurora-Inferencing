@@ -1,1 +1,0 @@
-b4517	ECK0982	gnsA	putative phosphatidylethanolamine synthesis regulator GnsA // Sfa // YccL // GnsA

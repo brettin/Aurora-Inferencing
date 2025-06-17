@@ -1,1 +1,0 @@
-b3560	ECK3548	glyQ	glycine&mdash;tRNA ligase subunit &alpha; // CfcA // GlyQ // GlyS(A)

@@ -1,1 +1,0 @@
-b2392	ECK2387	mntH	Mn<sup>2+</sup> : H<sup>+</sup> symporter // MntA // MntH // YfeP

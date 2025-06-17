@@ -1,1 +1,0 @@
-b0921	ECK0912	cmoM	tRNA <b>cmo</b><sup>5</sup>U34 methyltransferase // CmoM // YcbD // SmtA

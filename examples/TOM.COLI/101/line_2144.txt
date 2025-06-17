@@ -1,1 +1,0 @@
-b2218	ECK2211	rcsC	RcsC-phospho-L-aspartate // RcsC-P<sup>asp875</sup> // RcsC-<i>N</i>-phospho-L-histidine // RcsC-P<SUP>his479</SUP> // histidine kinase RcsC // RcsC

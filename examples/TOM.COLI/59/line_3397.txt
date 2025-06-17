@@ -1,1 +1,0 @@
-b0830	ECK0820	gsiB	glutathione ABC transporter periplasmic binding protein // GsiB // YliB

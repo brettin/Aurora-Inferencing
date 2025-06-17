@@ -1,1 +1,0 @@
-b2215	ECK2207	ompC	outer membrane porin C // Par // MeoA // outer membrane protein A<sub>2</sub> // outer membrane protein Ib // outer membrane protein 4 // outer membrane protein 0-8 // OmpC

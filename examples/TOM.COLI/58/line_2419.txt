@@ -1,1 +1,0 @@
-b2523	ECK2520	pepB	aminopeptidase B // YfhI // PepB

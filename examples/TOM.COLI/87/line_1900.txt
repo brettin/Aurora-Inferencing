@@ -1,1 +1,0 @@
-b1540	ECK1533	rspR	DNA-binding transcriptional repressor RspR // RspR // YdfH // YdfH

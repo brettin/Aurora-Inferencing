@@ -1,1 +1,0 @@
-b2757	ECK2752	casD	type I-E CRISPR system Cascade subunit CasD // YgcI // CasD // Cas5e // Cascade subunit D

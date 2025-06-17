@@ -1,1 +1,0 @@
-b3502	ECK3487	arsB	arsenite/antimonite:H<sup>+</sup> antiporter // ArsF // ArsB

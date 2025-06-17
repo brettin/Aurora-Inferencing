@@ -1,1 +1,0 @@
-b3988	ECK3979	rpoC	RNA polymerase subunit &beta;' // TabB // RpoC

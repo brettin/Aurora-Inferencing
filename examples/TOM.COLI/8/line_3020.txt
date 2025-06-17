@@ -1,1 +1,0 @@
-b0343	ECK0340	lacY	lactose permease // lactose/melibiose:H<sup>+</sup> symporter // lac permease // LacY // galactoside:proton symporter
