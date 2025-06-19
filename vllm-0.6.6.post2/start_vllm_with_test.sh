@@ -1,9 +1,11 @@
 #!/bin/bash -l
 
 SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+INFILE=${1:-"${SCRIPT_DIR}/../examples/TOM.COLI/1.txt"}
 HOSTNAME=$(hostname)
-echo "$(date) TSB script directory is: $SCRIPT_DIR"
-echo "$(date) TSB hostname: $HOSTNAME"
+echo "$(date) ${HOSTNAME} TSB script directory is: $SCRIPT_DIR"
+echo "$(date) ${HOSTNAME} TSB infile is ${INFILE}"
+echo "$(date) ${HOSTNAME} TSB hostname: $HOSTNAME"
 
 # This is needed incase vllm tries to download from huggingface.
 export HTTP_PROXY=http://proxy.alcf.anl.gov:3128
@@ -34,32 +36,33 @@ export VLLM_HOST_IP=$(getent hosts $(hostname).hsn.cm.aurora.alcf.anl.gov | awk 
 export RAY_ADDRESS=$VLLM_HOST_IP:6379
 export VLLM_HOST_PORT=8000
 export VLLM_MODEL="meta-llama/Llama-3.1-8B-Instruct"
+# export VLLM_MODEL="meta-llama/Llama-3.3-70B-Instruct"
 
 # Done setting up environment and variables.
 
-echo "$(date) TSB starting ray on $VLLM_HOST_IP"
+echo "$(date) ${HOSTNAME} TSB starting ray on $VLLM_HOST_IP"
 ray --logging-level info  start --head --verbose --node-ip-address=$VLLM_HOST_IP --port=6379 --num-cpus=64 --num-gpus=$tiles
-echo "$(date) TSB done starting ray on $VLLM_HOST_IP"
+echo "$(date) ${HOSTNAME} TSB done starting ray on $VLLM_HOST_IP"
 
-echo "$(date) TSB starting vllm with ${VLLM_MODEL} on host ${HOSTNAME}"
-echo "$(date) TSB writing log to $SCRIPT_DIR/${HOSTNAME}.vllm.log"
+echo "$(date) ${HOSTNAME} TSB starting vllm with ${VLLM_MODEL} on host ${HOSTNAME}"
+echo "$(date) ${HOSTNAME} TSB writing log to $SCRIPT_DIR/${HOSTNAME}.vllm.log"
 
-vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --device xpu --dtype float16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log 2>&1 &
+#vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --device xpu --dtype float16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log 2>&1 &
 
 # Use this if you want more verbose output to debug starting vllm.
-# python -u -m vllm.entrypoints.openai.api_server --host $(hostname) --model meta-llama/Llama-3.3-70B-Instruct --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --device xpu --dtype float16 --trust-remote-code --max-model-len 32000 > ${SCRIPT_DIR}/${HOSTNAME}.vllm.log 2>&1
+python -u -m vllm.entrypoints.openai.api_server --host $(hostname) --model ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --device xpu --dtype float16 --trust-remote-code --max-model-len 32000 > ${SCRIPT_DIR}/${HOSTNAME}.vllm.log 2>&1 &
 
 unset HTTP_PROXY
 unset HTTPS_PROXY
 unset http_proxy
 unset https_proxy
 
-echo "$(date) TSB Waiting for vLLM..."
-until curl -sf "http://${VLLM_HOST_IP}:${VLLM_HOST_PORT}/health" >/dev/null ; do
+echo "$(date) ${HOSTNAME} TSB Waiting for vLLM..."
+until curl -sf "http://${HOSTNAME}:${VLLM_HOST_PORT}/health" >/dev/null ; do
   sleep 2
 done
-echo "$(date) TSB vLLM ready!"
+echo "$(date) ${HOSTNAME} TSB vLLM ready!"
 
-echo "$(date) TSB calling test.coli_v2.py on ${HOSTNAME} using ${MODEL}"
-python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${SCRIPT_DIR}/../examples/TOM.COLI/1.txt ${HOSTNAME} --batch-size 64 --model ${$MODEL} --port {$PORT}
+echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${HOSTNAME} using ${VLLM_MODEL}"
+python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} --batch-size 64 --model ${VLLM_MODEL} --port ${VLLM_HOST_PORT} > ${HOSTNAME}.test.coli_v2.txt 2>&1
 
