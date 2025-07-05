@@ -8,7 +8,7 @@ from datetime import datetime
 def print_with_timestamp(message):
     """Helper function to print messages with timestamp."""
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"[{timestamp}] {message}")
+    print(f"[{timestamp}] TEST.COLI {message}")
 
 parser = argparse.ArgumentParser(description='''
 
@@ -119,7 +119,7 @@ for i in range(0, len(all_prompts), batch_size):
     batch_prompts = all_prompts[i:i+batch_size]
     batch_gene_ids = all_gene_ids[i:i+batch_size]
     
-    print_with_timestamp(f"\nProcessing batch {i//batch_size + 1} of {(len(all_prompts) + batch_size - 1)//batch_size}")
+    print_with_timestamp(f"Processing batch {i//batch_size + 1} of {(len(all_prompts) + batch_size - 1)//batch_size}")
     print_with_timestamp(f"Sending {len(batch_prompts)} prompts to the model...")
     
     # Call the model with the batch of prompts
