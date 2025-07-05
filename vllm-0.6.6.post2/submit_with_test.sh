@@ -1,12 +1,12 @@
 #!/bin/bash
 #PBS -N submit_with_test
-#PBS -l walltime=02:00:00
+#PBS -l walltime=01:00:00
 #PBS -A candle_aesp_CNDA
-#PBS -q prod
+#PBS -q debug
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=100
-#PBS -l filesystems=flare:home:daos_user
+#PBS -l select=2
+#PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
 SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2"
@@ -36,20 +36,19 @@ mapfile -t hosts < <(cut -d'.' -f1 "$PBS_NODEFILE")
 filenames=(${SCRIPT_DIR}/../examples/TOM.COLI/batch_1/genes/*)
 
 # TODO:
-OFFSET=0 # number of files processed
+OFFSET=2 # number of files processed
 
 if (( ${#hosts[@]} < ${#filenames[@]} )); then
     min=${#hosts[@]}
-    echo "min = ${min}"
+    echo "$(date) min = ${min}"
 else
     min=${#filenames[@]}
-    echo "min = ${min}"
+    echo "$(date) min = ${min}"
 fi
 
 declare -a pids
-for ((i = 0; i < ${min}; i++)); do
-    echo "starting vllm on host ${hosts[i]}"
-    echo "processing genes in ${filenames[i]}"
+for ((i = ${OFFSET}; i < ${min}; i++)); do
+    echo "$(date) processing genes in ${filenames[i]} on host ${hosts[i]}"
     start_vllm_on_host ${hosts[i]} ${filenames[i]} &
     pid=$!
     pids+=($pid)
