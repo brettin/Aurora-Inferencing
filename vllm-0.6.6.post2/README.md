@@ -69,15 +69,17 @@ Yet to be finalized.
 
 Call stack:
 
-   submit.sh (PBS job)
+   submit_with_test.sh (PBS job)
    ├── SSH process 1 (background)
-   │   └── start_vllm.sh (foreground)
+   │   └── start_vllm_with_test.sh (foreground)
    │       ├── ray start (goes to background once it starts)
    │       └── vllm serve (foreground)
+   |       └── python ../examples/TOM.COLI/test.coli_v2.py
    ├── SSH process 2 (background)
-   │   └── start_vllm.sh (foreground)
+   │   └── start_vllm_with_test.sh (foreground)
    │       ├── ray start (goes to background once it starts)
-   │       └── vllm serve (foreground)
+   │       └── vllm serve (background)
+   |       └── python ../examples/TOM.COLI/test.coli_v2.py
    └── ... (more SSH processes)
 
 ## Example Flow
