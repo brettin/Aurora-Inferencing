@@ -46,11 +46,9 @@ This script is designed to run the `test.coli.py` Python script across multiple 
 
    The submit script launches the servers. Then launches the python script.
 
-3. When prompted, enter the number of directories to process (0 to N-1)
-
-4. The script will:
+3. The script will:
    - Read the hostfile to determine available hosts
-   - Process directories in batches equal to the number of available hosts
+   - Process files in batches equal to the number of available hosts
    - Wait for each batch to complete before starting the next batch
    - Continue until all directories have been processed
 
