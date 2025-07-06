@@ -50,7 +50,17 @@ echo "$(date) ${HOSTNAME} TSB writing log to $SCRIPT_DIR/${HOSTNAME}.vllm.log"
 #vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --device xpu --dtype float16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log 2>&1 &
 
 # Use this if you want more verbose output to debug starting vllm.
-python -u -m vllm.entrypoints.openai.api_server --host $(hostname) --model ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --device xpu --dtype float16 --trust-remote-code --max-model-len 32000 > ${SCRIPT_DIR}/${HOSTNAME}.vllm.log 2>&1 &
+python -u -m vllm.entrypoints.openai.api_server \
+	--host $(hostname) \
+	--model ${VLLM_MODEL} \
+	--port ${VLLM_HOST_PORT} \
+	--tensor-parallel-size 8 \
+	--device xpu --dtype float16 \
+	--trust-remote-code \
+	--max-model-len 32000 \
+	> ${SCRIPT_DIR}/${HOSTNAME}.vllm.log 2>&1 &
+
+vllm_pid=$!
 
 unset HTTP_PROXY
 unset HTTPS_PROXY
@@ -64,5 +74,15 @@ done
 echo "$(date) ${HOSTNAME} TSB vLLM ready!"
 
 echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${HOSTNAME} using ${VLLM_MODEL}"
-python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} --batch-size 64 --model ${VLLM_MODEL} --port ${VLLM_HOST_PORT} > ${INFILE}.${HOSTNAME}.test.coli_v2.txt 2>&1
+infile_base=$(basename $INFILE)
+python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} \
+	--batch-size 16 \
+	--model ${VLLM_MODEL} \
+	--port ${VLLM_HOST_PORT} \
+	> ${infile_base}.${HOSTNAME}.test.coli_v2.txt 2>&1
 
+test_exit_code=$?
+echo "$(date) test.coli returned ${test_exit_code}"
+
+# Kill the vllm server when the python script is done
+kill -SIGINT "$vllm_pid"
