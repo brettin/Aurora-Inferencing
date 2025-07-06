@@ -40,24 +40,15 @@ This script is designed to run the `test.coli.py` Python script across multiple 
 
    ```
    cd Aurora-Inferencing/vllm-0.6.6.post2
-   vi submit.sh
-   qsub ./submit.sh
+   vi submit_with_test.sh
+   qsub ./submit_with_test.sh
    ```
 
-   The submit script launches the servers. I don't have a good way to
-   wait for all the servers to launch yet. You can monitor the log files
-   (the test_servers.sh script is not reliable yet).
+   The submit script launches the servers. Then launches the python script.
 
-   ```
-   source source env.sh
-   source unset_proxy.sh
-   cd ../examples/TOM.COLI
-   ./test.coli.async.sh
-   ```
+3. When prompted, enter the number of directories to process (0 to N-1)
 
-2. When prompted, enter the number of directories to process (0 to N-1)
-
-3. The script will:
+4. The script will:
    - Read the hostfile to determine available hosts
    - Process directories in batches equal to the number of available hosts
    - Wait for each batch to complete before starting the next batch
@@ -68,7 +59,7 @@ This script is designed to run the `test.coli.py` Python script across multiple 
 Yet to be finalized.
 
 Call stack:
-
+```
    submit_with_test.sh (PBS job)
    ├── SSH process 1 (background)
    │   └── start_vllm_with_test.sh (foreground)
@@ -81,7 +72,7 @@ Call stack:
    │       └── vllm serve (background)
    |       └── python ../examples/TOM.COLI/test.coli_v2.py
    └── ... (more SSH processes)
-
+```
 ## Example Flow
 If you have 5 hosts and 12 directories:
 1. First batch: Directories 0-4 run on hosts 0-4
