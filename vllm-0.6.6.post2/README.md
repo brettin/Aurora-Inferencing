@@ -6,7 +6,7 @@
 
 # Overview
 
-This script is designed to run the `test.coli.py` Python script across multiple directories and hosts in a controlled, parallel manner. It ensures that only one test.coli.py process runs on each host at any given time, while maximizing throughput by processing directories in parallel batches.
+This script is designed to run the `test.coli_v2.py` Python script across multiple directories and hosts in a controlled, parallel manner. It ensures that only one test.coli.py process runs on each host at any given time, while maximizing throughput by processing directories in parallel batches.
 
 # Installation
 
