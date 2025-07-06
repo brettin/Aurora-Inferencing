@@ -4,11 +4,33 @@ import time
 from openai import OpenAI
 import concurrent.futures
 from datetime import datetime
+import threading
+import psutil
+import os
 
 def print_with_timestamp(message):
     """Helper function to print messages with timestamp."""
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"[{timestamp}] TEST.COLI {message}")
+
+def get_thread_info():
+    """Get information about current threads."""
+    current_thread = threading.current_thread()
+    active_threads = threading.active_count()
+    thread_names = [t.name for t in threading.enumerate()]
+    return {
+        'current_thread': current_thread.name,
+        'active_count': active_threads,
+        'thread_names': thread_names
+    }
+
+def print_thread_info():
+    """Print current thread information."""
+    info = get_thread_info()
+    print_with_timestamp(f"Active threads: {info['active_count']}")
+    print_with_timestamp(f"Thread names: {info['thread_names']}")
+
+print_thread_info()
 
 parser = argparse.ArgumentParser(description='''
 
@@ -24,7 +46,7 @@ This script processes gene IDs from a specified file and queries a vLLM server r
 
 parser.add_argument('file', help='File containing gene IDs')
 parser.add_argument('host', help='Hostname of the vLLM server')
-parser.add_argument('--batch-size', type=int, default=1, help='Number of prompts to send in a batch (default: 1)')
+parser.add_argument('--batch-size', type=int, default=64, help='Number of prompts to send in a batch (default: 1)')
 parser.add_argument('--timeout', type=int, default=60, help='Timeout in seconds for API calls (default: 60)')
 parser.add_argument('--model', default='meta-llama/Llama-3.1-70B-Instruct', help='Model name to use (default: meta-llama/Llama-3.1-70B-Instruct)')
 parser.add_argument('--port', default='8000', help='Port number for the vLLM server (default: 8000)')
@@ -80,6 +102,8 @@ def call_model(prompts):
     with concurrent.futures.ThreadPoolExecutor() as executor:
         # Submit all prompts to be processed in parallel
         future_to_prompt = {executor.submit(process_single_prompt, prompt): prompt for prompt in prompts}
+        info = get_thread_info()
+        print(f"Active threads afer call to executor: {info['active_count']} threads")
         responses = []
         for future in concurrent.futures.as_completed(future_to_prompt):
             response = future.result()
@@ -120,7 +144,6 @@ for i in range(0, len(all_prompts), batch_size):
     batch_gene_ids = all_gene_ids[i:i+batch_size]
     
     print_with_timestamp(f"Processing batch {i//batch_size + 1} of {(len(all_prompts) + batch_size - 1)//batch_size}")
-    print_with_timestamp(f"Sending {len(batch_prompts)} prompts to the model...")
     
     # Call the model with the batch of prompts
     # responses = call_model_with_timeout(batch_prompts, timeout)
