@@ -46,6 +46,14 @@ This script is designed to run the `test.coli.py` Python script across multiple 
 
    The submit script launches the servers. Then launches the python script.
 
+   To use copper, use the copper_submit_with_test.sh script.
+
+   ```
+   cd Aurora-Inferencing/vllm-0.6.6.post2
+   vi copper_submit_with_test.sh
+   qsub ./copper_submit_with_test.sh
+   ```
+
 3. The script will:
    - Read the hostfile to determine available hosts
    - Process files in batches equal to the number of available hosts
@@ -62,12 +70,12 @@ Call stack:
    ├── SSH process 1 (background)
    │   └── start_vllm_with_test.sh (foreground)
    │       ├── ray start (goes to background once it starts)
-   │       └── vllm serve (foreground)
+   │       ├── vllm serve (background)
    |       └── python ../examples/TOM.COLI/test.coli_v2.py
    ├── SSH process 2 (background)
    │   └── start_vllm_with_test.sh (foreground)
    │       ├── ray start (goes to background once it starts)
-   │       └── vllm serve (background)
+   │       ├── vllm serve (background)
    |       └── python ../examples/TOM.COLI/test.coli_v2.py
    └── ... (more SSH processes)
 ```
