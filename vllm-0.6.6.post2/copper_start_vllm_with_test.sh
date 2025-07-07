@@ -88,10 +88,10 @@ until curl -sf "http://${HOSTNAME}:${VLLM_HOST_PORT}/health" >/dev/null ; do
 done
 echo "$(date) ${HOSTNAME} TSB vLLM ready!"
 
-echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${HOSTNAME} using ${VLLM_MODEL}"
 infile_base=$(basename $INFILE)
+echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${infile_base} using ${VLLM_MODEL}"
 python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} \
-	--batch-size 64 \
+	--batch-size 32 \
 	--model ${VLLM_SERVED_MODEL_NAME} \
 	--port ${VLLM_HOST_PORT} \
 	> ${infile_base}.${HOSTNAME}.test.coli_v2.txt 2>&1
