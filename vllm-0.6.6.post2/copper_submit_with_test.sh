@@ -1,17 +1,17 @@
 #!/bin/bash
 #PBS -N submit_with_test
-#PBS -l walltime=02:00:00
+#PBS -l walltime=04:00:00
 #PBS -A candle_aesp_CNDA
 #PBS -q prod
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=32
+#PBS -l select=256
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
 mkdir -p /tmp/${USER}/copper
 module load copper
-launch_copper.sh
+launch_copper.sh -M 20GB
 
 #####################################################
 # Set OFFSET if you want to resume processing files #
@@ -21,7 +21,7 @@ launch_copper.sh
 SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2"
 cat "$PBS_NODEFILE" > $SCRIPT_DIR/hostfile
 
-
+# mpiexec -ppn 1 -n $NUM_NODES "mkdir -p /tmp/
 make_copper_mount_on_host() {
     local host=$1
     if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "mkdir -p /tmp/brettin/copper" 2>&1 ; then
@@ -30,6 +30,8 @@ make_copper_mount_on_host() {
         echo "$(date) Failed to create /tmp/brettin/copper on $host"
         return 1
     fi
+}
+
 # Function to start vLLM on a host
 start_vllm_on_host() {
     local host=$1
@@ -51,7 +53,7 @@ filenames=(${SCRIPT_DIR}/../examples/TOM.COLI/batch_1/genes/*)
 
 
 # Loop over the smaller of hostnames or filenames with an OFFSET option for restarting.
-OFFSET=0 # number of files already processed
+OFFSET=192 # number of files already processed
 total_files=$(( ${#filenames[@]} - OFFSET ))
 total_hosts=${#hosts[@]}
 
@@ -65,13 +67,13 @@ fi
 
 declare -a pids
 for ((i = OFFSET; i < min + OFFSET; i++)); do
-    make_copper_mount_on_host ${host}
 
     index=$((i - OFFSET)) # for indexing the hosts
     file="${filenames[i]}"
     host="${hosts[index]}"
 
     echo "$(date) processing genes in ${file} on host ${host}"
+    make_copper_mount_on_host ${host}
     start_vllm_on_host ${host} ${file} &
     pid=$!
     pids+=($pid)
