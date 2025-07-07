@@ -56,9 +56,9 @@ This script is designed to run the `test.coli_v2.py` Python script across multip
 
 3. The script will:
    - Read the hostfile to determine available hosts
-   - Process files in batches equal to the number of available hosts
+   - Process files in batches, mapping one file to a host
    - Wait for each batch to complete before starting the next batch
-   - Continue until all directories have been processed
+   - Continue until all entries in the file have been processed
 
 # How It Works
 
