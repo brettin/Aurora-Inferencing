@@ -80,10 +80,6 @@ Call stack:
    └── ... (more SSH processes)
 ```
 ## Example Flow
-If you have 5 hosts and 12 directories:
-1. First batch: Directories 0-4 run on hosts 0-4
-2. After these complete, second batch: Directories 5-9 run on hosts 0-4
-3. After these complete, final batch: Directories 10-11 run on hosts 0-1
 
-This approach efficiently distributes the workload while ensuring no host is overloaded with multiple simultaneous processes.
+Yet to be finalized.
 
