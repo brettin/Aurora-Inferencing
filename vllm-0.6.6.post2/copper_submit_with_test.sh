@@ -1,17 +1,18 @@
 #!/bin/bash
 #PBS -N submit_with_test
-#PBS -l walltime=04:00:00
+#PBS -l walltime=05:00:00
 #PBS -A candle_aesp_CNDA
 #PBS -q prod
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=256
+#PBS -l select=512
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
 mkdir -p /tmp/${USER}/copper
 module load copper
 launch_copper.sh -M 20GB
+COPPER_MOUNT=/tmp/${USER}/copper
 
 #####################################################
 # Set OFFSET if you want to resume processing files #
@@ -19,6 +20,8 @@ launch_copper.sh -M 20GB
 #####################################################
 
 SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2"
+SCRIPT_DIR=${COPPER_MOUNT}/${SCRIPT_DIR}
+
 cat "$PBS_NODEFILE" > $SCRIPT_DIR/hostfile
 
 # mpiexec -ppn 1 -n $NUM_NODES "mkdir -p /tmp/
@@ -53,7 +56,7 @@ filenames=(${SCRIPT_DIR}/../examples/TOM.COLI/batch_1/genes/*)
 
 
 # Loop over the smaller of hostnames or filenames with an OFFSET option for restarting.
-OFFSET=192 # number of files already processed
+OFFSET=448 # number of files already processed
 total_files=$(( ${#filenames[@]} - OFFSET ))
 total_hosts=${#hosts[@]}
 
