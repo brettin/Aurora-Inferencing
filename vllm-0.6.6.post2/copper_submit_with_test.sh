@@ -12,7 +12,6 @@
 mkdir -p /tmp/${USER}/copper
 module load copper
 launch_copper.sh -M 20GB
-COPPER_MOUNT=/tmp/${USER}/copper
 
 #####################################################
 # Set OFFSET if you want to resume processing files #
@@ -20,7 +19,6 @@ COPPER_MOUNT=/tmp/${USER}/copper
 #####################################################
 
 SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2"
-SCRIPT_DIR=${COPPER_MOUNT}/${SCRIPT_DIR}
 
 cat "$PBS_NODEFILE" > $SCRIPT_DIR/hostfile
 
