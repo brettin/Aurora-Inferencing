@@ -73,7 +73,7 @@ python -u -m vllm.entrypoints.openai.api_server \
 	--trust-remote-code \
 	--max-model-len 32000 \
 	--served-model-name ${VLLM_SERVED_MODEL_NAME} \
-	> ${SCRIPT_DIR}/${HOSTNAME}.vllm.log 2>&1 &
+	> ${HOSTNAME}.vllm.log 2>&1 &
 
 vllm_pid=$!
 
@@ -101,3 +101,6 @@ echo "$(date) test.coli returned ${test_exit_code}"
 
 # Kill the vllm server when the python script is done
 kill -SIGINT "$vllm_pid"
+
+# Move the results to the shared fs
+
