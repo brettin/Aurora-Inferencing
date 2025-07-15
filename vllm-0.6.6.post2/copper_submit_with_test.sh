@@ -1,11 +1,11 @@
 #!/bin/bash
 #PBS -N submit_with_test
-#PBS -l walltime=05:00:00
+#PBS -l walltime=02:00:00
 #PBS -A candle_aesp_CNDA
 #PBS -q prod
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=512
+#PBS -l select=32
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
