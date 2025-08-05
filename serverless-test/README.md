@@ -9,7 +9,7 @@ For a 4-node job with 12 processes per node:
 1. **Quick Start**
    ```bash
    git clone https://github.com/brettin/Aurora-Inferencing
-   cd Aurora-Inferencing
+   cd Aurora-Inferencing/serverless-test/
    qsub ./submit.sh
    ```
 
