@@ -1,17 +1,13 @@
 #!/bin/bash
 #PBS -N submit_with_test
-#PBS -l walltime=01:00:00
+#PBS -l walltime=02:00:00
 #PBS -A candle_aesp_CNDA
-#PBS -q debug
+#PBS -q prod
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=2
+#PBS -l select=32
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
-
-#mkdir -p /tmp/brettin/copper
-#module load copper
-#launch_copper.sh
 
 #####################################################
 # Set OFFSET if you want to resume processing files #
@@ -43,7 +39,7 @@ filenames=(${SCRIPT_DIR}/../examples/TOM.COLI/batch_1/genes/*)
 
 
 # Loop over the smaller of hostnames or filenames with an OFFSET option for restarting.
-OFFSET=0 # number of files already processed
+OFFSET=448 # number of files already processed
 total_files=$(( ${#filenames[@]} - OFFSET ))
 total_hosts=${#hosts[@]}
 

@@ -35,8 +35,14 @@ export RAY_TMPDIR=/tmp
 export VLLM_HOST_IP=$(getent hosts $(hostname).hsn.cm.aurora.alcf.anl.gov | awk '{ print $1 }' | tr ' ' '\n' | sort | head -n 1)
 export RAY_ADDRESS=$VLLM_HOST_IP:6379
 export VLLM_HOST_PORT=8000
-export VLLM_MODEL="meta-llama/Llama-3.1-8B-Instruct"
-# export VLLM_MODEL="meta-llama/Llama-3.3-70B-Instruct"
+
+#export VLLM_MODEL="meta-llama/Llama-3.1-8B-Instruct"
+#VLLM_SERVED_MODEL_NAME=Llama-3.1-8B-Instruct
+export VLLM_MODEL="meta-llama/Llama-3.3-70B-Instruct"
+VLLM_SERVED_MODEL_NAME=Llama-3.3-70B
+
+export HF_HUB_OFFLINE=1
+
 
 # Done setting up environment and variables.
 
@@ -58,7 +64,8 @@ python -u -m vllm.entrypoints.openai.api_server \
 	--device xpu --dtype float16 \
 	--trust-remote-code \
 	--max-model-len 32000 \
-	> ${SCRIPT_DIR}/${HOSTNAME}.vllm.log 2>&1 &
+	--served-model-name ${VLLM_SERVED_MODEL_NAME} \
+	> ${HOSTNAME}.vllm.log 2>&1 &
 
 vllm_pid=$!
 
@@ -73,11 +80,12 @@ until curl -sf "http://${HOSTNAME}:${VLLM_HOST_PORT}/health" >/dev/null ; do
 done
 echo "$(date) ${HOSTNAME} TSB vLLM ready!"
 
-echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${HOSTNAME} using ${VLLM_MODEL}"
 infile_base=$(basename $INFILE)
+echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${infile_base} using ${VLLM_MODEL}"
+
 python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} \
-	--batch-size 16 \
-	--model ${VLLM_MODEL} \
+	--batch-size 32 \
+	--model ${VLLM_SERVED_MODEL_NAME} \
 	--port ${VLLM_HOST_PORT} \
 	> ${infile_base}.${HOSTNAME}.test.coli_v2.txt 2>&1
 
