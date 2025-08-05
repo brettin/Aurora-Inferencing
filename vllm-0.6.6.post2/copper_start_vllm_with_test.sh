@@ -24,32 +24,33 @@ export tiles=12
 export ZE_FLAT_DEVICE_HIERARCHY=FLAT
 export NUMEXPR_MAX_THREADS=208
 
-mkdir -p /tmp/${USER}/copper
 COPPER_MOUNT=/tmp/${USER}/copper
-module load copper
-launch_copper.sh -M 20GB
 conda activate ${COPPER_MOUNT}/lus/flare/projects/candle_aesp_CNDA/brettin/conda_envs/vllm-20250520
 
 # You need to change these because you need write perms on the dirs.
-export HF_DATASETS_CACHE=${COPPER_MOUNT}/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
-export TRANSFORMERS_CACHE=${COPPER_MOUNT}/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
-export HF_HOME=${COPPER_MOUNT}/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
-export HF_MODULES_CACHE=${COPPER_MOUNT}/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+#export HF_DATASETS_CACHE=${COPPER_MOUNT}/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+#export TRANSFORMERS_CACHE=${COPPER_MOUNT}/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+#export HF_HOME=${COPPER_MOUNT}/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+#export HF_MODULES_CACHE=${COPPER_MOUNT}/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+export HF_DATASETS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+export TRANSFORMERS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+export HF_HOME=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+export HF_MODULES_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+
 
 export TMPDIR=/tmp
 export RAY_TMPDIR=/tmp
 export VLLM_HOST_IP=$(getent hosts $(hostname).hsn.cm.aurora.alcf.anl.gov | awk '{ print $1 }' | tr ' ' '\n' | sort | head -n 1)
 export RAY_ADDRESS=$VLLM_HOST_IP:6379
 export VLLM_HOST_PORT=8000
-export VLLM_MODEL="meta-llama/Llama-3.1-8B-Instruct"
-# export VLLM_MODEL="meta-llama/Llama-3.3-70B-Instruct"
 
+#export VLLM_MODEL="meta-llama/Llama-3.1-8B-Instruct"
+#VLLM_SERVED_MODEL_NAME=Llama-3.1-8B-Instruct
 
+export VLLM_MODEL="meta-llama/Llama-3.3-70B-Instruct"
+VLLM_SERVED_MODEL_NAME=Llama-3.3-70B
 
-# export HF_HUB_OFFLINE=1
-# export VLLM_MODEL=${COPPER_MOUNT}/lus/flare/projects/candle_aesp_CNDA/brettin/.cache/models--meta-llama--Llama-3.1-8B-Instruct
-
-
+export HF_HUB_OFFLINE=1
 
 # Done setting up environment and variables.
 
@@ -63,7 +64,6 @@ echo "$(date) ${HOSTNAME} TSB writing log to $SCRIPT_DIR/${HOSTNAME}.vllm.log"
 #vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --device xpu --dtype float16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log 2>&1 &
 
 # Use this if you want more verbose output to debug starting vllm.
-VLLM_SERVED_MODEL_NAME=Llama-3.1-8B-Instruct
 python -u -m vllm.entrypoints.openai.api_server \
 	--host $(hostname) \
 	--model ${VLLM_MODEL} \
@@ -101,6 +101,3 @@ echo "$(date) test.coli returned ${test_exit_code}"
 
 # Kill the vllm server when the python script is done
 kill -SIGINT "$vllm_pid"
-
-# Move the results to the shared fs
-

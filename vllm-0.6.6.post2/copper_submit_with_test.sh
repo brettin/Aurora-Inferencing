@@ -10,8 +10,9 @@
 #PBS -l place=scatter
 
 mkdir -p /tmp/${USER}/copper
+module load frameworks
 module load copper
-launch_copper.sh -M 20GB
+launch_copper.sh
 
 #####################################################
 # Set OFFSET if you want to resume processing files #
@@ -22,13 +23,12 @@ SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm
 
 cat "$PBS_NODEFILE" > $SCRIPT_DIR/hostfile
 
-# mpiexec -ppn 1 -n $NUM_NODES "mkdir -p /tmp/
 make_copper_mount_on_host() {
     local host=$1
-    if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "mkdir -p /tmp/brettin/copper" 2>&1 ; then
-        echo "$(date) Successfully created /tmp/brettin/copper on $host"
+    if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "mkdir -p /tmp/${USER}/copper" 2>&1 ; then
+        echo "$(date) Successfully created /tmp/${USER}/copper on $host"
     else
-        echo "$(date) Failed to create /tmp/brettin/copper on $host"
+        echo "$(date) Failed to create /tmp/${USER}/copper on $host"
         return 1
     fi
 }
@@ -74,7 +74,7 @@ for ((i = OFFSET; i < min + OFFSET; i++)); do
     host="${hosts[index]}"
 
     echo "$(date) processing genes in ${file} on host ${host}"
-    make_copper_mount_on_host ${host}
+    # make_copper_mount_on_host ${host}
     start_vllm_on_host ${host} ${file} &
     pid=$!
     pids+=($pid)
