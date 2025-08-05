@@ -14,4 +14,4 @@ module add oneapi/release
 echo "running on host $(hostname), rank ${PMIX_RANK}, xpu ${ZE_AFFINITY_MASK}"
 
 SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/serverless-test"
-python ${SCRIPT_DIR}/simple_test.py ${PMIX_RANK}.in ${PMIX_RANK}.out 
+python ${SCRIPT_DIR}/simple_test.py ${SCRIPT_DIR}/${PMIX_RANK}.in ${SCRIPT_DIR}/${PMIX_RANK}.out 
