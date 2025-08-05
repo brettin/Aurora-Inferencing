@@ -2,6 +2,28 @@
 
 This directory contains a serverless inference test system designed to run on the Aurora supercomputer at ALCF. The system demonstrates running one model per tile, on 12 tiles per node, using 4 nodes, for a total of 48 model instances. 
 
+## Execution Example
+
+For a 4-node job with 12 processes per node:
+
+1. **Quick Start**
+   ```bash
+   git clone https://github.com/brettin/Aurora-Inferencing
+   cd Aurora-Inferencing
+   qsub ./submit.sh
+   ```
+
+2. **Execution Flow**:
+   - 48 total processes (4 nodes × 12 processes)
+   - Each process gets mapped to a GPU tile
+   - Each process loads model weights. The model must be small enough to fit on one tile.
+   - Each process reads from `{rank}.in` and writes to `{rank}.out`
+   - All processes run in parallel
+
+3. **Output**:
+   - 48 output files (`0.out` through `47.out`)
+   - Each contains generated text for the corresponding input prompts
+
 ## System Architecture
 
 The system implements a distributed inference pipeline where:
@@ -57,22 +79,3 @@ Performs the actual inference using vLLM. Processing Flow:
 - **Content**: Generated text for each input prompt
 - **Format**: `Prompt: {prompt}, Generated text: {generated_text}`
 
-## Execution Example
-
-For a 4-node job with 12 processes per node:
-
-1. **Job Submission**:
-   ```bash
-   qsub submit.sh
-   ```
-
-2. **Execution Flow**:
-   - 48 total processes (4 nodes × 12 processes)
-   - Each process gets mapped to a GPU tile
-   - Each process loads model weights. The model must be small enough to fit on one tile.
-   - Each process reads from `{rank}.in` and writes to `{rank}.out`
-   - All processes run in parallel
-
-3. **Output**:
-   - 48 output files (`0.out` through `47.out`)
-   - Each contains generated text for the corresponding input prompts
