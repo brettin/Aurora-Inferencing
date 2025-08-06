@@ -5,7 +5,7 @@ if len(sys.argv) == 3:
     infile=sys.argv[1]
     outfile=sys.argv[2]
 else:
-    print(f"usage $sys.argv[0] infile outfile")
+    print(f"usage {sys.argv[0]} infile outfile")
 
 prompts = []
 
