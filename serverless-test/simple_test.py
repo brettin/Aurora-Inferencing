@@ -16,7 +16,7 @@ with open(infile, "r") as f:
             prompts.append(clean)
 
 sampling_params = SamplingParams(temperature=0.8, top_p=0.95)
-llm = LLM(model="facebook/opt-125m", device="xpu")
+llm = LLM(model=os.getenv("MODEL_NAME", "facebook/opt-125m"), device="xpu")
 outputs = llm.generate(prompts, sampling_params)
 
 with open(outfile, "w") as f:

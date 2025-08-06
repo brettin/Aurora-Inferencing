@@ -1,3 +1,8 @@
+#!/bin/bash
+
+# Set model name, simple_test.py will use this environment variable if it is set.
+export MODEL_NAME="facebook/opt-125m"
+
 export HTTP_PROXY=http://proxy.alcf.anl.gov:3128
 export HTTPS_PROXY=http://proxy.alcf.anl.gov:3128
 export http_proxy=http://proxy.alcf.anl.gov:3128
