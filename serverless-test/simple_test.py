@@ -1,4 +1,5 @@
 import sys
+import os
 from vllm import LLM, SamplingParams
 
 if len(sys.argv) == 3:
