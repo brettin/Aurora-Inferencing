@@ -23,6 +23,7 @@ module add oneapi/release
 export tiles=12
 export ZE_FLAT_DEVICE_HIERARCHY=FLAT
 export NUMEXPR_MAX_THREADS=208
+export CCL_PROCESS_LAUNCHER=torchrun # Per Ken R.
 
 # You need to change these because you need write perms on the dirs.
 export HF_DATASETS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
