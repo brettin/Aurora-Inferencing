@@ -14,11 +14,6 @@ export http_proxy=http://proxy.alcf.anl.gov:3128
 export https_proxy=http://proxy.alcf.anl.gov:3128
 
 module load frameworks
-conda activate /lus/flare/projects/candle_aesp_CNDA/brettin/conda_envs/vllm-20250520
-module unload oneapi/eng-compiler/2024.07.30.002
-module use /opt/aurora/24.180.3/spack/unified/0.8.0/install/modulefiles/oneapi/2024.07.30.002
-module use /soft/preview/pe/24.347.0-RC2/modulefiles
-module add oneapi/release
 
 export tiles=12
 export ZE_FLAT_DEVICE_HIERARCHY=FLAT
@@ -44,6 +39,11 @@ VLLM_SERVED_MODEL_NAME=Llama-3.3-70B
 
 export HF_HUB_OFFLINE=1
 
+unset ONEAPI_DEVICE_SELECTOR
+export NUMEXPR_MAX_THREADS=208
+unset OMP_NUM_THREADS
+
+export CCL_PROCESS_LAUNCHER=torchrun
 
 # Done setting up environment and variables.
 
@@ -54,19 +54,19 @@ echo "$(date) ${HOSTNAME} TSB done starting ray on $VLLM_HOST_IP"
 echo "$(date) ${HOSTNAME} TSB starting vllm with ${VLLM_MODEL} on host ${HOSTNAME}"
 echo "$(date) ${HOSTNAME} TSB writing log to $SCRIPT_DIR/${HOSTNAME}.vllm.log"
 
-#vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --device xpu --dtype float16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log 2>&1 &
+vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype float16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log &
 
 # Use this if you want more verbose output to debug starting vllm.
-python -u -m vllm.entrypoints.openai.api_server \
-	--host $(hostname) \
-	--model ${VLLM_MODEL} \
-	--port ${VLLM_HOST_PORT} \
-	--tensor-parallel-size 8 \
-	--device xpu --dtype float16 \
-	--trust-remote-code \
-	--max-model-len 32000 \
-	--served-model-name ${VLLM_SERVED_MODEL_NAME} \
-	> ${HOSTNAME}.vllm.log 2>&1 &
+# python -u -m vllm.entrypoints.openai.api_server \
+# 	--host $(hostname) \
+# 	--model ${VLLM_MODEL} \
+# 	--port ${VLLM_HOST_PORT} \
+# 	--tensor-parallel-size 8 \
+#	--dtype float16 \
+# 	--trust-remote-code \
+# 	--max-model-len 32000 \
+# 	--served-model-name ${VLLM_SERVED_MODEL_NAME} \
+# 	> ${HOSTNAME}.vllm.log 2>&1 &
 
 vllm_pid=$!
 
@@ -76,7 +76,7 @@ unset http_proxy
 unset https_proxy
 
 echo "$(date) ${HOSTNAME} TSB Waiting for vLLM..."
-until curl -sf "http://${HOSTNAME}:${VLLM_HOST_PORT}/health" >/dev/null ; do
+until curl -sf "http://${HOSTNAME}:${VLLM_HOST_PORT}/health" ; do
   sleep 2
 done
 echo "$(date) ${HOSTNAME} TSB vLLM ready!"
