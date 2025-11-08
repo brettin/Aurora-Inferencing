@@ -33,9 +33,10 @@ export RAY_ADDRESS=$VLLM_HOST_IP:6379
 export VLLM_HOST_PORT=8000
 
 #export VLLM_MODEL="meta-llama/Llama-3.1-8B-Instruct"
-#VLLM_SERVED_MODEL_NAME=Llama-3.1-8B-Instruct
 export VLLM_MODEL="meta-llama/Llama-3.3-70B-Instruct"
-VLLM_SERVED_MODEL_NAME=Llama-3.3-70B
+
+#export VLLM_MODEL="openai/gpt-oss-120b"
+
 
 export HF_HUB_OFFLINE=1
 
@@ -54,7 +55,9 @@ echo "$(date) ${HOSTNAME} TSB done starting ray on $VLLM_HOST_IP"
 echo "$(date) ${HOSTNAME} TSB starting vllm with ${VLLM_MODEL} on host ${HOSTNAME}"
 echo "$(date) ${HOSTNAME} TSB writing log to $SCRIPT_DIR/${HOSTNAME}.vllm.log"
 
-vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype float16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log &
+#vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype float16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log &
+vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype bfloat16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log &
+
 
 # Use this if you want more verbose output to debug starting vllm.
 # python -u -m vllm.entrypoints.openai.api_server \
@@ -65,7 +68,7 @@ vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dty
 #	--dtype float16 \
 # 	--trust-remote-code \
 # 	--max-model-len 32000 \
-# 	--served-model-name ${VLLM_SERVED_MODEL_NAME} \
+# 	--served-model-name ${VLLM_MODEL} \
 # 	> ${HOSTNAME}.vllm.log 2>&1 &
 
 vllm_pid=$!
@@ -86,7 +89,7 @@ echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${infile_base} using ${
 
 python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} \
 	--batch-size 32 \
-	--model ${VLLM_SERVED_MODEL_NAME} \
+	--model ${VLLM_MODEL} \
 	--port ${VLLM_HOST_PORT} \
 	> ${infile_base}.${HOSTNAME}.test.coli_v2.txt 2>&1
 
