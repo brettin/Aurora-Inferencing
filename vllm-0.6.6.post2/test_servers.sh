@@ -75,8 +75,14 @@ echo "Servers UP: $SUCCESS_COUNT"
 echo "Servers DOWN: $ERROR_COUNT"
 echo "----------------------------------------"
 
-# Exit with error if any servers are down
+# Print DOWN servers if any
 if [ $ERROR_COUNT -gt 0 ]; then
+    echo ""
+    echo "DOWN_SERVERS:"
+    for server in "${DOWN_SERVERS[@]}"; do
+        echo "$server"
+    done
+    echo ""
     echo "Warning: $ERROR_COUNT server(s) are down"
     exit 1
 fi
