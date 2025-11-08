@@ -21,9 +21,9 @@ if [ ! -s "$HOSTFILE" ]; then
     exit 1
 fi
 
-echo "Contents of hostfile:"
-cat "$HOSTFILE"
-echo "-------------------"
+#echo "Contents of hostfile:"
+#cat "$HOSTFILE"
+#echo "-------------------"
 
 # Initialize counters
 ERROR_COUNT=0
@@ -60,7 +60,8 @@ while IFS= read -r host || [ -n "$host" ]; do
     fi
     
     TOTAL_HOSTS=$((TOTAL_HOSTS + 1))
-    if test_server "$host"; then
+    name=$(echo $host | cut -f1 -d'.')
+    if test_server "$name"; then
         SUCCESS_COUNT=$((SUCCESS_COUNT + 1))
     else
         ERROR_COUNT=$((ERROR_COUNT + 1))
