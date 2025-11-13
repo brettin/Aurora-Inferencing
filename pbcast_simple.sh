@@ -27,6 +27,8 @@ SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 [ ! -d "$SOURCE_DIR" ] && { echo "Error: Source directory not found"; exit 1; }
 [ -z "$PBS_NODEFILE" ] && { echo "Error: PBS_NODEFILE not set"; exit 1; }
 
+# Write the contents of the node file to a file in SCRIPT_DIR
+cp "$PBS_NODEFILE" "$SCRIPT_DIR/hostfile"
 # Get unique nodes
 mapfile -t ALL_NODES < <(sort -u "$PBS_NODEFILE")
 TOTAL_NODES=${#ALL_NODES[@]}
@@ -50,7 +52,7 @@ for node in "${WAVE1_NODES[@]}"; do
     {
         echo "  Copying to $node..."
         if ssh "$node" "mkdir -p /dev/shm && rm -rf $DEST_DIR" 2>/dev/null && \
-           rsync -az --quiet "$SOURCE_DIR/" "$node:$DEST_DIR/" 2>/dev/null; then
+           rsync -a --quiet --inplace --no-compress --whole-file "$SOURCE_DIR/" "$node:$DEST_DIR/" 2>/dev/null; then
             echo "  ✓ $node"
             echo "$node" >> "$TEMP_SUCCESS_FILE"
         else
@@ -97,7 +99,7 @@ while [ ${#REMAINING_NODES[@]} -gt 0 ]; do
             {
                 echo "  $source_node -> $target_node"
                 if ssh "$target_node" "mkdir -p /dev/shm && rm -rf $DEST_DIR" 2>/dev/null && \
-                   ssh "$source_node" "rsync -az --quiet $DEST_DIR/ $target_node:$DEST_DIR/" 2>/dev/null; then
+                   ssh "$source_node" "rsync -a --quiet --inplace --no-compress --whole-file $DEST_DIR/ $target_node:$DEST_DIR/" 2>/dev/null; then
                     echo "  ✓ $target_node"
                     echo "$target_node" >> "$TEMP_WAVE_FILE"
                 else
