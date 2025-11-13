@@ -21,10 +21,11 @@ export NUMEXPR_MAX_THREADS=208
 export CCL_PROCESS_LAUNCHER=torchrun # Per Ken R.
 
 # You need to change these because you need write perms on the dirs.
-export HF_DATASETS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
-export TRANSFORMERS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
-export HF_HOME=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
-export HF_MODULES_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+#export HF_DATASETS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+#export TRANSFORMERS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+#export HF_HOME=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+#export HF_MODULES_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
+export HF_HOME="/tmp/flare/datasets/model-weights"
 
 export TMPDIR=/tmp
 export RAY_TMPDIR=/tmp
