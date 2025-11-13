@@ -27,11 +27,11 @@ int main(int argc, char **argv) {
     MPI_Offset size;
     void *buf = NULL;
     if (rank == 0) {
-	char converted_name[256];
+        char converted_name[256];
         char model_dir[2048];
         MPI_File src;
 
-	convert_slash_to_double_dash(argv[1], converted_name, sizeof(converted_name));
+        convert_slash_to_double_dash(argv[1], converted_name, sizeof(converted_name));
         snprintf(model_dir, sizeof(model_dir),
                  "/flare/datasets/model-weights/hub/models--%s", converted_name);
 
