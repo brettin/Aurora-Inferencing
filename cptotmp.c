@@ -1,6 +1,7 @@
 #include <sys/stat.h>
-#include <stdio.h>
+#include <string.h>
 #include <stdlib.h>
+#include <stdio.h>
 #include <mpi.h>
 
 static void convert_slash_to_double_dash(const char *input, char *output, size_t out_size) {
@@ -27,20 +28,39 @@ int main(int argc, char **argv) {
     MPI_Offset size;
     void *buf = NULL;
     if (rank == 0) {
-        char converted_name[256];
-        char model_dir[2048];
+        /* char converted_name[256]; */
+        /* char model_dir[2048]; */
         MPI_File src;
 
-        convert_slash_to_double_dash(argv[1], converted_name, sizeof(converted_name));
-        snprintf(model_dir, sizeof(model_dir),
-                 "/flare/datasets/model-weights/hub/models--%s", converted_name);
+        /* convert_slash_to_double_dash(argv[1], converted_name, sizeof(converted_name)); */
+        /* snprintf(model_dir, sizeof(model_dir), */
+        /*          "/flare/datasets/model-weights/hub/models--%s", converted_name); */
+
+        int last_idx = strlen(argv[1]) - 1;
+        if (argv[1][last_idx] == '/') {
+            argv[1][last_idx] = '\0';
+        }
+
+        char *dup = strdup(argv[1]);
+        char *slash = strrchr(dup, '/');
+        char *left;
+        char *right;
+        if (slash != NULL) {
+            *slash = '\0';
+            left  = dup;
+            right = slash + 1;
+        } else {
+            left = ".";
+            right = dup;
+        }
 
         /* create archive first if directory */
-        snprintf(command, sizeof(command), "tar -cf %s %s", archive, model_dir);
+        snprintf(command, sizeof(command), "tar -C %s -cf %s %s", left, archive, right);
         if (system(command) != 0) {
             printf("failed to create directory archive\n");
             MPI_Abort(MPI_COMM_WORLD, 1);
         }
+        free(dup);
 
         MPI_File_open(MPI_COMM_SELF, archive, MPI_MODE_RDONLY, MPI_INFO_NULL, &src);
         MPI_File_get_size(src, &size);
@@ -64,7 +84,11 @@ int main(int argc, char **argv) {
     }
     free(buf);
 
-    snprintf(command, sizeof(command), "tar -xf %s -C /tmp/ && rm /tmp/tmp.tar", archive);
+    if (system("mkdir -p /tmp/hf_home/hub") != 0) {
+        printf("failed to create directory in /tmp\n");
+        MPI_Abort(MPI_COMM_WORLD, 1);
+    }
+    snprintf(command, sizeof(command), "tar -xf %s -C /tmp/hf_home/hub && rm /tmp/tmp.tar", archive);
     if (system(command) != 0) {
         printf("untar command failed\n");
         MPI_Abort(MPI_COMM_WORLD, 1);
