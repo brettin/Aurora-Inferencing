@@ -25,7 +25,7 @@ export CCL_PROCESS_LAUNCHER=torchrun # Per Ken R.
 #export TRANSFORMERS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
 #export HF_HOME=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
 #export HF_MODULES_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
-export HF_HOME="/tmp/flare/datasets/model-weights"
+export HF_HOME="/tmp/hf_home"
 
 export TMPDIR=/tmp
 export RAY_TMPDIR=/tmp
