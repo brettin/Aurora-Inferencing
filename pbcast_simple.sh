@@ -48,7 +48,7 @@ TEMP_SUCCESS_FILE="$SCRIPT_DIR/.pbcast_wave1_$$"
 rm -f "$TEMP_SUCCESS_FILE"
 
 for node in "${WAVE1_NODES[@]}"; do
-    echo "running rsync"
+    echo "running optimized rsync"
     {
         echo "  Copying to $node..."
         if ssh "$node" "mkdir -p /dev/shm && rm -rf $DEST_DIR" 2>/dev/null && \
