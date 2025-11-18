@@ -1,11 +1,19 @@
 #!/bin/bash -l
 
+# Record start time for timeout calculation
+SCRIPT_START_TIME=$(date +%s)
+
+# Set total walltime in seconds (default: 60 minutes)
+# Can be overridden by setting WALLTIME_SECONDS environment variable
+TOTAL_WALLTIME=${WALLTIME_SECONDS:-3600}
+
 SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 INFILE=${1:-"${SCRIPT_DIR}/../examples/TOM.COLI/1.txt"}
 HOSTNAME=$(hostname)
 echo "$(date) ${HOSTNAME} TSB script directory is: $SCRIPT_DIR"
 echo "$(date) ${HOSTNAME} TSB infile is ${INFILE}"
 echo "$(date) ${HOSTNAME} TSB hostname: $HOSTNAME"
+echo "$(date) ${HOSTNAME} TSB Total walltime: ${TOTAL_WALLTIME}s ($(($TOTAL_WALLTIME/60)) minutes)"
 
 # This is needed incase vllm tries to download from huggingface.
 export HTTP_PROXY=http://proxy.alcf.anl.gov:3128
@@ -88,8 +96,21 @@ echo "$(date) ${HOSTNAME} TSB vLLM ready!"
 infile_base=$(basename $INFILE)
 echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${infile_base} using ${VLLM_MODEL}"
 
-# Set timeout in seconds (60 minutes = 3600 seconds)
-TIMEOUT_SECONDS=3600
+# Calculate remaining time for timeout
+CURRENT_TIME=$(date +%s)
+ELAPSED_TIME=$((CURRENT_TIME - SCRIPT_START_TIME))
+TIMEOUT_SECONDS=$((TOTAL_WALLTIME - ELAPSED_TIME))
+
+# Add safety margin (reserve 60 seconds for cleanup)
+TIMEOUT_SECONDS=$((TIMEOUT_SECONDS - 60))
+
+# Ensure timeout is positive
+if [ $TIMEOUT_SECONDS -le 0 ]; then
+    echo "$(date) ${HOSTNAME} TSB WARNING: No time remaining for test (elapsed: ${ELAPSED_TIME}s)"
+    TIMEOUT_SECONDS=60  # Give it at least 1 minute
+fi
+
+echo "$(date) ${HOSTNAME} TSB Elapsed time: ${ELAPSED_TIME}s, Timeout set to: ${TIMEOUT_SECONDS}s"
 
 # Run python with timeout
 timeout ${TIMEOUT_SECONDS} python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} \
