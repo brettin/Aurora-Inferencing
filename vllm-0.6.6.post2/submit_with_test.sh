@@ -2,10 +2,10 @@
 #PBS -N submit_with_test
 #PBS -l walltime=01:00:00
 #PBS -A candle_aesp_CNDA
-#PBS -q prod
+#PBS -q debug-scaling
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=2056
+#PBS -l select=8
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
@@ -45,10 +45,8 @@ total_hosts=${#hosts[@]}
 
 if (( ${total_hosts} < ${total_files} )); then
     min=${total_hosts}
-    echo "$(date) min = ${min}"
 else
     min=${total_files}
-    echo "$(date) min = ${min}"
 fi
 
 # stage model weights to /tmp
