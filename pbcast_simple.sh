@@ -41,13 +41,14 @@ echo ""
 [ "$NUM_PARALLEL" -gt "$TOTAL_NODES" ] && NUM_PARALLEL=$TOTAL_NODES
 
 # Wave 1: Copy from shared FS to first NUM_PARALLEL nodes
-echo "Wave 1: Copying to $NUM_PARALLEL nodes from shared filesystem..."
+echo $(date)": Wave 1: Copying to $NUM_PARALLEL nodes from shared filesystem..."
 WAVE1_NODES=("${ALL_NODES[@]:0:$NUM_PARALLEL}")
 
 TEMP_SUCCESS_FILE="$SCRIPT_DIR/.pbcast_wave1_$$"
 rm -f "$TEMP_SUCCESS_FILE"
 
 for node in "${WAVE1_NODES[@]}"; do
+    echo "running optimized rsync"
     {
         echo "  Copying to $node..."
         if ssh "$node" "mkdir -p /dev/shm && rm -rf $DEST_DIR" 2>/dev/null && \
@@ -59,6 +60,7 @@ for node in "${WAVE1_NODES[@]}"; do
         fi
     } &
 done
+echo "waiting"
 wait
 
 # Read successful nodes
@@ -67,7 +69,7 @@ if [ -f "$TEMP_SUCCESS_FILE" ]; then
     mapfile -t SUCCESSFUL_NODES < "$TEMP_SUCCESS_FILE"
     rm -f "$TEMP_SUCCESS_FILE"
 fi
-echo "Wave 1 complete: ${#SUCCESSFUL_NODES[@]} nodes"
+echo $(date)": Wave 1 complete: ${#SUCCESSFUL_NODES[@]} nodes"
 echo ""
 
 # Check if Wave 1 had any success
@@ -81,7 +83,7 @@ REMAINING_NODES=("${ALL_NODES[@]:$NUM_PARALLEL}")
 WAVE=2
 
 while [ ${#REMAINING_NODES[@]} -gt 0 ]; do
-    echo "Wave $WAVE: Distributing to ${#REMAINING_NODES[@]} remaining nodes..."
+	echo $(date)": Wave $WAVE: Distributing to ${#REMAINING_NODES[@]} remaining nodes..."
     
     NUM_SOURCES=${#SUCCESSFUL_NODES[@]}
     NODES_PER_SOURCE=$(( (${#REMAINING_NODES[@]} + NUM_SOURCES - 1) / NUM_SOURCES ))
@@ -116,7 +118,7 @@ while [ ${#REMAINING_NODES[@]} -gt 0 ]; do
         rm -f "$TEMP_WAVE_FILE"
     fi
     
-    echo "Wave $WAVE complete: ${#NEW_SUCCESSFUL[@]} nodes"
+    echo $(date)": Wave $WAVE complete: ${#NEW_SUCCESSFUL[@]} nodes"
     echo ""
     
     # Check if we made any progress
