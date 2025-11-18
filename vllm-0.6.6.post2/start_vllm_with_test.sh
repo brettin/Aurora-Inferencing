@@ -43,9 +43,7 @@ export VLLM_HOST_PORT=8000
 
 #export VLLM_MODEL="meta-llama/Llama-3.1-8B-Instruct"
 export VLLM_MODEL="meta-llama/Llama-3.3-70B-Instruct"
-
 #export VLLM_MODEL="openai/gpt-oss-120b"
-
 
 export HF_HUB_OFFLINE=1
 
@@ -57,15 +55,19 @@ export CCL_PROCESS_LAUNCHER=torchrun
 
 # Done setting up environment and variables.
 
+# Setup local output directory on /dev/shm for fast I/O
+OUTPUT_DIR="/dev/shm/vllm_output_${HOSTNAME}_$$"
+mkdir -p "$OUTPUT_DIR"
+echo "$(date) ${HOSTNAME} TSB Local output directory: $OUTPUT_DIR"
+
 echo "$(date) ${HOSTNAME} TSB starting ray on $VLLM_HOST_IP"
 ray --logging-level info  start --head --verbose --node-ip-address=$VLLM_HOST_IP --port=6379 --num-cpus=64 --num-gpus=$tiles
 echo "$(date) ${HOSTNAME} TSB done starting ray on $VLLM_HOST_IP"
 
 echo "$(date) ${HOSTNAME} TSB starting vllm with ${VLLM_MODEL} on host ${HOSTNAME}"
-echo "$(date) ${HOSTNAME} TSB writing log to $SCRIPT_DIR/${HOSTNAME}.vllm.log"
+echo "$(date) ${HOSTNAME} TSB writing log to $OUTPUT_DIR/${HOSTNAME}.vllm.log.gz (compressed)"
 
-#vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype float16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log &
-vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype bfloat16 --trust-remote-code --max-model-len 32000 > $SCRIPT_DIR/${HOSTNAME}.vllm.log &
+vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype bfloat16 --trust-remote-code --max-model-len 32000 2>&1 | gzip > $OUTPUT_DIR/${HOSTNAME}.vllm.log.gz &
 
 
 # Use this if you want more verbose output to debug starting vllm.
@@ -112,12 +114,12 @@ fi
 
 echo "$(date) ${HOSTNAME} TSB Elapsed time: ${ELAPSED_TIME}s, Timeout set to: ${TIMEOUT_SECONDS}s"
 
-# Run python with timeout
+# Run python with timeout, output to /dev/shm with compression
 timeout ${TIMEOUT_SECONDS} python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} \
 	--batch-size 32 \
 	--model ${VLLM_MODEL} \
 	--port ${VLLM_HOST_PORT} \
-	> ${infile_base}.${HOSTNAME}.test.coli_v2.txt 2>&1
+	2>&1 | gzip > ${OUTPUT_DIR}/${infile_base}.${HOSTNAME}.test.coli_v2.txt.gz
 
 test_exit_code=$?
 
@@ -131,4 +133,33 @@ else
 fi
 
 # Kill the vllm server when the python script is done
+echo "$(date) ${HOSTNAME} TSB Stopping vLLM server..."
 kill -SIGINT "$vllm_pid"
+wait "$vllm_pid" 2>/dev/null
+
+# Archive and transfer results from /dev/shm to shared filesystem
+echo "$(date) ${HOSTNAME} TSB Archiving results from $OUTPUT_DIR"
+ARCHIVE_NAME="${HOSTNAME}_results_$(date +%Y%m%d_%H%M%S).tar.gz"
+ARCHIVE_PATH="${SCRIPT_DIR}/${ARCHIVE_NAME}"
+
+# Create tar archive of all output files
+cd /dev/shm
+tar -czf "$ARCHIVE_PATH" "vllm_output_${HOSTNAME}_$$/" 2>&1
+
+if [ $? -eq 0 ]; then
+    echo "$(date) ${HOSTNAME} TSB Results archived to: $ARCHIVE_PATH"
+    
+    # Show archive size
+    ARCHIVE_SIZE=$(du -h "$ARCHIVE_PATH" | cut -f1)
+    echo "$(date) ${HOSTNAME} TSB Archive size: $ARCHIVE_SIZE"
+    
+    # Cleanup /dev/shm
+    echo "$(date) ${HOSTNAME} TSB Cleaning up $OUTPUT_DIR"
+    rm -rf "$OUTPUT_DIR"
+    echo "$(date) ${HOSTNAME} TSB Cleanup complete"
+else
+    echo "$(date) ${HOSTNAME} TSB ERROR: Failed to create archive"
+    echo "$(date) ${HOSTNAME} TSB Output files remain in: $OUTPUT_DIR"
+fi
+
+echo "$(date) ${HOSTNAME} TSB Script complete"
