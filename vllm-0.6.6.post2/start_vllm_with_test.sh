@@ -25,7 +25,7 @@ export CCL_PROCESS_LAUNCHER=torchrun # Per Ken R.
 #export TRANSFORMERS_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
 #export HF_HOME=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
 #export HF_MODULES_CACHE=/lus/flare/projects/candle_aesp_CNDA/brettin/.cache
-export HF_HOME="/tmp/flare/datasets/model-weights"
+export HF_HOME="/tmp/hf_home"
 
 export TMPDIR=/tmp
 export RAY_TMPDIR=/tmp
@@ -88,14 +88,26 @@ echo "$(date) ${HOSTNAME} TSB vLLM ready!"
 infile_base=$(basename $INFILE)
 echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${infile_base} using ${VLLM_MODEL}"
 
-python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} \
+# Set timeout in seconds (60 minutes = 3600 seconds)
+TIMEOUT_SECONDS=3600
+
+# Run python with timeout
+timeout ${TIMEOUT_SECONDS} python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} \
 	--batch-size 32 \
 	--model ${VLLM_MODEL} \
 	--port ${VLLM_HOST_PORT} \
 	> ${infile_base}.${HOSTNAME}.test.coli_v2.txt 2>&1
 
 test_exit_code=$?
-echo "$(date) test.coli returned ${test_exit_code}"
+
+# Check if timeout occurred (exit code 124)
+if [ $test_exit_code -eq 124 ]; then
+    echo "$(date) ${HOSTNAME} TSB test.coli TIMED OUT after ${TIMEOUT_SECONDS} seconds"
+elif [ $test_exit_code -eq 137 ]; then
+    echo "$(date) ${HOSTNAME} TSB test.coli was KILLED (SIGKILL)"
+else
+    echo "$(date) ${HOSTNAME} TSB test.coli returned ${test_exit_code}"
+fi
 
 # Kill the vllm server when the python script is done
 kill -SIGINT "$vllm_pid"

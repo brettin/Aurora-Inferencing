@@ -53,7 +53,7 @@ fi
 
 # stage model weights to /tmp
 mpicc -o cptotmp ${SCRIPT_DIR}/../cptotmp.c
-time mpiexec -ppn 1 ./cptotmp meta-llama/Llama-3.3-70B-Instruct
+time mpiexec -ppn 1 ./cptotmp /flare/datasets/model-weights/hub/models--meta-llama--Llama-3.3-70B-Instruct
 
 declare -a pids
 for ((i = OFFSET; i < min + OFFSET; i++)); do
