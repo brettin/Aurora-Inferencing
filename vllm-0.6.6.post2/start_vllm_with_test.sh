@@ -67,22 +67,17 @@ echo "$(date) ${HOSTNAME} TSB done starting ray on $VLLM_HOST_IP"
 echo "$(date) ${HOSTNAME} TSB starting vllm with ${VLLM_MODEL} on host ${HOSTNAME}"
 echo "$(date) ${HOSTNAME} TSB writing log to $OUTPUT_DIR/${HOSTNAME}.vllm.log.gz (compressed)"
 
-vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype bfloat16 --trust-remote-code --max-model-len 32000 2>&1 | gzip > $OUTPUT_DIR/${HOSTNAME}.vllm.log.gz &
+# Use a wrapper to capture vLLM's PID before piping to gzip
+VLLM_PID_FILE="${OUTPUT_DIR}/vllm.pid"
+( vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype bfloat16 --trust-remote-code --max-model-len 32000 2>&1 & echo $! > "$VLLM_PID_FILE" ; wait ) | gzip > $OUTPUT_DIR/${HOSTNAME}.vllm.log.gz &
 
-
-# Use this if you want more verbose output to debug starting vllm.
-# python -u -m vllm.entrypoints.openai.api_server \
-# 	--host $(hostname) \
-# 	--model ${VLLM_MODEL} \
-# 	--port ${VLLM_HOST_PORT} \
-# 	--tensor-parallel-size 8 \
-#	--dtype float16 \
-# 	--trust-remote-code \
-# 	--max-model-len 32000 \
-# 	--served-model-name ${VLLM_MODEL} \
-# 	> ${HOSTNAME}.vllm.log 2>&1 &
-
-vllm_pid=$!
+if [ -f "$VLLM_PID_FILE" ]; then
+    vllm_pid=$(cat "$VLLM_PID_FILE")
+    echo "$(date) ${HOSTNAME} TSB vLLM PID: $vllm_pid"
+else
+    echo "$(date) ${HOSTNAME} TSB WARNING: Could not read vLLM PID file"
+    vllm_pid=""
+fi
 
 unset HTTP_PROXY
 unset HTTPS_PROXY
@@ -121,7 +116,8 @@ timeout ${TIMEOUT_SECONDS} python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.col
 	--port ${VLLM_HOST_PORT} \
 	2>&1 | gzip > ${OUTPUT_DIR}/${infile_base}.${HOSTNAME}.test.coli_v2.txt.gz
 
-test_exit_code=$?
+# Get exit code from timeout command (first in pipeline), not gzip (last)
+test_exit_code=${PIPESTATUS[0]}
 
 # Check if timeout occurred (exit code 124)
 if [ $test_exit_code -eq 124 ]; then
