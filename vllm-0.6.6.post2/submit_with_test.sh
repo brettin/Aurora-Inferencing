@@ -1,11 +1,11 @@
 #!/bin/bash
 #PBS -N submit_with_test
-#PBS -l walltime=02:00:00
+#PBS -l walltime=01:00:00
 #PBS -A candle_aesp_CNDA
 #PBS -q prod
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=32
+#PBS -l select=2056
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
@@ -39,7 +39,7 @@ filenames=(${SCRIPT_DIR}/../examples/TOM.COLI/batch_1/genes/*)
 
 
 # Loop over the smaller of hostnames or filenames with an OFFSET option for restarting.
-OFFSET=448 # number of files already processed
+OFFSET=0 # number of files already processed
 total_files=$(( ${#filenames[@]} - OFFSET ))
 total_hosts=${#hosts[@]}
 
