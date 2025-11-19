@@ -5,7 +5,7 @@ SCRIPT_START_TIME=$(date +%s)
 
 # Set total walltime in seconds (default: 60 minutes)
 # Can be overridden by setting WALLTIME_SECONDS environment variable
-TOTAL_WALLTIME=${WALLTIME_SECONDS:-3600}
+TOTAL_WALLTIME=${WALLTIME_SECONDS:-1200}
 
 SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 INFILE=${1:-"${SCRIPT_DIR}/../examples/TOM.COLI/1.txt"}
@@ -68,7 +68,8 @@ echo "$(date) ${HOSTNAME} TSB starting vllm with ${VLLM_MODEL} on host ${HOSTNAM
 echo "$(date) ${HOSTNAME} TSB writing log to $OUTPUT_DIR/${HOSTNAME}.vllm.log"
 
 # Start vLLM server in background, redirecting output to log file
-vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype bfloat16 --trust-remote-code --max-model-len 32000 > $OUTPUT_DIR/${HOSTNAME}.vllm.log 2>&1 &
+# Use PYTHONUNBUFFERED to ensure output is written immediately
+PYTHONUNBUFFERED=1 vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype bfloat16 --trust-remote-code --max-model-len 32000 > $OUTPUT_DIR/${HOSTNAME}.vllm.log 2>&1 &
 vllm_pid=$!
 echo "$(date) ${HOSTNAME} TSB vLLM PID: $vllm_pid"
 
@@ -125,6 +126,10 @@ fi
 echo "$(date) ${HOSTNAME} TSB Stopping vLLM server..."
 kill -SIGINT "$vllm_pid"
 wait "$vllm_pid" 2>/dev/null
+
+# Give filesystem time to flush any buffered output
+sleep 2
+echo "$(date) ${HOSTNAME} TSB vLLM log size: $(du -h $OUTPUT_DIR/${HOSTNAME}.vllm.log 2>/dev/null | cut -f1 || echo '0')"
 
 # Archive and transfer results from /dev/shm to shared filesystem
 echo "$(date) ${HOSTNAME} TSB Archiving results from $OUTPUT_DIR"
