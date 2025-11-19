@@ -65,19 +65,12 @@ ray --logging-level info  start --head --verbose --node-ip-address=$VLLM_HOST_IP
 echo "$(date) ${HOSTNAME} TSB done starting ray on $VLLM_HOST_IP"
 
 echo "$(date) ${HOSTNAME} TSB starting vllm with ${VLLM_MODEL} on host ${HOSTNAME}"
-echo "$(date) ${HOSTNAME} TSB writing log to $OUTPUT_DIR/${HOSTNAME}.vllm.log.gz (compressed)"
+echo "$(date) ${HOSTNAME} TSB writing log to $OUTPUT_DIR/${HOSTNAME}.vllm.log"
 
-# Use a wrapper to capture vLLM's PID before piping to gzip
-VLLM_PID_FILE="${OUTPUT_DIR}/vllm.pid"
-( vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype bfloat16 --trust-remote-code --max-model-len 32000 2>&1 & echo $! > "$VLLM_PID_FILE" ; wait ) | gzip > $OUTPUT_DIR/${HOSTNAME}.vllm.log.gz &
-
-if [ -f "$VLLM_PID_FILE" ]; then
-    vllm_pid=$(cat "$VLLM_PID_FILE")
-    echo "$(date) ${HOSTNAME} TSB vLLM PID: $vllm_pid"
-else
-    echo "$(date) ${HOSTNAME} TSB WARNING: Could not read vLLM PID file"
-    vllm_pid=""
-fi
+# Start vLLM server in background, redirecting output to log file
+vllm serve ${VLLM_MODEL} --port ${VLLM_HOST_PORT} --tensor-parallel-size 8 --dtype bfloat16 --trust-remote-code --max-model-len 32000 > $OUTPUT_DIR/${HOSTNAME}.vllm.log 2>&1 &
+vllm_pid=$!
+echo "$(date) ${HOSTNAME} TSB vLLM PID: $vllm_pid"
 
 unset HTTP_PROXY
 unset HTTPS_PROXY
@@ -109,15 +102,15 @@ fi
 
 echo "$(date) ${HOSTNAME} TSB Elapsed time: ${ELAPSED_TIME}s, Timeout set to: ${TIMEOUT_SECONDS}s"
 
-# Run python with timeout, output to /dev/shm with compression
+# Run python with timeout, output to /dev/shm
 timeout ${TIMEOUT_SECONDS} python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} \
 	--batch-size 32 \
 	--model ${VLLM_MODEL} \
 	--port ${VLLM_HOST_PORT} \
-	2>&1 | gzip > ${OUTPUT_DIR}/${infile_base}.${HOSTNAME}.test.coli_v2.txt.gz
+	> ${OUTPUT_DIR}/${infile_base}.${HOSTNAME}.test.coli_v2.txt 2>&1
 
-# Get exit code from timeout command (first in pipeline), not gzip (last)
-test_exit_code=${PIPESTATUS[0]}
+# Get exit code from timeout command
+test_exit_code=$?
 
 # Check if timeout occurred (exit code 124)
 if [ $test_exit_code -eq 124 ]; then
