@@ -84,8 +84,6 @@ until curl -sf "http://${HOSTNAME}:${VLLM_HOST_PORT}/health" ; do
 done
 echo "$(date) ${HOSTNAME} TSB vLLM ready!"
 
-infile_base=$(basename $INFILE)
-echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${infile_base} using ${VLLM_MODEL}"
 
 # Calculate remaining time for timeout
 CURRENT_TIME=$(date +%s)
@@ -102,6 +100,10 @@ if [ $TIMEOUT_SECONDS -le 0 ]; then
 fi
 
 echo "$(date) ${HOSTNAME} TSB Elapsed time: ${ELAPSED_TIME}s, Timeout set to: ${TIMEOUT_SECONDS}s"
+
+
+infile_base=$(basename $INFILE)
+echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${infile_base} using ${VLLM_MODEL}"
 
 # Run python with timeout, output to /dev/shm
 timeout ${TIMEOUT_SECONDS} python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} \
