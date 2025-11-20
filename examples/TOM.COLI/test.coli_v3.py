@@ -170,7 +170,7 @@ with open(file_path, "r", encoding="utf-8") as file:
             continue
         
         genome_id = parts[0]
-        gene_data = parts[1]
+        gene_data = '\t'.join(parts[1:])
         
         # Construct prompt
         prompt = (

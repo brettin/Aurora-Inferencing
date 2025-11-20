@@ -31,8 +31,8 @@ def merge_genome_files(input_files, output_file):
     
     with open(output_file, 'w', encoding='utf-8') as outf:
         for input_file in sorted(input_files):
-            # Extract genome ID from filename (without extension)
-            genome_id = Path(input_file).stem
+            # Extract genome ID from filename (full name with extension)
+            genome_id = Path(input_file).name
             line_count = 0
             
             try:
@@ -83,8 +83,8 @@ def main():
                        help='Output file path (default: merged_genomes.txt)')
     parser.add_argument('--output', dest='output_alt',
                        help='Alternative way to specify output file')
-    parser.add_argument('--pattern', default='*.txt',
-                       help='File pattern to match in directory (default: *.txt)')
+    parser.add_argument('--pattern', default='*',
+                       help='File pattern to match in directory (default: *)')
     
     args = parser.parse_args()
     
