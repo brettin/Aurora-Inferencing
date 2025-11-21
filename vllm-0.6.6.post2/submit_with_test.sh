@@ -1,11 +1,11 @@
 #!/bin/bash
 #PBS -N submit_with_test
-#PBS -l walltime=01:00:00
+#PBS -l walltime=02:00:00
 #PBS -A candle_aesp_CNDA
-#PBS -q debug-scaling
+#PBS -q prod
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=8
+#PBS -l select=2048
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
@@ -24,7 +24,6 @@ start_vllm_on_host() {
     local filename=$2
     
     if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "cd $SCRIPT_DIR && ./start_vllm_with_test.sh $filename" 2>&1 ; then
-        echo "$(date) Successfully launch vLLM on $host"
         return 0
     else
         echo "$(date) Failed to launch vLLM on $host"
@@ -35,11 +34,11 @@ start_vllm_on_host() {
 
 # Create arrays containing hostnames and filenames.
 mapfile -t hosts < <(cut -d'.' -f1 "$PBS_NODEFILE")
-filenames=(${SCRIPT_DIR}/../examples/TOM.COLI/batch_1/genes/*)
+filenames=(${SCRIPT_DIR}/../examples/TOM.COLI/batch_1/*)
 
 
 # Loop over the smaller of hostnames or filenames with an OFFSET option for restarting.
-OFFSET=0 # number of files already processed
+OFFSET=1024 # number of files already processed
 total_files=$(( ${#filenames[@]} - OFFSET ))
 total_hosts=${#hosts[@]}
 
