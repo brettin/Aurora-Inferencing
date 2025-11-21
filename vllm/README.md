@@ -86,13 +86,16 @@ submit_with_test.sh (PBS job)
 
 # Revisions
 
-## November 2025 - Directory Cleanup
+## November 2025 - Directory Cleanup and Rename
 
 **Changes made:**
+- Renamed directory from `vllm-0.6.6.post2` to `vllm`
 - Updated README documentation with clearer structure and updated directory paths
 - Removed `install.sh` - all dependencies are now available through the `frameworks` module
 - Removed copper-specific scripts (`copper_start_vllm_with_test.sh` and `copper_submit_with_test.sh`) as they are not needed
 - Cleaned up `env.sh` to match the environment configuration in `start_vllm_with_test.sh`
+- Updated `SCRIPT_DIR` paths in `submit.sh` and `submit_with_test.sh`
+- Updated `HOSTFILE` paths in examples scripts (`test.coli.sh`, `test.coli.async.sh`, `test.coli_v3.sh`)
 
 **Tagged as:** `before-vllm-cleanup`
 
