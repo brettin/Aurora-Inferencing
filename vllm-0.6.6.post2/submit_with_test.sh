@@ -50,7 +50,9 @@ fi
 
 # stage model weights to /tmp
 mpicc -o cptotmp ${SCRIPT_DIR}/../cptotmp.c
-time mpiexec -ppn 1 ./cptotmp /flare/datasets/model-weights/hub/models--meta-llama--Llama-3.3-70B-Instruct
+export MPIR_CVAR_CH4_OFI_ENABLE_MULTI_NIC_STRIPING=1
+export MPIR_CVAR_CH4_OFI_MAX_NICS=4
+time mpiexec -ppn 1 --cpu-bind numa ./cptotmp /flare/datasets/model-weights/hub/models--meta-llama--Llama-3.3-70B-Instruct
 
 declare -a pids
 for ((i = OFFSET; i < min + OFFSET; i++)); do
