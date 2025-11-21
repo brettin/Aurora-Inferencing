@@ -3,6 +3,7 @@
 2. [Prerequisites](#prerequisites)
 3. [Running](#running)
 4. [How It Works](#how-it-works)
+5. [Revisions](#revisions)
 
 # Overview
 
@@ -82,4 +83,31 @@ submit_with_test.sh (PBS job)
 5. **Inferencing**: Once the server is ready, the test script processes its assigned input file
 6. **Cleanup**: Results are archived from `/dev/shm` to the shared filesystem
 7. **Completion**: The main job waits for all parallel processes to complete
+
+# Revisions
+
+## November 2025 - Directory Cleanup
+
+**Changes made:**
+- Updated README documentation with clearer structure and updated directory paths
+- Removed `install.sh` - all dependencies are now available through the `frameworks` module
+- Removed copper-specific scripts (`copper_start_vllm_with_test.sh` and `copper_submit_with_test.sh`) as they are not needed
+- Cleaned up `env.sh` to match the environment configuration in `start_vllm_with_test.sh`
+
+**Tagged as:** `before-vllm-cleanup`
+
+**To revert these changes:**
+
+If you need to return to the state before this cleanup, you can use the git tag:
+
+```bash
+# View the tagged commit
+git show before-vllm-cleanup
+
+# Reset to the tagged state (WARNING: this will discard uncommitted changes)
+git reset --hard before-vllm-cleanup
+
+# Or create a new branch from the tagged state
+git checkout -b restore-branch before-vllm-cleanup
+```
 
