@@ -5,7 +5,7 @@ SCRIPT_START_TIME=$(date +%s)
 
 # Set total walltime in seconds (default: 60 minutes)
 # Can be overridden by setting WALLTIME_SECONDS environment variable
-TOTAL_WALLTIME=${WALLTIME_SECONDS:-1200}
+TOTAL_WALLTIME=${WALLTIME_SECONDS:-7200}
 
 SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 INFILE=${1:-"${SCRIPT_DIR}/../examples/TOM.COLI/1.txt"}
@@ -90,8 +90,8 @@ CURRENT_TIME=$(date +%s)
 ELAPSED_TIME=$((CURRENT_TIME - SCRIPT_START_TIME))
 TIMEOUT_SECONDS=$((TOTAL_WALLTIME - ELAPSED_TIME))
 
-# Add safety margin (reserve 60 seconds for cleanup)
-TIMEOUT_SECONDS=$((TIMEOUT_SECONDS - 60))
+# Add safety margin (reserve 300 (5 mins) seconds for cleanup)
+TIMEOUT_SECONDS=$((TIMEOUT_SECONDS - 300))
 
 # Ensure timeout is positive
 if [ $TIMEOUT_SECONDS -le 0 ]; then
