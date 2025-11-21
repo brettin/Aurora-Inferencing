@@ -14,7 +14,7 @@
 # from where you left off.                          #
 #####################################################
 
-SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-0.6.6.post2"
+SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm"
 cat "$PBS_NODEFILE" > $SCRIPT_DIR/hostfile
 
 
