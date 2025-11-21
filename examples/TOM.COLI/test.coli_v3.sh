@@ -8,7 +8,7 @@ set -x
 
 # Get the directory of this script
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-HOSTFILE="$SCRIPT_DIR/../../vllm-0.6.6.post2/hostfile"
+HOSTFILE="$SCRIPT_DIR/../../vllm/hostfile"
 
 echo "Script directory: $SCRIPT_DIR"
 echo "Hostfile path: $HOSTFILE"
