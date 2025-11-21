@@ -2,7 +2,21 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
+#include <time.h>
 #include <mpi.h>
+
+static double get_elapsed(struct timespec t1, struct timespec t2)
+{
+    time_t sec = t2.tv_sec - t1.tv_sec;
+    long nsec = t2.tv_nsec - t1.tv_nsec;
+
+    if (nsec < 0) {
+        sec--;
+        nsec += 1000000000L;
+    }
+
+    return sec + nsec * 1e-9;
+}
 
 static void convert_slash_to_double_dash(const char *input, char *output, size_t out_size) {
     size_t j = 0;
@@ -19,9 +33,13 @@ static void convert_slash_to_double_dash(const char *input, char *output, size_t
 }
 
 int main(int argc, char **argv) {
+    struct timespec start, end;
     const char *archive = "/tmp/tmp.tar";
     char command[2048];
     int rank;
+
+    clock_gettime(CLOCK_MONOTONIC, &start);
+
     MPI_Init(NULL, NULL);
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
 
@@ -94,6 +112,15 @@ int main(int argc, char **argv) {
         MPI_Abort(MPI_COMM_WORLD, 1);
     }
 
+    clock_gettime(CLOCK_MONOTONIC, &end);
+    double elapsed = get_elapsed(start, end);
+    double max;
+    MPI_Reduce(&elapsed, &max, 1, MPI_DOUBLE, MPI_MAX, 0, MPI_COMM_WORLD);
+    if (rank == 0) {
+        printf("cptotmp: %.6f seconds to stage %s\n", max, argv[1]);
+    }
+
     MPI_Finalize();
+
     return 0;
 }
