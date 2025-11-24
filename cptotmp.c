@@ -1,4 +1,5 @@
 #include <sys/stat.h>
+#include <assert.h>
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
@@ -34,7 +35,6 @@ static void convert_slash_to_double_dash(const char *input, char *output, size_t
 
 int main(int argc, char **argv) {
     struct timespec start, end;
-    const char *archive = "/tmp/tmp.tar";
     char command[2048];
     int rank;
 
@@ -43,7 +43,7 @@ int main(int argc, char **argv) {
     MPI_Init(NULL, NULL);
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
 
-    MPI_Offset size;
+    MPI_Count total_size;
     void *buf = NULL;
     if (rank == 0) {
         /* char converted_name[256]; */
@@ -73,44 +73,65 @@ int main(int argc, char **argv) {
         }
 
         /* create archive first if directory */
-        snprintf(command, sizeof(command), "tar -C %s -cf %s %s", left, archive, right);
-        if (system(command) != 0) {
-            printf("failed to create directory archive\n");
+        snprintf(command, sizeof(command), "tar -C %s -cf - %s", left, right);
+        FILE *archive = popen(command, "r");
+        if (!archive) {
+            perror("popen");
             MPI_Abort(MPI_COMM_WORLD, 1);
         }
         free(dup);
 
-        MPI_File_open(MPI_COMM_SELF, archive, MPI_MODE_RDONLY, MPI_INFO_NULL, &src);
-        MPI_File_get_size(src, &size);
-        buf = malloc(size);
-        MPI_File_read_c(src, buf, size, MPI_BYTE, MPI_STATUS_IGNORE);
-        MPI_File_close(&src);
-        MPI_Bcast(&size, 1, MPI_OFFSET, 0, MPI_COMM_WORLD);
+        MPI_Count buf_size = 16 * 1024 * 1024; // 16 MB chunks
+        MPI_Count capacity = buf_size;
+        total_size = 0;
+        buf = malloc(capacity);
+        if (!buf) {
+            perror("malloc");
+            MPI_Abort(MPI_COMM_WORLD, 1);
+        }
+
+        while (!feof(archive)) {
+            if (total_size + buf_size > capacity) {
+                capacity *= 2;
+                buf = realloc(buf, capacity);
+                if (!buf) {
+                    perror("realloc");
+                    MPI_Abort(MPI_COMM_WORLD, 1);
+                }
+            }
+            size_t n = fread(buf + total_size, 1, buf_size, archive);
+            total_size += n;
+        }
+
+        if (pclose(archive) != 0) {
+            perror("pclose");
+            MPI_Abort(MPI_COMM_WORLD, 1);
+        }
+
+        MPI_Bcast(&total_size, 1, MPI_COUNT, 0, MPI_COMM_WORLD);
     } else {
-        MPI_Bcast(&size, 1, MPI_OFFSET, 0, MPI_COMM_WORLD);
-        buf = malloc(size);
+        MPI_Bcast(&total_size, 1, MPI_COUNT, 0, MPI_COMM_WORLD);
+        buf = malloc(total_size);
     }
 
     /* bcast file to everyone */
-    MPI_Bcast_c(buf, size, MPI_BYTE, 0, MPI_COMM_WORLD);
-
-    if (rank != 0) {
-        MPI_File dest;
-        MPI_File_open(MPI_COMM_SELF, archive, MPI_MODE_CREATE | MPI_MODE_RDWR, MPI_INFO_NULL, &dest);
-        MPI_File_write_c(dest, buf, size, MPI_BYTE, MPI_STATUS_IGNORE);
-        MPI_File_close(&dest);
-    }
-    free(buf);
+    MPI_Bcast_c(buf, total_size, MPI_BYTE, 0, MPI_COMM_WORLD);
 
     if (system("mkdir -p /tmp/hf_home/hub") != 0) {
         printf("failed to create directory in /tmp\n");
         MPI_Abort(MPI_COMM_WORLD, 1);
     }
-    snprintf(command, sizeof(command), "tar -xf %s -C /tmp/hf_home/hub && rm /tmp/tmp.tar", archive);
-    if (system(command) != 0) {
-        printf("untar command failed\n");
+    snprintf(command, sizeof(command), "tar -xf - -C /tmp/hf_home/hub");
+    FILE *dest = popen(command, "w");
+    if (!dest) {
+        perror("popen");
         MPI_Abort(MPI_COMM_WORLD, 1);
     }
+
+    size_t n = fwrite(buf, 1, total_size, dest);
+    assert(n == total_size);
+    pclose(dest);
+    free(buf);
 
     clock_gettime(CLOCK_MONOTONIC, &end);
     double elapsed = get_elapsed(start, end);
