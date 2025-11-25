@@ -2,12 +2,19 @@
 """
 Unit tests for Service Registry
 
-Run with: python3 test_registry.py
+Run with: python3 test_registry.py [--redis-host HOST] [--redis-port PORT]
 """
 
 import unittest
 import time
+import argparse
+import sys
 from service_registry import ServiceRegistry, ServiceInfo, ServiceStatus
+
+
+# Global variables to store Redis connection info
+REDIS_HOST = 'localhost'
+REDIS_PORT = 6379
 
 
 class TestServiceRegistry(unittest.TestCase):
@@ -16,8 +23,8 @@ class TestServiceRegistry(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         self.registry = ServiceRegistry(
-            redis_host='localhost',
-            redis_port=6379,
+            redis_host=REDIS_HOST,
+            redis_port=REDIS_PORT,
             key_prefix='test:'
         )
         # Clean up before each test
@@ -224,24 +231,50 @@ class TestServiceRegistry(unittest.TestCase):
 
 def main():
     """Run tests"""
+    global REDIS_HOST, REDIS_PORT
+    
+    # Parse command-line arguments
+    parser = argparse.ArgumentParser(
+        description='Run Service Registry unit tests',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  python3 test_registry.py --redis-host 10.0.0.1
+  python3 test_registry.py --redis-host 10.0.0.1 --redis-port 6380
+        """
+    )
+    parser.add_argument('--redis-host', required=True,
+                       help='Redis host (required)')
+    parser.add_argument('--redis-port', type=int, default=6379,
+                       help='Redis port (default: 6379)')
+    
+    # Parse known args, leave the rest for unittest
+    args, remaining = parser.parse_known_args()
+    
+    # Set global variables
+    REDIS_HOST = args.redis_host
+    REDIS_PORT = args.redis_port
+    
     print("Running Service Registry Tests")
     print("=" * 60)
+    print(f"Redis Server: {REDIS_HOST}:{REDIS_PORT}")
     print()
 
     # Check Redis connection
     try:
         import redis
-        r = redis.Redis(host='localhost', port=6379)
+        r = redis.Redis(host=REDIS_HOST, port=REDIS_PORT)
         r.ping()
         print("✓ Redis connection successful")
         print()
     except Exception as e:
         print(f"✗ Cannot connect to Redis: {e}")
-        print("  Please ensure Redis is running on localhost:6379")
+        print(f"  Please ensure Redis is running on {REDIS_HOST}:{REDIS_PORT}")
         print()
         return 1
 
-    # Run tests
+    # Run tests with remaining arguments
+    sys.argv = [sys.argv[0]] + remaining
     unittest.main(verbosity=2)
 
 
