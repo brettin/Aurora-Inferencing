@@ -1,0 +1,7 @@
+#!/bin/bash
+# Wrapper script for service registry CLI
+# Usage: ./service-registry <command> [options]
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+python3 "$SCRIPT_DIR/cli.py" "$@"
+
