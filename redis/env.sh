@@ -1,3 +1,5 @@
+# redis env for redis, vllm and ollama servers
+
 module load frameworks
 export PKGDIR="/tmp/redis_env"
 export PYTHONPATH="$PKGDIR:$PYTHONPATH"
@@ -9,6 +11,3 @@ export PATH="$PATH:$REDIS_DIR/src"
 
 # Make commands available in path
 export PATH="$PATH:$REDIS_DIR/src"
-
-# Start command
-# $REDIS_DIR/src/redis-server $REDIS_DIR/redis.conf
