@@ -170,11 +170,14 @@ with open(file_path, "r", encoding="utf-8") as file:
             continue
         
         genome_id = parts[0]
-        gene_data = '\t'.join(parts[1:])
+        organism = parts[1]
+        gene_data = '\t'.join(parts[2:])
         
         # Construct prompt
         prompt = (
-            "Please tell me (using the knowledge you have been trained on) what you know about this bacterial gene whose various IDs are given here, though they all refer to the same gene: "
+            "Please tell me (using the knowledge you have been trained on) what you know about this bacterial gene in "
+            + organism
+            + " whose various IDs are given here, though they all refer to the same gene: "
             + gene_data
             + ". In particular, we want to know the following information: Is this gene well studied or is it hypothetical with unknown function? "
             "Is the gene essential for survival? Is the gene or gene product a good antibacterial drug target? What other genes does this gene interact with? "

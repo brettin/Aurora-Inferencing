@@ -2,6 +2,7 @@
 
 # Set model name, simple_test.py will use this environment variable if it is set.
 export MODEL_NAME="facebook/opt-125m"
+export MODEL_NAME="openai/gpt-oss-120b"
 
 export HTTP_PROXY=http://proxy.alcf.anl.gov:3128
 export HTTPS_PROXY=http://proxy.alcf.anl.gov:3128

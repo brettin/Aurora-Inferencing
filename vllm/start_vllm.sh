@@ -84,8 +84,6 @@ until curl -sf "http://${HOSTNAME}:${VLLM_HOST_PORT}/health" ; do
 done
 echo "$(date) ${HOSTNAME} TSB vLLM ready!"
 
-infile_base=$(basename $INFILE)
-echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${infile_base} using ${VLLM_MODEL}"
 
 # Calculate remaining time for timeout
 CURRENT_TIME=$(date +%s)
@@ -103,24 +101,28 @@ fi
 
 echo "$(date) ${HOSTNAME} TSB Elapsed time: ${ELAPSED_TIME}s, Timeout set to: ${TIMEOUT_SECONDS}s"
 
+
+#infile_base=$(basename $INFILE)
+#echo "$(date) ${HOSTNAME} TSB calling test.coli_v2.py on ${infile_base} using ${VLLM_MODEL}"
+
 # Run python with timeout, output to /dev/shm
-timeout ${TIMEOUT_SECONDS} python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} \
-	--batch-size 32 \
-	--model ${VLLM_MODEL} \
-	--port ${VLLM_HOST_PORT} \
-	> ${OUTPUT_DIR}/${infile_base}.${HOSTNAME}.test.coli_v2.txt 2>&1
+#timeout ${TIMEOUT_SECONDS} python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v2.py ${INFILE} ${HOSTNAME} \
+#	--batch-size 32 \
+#	--model ${VLLM_MODEL} \
+#	--port ${VLLM_HOST_PORT} \
+#	> ${OUTPUT_DIR}/${infile_base}.${HOSTNAME}.test.coli_v2.txt 2>&1
 
 # Get exit code from timeout command
-test_exit_code=$?
+#test_exit_code=$?
 
 # Check if timeout occurred (exit code 124)
-if [ $test_exit_code -eq 124 ]; then
-    echo "$(date) ${HOSTNAME} TSB test.coli TIMED OUT after ${TIMEOUT_SECONDS} seconds"
-elif [ $test_exit_code -eq 137 ]; then
-    echo "$(date) ${HOSTNAME} TSB test.coli was KILLED (SIGKILL)"
-else
-    echo "$(date) ${HOSTNAME} TSB test.coli returned ${test_exit_code}"
-fi
+#if [ $test_exit_code -eq 124 ]; then
+#    echo "$(date) ${HOSTNAME} TSB test.coli TIMED OUT after ${TIMEOUT_SECONDS} seconds"
+#elif [ $test_exit_code -eq 137 ]; then
+#    echo "$(date) ${HOSTNAME} TSB test.coli was KILLED (SIGKILL)"
+#else
+#    echo "$(date) ${HOSTNAME} TSB test.coli returned ${test_exit_code}"
+#fi
 
 # Kill the vllm server when the python script is done
 echo "$(date) ${HOSTNAME} TSB Stopping vLLM server..."
@@ -132,28 +134,28 @@ sleep 2
 echo "$(date) ${HOSTNAME} TSB vLLM log size: $(du -h $OUTPUT_DIR/${HOSTNAME}.vllm.log 2>/dev/null | cut -f1 || echo '0')"
 
 # Archive and transfer results from /dev/shm to shared filesystem
-echo "$(date) ${HOSTNAME} TSB Archiving results from $OUTPUT_DIR"
-ARCHIVE_NAME="${HOSTNAME}_results_$(date +%Y%m%d_%H%M%S).tar.gz"
-ARCHIVE_PATH="${SCRIPT_DIR}/${ARCHIVE_NAME}"
+#echo "$(date) ${HOSTNAME} TSB Archiving results from $OUTPUT_DIR"
+#ARCHIVE_NAME="${HOSTNAME}_results_$(date +%Y%m%d_%H%M%S).tar.gz"
+#ARCHIVE_PATH="${SCRIPT_DIR}/${ARCHIVE_NAME}"
 
 # Create tar archive of all output files
-cd /dev/shm
-tar -czf "$ARCHIVE_PATH" "vllm_output_${HOSTNAME}_$$/" 2>&1
-
-if [ $? -eq 0 ]; then
-    echo "$(date) ${HOSTNAME} TSB Results archived to: $ARCHIVE_PATH"
-    
-    # Show archive size
-    ARCHIVE_SIZE=$(du -h "$ARCHIVE_PATH" | cut -f1)
-    echo "$(date) ${HOSTNAME} TSB Archive size: $ARCHIVE_SIZE"
-    
-    # Cleanup /dev/shm
-    echo "$(date) ${HOSTNAME} TSB Cleaning up $OUTPUT_DIR"
-    rm -rf "$OUTPUT_DIR"
-    echo "$(date) ${HOSTNAME} TSB Cleanup complete"
-else
-    echo "$(date) ${HOSTNAME} TSB ERROR: Failed to create archive"
-    echo "$(date) ${HOSTNAME} TSB Output files remain in: $OUTPUT_DIR"
-fi
+#cd /dev/shm
+#tar -czf "$ARCHIVE_PATH" "vllm_output_${HOSTNAME}_$$/" 2>&1
+#
+#if [ $? -eq 0 ]; then
+#    echo "$(date) ${HOSTNAME} TSB Results archived to: $ARCHIVE_PATH"
+#    
+#    # Show archive size
+#    ARCHIVE_SIZE=$(du -h "$ARCHIVE_PATH" | cut -f1)
+#    echo "$(date) ${HOSTNAME} TSB Archive size: $ARCHIVE_SIZE"
+#    
+#    # Cleanup /dev/shm
+#    echo "$(date) ${HOSTNAME} TSB Cleaning up $OUTPUT_DIR"
+#    rm -rf "$OUTPUT_DIR"
+#    echo "$(date) ${HOSTNAME} TSB Cleanup complete"
+#else
+#    echo "$(date) ${HOSTNAME} TSB ERROR: Failed to create archive"
+#    echo "$(date) ${HOSTNAME} TSB Output files remain in: $OUTPUT_DIR"
+#fi
 
 echo "$(date) ${HOSTNAME} TSB Script complete"

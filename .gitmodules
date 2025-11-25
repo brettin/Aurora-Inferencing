@@ -1,0 +1,4 @@
+[submodule "ollama/gpt-oss-120b-intel-max-gpu"]
+	path = ollama/gpt-oss-120b-intel-max-gpu
+	url = https://github.com/brettin/gpt-oss-120b-intel-max-gpu.git
+
