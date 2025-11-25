@@ -18,6 +18,13 @@ This library provides Redis-based service registry and health tracking for distr
    pip install -r requirements.txt
    ```
 
+   **Aurora-Inferencing**:
+   ```
+   PKGDIR=/tmp/redis_env
+   python3 -m pip install --target "$PKGDIR" -r requirements.txt
+   export PYTHONPATH="$PKGDIR:$PYTHONPATH"
+   ```
+
 ## 5-Minute Tutorial
 
 ### 1. Basic Usage from Shell
