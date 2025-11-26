@@ -1,7 +1,12 @@
 #!/bin/bash
 # Wrapper script for service registry CLI
 # Usage: ./service-registry <command> [options]
+if [ -z "${REDIS_HOST}" ]; then
+    echo "Warning: REDIS_HOST environment variable is not set. Defaulting to 'localhost'."
+    REDIS_HOST="localhost"
+fi
+export REDIS_HOST
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-python3 "$SCRIPT_DIR/cli.py" "$@"
+python3 "$SCRIPT_DIR/cli.py" --redis-host "$REDIS_HOST" "$@"
 

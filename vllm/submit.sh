@@ -17,14 +17,17 @@
 SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm"
 cat "$PBS_NODEFILE" > $SCRIPT_DIR/hostfile
 
+# Redis Service Registry Configuration
+REDIS_HOST=${REDIS_HOST:-localhost}
+REDIS_PORT=${REDIS_PORT:-6379}
+echo "$(date) TSB Redis Service Registry Configuration: REDIS_HOST=${REDIS_HOST}, REDIS_PORT=${REDIS_PORT}"
 
 # Function to start vLLM on a host
 start_vllm_on_host() {
     local host=$1
     local filename=$2
     
-    if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "cd $SCRIPT_DIR && ./start_vllm.sh $filename" 2>&1 ; then
-        echo "$(date) Successfully launch vLLM on $host"
+    if ssh -o ConnectTimeout=10 -o StrictHostKeyChecking=no "$host" "cd $SCRIPT_DIR && ./start_vllm.sh $REDIS_HOST $REDIS_PORT" 2>&1 ; then
         return 0
     else
         echo "$(date) Failed to launch vLLM on $host"
@@ -35,32 +38,17 @@ start_vllm_on_host() {
 
 # Create arrays containing hostnames and filenames.
 mapfile -t hosts < <(cut -d'.' -f1 "$PBS_NODEFILE")
-filenames=(${SCRIPT_DIR}/../examples/TOM.COLI/batch_1/genes/*)
+#
 
-
-# Loop over the smaller of hostnames or filenames with an OFFSET option for restarting.
-OFFSET=0 # number of files already processed
-total_files=$(( ${#filenames[@]} - OFFSET ))
-total_hosts=${#hosts[@]}
-
-if (( ${total_hosts} < ${total_files} )); then
-    min=${total_hosts}
-else
-    min=${total_files}
-fi
 
 # stage model weights to /tmp
-mpicc -o cptotmp ${SCRIPT_DIR}/../cptotmp.c
-time mpiexec -ppn 1 ./cptotmp /flare/datasets/model-weights/hub/models--meta-llama--Llama-3.3-70B-Instruct
+#mpicc -o cptotmp ${SCRIPT_DIR}/../cptotmp.c
+#time mpiexec -ppn 1 ./cptotmp /flare/datasets/model-weights/hub/models--meta-llama--Llama-3.3-70B-Instruct
 
 declare -a pids
-for ((i = OFFSET; i < min + OFFSET; i++)); do
-    index=$((i - OFFSET)) # for indexing the hosts
-    file="${filenames[i]}"
-    host="${hosts[index]}"
-
-    echo "$(date) processing genes in ${file} on host ${host}"
-    start_vllm_on_host ${host} ${file} &
+for host in "${hosts[@]}"; do
+    echo "$(date) launching vLLM on host ${host}"
+    start_vllm_on_host "${host}" &
     pid=$!
     pids+=($pid)
 done
@@ -75,3 +63,5 @@ for pid in "${pids[@]}"; do
         echo "$(date) Process $pid FAILED with exit code $?"
     fi
 done
+
+echo "$(date) All vLLM tasks completed"

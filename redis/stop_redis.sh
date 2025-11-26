@@ -2,7 +2,8 @@
 # Stop Redis server
 
 SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
-REDIS_DIR="${SCRIPT_DIR}/redis-stable"
+# REDIS_STABLE="${SCRIPT_DIR}/redis-stable"
+# This should be set in env.sh
 PID_FILE="${SCRIPT_DIR}/redis-server.pid"
 
 if [ ! -f "$PID_FILE" ]; then
@@ -14,7 +15,7 @@ PID=$(cat "$PID_FILE")
 echo "$(date) Stopping Redis server (PID: $PID)"
 
 # Try graceful shutdown first
-${REDIS_DIR}/src/redis-cli shutdown 2>/dev/null || kill -TERM $PID
+${REDIS_STABLE}/src/redis-cli shutdown 2>/dev/null || kill -TERM $PID
 
 # Wait for shutdown
 for i in {1..10}; do

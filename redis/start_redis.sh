@@ -3,7 +3,8 @@
 # Usage: ./start_redis.sh [bind_address] [port]
 
 SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
-REDIS_DIR="${SCRIPT_DIR}/redis-stable"
+# This should be set in env.sh
+# REDIS_STABLE="${SCRIPT_DIR}/redis-stable"
 
 # Get bind address (default to compute node network)
 # On Aurora, you'll want the HSN (high-speed network) address
@@ -21,7 +22,7 @@ echo "$(date)   Port: ${REDIS_PORT}"
 
 # Start Redis with command-line overrides
 # This overrides the config file settings
-${REDIS_DIR}/src/redis-server ${REDIS_DIR}/redis.conf \
+${REDIS_STABLE}/src/redis-server ${REDIS_STABLE}/redis.conf \
     --bind ${BIND_ADDRESS} \
     --port ${REDIS_PORT} \
     --protected-mode no \
