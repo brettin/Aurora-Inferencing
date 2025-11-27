@@ -141,7 +141,11 @@ python cli.py cleanup --timeout 300
 #### Deregister a service
 
 ```bash
+# Deregister a single service
 python cli.py deregister vllm-node-001
+
+# Deregister all services
+python cli.py deregister all
 ```
 
 #### Clear all data

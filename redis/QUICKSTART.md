@@ -57,6 +57,9 @@ cd /Users/brettin/github/Aurora-Inferencing/redis
 
 # Deregister when done
 ./service-registry deregister my-service-001
+
+# Or deregister all services
+./service-registry deregister all
 ```
 
 ### 2. Basic Usage from Python

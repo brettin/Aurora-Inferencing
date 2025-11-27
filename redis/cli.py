@@ -49,7 +49,7 @@ def register_command(args):
 
 
 def deregister_command(args):
-    """Deregister a service"""
+    """Deregister a service or all services"""
     registry = ServiceRegistry(
         redis_host=args.redis_host,
         redis_port=args.redis_port,
@@ -57,6 +57,27 @@ def deregister_command(args):
         key_prefix=args.key_prefix
     )
 
+    # Handle "all" special case
+    if args.service_id.lower() == "all":
+        services = registry.list_services()
+        if not services:
+            print("No services to deregister")
+            return 0
+        
+        success_count = 0
+        failed_count = 0
+        for service in services:
+            if registry.deregister_service(service.service_id):
+                print(f"Deregistered: {service.service_id}")
+                success_count += 1
+            else:
+                print(f"Failed to deregister: {service.service_id}", file=sys.stderr)
+                failed_count += 1
+        
+        print(f"\nSummary: {success_count} deregistered, {failed_count} failed")
+        return 0 if failed_count == 0 else 1
+    
+    # Handle single service
     if registry.deregister_service(args.service_id):
         print(f"Successfully deregistered service: {args.service_id}")
         return 0
@@ -334,8 +355,8 @@ def main():
     register_parser.set_defaults(func=register_command)
 
     # Deregister command
-    deregister_parser = subparsers.add_parser('deregister', help='Deregister a service')
-    deregister_parser.add_argument('service_id', help='Service identifier')
+    deregister_parser = subparsers.add_parser('deregister', help='Deregister a service or all services')
+    deregister_parser.add_argument('service_id', help='Service identifier (use "all" to deregister all services)')
     deregister_parser.set_defaults(func=deregister_command)
 
     # Update health command
