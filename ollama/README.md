@@ -1,6 +1,6 @@
-# Ollama on Aurora
+# llama on Aurora
 
-This directory contains resources and configurations for running Ollama with large language models on Aurora.
+This directory contains resources and configurations for running llama with large language models on Aurora.
 
 ## Contents
 
