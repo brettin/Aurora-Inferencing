@@ -245,6 +245,52 @@ class ServiceRegistry:
             print(f"Error getting service: {e}")
             return None
 
+    def check_health(self, service_id: str, timeout_seconds: int = 30) -> Dict[str, Any]:
+        """
+        Check health of a registered service by comparing last heartbeat with current time
+
+        Args:
+            service_id: Service identifier
+            timeout_seconds: Consider service unhealthy if no heartbeat in this many seconds
+
+        Returns:
+            Dictionary with health check results:
+            - service_id: The service identifier
+            - exists: Whether the service is registered
+            - status: The service's reported status (healthy/unhealthy/etc.)
+            - is_responsive: Whether the service has sent a heartbeat within timeout
+            - last_seen: Unix timestamp of last heartbeat
+            - seconds_since_heartbeat: Seconds since last heartbeat
+            - timeout_seconds: The timeout threshold used
+        """
+        current_time = time.time()
+        
+        service = self.get_service(service_id)
+        
+        if not service:
+            return {
+                'service_id': service_id,
+                'exists': False,
+                'status': None,
+                'is_responsive': False,
+                'last_seen': None,
+                'seconds_since_heartbeat': None,
+                'timeout_seconds': timeout_seconds
+            }
+        
+        seconds_since_heartbeat = current_time - service.last_seen
+        is_responsive = seconds_since_heartbeat < timeout_seconds
+        
+        return {
+            'service_id': service_id,
+            'exists': True,
+            'status': service.status,
+            'is_responsive': is_responsive,
+            'last_seen': service.last_seen,
+            'seconds_since_heartbeat': round(seconds_since_heartbeat, 2),
+            'timeout_seconds': timeout_seconds
+        }
+
     def list_services(self, service_type: Optional[str] = None,
                      status_filter: Optional[ServiceStatus] = None) -> List[ServiceInfo]:
         """
@@ -303,30 +349,60 @@ class ServiceRegistry:
 
         return healthy_services
 
-    def cleanup_stale_services(self, timeout_seconds: int = 300) -> int:
+    def cleanup_unhealthy_services(self) -> int:
         """
-        Remove services that haven't sent a heartbeat in a while
-
-        Args:
-            timeout_seconds: Remove services not seen in this many seconds
+        Remove services marked as unhealthy
+        
+        This removes services that have been marked as unhealthy by mark_unhealthy_services()
+        or other health monitoring processes. Only services with status="unhealthy" are removed.
 
         Returns:
             Number of services removed
         """
         try:
-            services = self.list_services()
-            current_time = time.time()
+            services = self.list_services(status_filter=ServiceStatus.UNHEALTHY)
             removed_count = 0
 
             for service in services:
-                time_since_seen = current_time - service.last_seen
-                if time_since_seen > timeout_seconds:
-                    if self.deregister_service(service.service_id):
-                        removed_count += 1
+                if self.deregister_service(service.service_id):
+                    removed_count += 1
 
             return removed_count
         except Exception as e:
-            print(f"Error cleaning up stale services: {e}")
+            print(f"Error cleaning up unhealthy services: {e}")
+            return 0
+
+    def mark_unhealthy_services(self, timeout_seconds: int = 30) -> int:
+        """
+        Mark services as unhealthy if they haven't sent a heartbeat in a while
+        
+        Unlike cleanup_unhealthy_services which removes services, this only updates
+        their status to unhealthy, preserving the service registration.
+        
+        Args:
+            timeout_seconds: Mark unhealthy if no heartbeat in this many seconds (default: 30)
+        
+        Returns:
+            Number of services marked as unhealthy
+        """
+        try:
+            services = self.list_services()
+            current_time = time.time()
+            marked_count = 0
+            
+            for service in services:
+                # Only mark currently healthy services
+                if service.status != ServiceStatus.HEALTHY.value:
+                    continue
+                
+                time_since_seen = current_time - service.last_seen
+                if time_since_seen > timeout_seconds:
+                    if self.update_health(service.service_id, ServiceStatus.UNHEALTHY):
+                        marked_count += 1
+            
+            return marked_count
+        except Exception as e:
+            print(f"Error marking unhealthy services: {e}")
             return 0
 
     def get_service_count(self, service_type: Optional[str] = None) -> int:

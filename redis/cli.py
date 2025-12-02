@@ -9,6 +9,7 @@ from shell scripts and terminal.
 import argparse
 import json
 import sys
+import time
 from typing import Optional
 from service_registry import ServiceRegistry, ServiceInfo, ServiceStatus
 
@@ -130,6 +131,37 @@ def heartbeat_command(args):
     else:
         print(f"Failed to record heartbeat for service: {args.service_id}", file=sys.stderr)
         return 1
+
+
+def check_health_command(args):
+    """Check health of a service based on heartbeat timeout"""
+    registry = ServiceRegistry(
+        redis_host=args.redis_host,
+        redis_port=args.redis_port,
+        redis_db=args.redis_db,
+        key_prefix=args.key_prefix
+    )
+
+    result = registry.check_health(args.service_id, timeout_seconds=args.timeout)
+
+    if args.format == 'json':
+        print(json.dumps(result, indent=2))
+    else:
+        if not result['exists']:
+            print(f"Service not found: {args.service_id}")
+            return 1
+        
+        print(f"Service ID: {result['service_id']}")
+        print(f"Status: {result['status']}")
+        print(f"Responsive: {'Yes' if result['is_responsive'] else 'No'}")
+        print(f"Seconds since heartbeat: {result['seconds_since_heartbeat']}")
+        print(f"Timeout threshold: {result['timeout_seconds']}s")
+        
+        if not result['is_responsive']:
+            print(f"\nWARNING: Service has not sent a heartbeat in {result['seconds_since_heartbeat']}s (threshold: {result['timeout_seconds']}s)")
+
+    # Return exit code based on responsiveness
+    return 0 if result['exists'] and result['is_responsive'] else 1
 
 
 def get_command(args):
@@ -255,7 +287,7 @@ def list_healthy_command(args):
 
 
 def cleanup_command(args):
-    """Cleanup stale services"""
+    """Cleanup unhealthy services"""
     registry = ServiceRegistry(
         redis_host=args.redis_host,
         redis_port=args.redis_port,
@@ -263,8 +295,45 @@ def cleanup_command(args):
         key_prefix=args.key_prefix
     )
 
-    removed = registry.cleanup_stale_services(timeout_seconds=args.timeout)
-    print(f"Removed {removed} stale service(s)")
+    removed = registry.cleanup_unhealthy_services()
+    print(f"Removed {removed} unhealthy service(s)")
+    return 0
+
+
+def mark_unhealthy_command(args):
+    """Mark services as unhealthy if no recent heartbeat"""
+    registry = ServiceRegistry(
+        redis_host=args.redis_host,
+        redis_port=args.redis_port,
+        redis_db=args.redis_db,
+        key_prefix=args.key_prefix
+    )
+
+    if args.dry_run:
+        # Show what would be marked without actually doing it
+        services = registry.list_services()
+        current_time = time.time()
+        unhealthy_services = []
+        
+        for service in services:
+            if service.status == 'healthy':
+                time_since_seen = current_time - service.last_seen
+                if time_since_seen > args.timeout:
+                    unhealthy_services.append({
+                        'service_id': service.service_id,
+                        'seconds_since_heartbeat': round(time_since_seen, 2)
+                    })
+        
+        if unhealthy_services:
+            print(f"Would mark {len(unhealthy_services)} service(s) as unhealthy:")
+            for svc in unhealthy_services:
+                print(f"  - {svc['service_id']} (no heartbeat for {svc['seconds_since_heartbeat']}s)")
+        else:
+            print("No services would be marked as unhealthy")
+        return 0
+    
+    marked = registry.mark_unhealthy_services(timeout_seconds=args.timeout)
+    print(f"Marked {marked} service(s) as unhealthy")
     return 0
 
 
@@ -375,6 +444,15 @@ def main():
                                  help='Suppress output')
     heartbeat_parser.set_defaults(func=heartbeat_command)
 
+    # Check health command
+    check_health_parser = subparsers.add_parser('check-health', help='Check service health based on heartbeat timeout')
+    check_health_parser.add_argument('service_id', help='Service identifier')
+    check_health_parser.add_argument('--timeout', type=int, default=30,
+                                    help='Heartbeat timeout in seconds (default: 30)')
+    check_health_parser.add_argument('--format', choices=['text', 'json'], default='text',
+                                    help='Output format (default: text)')
+    check_health_parser.set_defaults(func=check_health_command)
+
     # Get command
     get_parser = subparsers.add_parser('get', help='Get service information')
     get_parser.add_argument('service_id', help='Service identifier')
@@ -402,10 +480,16 @@ def main():
     healthy_parser.set_defaults(func=list_healthy_command)
 
     # Cleanup command
-    cleanup_parser = subparsers.add_parser('cleanup', help='Remove stale services')
-    cleanup_parser.add_argument('--timeout', type=int, default=300,
-                               help='Stale timeout in seconds (default: 300)')
+    cleanup_parser = subparsers.add_parser('cleanup', help='Remove unhealthy services')
     cleanup_parser.set_defaults(func=cleanup_command)
+
+    # Mark unhealthy command
+    mark_unhealthy_parser = subparsers.add_parser('mark-unhealthy', help='Mark services as unhealthy if no recent heartbeat')
+    mark_unhealthy_parser.add_argument('--timeout', type=int, default=30,
+                                      help='Heartbeat timeout in seconds (default: 30)')
+    mark_unhealthy_parser.add_argument('--dry-run', action='store_true',
+                                      help='Show what would be marked without actually doing it')
+    mark_unhealthy_parser.set_defaults(func=mark_unhealthy_command)
 
     # Count command
     count_parser = subparsers.add_parser('count', help='Get service count')
