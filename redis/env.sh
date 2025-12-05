@@ -14,7 +14,13 @@ export PKGDIR="/tmp/redis_env"
 export PYTHONPATH="$PKGDIR:$PYTHONPATH"
 python -c 'import redis' 2>/dev/null || {
   echo "python-redis not found, attempting to install into $PKGDIR"
-  pip install --target="$PKGDIR" redis || {
+  #pip install --target="$PKGDIR" redis || {
+  #  echo "Failed to install redis python package"
+  #  return 1
+  python3 -m pip install \
+  --no-index --find-links "/tmp/hf_home/hub/wheelhouse" \
+  --target "$PKGDIR" \
+  "redis" || {
     echo "Failed to install redis python package"
     return 1
   }
