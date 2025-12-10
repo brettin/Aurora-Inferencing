@@ -6,32 +6,7 @@
 #include <time.h>
 #include <mpi.h>
 
-static double get_elapsed(struct timespec t1, struct timespec t2)
-{
-    time_t sec = t2.tv_sec - t1.tv_sec;
-    long nsec = t2.tv_nsec - t1.tv_nsec;
-
-    if (nsec < 0) {
-        sec--;
-        nsec += 1000000000L;
-    }
-
-    return sec + nsec * 1e-9;
-}
-
-static void convert_slash_to_double_dash(const char *input, char *output, size_t out_size) {
-    size_t j = 0;
-    for (size_t i = 0; input[i] != '\0' && j < out_size - 1; i++) {
-        if (input[i] == '/') {
-            if (j + 2 >= out_size) break; // prevent buffer overflow
-            output[j++] = '-';
-            output[j++] = '-';
-        } else {
-            output[j++] = input[i];
-        }
-    }
-    output[j] = '\0';
-}
+static double get_elapsed(struct timespec t1, struct timespec t2);
 
 int main(int argc, char **argv) {
     struct timespec start, end;
@@ -46,14 +21,6 @@ int main(int argc, char **argv) {
     MPI_Count total_size;
     void *buf = NULL;
     if (rank == 0) {
-        /* char converted_name[256]; */
-        /* char model_dir[2048]; */
-        MPI_File src;
-
-        /* convert_slash_to_double_dash(argv[1], converted_name, sizeof(converted_name)); */
-        /* snprintf(model_dir, sizeof(model_dir), */
-        /*          "/flare/datasets/model-weights/hub/models--%s", converted_name); */
-
         int last_idx = strlen(argv[1]) - 1;
         if (argv[1][last_idx] == '/') {
             argv[1][last_idx] = '\0';
@@ -144,4 +111,17 @@ int main(int argc, char **argv) {
     MPI_Finalize();
 
     return 0;
+}
+
+static double get_elapsed(struct timespec t1, struct timespec t2)
+{
+    time_t sec = t2.tv_sec - t1.tv_sec;
+    long nsec = t2.tv_nsec - t1.tv_nsec;
+
+    if (nsec < 0) {
+        sec--;
+        nsec += 1000000000L;
+    }
+
+    return sec + nsec * 1e-9;
 }
