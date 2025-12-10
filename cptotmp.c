@@ -7,6 +7,8 @@
 #include <mpi.h>
 
 #define GB (1L << 30)
+/* tar reads in multiples of records (10240 bytes) */
+#define ROUND_UP_RECORD(a) ( ((a) + 10239L) / 10240L * 10240L )
 
 static double get_elapsed(struct timespec t1, struct timespec t2);
 
@@ -21,7 +23,7 @@ int main(int argc, char **argv) {
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
 
     MPI_Count total_size;
-    void *buf = NULL;
+    FILE *archive;
     if (rank == 0) {
         int last_idx = strlen(argv[1]) - 1;
         if (argv[1][last_idx] == '/') {
@@ -41,56 +43,35 @@ int main(int argc, char **argv) {
             right = dup;
         }
 
-        /* create an archive */
+        /* get the size of the archive */
+        char null_write[4096] = {0};
+        snprintf(command, sizeof(command),
+                 "tar --totals -C %s -cf /dev/null %s 2>&1 | awk '{print $4}'",
+                 left, right);
+        archive = popen(command, "r");
+        if (!archive) {
+            perror("popen");
+            MPI_Abort(MPI_COMM_WORLD, 1);
+        }
+        fread(null_write, 1, 4096, archive);
+        pclose(archive);
+        total_size = ROUND_UP_RECORD(atol(null_write));
+
+        /* open archive for reading */
         snprintf(command, sizeof(command), "tar -C %s -cf - %s", left, right);
-        FILE *archive = popen(command, "r");
+        archive = popen(command, "r");
         if (!archive) {
             perror("popen");
             MPI_Abort(MPI_COMM_WORLD, 1);
         }
         free(dup);
 
-        MPI_Count buf_size = 16 * 1024 * 1024; // 16 MB chunks
-        MPI_Count capacity = buf_size;
-        total_size = 0;
-        buf = malloc(capacity);
-        if (!buf) {
-            perror("malloc");
-            MPI_Abort(MPI_COMM_WORLD, 1);
-        }
-
-        while (!feof(archive)) {
-            if (total_size + buf_size > capacity) {
-                capacity *= 2;
-                buf = realloc(buf, capacity);
-                if (!buf) {
-                    perror("realloc");
-                    MPI_Abort(MPI_COMM_WORLD, 1);
-                }
-            }
-            size_t n = fread(buf + total_size, 1, buf_size, archive);
-            total_size += n;
-        }
-
-        if (pclose(archive) != 0) {
-            perror("pclose");
-            MPI_Abort(MPI_COMM_WORLD, 1);
-        }
-
         MPI_Bcast(&total_size, 1, MPI_COUNT, 0, MPI_COMM_WORLD);
     } else {
         MPI_Bcast(&total_size, 1, MPI_COUNT, 0, MPI_COMM_WORLD);
-        buf = malloc(total_size);
     }
 
-    /* bcast archive in chunks */
-    int chunks = (total_size + GB - 1) / GB;
-    for (int i = 0; i < chunks; i++) {
-        int chunk_size = i == chunks - 1 ? total_size % GB : GB;
-
-        MPI_Bcast((char *)buf + (i * GB), chunk_size, MPI_BYTE, 0, MPI_COMM_WORLD);
-    }
-
+    /* open destination for writing */
     if (system("mkdir -p /tmp/hf_home/hub") != 0) {
         printf("failed to create directory in /tmp\n");
         MPI_Abort(MPI_COMM_WORLD, 1);
@@ -102,8 +83,24 @@ int main(int argc, char **argv) {
         MPI_Abort(MPI_COMM_WORLD, 1);
     }
 
-    size_t n = fwrite(buf, 1, total_size, dest);
-    assert(n == total_size);
+    /* read, bcast, write archive in chunks */
+    int chunks = (total_size + GB - 1) / GB;
+    void *buf = malloc(GB);
+    assert(buf);
+    for (int i = 0; i < chunks; i++) {
+        int chunk_size = i == chunks - 1 ? total_size % GB : GB;
+        size_t n;
+
+        if (rank == 0) {
+            n = fread(buf, 1, chunk_size, archive);
+            assert(n == chunk_size);
+        }
+
+        MPI_Bcast(buf, chunk_size, MPI_BYTE, 0, MPI_COMM_WORLD);
+
+        n = fwrite(buf, 1, chunk_size, dest);
+        assert(n == chunk_size);
+    }
     pclose(dest);
     free(buf);
 
