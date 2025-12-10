@@ -6,6 +6,8 @@
 #include <time.h>
 #include <mpi.h>
 
+#define GB (1L << 30)
+
 static double get_elapsed(struct timespec t1, struct timespec t2);
 
 int main(int argc, char **argv) {
@@ -39,7 +41,7 @@ int main(int argc, char **argv) {
             right = dup;
         }
 
-        /* create archive first if directory */
+        /* create an archive */
         snprintf(command, sizeof(command), "tar -C %s -cf - %s", left, right);
         FILE *archive = popen(command, "r");
         if (!archive) {
@@ -81,8 +83,13 @@ int main(int argc, char **argv) {
         buf = malloc(total_size);
     }
 
-    /* bcast file to everyone */
-    MPI_Bcast_c(buf, total_size, MPI_BYTE, 0, MPI_COMM_WORLD);
+    /* bcast archive in chunks */
+    int chunks = (total_size + GB - 1) / GB;
+    for (int i = 0; i < chunks; i++) {
+        int chunk_size = i == chunks - 1 ? total_size % GB : GB;
+
+        MPI_Bcast((char *)buf + (i * GB), chunk_size, MPI_BYTE, 0, MPI_COMM_WORLD);
+    }
 
     if (system("mkdir -p /tmp/hf_home/hub") != 0) {
         printf("failed to create directory in /tmp\n");
