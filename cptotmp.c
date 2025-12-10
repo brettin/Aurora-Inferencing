@@ -6,6 +6,14 @@
 #include <time.h>
 #include <mpi.h>
 
+#define CHECK_ERROR(cond, errstr)               \
+    do {                                        \
+        if (cond) {                             \
+            perror(errstr);                     \
+            MPI_Abort(MPI_COMM_WORLD, 1);       \
+        }                                       \
+    } while (0)
+
 #define GB (1L << 30)
 /* tar reads in multiples of records (10240 bytes) */
 #define ROUND_UP_RECORD(a) ( ((a) + 10239L) / 10240L * 10240L )
@@ -49,10 +57,7 @@ int main(int argc, char **argv) {
                  "tar --totals -C %s -cf /dev/null %s 2>&1 | awk '{print $4}'",
                  left, right);
         archive = popen(command, "r");
-        if (!archive) {
-            perror("popen");
-            MPI_Abort(MPI_COMM_WORLD, 1);
-        }
+        CHECK_ERROR(!archive, "popen");
         fread(null_write, 1, 4096, archive);
         pclose(archive);
         total_size = ROUND_UP_RECORD(atol(null_write));
@@ -60,10 +65,7 @@ int main(int argc, char **argv) {
         /* open archive for reading */
         snprintf(command, sizeof(command), "tar -C %s -cf - %s", left, right);
         archive = popen(command, "r");
-        if (!archive) {
-            perror("popen");
-            MPI_Abort(MPI_COMM_WORLD, 1);
-        }
+        CHECK_ERROR(!archive, "popen");
         free(dup);
 
         MPI_Bcast(&total_size, 1, MPI_COUNT, 0, MPI_COMM_WORLD);
@@ -72,16 +74,11 @@ int main(int argc, char **argv) {
     }
 
     /* open destination for writing */
-    if (system("mkdir -p /tmp/hf_home/hub") != 0) {
-        printf("failed to create directory in /tmp\n");
-        MPI_Abort(MPI_COMM_WORLD, 1);
-    }
+    int ret = system("mkdir -p /tmp/hf_home/hub");
+    CHECK_ERROR(ret, "mkdir");
     snprintf(command, sizeof(command), "tar -xf - -C /tmp/hf_home/hub");
     FILE *dest = popen(command, "w");
-    if (!dest) {
-        perror("popen");
-        MPI_Abort(MPI_COMM_WORLD, 1);
-    }
+    CHECK_ERROR(!dest, "popen");
 
     /* read, bcast, write archive in chunks */
     int chunks = (total_size + GB - 1) / GB;
