@@ -1,0 +1,701 @@
+1003201.3	Rickettsia typhi	RTTH1527_02120		H8NHI1		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02125		H8NHI2		Thioredoxin reductase (EC 1.8.1.9)		thioredoxin reductase
+1003201.3	Rickettsia typhi	RTTH1527_02130		H8NHI3		Glycosyl transferase		glycosyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_02135		H8NHI4		ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)		DNA helicase II
+1003201.3	Rickettsia typhi	RTTH1527_02140		H8NHI5		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02145		H8NHI6		pyridoxal-phosphate dependent enzyme family protein		threonine dehydratase
+1003201.3	Rickettsia typhi	RTTH1527_02150		H8NHI7		ATP-dependent protease La (EC 3.4.21.53) Type I		ATP-dependent protease La
+1003201.3	Rickettsia typhi	RTTH1527_02155		H8NHI8		hypothetical protein		cell surface antigen Sca3
+1003201.3	Rickettsia typhi	RTTH1527_02160		H8NHI9		Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)		isopentenyl pyrophosphate isomerase
+1003201.3	Rickettsia typhi	RTTH1527_02165		H8NHJ0		N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23)		UDP-N-acetylglucosamine pyrophosphorylase
+1003201.3	Rickettsia typhi	RTTH1527_02170		H8NHJ1		Probable transcriptional regulatory protein YebC		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02175		H8NHJ2	rpmJ	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent	rpmJ	50S ribosomal protein L36
+1003201.3	Rickettsia typhi	RTTH1527_02180		H8NHJ3		Peptidoglycan hydrolase VirB1, involved in T-DNA transfer		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02185		H8NHJ4		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02190		H8NHJ5		SAM-dependent methyltransferase, BioC-like		biotin synthesis protein BioC
+1003201.3	Rickettsia typhi	RTTH1527_02195		H8NHJ6		Dihydrolipoamide dehydrogenase (EC 1.8.1.4)		dihydrolipoamide dehydrogenase
+1003201.3	Rickettsia typhi	RTTH1527_02200		H8NHJ7		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)		5-formyltetrahydrofolate cyclo-ligase
+1003201.3	Rickettsia typhi	RTTH1527_02205		H8NHJ8		Ribonuclease D (EC 3.1.26.3)		ribonuclease D
+1003201.3	Rickettsia typhi	RTTH1527_02210		H8NHJ9		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02215		H8NHK0		tRNA-modifying protein YgfZ		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02220		H8NHK1		Two-component system sensor histidine kinase		two-component sensor histidine kinase
+1003201.3	Rickettsia typhi	RTTH1527_02225		H8NHK2	hemC	Porphobilinogen deaminase (EC 2.5.1.61)	hemC	porphobilinogen deaminase
+1003201.3	Rickettsia typhi	RTTH1527_02230		H8NHK3		Tryptophanyl-tRNA synthetase (EC 6.1.1.2)		tryptophanyl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_02235		H8NHK4		1-acyl-sn-glycerol-3-phosphate acyltransferase		1-acyl-sn-glycerol-3-phosphate acyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_02240		H8NHK5		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02245		H8NHK6		Hydrolase SMc00528, alpha/beta fold family		alpha/beta hydrolase
+1003201.3	Rickettsia typhi	RTTH1527_02250		H8NHK7		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02255		H8NHK8		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02260		H8NHK9		Uroporphyrinogen-III synthase in Rickettsia, divergent, (EC 4.2.1.75)		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02265		H8NHL0		AmpG permease		murein peptide permease protein AmpG
+1003201.3	Rickettsia typhi	RTTH1527_02270		H8NHL1		hypothetical protein		lipopolysaccharide 1,2-glucosyltransferase WaaJ
+1003201.3	Rickettsia typhi	RTTH1527_02275		H8NHL2		Nucleotide related transporter, NTT family		ADP/ATP carrier protein 3
+1003201.3	Rickettsia typhi	RTTH1527_02280		H8NHL3		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02285		H8NHL4		Decaprenyl diphosphate synthase (EC 2.5.1.91)		octaprenyl-diphosphate synthase
+1003201.3	Rickettsia typhi	RTTH1527_02290		H8NHL5		Xaa-Pro aminopeptidase (EC 3.4.11.9)		aminopeptidase P
+1003201.3	Rickettsia typhi	RTTH1527_02295		H8NHL6		Putrescine-ornithine antiporter		putrescine-ornithine antiporter
+1003201.3	Rickettsia typhi	RTTH1527_02300		H8NHL7		Iron-sulfur cluster assembly iron binding protein IscA		iron-sulfur cluster assembly accessory protein
+1003201.3	Rickettsia typhi	RTTH1527_02305		H8NHL8		Iron-sulfur cluster assembly scaffold protein IscU		scaffold protein
+1003201.3	Rickettsia typhi	RTTH1527_02310		H8NHL9		Cysteine desulfurase (EC 2.8.1.7) => IscS		cysteine desulfurase
+1003201.3	Rickettsia typhi	RTTH1527_02315		H8NHM0		Cysteine desulfurase (EC 2.8.1.7)		cysteine desulfurase
+1003201.3	Rickettsia typhi	RTTH1527_02320		H8NHM1		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02325		H8NHM2		Glutathione S-transferase family protein		glutathione S-transferase
+1003201.3	Rickettsia typhi	RTTH1527_02335		H8NHM4		Pyruvate,phosphate dikinase (EC 2.7.9.1)		pyruvate phosphate dikinase
+1003201.3	Rickettsia typhi	RTTH1527_02340		H8NHM5		Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02345		H8NHM6		Multicopper polyphenol oxidase		cytoplasmic protein
+1003201.3	Rickettsia typhi	RTTH1527_02350		H8NHM7		Putative glutamine synthetase, Rickettsiales type (EC 6.3.1.2)		glutamine synthetase
+1003201.3	Rickettsia typhi	RTTH1527_02355		H8NHM8		Inner membrane protein YihY, formerly thought to be RNase BN		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02360		H8NHM9		Transcriptional regulator, Xre family		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02365		H8NHN0		cell surface antigen		cell surface antigen
+1003201.3	Rickettsia typhi	RTTH1527_02370		H8NHN1		NAD transporter of enosymbionts, possible		ADP/ATP carrier protein 4
+1003201.3	Rickettsia typhi	RTTH1527_02375		H8NHN2	truB	tRNA pseudouridine(55) synthase (EC 5.4.99.25)	truB	tRNA pseudouridine synthase B
+1003201.3	Rickettsia typhi	RTTH1527_02380		H8NHN3	rpsO	SSU ribosomal protein S15p (S13e)	rpsO	30S ribosomal protein S15
+1003201.3	Rickettsia typhi	RTTH1527_02385		H8NHN4		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)		polynucleotide phosphorylase/polyadenylase
+1003201.3	Rickettsia typhi	RTTH1527_02390		H8NHN5		D-arabinose-5-phosphate isomerase (EC 5.3.1.13)		sugar isomerase
+1003201.3	Rickettsia typhi	RTTH1527_02395		H8NHN6		Lipopolysaccharide export system protein LptC		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02400		H8NHN7		Lipopolysaccharide export system protein LptA		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02405		H8NHN8		Lipopolysaccharide ABC transporter, ATP-binding protein LptB		ABC transporter ATP-binding protein
+1003201.3	Rickettsia typhi	RTTH1527_02410		H8NHN9		Phosphomannomutase (EC 5.4.2.8)		phosphomannomutase
+1003201.3	Rickettsia typhi	RTTH1527_02415		H8NHP0	miaA	tRNA dimethylallyltransferase (EC 2.5.1.75)	miaA	tRNA delta(2)-isopentenylpyrophosphate transferase
+1003201.3	Rickettsia typhi	RTTH1527_02425		H8NHP2		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02430		H8NHP3	nrdF	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)	nrdF	ribonucleotide-diphosphate reductase subunit beta
+1003201.3	Rickettsia typhi	RTTH1527_02435		H8NHP4		Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)		ribonucleotide-diphosphate reductase subunit alpha
+1003201.3	Rickettsia typhi	RTTH1527_02440		H8NHP5		Thioredoxin reductase (EC 1.8.1.9)		thioredoxin reductase
+1003201.3	Rickettsia typhi	RTTH1527_02445		H8NHP6		Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)		bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+1003201.3	Rickettsia typhi	RTTH1527_02450		H8NHP7		Carbonic anhydrase, gamma class (EC 4.2.1.1)		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02455		H8NHP8		Ribosome hibernation promoting factor Hpf		sigma(54) modulation protein
+1003201.3	Rickettsia typhi	RTTH1527_02460		H8NHP9	clpP	ATP-dependent Clp protease proteolytic subunit ClpP (EC 3.4.21.92)	clpP	ATP-dependent Clp protease proteolytic subunit
+1003201.3	Rickettsia typhi	RTTH1527_02465		H8NHQ0	rpsA	SSU ribosomal protein S1p	rpsA	30S ribosomal protein S1
+1003201.3	Rickettsia typhi	RTTH1527_02470		H8NHQ1	cmk	Cytidylate kinase (EC 2.7.4.25)	cmk	cytidylate kinase
+1003201.3	Rickettsia typhi	RTTH1527_02475		H8NHQ2		Integration host factor beta subunit		integration host factor beta subunit
+1003201.3	Rickettsia typhi	RTTH1527_02480		H8NHQ3		Protease IV		endopeptidase IV
+1003201.3	Rickettsia typhi	RTTH1527_02485		H8NHQ4	rho	Transcription termination factor Rho	rho	transcription termination factor Rho
+1003201.3	Rickettsia typhi	RTTH1527_02490		H8NHQ5		SAM-dependent methyltransferase		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02495		H8NHQ6		Single-stranded-DNA-specific exonuclease RecJ		single-stranded-DNA-specific exonuclease RecJ
+1003201.3	Rickettsia typhi	RTTH1527_02500		H8NHQ7	prfA	Peptide chain release factor 1	prfA	peptide chain release factor 1
+1003201.3	Rickettsia typhi	RTTH1527_02505		H8NHQ8		Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)		branched-chain alpha-keto acid dehydrogenase subunit E2
+1003201.3	Rickettsia typhi	RTTH1527_02510		H8NHQ9	infC	Translation initiation factor 3	infC	translation initiation factor IF-3
+1003201.3	Rickettsia typhi	RTTH1527_02515		H8NHR0		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02520		H8NHR1		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02525		H8NHR2		Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)		biotin--protein ligase
+1003201.3	Rickettsia typhi	RTTH1527_02530		H8NHR3		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02535		H8NHR4		Superoxide dismutase [Fe] (EC 1.15.1.1)		superoxide dismutase
+1003201.3	Rickettsia typhi	RTTH1527_02540		H8NHR5		Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)		folylpolyglutamate synthase
+1003201.3	Rickettsia typhi	RTTH1527_02545		H8NHR6		NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)		NADH:ubiquinone oxidoreductase subunit N
+1003201.3	Rickettsia typhi	RTTH1527_02550		H8NHR7		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02555		H8NHR8		Porphobilinogen synthase (EC 4.2.1.24)		delta-aminolevulinic acid dehydratase
+1003201.3	Rickettsia typhi	RTTH1527_02560		H8NHR9		Helicase PriA essential for oriC/DnaA-independent DNA replication		primosome assembly protein PriA
+1003201.3	Rickettsia typhi	RTTH1527_02565		H8NHS0		Flavin prenyltransferase UbiX		aromatic acid decarboxylase
+1003201.3	Rickettsia typhi	RTTH1527_02570		H8NHS1		Replicative DNA helicase (DnaB) (EC 3.6.4.12)		replicative DNA helicase
+1003201.3	Rickettsia typhi	RTTH1527_02575		H8NHS2		LSU rRNA pseudouridine(2605) synthase (EC 5.4.99.22)		ribosomal large subunit pseudouridine synthase
+1003201.3	Rickettsia typhi	RTTH1527_02580		H8NHS3		16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)		methylase
+1003201.3	Rickettsia typhi	RTTH1527_02585		H8NHS4		DNA repair protein RadA		DNA repair protein RadA
+1003201.3	Rickettsia typhi	RTTH1527_02590		H8NI93		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02595		H8NI94	recO	DNA recombination and repair protein RecO	recO	DNA repair protein RecO
+1003201.3	Rickettsia typhi	RTTH1527_02600		H8NI95		tRNA threonylcarbamoyladenosine biosynthesis protein TsaB		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02605		H8NI96		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02610		H8NI97	infB	Translation initiation factor 2	infB	translation initiation factor IF-2
+1003201.3	Rickettsia typhi	RTTH1527_02615		H8NI98	nusA	Transcription termination protein NusA	nusA	transcription elongation factor NusA
+1003201.3	Rickettsia typhi	RTTH1527_02620		H8NI99		Bacterial ribosome SSU maturation protein RimP		ribosome maturation protein RimP
+1003201.3	Rickettsia typhi	RTTH1527_02625		H8NIA0		RNA binding methyltransferase FtsJ like		hemolysin
+1003201.3	Rickettsia typhi	RTTH1527_02630		H8NIA1		Tyrosyl-tRNA synthetase (EC 6.1.1.1)		tyrosyl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_02635		H8NIA2		Large extracellular alpha-helical protein		large extracellular alpha-helical protein
+1003201.3	Rickettsia typhi	RTTH1527_02640		H8NIA3		3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / Enoyl-CoA hydratase (EC 4.2.1.17)		3-hydroxyacyl-CoA dehydrogenase
+1003201.3	Rickettsia typhi	RTTH1527_02645		H8NIA4		2-polyprenyl-6-methoxyphenol hydroxylase		2-octaprenyl-6-methoxyphenyl hydroxylase
+1003201.3	Rickettsia typhi	RTTH1527_02655		H8NIA6		nitrogen assimilation regulatory protein NtrX		nitrogen assimilation regulatory protein NtrX
+1003201.3	Rickettsia typhi	RTTH1527_02660		H8NIA7		Pentapeptide repeat family protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02665		H8NIA8		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02670		H8NIA9		Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)		penicillin-binding protein
+1003201.3	Rickettsia typhi	RTTH1527_02675		H8NIB0		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02680		H8NIB1		Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)		penicillin-binding protein
+1003201.3	Rickettsia typhi	RTTH1527_02685		H8NIB2		Cell division protein FtsL		cell division protein FtsL
+1003201.3	Rickettsia typhi	RTTH1527_02690		H8NIB3		16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)		16S rRNA m(4)C1402 methyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_02695		H8NIB4		Transcriptional regulator MraZ		cell division protein MraZ
+1003201.3	Rickettsia typhi	RTTH1527_02700		H8NIB5		sodium-solute symporter, 		sodium coupled symporter
+1003201.3	Rickettsia typhi	RTTH1527_02705		H8NIB6	uvrC	Excinuclease ABC subunit C	uvrC	excinuclease ABC subunit C
+1003201.3	Rickettsia typhi	RTTH1527_02710		H8NIB7		Copper metallochaperone PCu(A)C, inserts Cu(I) into cytochrome oxidase subunit II		copper(I)-binding protein
+1003201.3	Rickettsia typhi	RTTH1527_02715		H8NIB8		Uncharacterized protein RT0563		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02720		H8NIB9		Protein translocase subunit SecA		preprotein translocase subunit SecA
+1003201.3	Rickettsia typhi	RTTH1527_02725		H8NIC0		Foldase protein PrsA precursor (EC 5.2.1.8)		protein export protein PrsA precursor
+1003201.3	Rickettsia typhi	RTTH1527_02730		H8NIC1	acpS	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)	acpS	4'-phosphopantetheinyl transferase
+1003201.3	Rickettsia typhi	RTTH1527_02735		H8NIC2	rpoZ	DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)	rpoZ	DNA-directed RNA polymerase subunit omega
+1003201.3	Rickettsia typhi	RTTH1527_02740		H8NIC3		UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_02745		H8NIC4	gyrB	DNA gyrase subunit B (EC 5.99.1.3)	gyrB	DNA gyrase subunit B
+1003201.3	Rickettsia typhi	RTTH1527_02750		H8NIC5		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02755		H8NIC6		Mg/Co/Ni transporter MgtE, CBS domain-containing		magnesium transporter
+1003201.3	Rickettsia typhi	RTTH1527_02760		H8NIC7	yajC	Protein translocase subunit YajC	yajC	preprotein translocase subunit YajC
+1003201.3	Rickettsia typhi	RTTH1527_02765		H8NIC8	secD	Protein translocase subunit SecD	secD	preprotein translocase subunit SecD
+1003201.3	Rickettsia typhi	RTTH1527_02770		H8NIC9		Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center		Sco2 protein precursor
+1003201.3	Rickettsia typhi	RTTH1527_02775		H8NID0		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02780		H8NID1		Cytochrome c-type biogenesis protein CcmE, heme chaperone		cytochrome c-type biogenesis protein CcmE
+1003201.3	Rickettsia typhi	RTTH1527_02785		H8NID2		Inorganic pyrophosphatase (EC 3.6.1.1)		inorganic pyrophosphatase
+1003201.3	Rickettsia typhi	RTTH1527_02790		H8NID3		Peptidoglycan lipid II flippase MurJ		MviN-like protein
+1003201.3	Rickettsia typhi	RTTH1527_02795		H8NID4		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02800		H8NID5		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02805		H8NID6		ATP-dependent DNA helicase RecG (EC 3.6.4.12)		ATP-dependent DNA helicase RecG
+1003201.3	Rickettsia typhi	RTTH1527_02810		H8NID7	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	mraY	phospho-N-acetylmuramoyl-pentapeptide- transferase
+1003201.3	Rickettsia typhi	RTTH1527_02815		H8NID8		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)		UDP-N-acetylmuramoylalanyl-D-glutamyl- 2,6-diaminopimelate--D-alanyl-D-alanyl ligase
+1003201.3	Rickettsia typhi	RTTH1527_02820		H8NID9	murE	UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)	murE	UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase
+1003201.3	Rickettsia typhi	RTTH1527_02825		H8NIE0		Transcription-repair coupling factor		transcription-repair coupling factor
+1003201.3	Rickettsia typhi	RTTH1527_02830		H8NIE1		Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02835		H8NIE2		Rhodanese-related sulfurtransferase		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02840		H8NIE3	dnaA	Chromosomal replication initiator protein DnaA	dnaA	chromosomal replication initiation protein
+1003201.3	Rickettsia typhi	RTTH1527_02845		H8NIE4		patatin-like protein		patatin-like protein
+1003201.3	Rickettsia typhi	RTTH1527_02850		H8NIE5		Multidrug resistance transporter, Bcr/CflA family		bicyclomycin resistance protein
+1003201.3	Rickettsia typhi	RTTH1527_02855		H8NIE6		GTP-binding and nucleic acid-binding protein YchF		GTP-binding protein YchF
+1003201.3	Rickettsia typhi	RTTH1527_02860		H8NIE7		Peptidyl-tRNA hydrolase (EC 3.1.1.29)		peptidyl-tRNA hydrolase
+1003201.3	Rickettsia typhi	RTTH1527_02865		H8NIE8		LSU ribosomal protein L25p		50S ribosomal protein L25/general stress protein Ctc
+1003201.3	Rickettsia typhi	RTTH1527_02870		H8NIE9		7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02875		H8NIF0	rpmI	LSU ribosomal protein L35p	rpmI	50S ribosomal protein L35
+1003201.3	Rickettsia typhi	RTTH1527_02880		H8NIF1	rplT	LSU ribosomal protein L20p	rplT	50S ribosomal protein L20
+1003201.3	Rickettsia typhi	RTTH1527_02885		H8NIF2	rpmH	LSU ribosomal protein L34p	rpmH	50S ribosomal protein L34
+1003201.3	Rickettsia typhi	RTTH1527_02890		H8NIF3	rnpA	Ribonuclease P protein component (EC 3.1.26.5)	rnpA	ribonuclease P
+1003201.3	Rickettsia typhi	RTTH1527_02895		H8NIF4		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02900		H8NIF5		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02905		H8NIF6		Nitrogen regulation protein NtrY (EC 2.7.3.-)		nitrogen regulation protein NtrY
+1003201.3	Rickettsia typhi	RTTH1527_02910		H8NIF7	rpsU	SSU ribosomal protein S21p	rpsU	30S ribosomal protein S21
+1003201.3	Rickettsia typhi	RTTH1527_02915		H8NIF8		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02920		H8NIF9	ileS	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	ileS	isoleucyl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_02925		H8NIG0		Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein of acetyl-CoA carboxylase; Propionyl-CoA carboxylase alpha chain (EC 6.4.1.3)		acetyl-CoA carboxylase, biotin carboxylase
+1003201.3	Rickettsia typhi	RTTH1527_02930		H8NIG1		Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)		propionyl-CoA carboxylase beta chain precursor
+1003201.3	Rickettsia typhi	RTTH1527_02935		H8NIG2		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02940		H8NIG3		Lysophospholipid transporter LplT / 2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40) / Acyl-[acyl-carrier-protein] synthetase (EC 6.2.1.20)		acylglycerophosphoethanolamine acyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_02945		H8NIG4		zinc/manganese ABC transporter permease protein		zinc/manganese ABC transporter permease protein
+1003201.3	Rickettsia typhi	RTTH1527_02950		H8NIG5		3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)		bifunctional 3-demethylubiquinone-9 3-methyltransferase/ 2-octaprenyl-6-hydroxy phenol methylase
+1003201.3	Rickettsia typhi	RTTH1527_02955		H8NIG6	gltX	Glutamyl-tRNA synthetase (EC 6.1.1.17)	gltX	glutamyl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_02960		H8NIG7		hypothetical protein		guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+1003201.3	Rickettsia typhi	RTTH1527_02965		H8NIG8		hypothetical protein		guanosine polyphosphate pyrophosphohydrolase/synthetase
+1003201.3	Rickettsia typhi	RTTH1527_02970		H8NHS5	groEL	Heat shock protein 60 kDa family chaperone GroEL	groEL	chaperonin GroEL
+1003201.3	Rickettsia typhi	RTTH1527_02975		H8NHS6	groES	Heat shock protein 10 kDa family chaperone GroES	groES	co-chaperonin GroES
+1003201.3	Rickettsia typhi	RTTH1527_02980		H8NHS7	rph	Ribonuclease PH (EC 2.7.7.56)	rph	ribonuclease PH
+1003201.3	Rickettsia typhi	RTTH1527_02985		H8NHS8		Ribonuclease PH (EC 2.7.7.56)		ribonuclease PH
+1003201.3	Rickettsia typhi	RTTH1527_02990		H8NHS9		Heat shock protein GrpE		heat shock protein GrpE
+1003201.3	Rickettsia typhi	RTTH1527_02995		H8NHT0		UPF0118 membrane protein RT0621		permease
+1003201.3	Rickettsia typhi	RTTH1527_03000		H8NHT1		DnaA inactivator Hda (shorter homolog of DnaA)		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03005		H8NHT2		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03010		H8NHT3	rpsT	SSU ribosomal protein S20p	rpsT	30S ribosomal protein S20
+1003201.3	Rickettsia typhi	RTTH1527_03015		H8NHT4	rplQ	LSU ribosomal protein L17p	rplQ	50S ribosomal protein L17
+1003201.3	Rickettsia typhi	RTTH1527_03020		H8NHT5		DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)		DNA-directed RNA polymerase subunit alpha
+1003201.3	Rickettsia typhi	RTTH1527_03025		H8NHT6		SSU ribosomal protein S11p (S14e)		30S ribosomal protein S11
+1003201.3	Rickettsia typhi	RTTH1527_03030		H8NHT7	rpsM	SSU ribosomal protein S13p (S18e)	rpsM	30S ribosomal protein S13
+1003201.3	Rickettsia typhi	RTTH1527_03035		H8NHT8	adk	Adenylate kinase (EC 2.7.4.3)	adk	adenylate kinase
+1003201.3	Rickettsia typhi	RTTH1527_03040		H8NHT9	secY	Protein translocase subunit SecY	secY	preprotein translocase subunit SecY
+1003201.3	Rickettsia typhi	RTTH1527_03045		H8NHU0	rplO	LSU ribosomal protein L15p (L27Ae)	rplO	50S ribosomal protein L15
+1003201.3	Rickettsia typhi	RTTH1527_03050		H8NHU1	rpmD	LSU ribosomal protein L30p (L7e)	rpmD	50S ribosomal protein L30
+1003201.3	Rickettsia typhi	RTTH1527_03055		H8NHU2	rpsE	SSU ribosomal protein S5p (S2e)	rpsE	30S ribosomal protein S5
+1003201.3	Rickettsia typhi	RTTH1527_03060		H8NHU3	rplR	LSU ribosomal protein L18p (L5e)	rplR	50S ribosomal protein L18
+1003201.3	Rickettsia typhi	RTTH1527_03065		H8NHU4	rplF	LSU ribosomal protein L6p (L9e)	rplF	50S ribosomal protein L6
+1003201.3	Rickettsia typhi	RTTH1527_03070		H8NHU5	rpsH	SSU ribosomal protein S8p (S15Ae)	rpsH	30S ribosomal protein S8
+1003201.3	Rickettsia typhi	RTTH1527_03075		H8NHU6	rpsN	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent	rpsN	30S ribosomal protein S14
+1003201.3	Rickettsia typhi	RTTH1527_03080		H8NHU7	rplE	LSU ribosomal protein L5p (L11e)	rplE	50S ribosomal protein L5
+1003201.3	Rickettsia typhi	RTTH1527_03085		H8NHU8	rplX	LSU ribosomal protein L24p (L26e)	rplX	50S ribosomal protein L24
+1003201.3	Rickettsia typhi	RTTH1527_03090		H8NHU9	rplN	LSU ribosomal protein L14p (L23e)	rplN	50S ribosomal protein L14
+1003201.3	Rickettsia typhi	RTTH1527_03095		H8NHV0	rpsQ	SSU ribosomal protein S17p (S11e)	rpsQ	30S ribosomal protein S17
+1003201.3	Rickettsia typhi	RTTH1527_03100		H8NHV1		LSU ribosomal protein L29p (L35e)		50S ribosomal protein L29
+1003201.3	Rickettsia typhi	RTTH1527_03105		H8NHV2	rplP	LSU ribosomal protein L16p (L10e)	rplP	50S ribosomal protein L16
+1003201.3	Rickettsia typhi	RTTH1527_03110		H8NHV3	rpsC	SSU ribosomal protein S3p (S3e)	rpsC	30S ribosomal protein S3
+1003201.3	Rickettsia typhi	RTTH1527_03115		H8NHV4	rplV	LSU ribosomal protein L22p (L17e)	rplV	50S ribosomal protein L22
+1003201.3	Rickettsia typhi	RTTH1527_03120		H8NHV5	rpsS	SSU ribosomal protein S19p (S15e)	rpsS	30S ribosomal protein S19
+1003201.3	Rickettsia typhi	RTTH1527_03125		H8NHV6	rplB	LSU ribosomal protein L2p (L8e)	rplB	50S ribosomal protein L2
+1003201.3	Rickettsia typhi	RTTH1527_03130		H8NHV7	rplW	LSU ribosomal protein L23p (L23Ae)	rplW	50S ribosomal protein L23
+1003201.3	Rickettsia typhi	RTTH1527_03135		H8NHV8	rplD	LSU ribosomal protein L4p (L1e)	rplD	50S ribosomal protein L4
+1003201.3	Rickettsia typhi	RTTH1527_03140		H8NHV9	rplC	LSU ribosomal protein L3p (L3e)	rplC	50S ribosomal protein L3
+1003201.3	Rickettsia typhi	RTTH1527_03145		H8NHW0	rpsJ	SSU ribosomal protein S10p (S20e)	rpsJ	30S ribosomal protein S10
+1003201.3	Rickettsia typhi	RTTH1527_03150		H8NHW1		Translation elongation factor Tu		elongation factor Tu
+1003201.3	Rickettsia typhi	RTTH1527_03155		H8NHW2		23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)		tRNA/rRNA methyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_03160		H8NHW3	fumC	Fumarate hydratase class II (EC 4.2.1.2)	fumC	fumarate hydratase
+1003201.3	Rickettsia typhi	RTTH1527_03165		H8NHW4		Cell division protein FtsZ		cell division protein FtsZ
+1003201.3	Rickettsia typhi	RTTH1527_03170		H8NHW5		NifU-like protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03175		H8NHW6		murein peptide permease protein AmpG		murein peptide permease protein AmpG
+1003201.3	Rickettsia typhi	RTTH1527_03180		H8NHW7		DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)		ATP-dependent RNA helicase RhlE
+1003201.3	Rickettsia typhi	RTTH1527_03185		H8NHW8		Cold shock protein of CSP family		cold shock-like protein
+1003201.3	Rickettsia typhi	RTTH1527_03190		H8NHW9		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03195		H8NHX0		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03200		H8NHX1	ksgA	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)	ksgA	16S ribosomal RNA methyltransferase KsgA/Dim1 family protein
+1003201.3	Rickettsia typhi	RTTH1527_03205		H8NHX2		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03210		H8NHX3		LPS-assembly protein LptD @ Organic solvent tolerance protein precursor		organic solvent tolerance protein OstA
+1003201.3	Rickettsia typhi	RTTH1527_03215		H8NHX4	xseA	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)	xseA	exodeoxyribonuclease VII large subunit
+1003201.3	Rickettsia typhi	RTTH1527_03220		H8NHX5		Exodeoxyribonuclease III (EC 3.1.11.2)		exodeoxyribonuclease III
+1003201.3	Rickettsia typhi	RTTH1527_03225		H8NHX6		GTP-binding protein EngA		GTP-binding protein Der
+1003201.3	Rickettsia typhi	RTTH1527_03230		H8NHX7		Ubiquinone biosynthesis regulatory protein kinase UbiB		ubiquinone biosynthesis protein
+1003201.3	Rickettsia typhi	RTTH1527_03235		H8NHX8	ubiE	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)	ubiE	ubiquinone/menaquinone biosynthesis methyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_03240		H8NHX9		Poly-beta-hydroxyalkanoate depolymerase		poly-beta-hydroxyalkanoate depolymerase
+1003201.3	Rickettsia typhi	RTTH1527_03245		H8NHY0		Uncharacterized metal-dependent hydrolase YcfH		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03250		H8NHY1		Methionyl-tRNA synthetase (EC 6.1.1.10)		methionyl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_03255		H8NHY2	tmk	Thymidylate kinase (EC 2.7.4.9)	tmk	thymidylate kinase
+1003201.3	Rickettsia typhi	RTTH1527_03260		H8NHY3		proline/betaine transporter		proline/betaine transporter ProP4
+1003201.3	Rickettsia typhi	RTTH1527_03265		H8NHY4	ubiA	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)	ubiA	4-hydroxybenzoate polyprenyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_03270		H8NHY5	valS	Valyl-tRNA synthetase (EC 6.1.1.9)	valS	valyl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_03275		H8NHY6		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03280		H8NHY7		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03285		H8NHY8		DNA recombination protein RmuC		DNA recombination protein RmuC
+1003201.3	Rickettsia typhi	RTTH1527_03290		H8NHY9		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03295		H8NHZ0	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	clpX	ATP-dependent protease ATP-binding subunit ClpX
+1003201.3	Rickettsia typhi	RTTH1527_03300		H8NHZ1		Acetyltransferase, GNAT family		ribosomal-protein-alanine N-acetyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_03305		H8NHZ2		7-cyano-7-deazaguanine synthase (EC 6.3.4.20)		trans-regulatory protein ExsB
+1003201.3	Rickettsia typhi	RTTH1527_03310		H8NHZ3		Efflux ABC transporter, permease/ATP-binding protein		lipid A export ATP-binding/permease protein MsbA
+1003201.3	Rickettsia typhi	RTTH1527_03315		H8NHZ4		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03320		H8NHZ5		Multidrug resistance transporter, Bcr/CflA family		bicyclomycin resistance protein
+1003201.3	Rickettsia typhi	RTTH1527_03325		H8NHZ6		Lipoprotein releasing system transmembrane protein LolC/LolE		lipoprotein releasing system, transmembrane protein
+1003201.3	Rickettsia typhi	RTTH1527_03330		H8NHZ7		Lipoprotein-releasing system ATP-binding protein LolD		lipoprotein releasing system ATP-binding protein LolD
+1003201.3	Rickettsia typhi	RTTH1527_03335		H8NHZ8		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03340		H8NHZ9		Hemolysins and related proteins containing CBS domains		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03345		H8NI00		Cytochrome c heme lyase subunit CcmF		cytochrome c-type biogenesis protein CcmF
+1003201.3	Rickettsia typhi	RTTH1527_03350		H8NIG9		hypothetical protein		outer membrane protein OmpB
+1003201.3	Rickettsia typhi	RTTH1527_03355		H8NIH0		hypothetical protein		guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+1003201.3	Rickettsia typhi	RTTH1527_03360		H8NIH1		beta-N-acetylglucosaminidase (EC 3.2.1.52)		beta-glucosidase
+1003201.3	Rickettsia typhi	RTTH1527_03365		H8NIH2		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03370		H8NIH3		Integration host factor alpha subunit		integration host factor alpha subunit
+1003201.3	Rickettsia typhi	RTTH1527_03375		H8NIH4		Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)		lipid A biosynthesis lauroyl acyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_03380		H8NIH5	lpxK	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)	lpxK	tetraacyldisaccharide 4'-kinase
+1003201.3	Rickettsia typhi	RTTH1527_03385		H8NIH6		hypothetical protein		periplasmic protein
+1003201.3	Rickettsia typhi	RTTH1527_03390		H8NIH7	ligA	DNA ligase (NAD(+)) (EC 6.5.1.2)	ligA	NAD-dependent DNA ligase LigA
+1003201.3	Rickettsia typhi	RTTH1527_03395		H8NIH8	tgt	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)	tgt	queuine tRNA-ribosyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_03400		H8NHW9		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03405		H8NII0		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03410		H8NII1		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03415		H8NII2		Phospholipid ABC transporter substrate-binding protein MlaD		ABC transporter substrate binding protein
+1003201.3	Rickettsia typhi	RTTH1527_03420		H8NII3		NADH:ubiquinone oxidoreductase 17.2 kD subunit		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03425		H8NII4	rnhA	Ribonuclease HI (EC 3.1.26.4)	rnhA	ribonuclease H
+1003201.3	Rickettsia typhi	RTTH1527_03430		H8NII5		ClpXP protease specificity-enhancing factor SspBalpha		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03435		H8NII6		UDP-2,3-diacylglucosamine pyrophosphatase		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03440		H8NII7	coaE	Dephospho-CoA kinase (EC 2.7.1.24)	coaE	dephospho-CoA kinase
+1003201.3	Rickettsia typhi	RTTH1527_03445		H8NII8		DNA polymerase III epsilon subunit (EC 2.7.7.7)		DNA polymerase III subunit epsilon
+1003201.3	Rickettsia typhi	RTTH1527_03450		H8NII9		Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion		surfeit locus protein 1 (surf1)
+1003201.3	Rickettsia typhi	RTTH1527_03455		H8NIJ0		hypothetical protein		surfeit locus protein 1 (surf1)
+1003201.3	Rickettsia typhi	RTTH1527_03460		H8NIJ1		ATP-dependent helicase/nuclease		ATP-dependent helicase/nuclease
+1003201.3	Rickettsia typhi	RTTH1527_03465		H8NIJ2		Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)		acyl-carrier-protein S-malonyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_03470		H8NIJ3		3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)		acetyl-CoA acetyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_03475		H8NIJ4		Polyhydroxyalkanoic acid synthase		poly-beta-hydroxybutyrate polymerase
+1003201.3	Rickettsia typhi	RTTH1527_03480		H8NIJ5		NAD transporter of enosymbionts, possible		ADP/ATP carrier protein 5
+1003201.3	Rickettsia typhi	RTTH1527_03485		H8NIJ6		hemolysin C		hemolysin C
+1003201.3	Rickettsia typhi	RTTH1527_03490		H8NIJ7		Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly		metal-binding heat shock protein
+1003201.3	Rickettsia typhi	RTTH1527_03495		H8NIJ8		Lipoyl synthase (EC 2.8.1.8)		lipoyl synthase
+1003201.3	Rickettsia typhi	RTTH1527_03500		H8NIJ9	glyA	Serine hydroxymethyltransferase (EC 2.1.2.1)	glyA	serine hydroxymethyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_03505		H8NIK0		Phospholipase/carboxylesterase family protein		serine esterase
+1003201.3	Rickettsia typhi	RTTH1527_03510		H8NIK1		Uncharacterized monothiol glutaredoxin ycf64-like		glutaredoxin 3
+1003201.3	Rickettsia typhi	RTTH1527_03515		H8NIK2		Endonuclease III (EC 4.2.99.18)		endonuclease III
+1003201.3	Rickettsia typhi	RTTH1527_03520		H8NIK3		16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03525		H8NIK4		Uncharacterized protein RBE_1412		ABC-type transport systems periplasmic component
+1003201.3	Rickettsia typhi	RTTH1527_03530		H8NIK5	tatA	Twin-arginine translocation protein TatA	tatA	twin arginine translocase protein A
+1003201.3	Rickettsia typhi	RTTH1527_03535		H8NIK6		Phosphatidylglycerophosphatase A (EC 3.1.3.27)		phosphatidylglycerophosphatase
+1003201.3	Rickettsia typhi	RTTH1527_03540		H8NIK7	rplU	LSU ribosomal protein L21p	rplU	50S ribosomal protein L21
+1003201.3	Rickettsia typhi	RTTH1527_03545		H8NIK8	rpmA	LSU ribosomal protein L27p	rpmA	50S ribosomal protein L27
+1003201.3	Rickettsia typhi	RTTH1527_03550		H8NIK9		Aspartokinase (EC 2.7.2.4)		aspartate kinase
+1003201.3	Rickettsia typhi	RTTH1527_03555		H8NIL0		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03560		H8NIL1		proline/betaine transporter		proline/betaine transporter ProP5
+1003201.3	Rickettsia typhi	RTTH1527_03565		H8NIL2		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03570		H8NIL3		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03575		H8NIL4		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03580		H8NIL5		NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form		NAD-specific glutamate dehydrogenase
+1003201.3	Rickettsia typhi	RTTH1527_03585		H8NIL6	trmE	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE	trmE	tRNA modification GTPase TrmE
+1003201.3	Rickettsia typhi	RTTH1527_03590		H8NIL7		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03595		H8NIL8	recA	RecA protein	recA	recombinase A
+1003201.3	Rickettsia typhi	RTTH1527_03600		H8NIL9	fabG	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100), FadG	fabG	3-ketoacyl-(acyl-carrier-protein) reductase
+1003201.3	Rickettsia typhi	RTTH1527_03605		H8NIM0	acpP	Acyl carrier protein	acpP	acyl carrier protein
+1003201.3	Rickettsia typhi	RTTH1527_03610		H8NIM1		3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)		3-oxoacyl-(acyl carrier protein) synthase II
+1003201.3	Rickettsia typhi	RTTH1527_03615		H8NIM2		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03620		H8NIM3	gmk	Guanylate kinase (EC 2.7.4.8)	gmk	guanylate kinase
+1003201.3	Rickettsia typhi	RTTH1527_03625		H8NIM4		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03630		H8NIM5		Rod shape-determining protein MreC		rod shape-determining protein MreC
+1003201.3	Rickettsia typhi	RTTH1527_03635		H8NIM6		Rod shape-determining protein MreB		rod shape-determining protein MreB
+1003201.3	Rickettsia typhi	RTTH1527_03640		H8NIM7		Lipopolysaccharide export system permease protein LptG		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03645		H8NIM8		Tol-Pal system peptidoglycan-associated lipoprotein PAL		peptidoglycan-associated lipoprotein precursor
+1003201.3	Rickettsia typhi	RTTH1527_03650		H8NIM9		3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)		3-oxoacyl-(acyl carrier protein) synthase III
+1003201.3	Rickettsia typhi	RTTH1527_03655		H8NIN0	rpmF	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent	rpmF	50S ribosomal protein L32
+1003201.3	Rickettsia typhi	RTTH1527_03660		H8NIN1		Outer membrane beta-barrel assembly protein BamE		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03665		H8NIN2		Signal recognition particle receptor FtsY		signal recognition particle-docking protein FtsY
+1003201.3	Rickettsia typhi	RTTH1527_03670		H8NIN3		DNA polymerase I (EC 2.7.7.7)		DNA polymerase I
+1003201.3	Rickettsia typhi	RTTH1527_03675		H8NIN4		S-adenosylmethionine synthetase (EC 2.5.1.6)		S-adenosylmethionine synthetase
+1003201.3	Rickettsia typhi	RTTH1527_03680		H8NIN5	dnaE	DNA polymerase III alpha subunit (EC 2.7.7.7)	dnaE	DNA polymerase III subunit alpha
+1003201.3	Rickettsia typhi	RTTH1527_03685		H8NIN6		UDP-glucose 6-dehydrogenase (EC 1.1.1.22)		UDP-glucose 6-dehydrogenase
+1003201.3	Rickettsia typhi	RTTH1527_03690		H8NIN7		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03695		H8NIN8		AmpG permease		murein peptide permease protein AmpG
+1003201.3	Rickettsia typhi	RTTH1527_03700		H8NIN9		Twin-arginine translocation protein TatC		Sec-independent protein translocase protein TatC
+1003201.3	Rickettsia typhi	RTTH1527_03705		H8NIP0		Seryl-tRNA synthetase (EC 6.1.1.11)		seryl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_03710		H8NIP1		ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex, VirB4		VirB4 protein precursor
+1003201.3	Rickettsia typhi	RTTH1527_03715		H8NIP2		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03720		H8NIP3		Tellurium resistance protein TerC		tellurium resistance protein TerC
+1003201.3	Rickettsia typhi	RTTH1527_03725		H8NIP4		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03730		H8NIP5		SAM-dependent methyltransferase		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03735		H8NIP6		NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)		NADH:ubiquinone oxidoreductase subunit J
+1003201.3	Rickettsia typhi	RTTH1527_03740		H8NIP7		NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)		NADH:ubiquinone oxidoreductase subunit K
+1003201.3	Rickettsia typhi	RTTH1527_03745		H8NI01		NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)		NADH:ubiquinone oxidoreductase subunit L
+1003201.3	Rickettsia typhi	RTTH1527_03750		H8NI02		NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)		NADH:ubiquinone oxidoreductase subunit M
+1003201.3	Rickettsia typhi	RTTH1527_03755		H8NI03		ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA		cytochrome c biogenesis protein CcmA
+1003201.3	Rickettsia typhi	RTTH1527_03760		H8NI04		NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)		NADH dehydrogenase subunit I
+1003201.3	Rickettsia typhi	RTTH1527_03765		H8NI05		NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)		NADH:ubiquinone oxidoreductase subunit H
+1003201.3	Rickettsia typhi	RTTH1527_03770		H8NI06		NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)		NADH dehydrogenase subunit G
+1003201.3	Rickettsia typhi	RTTH1527_03775		H8NI07		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03780		H8NI08		Aconitate hydratase (EC 4.2.1.3)		aconitate hydratase
+1003201.3	Rickettsia typhi	RTTH1527_03785		H8NI09	atpC	ATP synthase epsilon chain (EC 3.6.3.14)	atpC	F0F1 ATP synthase subunit epsilon
+1003201.3	Rickettsia typhi	RTTH1527_03790		H8NI10		ATP synthase beta chain (EC 3.6.3.14)		F0F1 ATP synthase subunit beta
+1003201.3	Rickettsia typhi	RTTH1527_03795		H8NI11		ATP synthase gamma chain (EC 3.6.3.14)		F0F1 ATP synthase subunit gamma
+1003201.3	Rickettsia typhi	RTTH1527_03800		H8NI12		ATP synthase alpha chain (EC 3.6.3.14)		F0F1 ATP synthase subunit alpha
+1003201.3	Rickettsia typhi	RTTH1527_03805		H8NI13		ATP synthase delta chain (EC 3.6.3.14)		F0F1 ATP synthase subunit delta
+1003201.3	Rickettsia typhi	RTTH1527_03810		H8NI14		Dihydrolipoamide dehydrogenase (EC 1.8.1.4)		dihydrolipoamide dehydrogenase
+1003201.3	Rickettsia typhi	RTTH1527_03815		H8NI15		DNA protection during starvation protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03820		H8NI16		Penicillin-binding protein 1A		penicillin-binding protein 1A
+1003201.3	Rickettsia typhi	RTTH1527_03825		H8NI17		tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)		(dimethylallyl)adenosine tRNA methylthiotransferase
+1003201.3	Rickettsia typhi	RTTH1527_03830		H8NI18		hypothetical protein shared among alpha-Proteobacteria		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03835		H8NI19		Inner membrane protein, KefB/KefC family		glutathione-regulated potassium-efflux system
+1003201.3	Rickettsia typhi	RTTH1527_03840		H8NI20		Ribosomal silencing factor RsfA		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03845		H8NI21		YrbA protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03850		H8NI22	infA	Translation initiation factor 1	infA	translation initiation factor IF-1
+1003201.3	Rickettsia typhi	RTTH1527_03855		H8NI23		Septum formation protein Maf		Maf-like protein
+1003201.3	Rickettsia typhi	RTTH1527_03860		H8NI24		DksA family protein PA5536 (no Zn-finger)		DnaK suppressor protein
+1003201.3	Rickettsia typhi	RTTH1527_03865		H8NI25	xerC	Site-specific tyrosine recombinase XerC	xerC	site-specific tyrosine recombinase XerC
+1003201.3	Rickettsia typhi	RTTH1527_03870		H8NI26		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03875		H8NI27		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03880		H8NI28		Polyhydroxyalkanoic acid synthase		poly(3-hydroxyalkanoate) synthetase
+1003201.3	Rickettsia typhi	RTTH1527_03885		H8NI29		3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)		3-polyprenyl-4-hydroxybenzoate decarboxylase
+1003201.3	Rickettsia typhi	RTTH1527_03890		H8NI30		Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)		parvulin-like peptidyl-prolyl isomerase
+1003201.3	Rickettsia typhi	RTTH1527_03895		H8NI31		DNA translocase FtsK		DNA translocase FtsK
+1003201.3	Rickettsia typhi	RTTH1527_03900		H8NI32		Methionine aminopeptidase (EC 3.4.11.18)		methionine aminopeptidase
+1003201.3	Rickettsia typhi	RTTH1527_03905		H8NI33		Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)		undecaprenyl-phosphate alpha-N-acetylglucosaminyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_03910		H8NI34		Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03915		H8NI35		hypothetical protein		outer surface protein
+1003201.3	Rickettsia typhi	RTTH1527_03920		H8NI36		hypothetical protein		outer surface protein
+1003201.3	Rickettsia typhi	RTTH1527_03925		H8NI37		4Fe-4S dicluster fused with DUF3470		ferredoxin
+1003201.3	Rickettsia typhi	RTTH1527_03930		H8NI38		Cytochrome c-type biogenesis protein CcmC, heme lyase for CcmE		heme exporter protein C
+1003201.3	Rickettsia typhi	RTTH1527_03935		H8NI39		tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)		cytosine deaminase
+1003201.3	Rickettsia typhi	RTTH1527_03940		H8NI40		Ferrous-iron efflux pump FieF		p34 protein/ cation transporter
+1003201.3	Rickettsia typhi	RTTH1527_03945		H8NI41		rickettsial 17 kDa surface antigen precursor		17 kD surface antigen precursor
+1003201.3	Rickettsia typhi	RTTH1527_03950		H8NI42		Zinc ABC transporter, ATP-binding protein ZnuC		metal transport ATP-binding protein
+1003201.3	Rickettsia typhi	RTTH1527_03955		H8NI43	uvrA	Excinuclease ABC subunit A	uvrA	excinuclease ABC subunit A
+1003201.3	Rickettsia typhi	RTTH1527_03960		H8NI44		Single-stranded DNA-binding protein		single-stranded DNA-binding protein
+1003201.3	Rickettsia typhi	RTTH1527_03965		H8NI45		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03970		H8NI46		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03975		H8NI47		Chaperone protein HtpG		heat shock protein 90
+1003201.3	Rickettsia typhi	RTTH1527_03980		H8NI48		5-aminolevulinate synthase (EC 2.3.1.37)		5-aminolevulinate synthase
+1003201.3	Rickettsia typhi	RTTH1527_03985		H8NI49	tig	Cell division trigger factor (EC 5.2.1.8)	tig	trigger factor
+1003201.3	Rickettsia typhi	RTTH1527_03990		H8NI50	obgE	GTP-binding protein Obg	obgE	GTPase CgtA
+1003201.3	Rickettsia typhi	RTTH1527_03995		H8NI51	gltA	Citrate synthase (si) (EC 2.3.3.1)	gltA	type II citrate synthase
+1003201.3	Rickettsia typhi	RTTH1527_04000		H8NI52		Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)		DNA polymerase
+1003201.3	Rickettsia typhi	RTTH1527_04005		H8NI53		LSU rRNA pseudouridine(1911/1915/1917) synthase (EC 5.4.99.23)		pseudouridine synthase
+1003201.3	Rickettsia typhi	RTTH1527_04010		H8NI54		Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297) / tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)		bifunctional N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase/tRNA (m7G46) methyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_04015		H8NI55		Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04020		H8NI56	glyS	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)	glyS	glycyl-tRNA synthetase subunit beta
+1003201.3	Rickettsia typhi	RTTH1527_04025		H8NI57	glyQ	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)	glyQ	glycyl-tRNA synthetase subunit alpha
+1003201.3	Rickettsia typhi	RTTH1527_04030		H8NI58		Epoxyqueuosine reductase (EC 1.17.99.6) QueH		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04035		H8NI59		proline/betaine transporter ProP6		proline/betaine transporter ProP6
+1003201.3	Rickettsia typhi	RTTH1527_04040		H8NI60		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04045		H8NI61		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04050		H8NI62		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04055		H8NI63	alaS	Alanyl-tRNA synthetase (EC 6.1.1.7)	alaS	alanyl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_04060		H8NI64	truA	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)	truA	tRNA pseudouridine synthase A
+1003201.3	Rickettsia typhi	RTTH1527_04065		H8NI65		RNA polymerase sigma factor RpoD		RNA polymerase sigma factor RpoD
+1003201.3	Rickettsia typhi	RTTH1527_04070		H8NI66	dnaG	DNA primase DnaG	dnaG	DNA primase
+1003201.3	Rickettsia typhi	RTTH1527_04075		H8NI67		Dolichol kinase (EC 2.7.1.108)		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04080		H8NI68	greA	Transcription elongation factor GreA	greA	transcription elongation factor GreA
+1003201.3	Rickettsia typhi	RTTH1527_04085		H8NI69		NAD(P) transhydrogenase C-domain of subunit alpha (EC 1.6.1.2)		NAD(P) transhydrogenase subunit alpha
+1003201.3	Rickettsia typhi	RTTH1527_04090		H8NI70		NAD(P) transhydrogenase N-domain of subunit alpha (EC 1.6.1.2)		NAD(P) transhydrogenase subunit alpha
+1003201.3	Rickettsia typhi	RTTH1527_04095		H8NI71		Outer membrane lipoprotein carrier protein LolA		outer membrane lipoprotein-sorting protein LolA
+1003201.3	Rickettsia typhi	RTTH1527_04100		H8NI72		DNA polymerase III subunits gamma and tau (EC 2.7.7.7)		DNA polymerase III subunits gamma and tau
+1003201.3	Rickettsia typhi	RTTH1527_04105		H8NI73		DNA polymerase III subunits gamma and tau (EC 2.7.7.7)		DNA polymerase III subunits gamma and tau
+1003201.3	Rickettsia typhi	RTTH1527_04110		H8NI74		Nucleoid-associated protein YaaK		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04115		H8NI75		Aspartyl protease		aspartyl protease
+1003201.3	Rickettsia typhi	RTTH1527_04120		H8NI76		ABC transporter, ATP-binding protein (cluster 3, basic aa/glutamine/opines)		glutamine ABC transporter ATP-binding protein
+1003201.3	Rickettsia typhi	RTTH1527_04125		H8NI77		Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein		phosphonate metabolism protein PhnP
+1003201.3	Rickettsia typhi	RTTH1527_04130		H8NI78		membrane-associated phospholipid phosphatase, PAP2 superfamily		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04135		H8NI79		Lipopolysaccharide export system permease protein LptF		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04140		H8NI80		DNA polymerase III subunit chi		DNA polymerase III subunit chi
+1003201.3	Rickettsia typhi	RTTH1527_04145		H8NI81		N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)		succinyl-diaminopimelate desuccinylase
+1003201.3	Rickettsia typhi	RTTH1527_04150		H8NI82		YdcF-like protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04155		H8NI83		Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)		lipoate-protein ligase B
+1003201.3	Rickettsia typhi	RTTH1527_04160		H8NI84	rpsP	SSU ribosomal protein S16p	rpsP	30S ribosomal protein S16
+1003201.3	Rickettsia typhi	RTTH1527_04165		H8NI85	rpmG	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent	rpmG	50S ribosomal protein L33
+1003201.3	Rickettsia typhi	RTTH1527_04170		H8NI86	mutL	DNA mismatch repair protein MutL	mutL	DNA mismatch repair protein
+1003201.3	Rickettsia typhi	RTTH1527_04175		H8NI87		Uncharacterized protein SPO3846		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04180		H8NI88		proline/betaine transporter		proline/betaine transporter
+1003201.3	Rickettsia typhi	RTTH1527_04185		H8NI89		Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)		coproporphyrinogen III oxidase
+1003201.3	Rickettsia typhi	RTTH1527_04190		H8NI90		Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04195		H8NI91	hemH	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)	hemH	ferrochelatase
+1003201.3	Rickettsia typhi	RTTH1527_04200		H8NI92	hemE	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)	hemE	uroporphyrinogen decarboxylase
+1005395.227	Pseudomonas bharatica	CSV86_000005	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000010	YapH protein
+1005395.227	Pseudomonas bharatica	CSV86_000015	YapH protein
+1005395.227	Pseudomonas bharatica	CSV86_000020	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000025	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000030	transcriptional regulator
+1005395.227	Pseudomonas bharatica	CSV86_000035	Transcriptional regulator, ArsR family
+1005395.227	Pseudomonas bharatica	CSV86_000040	Uncharacterized membrane protein, YraQ family
+1005395.227	Pseudomonas bharatica	CSV86_000045	Il-IS_2, transposase
+1005395.227	Pseudomonas bharatica	CSV86_000050	transmembrane acyltransferase
+1005395.227	Pseudomonas bharatica	CSV86_000055	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000060	Type III effector HopPmaJ
+1005395.227	Pseudomonas bharatica	CSV86_000065	DUF1244 domain-containing protein
+1005395.227	Pseudomonas bharatica	CSV86_000070	folM	FolM Alternative dihydrofolate reductase 1
+1005395.227	Pseudomonas bharatica	CSV86_000075	membrane protein
+1005395.227	Pseudomonas bharatica	CSV86_000080	Transcriptional regulator, MerR family
+1005395.227	Pseudomonas bharatica	CSV86_000090	Two-component system sensor histidine kinase
+1005395.227	Pseudomonas bharatica	CSV86_000095	Hypothetical flavoprotein YqcA (clustered with tRNA pseudouridine synthase C)
+1005395.227	Pseudomonas bharatica	CSV86_000100	Transcriptional regulator CidR, LysR family
+1005395.227	Pseudomonas bharatica	CSV86_000105	Holin-like protein CidA
+1005395.227	Pseudomonas bharatica	CSV86_000110	CidA-associated membrane protein CidB
+1005395.227	Pseudomonas bharatica	CSV86_000115	Hydrolase, alpha/beta fold family
+1005395.227	Pseudomonas bharatica	CSV86_000125	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000130	Homogentisate pathway transcriptional regulator HmgR
+1005395.227	Pseudomonas bharatica	CSV86_000135	Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+1005395.227	Pseudomonas bharatica	CSV86_000140	fahA	Fumarylacetoacetase (EC 3.7.1.2)
+1005395.227	Pseudomonas bharatica	CSV86_000145	maiA	Maleylacetoacetate isomerase (EC 5.2.1.2) @ Glutathione S-transferase, zeta (EC 2.5.1.18)
+1005395.227	Pseudomonas bharatica	CSV86_000150	Protein sirB1
+1005395.227	Pseudomonas bharatica	CSV86_000155	Branched-chain amino acid dehydrogenase [deaminating] (EC 1.4.1.9)(EC 1.4.1.23)
+1005395.227	Pseudomonas bharatica	CSV86_000160	YebG, DNA damage-inducible gene in SOS regulon, expressed in stationary phase
+1005395.227	Pseudomonas bharatica	CSV86_000165	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000170	Fatty acid desaturase
+1005395.227	Pseudomonas bharatica	CSV86_000175	ABC-type phosphate/phosphonate transport system, periplasmic component
+1005395.227	Pseudomonas bharatica	CSV86_000180	Sigma factor, ECF subfamily
+1005395.227	Pseudomonas bharatica	CSV86_000185	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000190	TonB-dependent receptor
+1005395.227	Pseudomonas bharatica	CSV86_000195	Histidine, proline, and proline betaine ABC transporter, substrate-binding protein HutX
+1005395.227	Pseudomonas bharatica	CSV86_000200	Ornithine cyclodeaminase (EC 4.3.1.12)
+1005395.227	Pseudomonas bharatica	CSV86_000205	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000210	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000215	Putative transposase InsK for insertion sequence element IS150
+1005395.227	Pseudomonas bharatica	CSV86_000220	Universal stress protein UspA and related nucleotide-binding proteins
+1005395.227	Pseudomonas bharatica	CSV86_000225	Transcriptional regulator, LysR family
+1005395.227	Pseudomonas bharatica	CSV86_000230	Inner-membrane proton/drug antiporter (MSF type) of tripartite multidrug efflux system
+1005395.227	Pseudomonas bharatica	CSV86_000235	Membrane fusion component of MSF-type tripartite multidrug efflux system
+1005395.227	Pseudomonas bharatica	CSV86_000240	Efflux transport system, outer membrane factor (OMF) lipoprotein
+1005395.227	Pseudomonas bharatica	CSV86_000245	Oxidoreductase, short-chain dehydrogenase/reductase family
+1005395.227	Pseudomonas bharatica	CSV86_000250	Oxidoreductase, short-chain dehydrogenase/reductase family
+1005395.227	Pseudomonas bharatica	CSV86_000255	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000260	Permease of the drug/metabolite transporter (DMT) superfamily
+1005395.227	Pseudomonas bharatica	CSV86_000265	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13) / Mannose-6-phosphate isomerase (EC 5.3.1.8)
+1005395.227	Pseudomonas bharatica	CSV86_000270	Alginate O-acetyltransferase AlgF, periplasmic
+1005395.227	Pseudomonas bharatica	CSV86_000275	Alginate O-acetyltransferase AlgJ, inner membrane
+1005395.227	Pseudomonas bharatica	CSV86_000280	Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)
+1005395.227	Pseudomonas bharatica	CSV86_000285	Alginate lyase AlgL (EC 4.2.2.3)
+1005395.227	Pseudomonas bharatica	CSV86_000290	Alginate O-acetyltransferase AlgX, periplasmic
+1005395.227	Pseudomonas bharatica	CSV86_000295	Poly (beta-D-mannuronate) C5 epimerase AlgG (EC 5.1.3.-)
+1005395.227	Pseudomonas bharatica	CSV86_000300	Alginate export system Algk/AlgE, outer membrane porin AlgE
+1005395.227	Pseudomonas bharatica	CSV86_000305	Alginate export system AlgK/AlgE, periplasmic component AlgK
+1005395.227	Pseudomonas bharatica	CSV86_000310	Alginate polymerisation protein Alg44, membrane fusion protein
+1005395.227	Pseudomonas bharatica	CSV86_000315	Alginate polymerase/glycosyltransferase Alg8
+1005395.227	Pseudomonas bharatica	CSV86_000325	yaaA	UPF0246 protein YaaA
+1005395.227	Pseudomonas bharatica	CSV86_000330	Polysaccharide deacetylase family protein
+1005395.227	Pseudomonas bharatica	CSV86_000335	Predicted ATPase related to phosphate starvation-inducible protein PhoH
+1005395.227	Pseudomonas bharatica	CSV86_000340	moaC	Cyclic pyranopterin monophosphate synthase (EC 4.6.1.17)
+1005395.227	Pseudomonas bharatica	CSV86_000345	Molybdopterin synthase sulfur carrier subunit
+1005395.227	Pseudomonas bharatica	CSV86_000350	moaE	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+1005395.227	Pseudomonas bharatica	CSV86_000355	Arginine/ornithine ABC transporter, substrate-binding protein AotJ
+1005395.227	Pseudomonas bharatica	CSV86_000360	YheO-like PAS domain
+1005395.227	Pseudomonas bharatica	CSV86_000365	Glycine/D-amino acid oxidases (deaminating)
+1005395.227	Pseudomonas bharatica	CSV86_000370	Ornithine cyclodeaminase (EC 4.3.1.12)
+1005395.227	Pseudomonas bharatica	CSV86_000375	rhlB	ATP-dependent RNA helicase RhlB (EC 3.6.4.13)
+1005395.227	Pseudomonas bharatica	CSV86_000380	Carboxylesterase PA3859
+1005395.227	Pseudomonas bharatica	CSV86_000385	Amino acid ABC transporter, substrate-binding protein YhdW
+1005395.227	Pseudomonas bharatica	CSV86_000390	Amino acid ABC transporter, permease protein 1, YhdX
+1005395.227	Pseudomonas bharatica	CSV86_000395	Amino acid ABC transporter, permease protein 2, YhdY
+1005395.227	Pseudomonas bharatica	CSV86_000400	Amino acid ABC transporter, ATP-binding protein YhdZ
+1005395.227	Pseudomonas bharatica	CSV86_000405	Outer membrane stress sensor protease DegS
+1005395.227	Pseudomonas bharatica	CSV86_000410	GTP cyclohydrolase 1 type 2 homolog YbgI
+1005395.227	Pseudomonas bharatica	CSV86_000415	cysD	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)
+1005395.227	Pseudomonas bharatica	CSV86_000420	cysN	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4) / Adenylylsulfate kinase (EC 2.7.1.25)
+1005395.227	Pseudomonas bharatica	CSV86_000425	Transcriptional regulator, AsnC family
+1005395.227	Pseudomonas bharatica	CSV86_000430	Methionine gamma-lyase (EC 4.4.1.11)
+1005395.227	Pseudomonas bharatica	CSV86_000435	RTX toxin transporter, ATP-binding protein
+1005395.227	Pseudomonas bharatica	CSV86_000445	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000450	Furin precursor (EC 3.4.21.75)
+1005395.227	Pseudomonas bharatica	CSV86_000455	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000460	cadR	Cd(II)/Pb(II)-responsive transcriptional regulator
+1005395.227	Pseudomonas bharatica	CSV86_000470	Lipoprotein signal peptidase (EC 3.4.23.36)
+1005395.227	Pseudomonas bharatica	CSV86_000475	Il-IS_2, transposase
+1005395.227	Pseudomonas bharatica	CSV86_000480	Il-IS_2, transposase
+1005395.227	Pseudomonas bharatica	CSV86_000485	Uncharacterized membrane protein, YraQ family
+1005395.227	Pseudomonas bharatica	CSV86_000490	Transcriptional regulator, ArsR family
+1005395.227	Pseudomonas bharatica	CSV86_000495	Hydrolase PA4440, alpha/beta fold family
+1005395.227	Pseudomonas bharatica	CSV86_000500	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+1005395.227	Pseudomonas bharatica	CSV86_000505	Cell division protein ZapE
+1005395.227	Pseudomonas bharatica	CSV86_000510	Transcriptional regulator, AraC family
+1005395.227	Pseudomonas bharatica	CSV86_000515	Il-IS_2, transposase
+1005395.227	Pseudomonas bharatica	CSV86_000520	Uncharacterized membrane protein, YraQ family
+1005395.227	Pseudomonas bharatica	CSV86_000525	Il-IS_2, transposase
+1005395.227	Pseudomonas bharatica	CSV86_000530	Uncharacterized membrane protein, YraQ family
+1005395.227	Pseudomonas bharatica	CSV86_000535	Transcriptional regulator, ArsR family
+1005395.227	Pseudomonas bharatica	CSV86_000545	Transcriptional regulator, ArsR family
+1005395.227	Pseudomonas bharatica	CSV86_000550	rplM	LSU ribosomal protein L13p (L13Ae)
+1005395.227	Pseudomonas bharatica	CSV86_000555	rpsI	SSU ribosomal protein S9p (S16e)
+1005395.227	Pseudomonas bharatica	CSV86_000560	petA	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
+1005395.227	Pseudomonas bharatica	CSV86_000565	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+1005395.227	Pseudomonas bharatica	CSV86_000570	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit
+1005395.227	Pseudomonas bharatica	CSV86_000575	Stringent starvation protein A
+1005395.227	Pseudomonas bharatica	CSV86_000580	Stringent starvation protein B
+1005395.227	Pseudomonas bharatica	CSV86_000585	Uncharacterized protein YraP
+1005395.227	Pseudomonas bharatica	CSV86_000590	DnaA initiator-associating protein DiaA
+1005395.227	Pseudomonas bharatica	CSV86_000595	UPF0102 protein YraN
+1005395.227	Pseudomonas bharatica	CSV86_000600	Penicillin-binding protein activator LpoA
+1005395.227	Pseudomonas bharatica	CSV86_000605	rsmI	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+1005395.227	Pseudomonas bharatica	CSV86_000610	rnpB	RNase P RNA component class A
+1005395.227	Pseudomonas bharatica	CSV86_000615	mraZ	Transcriptional regulator MraZ
+1005395.227	Pseudomonas bharatica	CSV86_000620	rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+1005395.227	Pseudomonas bharatica	CSV86_000625	ftsL	Cell division protein FtsL
+1005395.227	Pseudomonas bharatica	CSV86_000630	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+1005395.227	Pseudomonas bharatica	CSV86_000635	UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)
+1005395.227	Pseudomonas bharatica	CSV86_000640	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+1005395.227	Pseudomonas bharatica	CSV86_000645	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+1005395.227	Pseudomonas bharatica	CSV86_000650	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)
+1005395.227	Pseudomonas bharatica	CSV86_000655	ftsW	Peptidoglycan glycosyltransferase FtsW (EC 2.4.1.129)
+1005395.227	Pseudomonas bharatica	CSV86_000660	murG	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
+1005395.227	Pseudomonas bharatica	CSV86_000665	murC	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+1005395.227	Pseudomonas bharatica	CSV86_000670	D-alanine--D-alanine ligase (EC 6.3.2.4)
+1005395.227	Pseudomonas bharatica	CSV86_000675	Cell division protein FtsQ
+1005395.227	Pseudomonas bharatica	CSV86_000680	ftsA	Cell division protein FtsA
+1005395.227	Pseudomonas bharatica	CSV86_000685	ftsZ	Cell division protein FtsZ
+1005395.227	Pseudomonas bharatica	CSV86_000690	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)
+1005395.227	Pseudomonas bharatica	CSV86_000695	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
+1005395.227	Pseudomonas bharatica	CSV86_000700	secA	Protein translocase subunit SecA
+1005395.227	Pseudomonas bharatica	CSV86_000705	argJ	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+1005395.227	Pseudomonas bharatica	CSV86_000710	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-) / Thiazole tautomerase TenI-like domain
+1005395.227	Pseudomonas bharatica	CSV86_000715	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+1005395.227	Pseudomonas bharatica	CSV86_000720	Sensory box histidine kinase
+1005395.227	Pseudomonas bharatica	CSV86_000725	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+1005395.227	Pseudomonas bharatica	CSV86_000730	UPF0234 protein Yitk
+1005395.227	Pseudomonas bharatica	CSV86_000735	Small-conductance mechanosensitive channel
+1005395.227	Pseudomonas bharatica	CSV86_000740	Multidrug resistance transporter, Bcr/CflA family
+1005395.227	Pseudomonas bharatica	CSV86_000745	AmpG permease
+1005395.227	Pseudomonas bharatica	CSV86_000750	DNA base-flipping protein
+1005395.227	Pseudomonas bharatica	CSV86_000755	Peptide chain release factor RF-3
+1005395.227	Pseudomonas bharatica	CSV86_000760	Putative heme iron utilization protein
+1005395.227	Pseudomonas bharatica	CSV86_000765	fxsA	FxsA protein
+1005395.227	Pseudomonas bharatica	CSV86_000770	Heat shock protein 10 kDa family chaperone GroES
+1005395.227	Pseudomonas bharatica	CSV86_000775	groL	Heat shock protein 60 kDa family chaperone GroEL
+1005395.227	Pseudomonas bharatica	CSV86_000780	Lipid A 4'-phosphatase LpxF-like,
+1005395.227	Pseudomonas bharatica	CSV86_000785	DNA-binding response regulator ColR
+1005395.227	Pseudomonas bharatica	CSV86_000790	Two-component system sensor histidine kinase
+1005395.227	Pseudomonas bharatica	CSV86_000795	SAM-dependent methyltransferase
+1005395.227	Pseudomonas bharatica	CSV86_000800	Il-IS_2, transposase
+1005395.227	Pseudomonas bharatica	CSV86_000805	Uncharacterized membrane protein, YraQ family
+1005395.227	Pseudomonas bharatica	CSV86_000810	Transcriptional regulator, ArsR family
+1005395.227	Pseudomonas bharatica	CSV86_000815	InaA protein
+1005395.227	Pseudomonas bharatica	CSV86_000820	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000825	Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexW of MexVW-OprM system
+1005395.227	Pseudomonas bharatica	CSV86_000830	Multidrug efflux system, membrane fusion component => MexV of MexVW-OprM system
+1005395.227	Pseudomonas bharatica	CSV86_000835	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000840	Iron-regulated protein A precursor
+1005395.227	Pseudomonas bharatica	CSV86_000845	Probable thiol oxidoreductase with 2 cytochrome c heme-binding sites
+1005395.227	Pseudomonas bharatica	CSV86_000850	Iron-regulated protein A precursor
+1005395.227	Pseudomonas bharatica	CSV86_000855	c-di-GMP phosphodiesterase (EC 3.1.4.52) => BifA
+1005395.227	Pseudomonas bharatica	CSV86_000860	Superoxide dismutase [Fe] (EC 1.15.1.1)
+1005395.227	Pseudomonas bharatica	CSV86_000865	Arginine exporter protein ArgO
+1005395.227	Pseudomonas bharatica	CSV86_000870	Transcriptional regulator ArgP, LysR family
+1005395.227	Pseudomonas bharatica	CSV86_000875	NAD(P)H steroid dehydrogenase
+1005395.227	Pseudomonas bharatica	CSV86_000880	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000885	NADH:flavin oxidoreductases, Old Yellow Enzyme family
+1005395.227	Pseudomonas bharatica	CSV86_000890	Uncharacterized MFS-type transporter
+1005395.227	Pseudomonas bharatica	CSV86_000895	Transcriptional regulator, ArsR family
+1005395.227	Pseudomonas bharatica	CSV86_000900	Acyl carrier protein phosphodiesterase (EC 3.1.4.14)
+1005395.227	Pseudomonas bharatica	CSV86_000910	Putative hemolysin
+1005395.227	Pseudomonas bharatica	CSV86_000915	Acyl-CoA dehydrogenases
+1005395.227	Pseudomonas bharatica	CSV86_000920	Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily
+1005395.227	Pseudomonas bharatica	CSV86_000925	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000930	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000935	phospholipase D family protein
+1005395.227	Pseudomonas bharatica	CSV86_000940	Intracellular protease
+1005395.227	Pseudomonas bharatica	CSV86_000945	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000950	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
+1005395.227	Pseudomonas bharatica	CSV86_000960	pyk	Pyruvate kinase (EC 2.7.1.40)
+1005395.227	Pseudomonas bharatica	CSV86_000965	lipoprotein
+1005395.227	Pseudomonas bharatica	CSV86_000970	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000975	sbcB	Exodeoxyribonuclease I (EC 3.1.11.1)
+1005395.227	Pseudomonas bharatica	CSV86_000980	transcriptional regulator MvaT, P16 subunit
+1005395.227	Pseudomonas bharatica	CSV86_000985	purU	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
+1005395.227	Pseudomonas bharatica	CSV86_000990	membrane protein
+1005395.227	Pseudomonas bharatica	CSV86_000995	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001000	Glycosyl transferase, group 1 family protein
+1005395.227	Pseudomonas bharatica	CSV86_001005	Methyl-accepting chemotaxis sensor/transducer protein
+1005395.227	Pseudomonas bharatica	CSV86_001010	Uncharacterized protein YjgR
+1005395.227	Pseudomonas bharatica	CSV86_001015	Low-affinity inorganic phosphate transporter
+1005395.227	Pseudomonas bharatica	CSV86_001020	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001025	Pca regulon regulatory protein PcaR
+1005395.227	Pseudomonas bharatica	CSV86_001030	4-hydroxybenzoate transporter
+1005395.227	Pseudomonas bharatica	CSV86_001035	pcaF	3-oxoadipyl-CoA thiolase (EC 2.3.1.174)
+1005395.227	Pseudomonas bharatica	CSV86_001040	dicarboxylic acid transporter PcaT
+1005395.227	Pseudomonas bharatica	CSV86_001045	3-carboxy-cis,cis-muconate cycloisomerase (EC 5.5.1.2)
+1005395.227	Pseudomonas bharatica	CSV86_001050	pcaD	Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24)
+1005395.227	Pseudomonas bharatica	CSV86_001055	pcaC	4-carboxymuconolactone decarboxylase (EC 4.1.1.44)
+1005395.227	Pseudomonas bharatica	CSV86_001060	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001065	Transcriptional regulator, Crp/Fnr family
+1005395.227	Pseudomonas bharatica	CSV86_001070	LysR family transcriptional regulator PA0191
+1005395.227	Pseudomonas bharatica	CSV86_001075	Outer membrane low permeability porin, OprD family
+1005395.227	Pseudomonas bharatica	CSV86_001080	adeC	Multidrug efflux system, outer membrane factor lipoprotein => OprM of MexAB-OprM
+1005395.227	Pseudomonas bharatica	CSV86_001085	ttgB	Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM
+1005395.227	Pseudomonas bharatica	CSV86_001090	Multidrug efflux system, membrane fusion component => MexA of MexAB-OprM
+1005395.227	Pseudomonas bharatica	CSV86_001095	Multidrug resistance operon repressor MexR2/TtgR
+1005395.227	Pseudomonas bharatica	CSV86_001100	membrane protein
+1005395.227	Pseudomonas bharatica	CSV86_001105	Uncharacterized MFS-type transporter
+1005395.227	Pseudomonas bharatica	CSV86_001110	Transcriptional regulator clustered with PA0057, LysR family
+1005395.227	Pseudomonas bharatica	CSV86_001115	Rrf2-linked NADH-flavin reductase
+1005395.227	Pseudomonas bharatica	CSV86_001120	Transcriptional regulator, LysR family
+1005395.227	Pseudomonas bharatica	CSV86_001125	Acetohydroxy acid synthase
+1005395.227	Pseudomonas bharatica	CSV86_001130	Transcriptional regulator, AraC family
+1005395.227	Pseudomonas bharatica	CSV86_001135	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001140	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001145	Flavin reductase-like, FMN-binding domain protein
+1005395.227	Pseudomonas bharatica	CSV86_001150	Large exoproteins involved in heme utilization or adhesion
+1005395.227	Pseudomonas bharatica	CSV86_001155	Rhomboid family protein
+1005395.227	Pseudomonas bharatica	CSV86_001165	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001170	Dicarboxylate MFS transporter
+1005395.227	Pseudomonas bharatica	CSV86_001175	C4-dicarboxylate transport transcriptional regulatory protein
+1005395.227	Pseudomonas bharatica	CSV86_001180	C4-dicarboxylate transport sensor protein
+1005395.227	Pseudomonas bharatica	CSV86_001185	bglX	Periplasmic beta-glucosidase (EC 3.2.1.21)
+1005395.227	Pseudomonas bharatica	CSV86_001200	Hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001205	SAM-dependent methyltransferase
+1005395.227	Pseudomonas bharatica	CSV86_001210	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001215	Putative Ton-B dependent hemine receptor
+1005395.227	Pseudomonas bharatica	CSV86_001220	probable transmembrane sensor
+1005395.227	Pseudomonas bharatica	CSV86_001225	RNA polymerase ECF-type sigma factor
+1005395.227	Pseudomonas bharatica	CSV86_001230	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001235	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46) periplasmic (secreted in GramPositives)
+1005395.227	Pseudomonas bharatica	CSV86_001240	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001245	Sulfate permease
+1005395.227	Pseudomonas bharatica	CSV86_001250	Cobalt-zinc-cadmium resistance protein
+1005395.227	Pseudomonas bharatica	CSV86_001255	Methyl-accepting chemotaxis sensor/transducer protein
+1005395.227	Pseudomonas bharatica	CSV86_001260	Uncharacterized amino acid permease, GabP family
+1005395.227	Pseudomonas bharatica	CSV86_001265	Putative transcriptional regulatory protein
+1005395.227	Pseudomonas bharatica	CSV86_001270	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001275	Transcriptional regulator, LysR family
+1005395.227	Pseudomonas bharatica	CSV86_001280	hypothetical protein in PFGI-1-like cluster
+1005395.227	Pseudomonas bharatica	CSV86_001285	Transcriptional regulator in PFGI-1-like cluster
+1005395.227	Pseudomonas bharatica	CSV86_001290	Chromosome partitioning ATPase in PFGI-1-like cluster, ParA-like
+1005395.227	Pseudomonas bharatica	CSV86_001295	hypothetical protein in PFGI-1-like cluster
+1005395.227	Pseudomonas bharatica	CSV86_001300	Protein with ParB-like nuclease domain in PFGI-1-like cluster
+1005395.227	Pseudomonas bharatica	CSV86_001305	hypothetical protein in PFGI-1-like cluster
+1005395.227	Pseudomonas bharatica	CSV86_001315	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001320	hypothetical protein in PFGI-1-like cluster
+1005395.227	Pseudomonas bharatica	CSV86_001325	Integrase regulator R
+1005395.227	Pseudomonas bharatica	CSV86_001330	Single-stranded DNA-binding protein in PFGI-1-like cluster
+1005395.227	Pseudomonas bharatica	CSV86_001335	DNA topoisomerase III (EC 5.99.1.2) in PFGI-1-like cluster
+1005395.227	Pseudomonas bharatica	CSV86_001340	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001345	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001350	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001355	Hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001360	Hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001365	Periplasmic protein TonB, links inner and outer membranes
+1005395.227	Pseudomonas bharatica	CSV86_001370	Hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001375	Hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001380	Hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001385	Plasmid related protein
+1005395.227	Pseudomonas bharatica	CSV86_001390	Plasmid related protein
+1005395.227	Pseudomonas bharatica	CSV86_001395	Superfamily II DNA/RNA helicases, SNF2 family
+1005395.227	Pseudomonas bharatica	CSV86_001400	PilL protein
+1005395.227	Pseudomonas bharatica	CSV86_001405	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001410	probable exported protein STY4558
+1005395.227	Pseudomonas bharatica	CSV86_001415	Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains)
+1005395.227	Pseudomonas bharatica	CSV86_001420	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001425	traD	Coupling protein VirD4, ATPase required for T-DNA transfer
+1005395.227	Pseudomonas bharatica	CSV86_001430	membrane protein
+1005395.227	Pseudomonas bharatica	CSV86_001435	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001440	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001445	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001450	Endonuclease
+1005395.227	Pseudomonas bharatica	CSV86_001455	Transcriptional regulator, ArsR family
+1005395.227	Pseudomonas bharatica	CSV86_001460	Uncharacterized membrane protein, YraQ family
+1005395.227	Pseudomonas bharatica	CSV86_001465	Il-IS_2, transposase
+1005395.227	Pseudomonas bharatica	CSV86_001470	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001475	vsr	Very-short-patch mismatch repair endonuclease (G-T specific)
+1005395.227	Pseudomonas bharatica	CSV86_001480	DNA-cytosine methyltransferase (EC 2.1.1.37)
+1005395.227	Pseudomonas bharatica	CSV86_001485	DNA binding domain, excisionase family
+1005395.227	Pseudomonas bharatica	CSV86_001490	Candidate type III effector Hop protein
+1005395.227	Pseudomonas bharatica	CSV86_001495	hypothetical protein
