@@ -19,6 +19,7 @@
 #define ROUND_UP_RECORD(a) ( ((a) + 10239L) / 10240L * 10240L )
 
 static double get_elapsed(struct timespec t1, struct timespec t2);
+const char *human_size(MPI_Count bytes);
 
 int main(int argc, char **argv) {
     struct timespec start, end;
@@ -106,7 +107,8 @@ int main(int argc, char **argv) {
     double max;
     MPI_Reduce(&elapsed, &max, 1, MPI_DOUBLE, MPI_MAX, 0, MPI_COMM_WORLD);
     if (rank == 0) {
-        printf("cptotmp: %.6f seconds to stage %s\n", max, argv[1]);
+        const char *hsize = human_size(total_size);
+        printf("cptotmp: %.6f seconds to stage %s from %s\n", max, hsize, argv[1]);
     }
 
     MPI_Finalize();
@@ -125,4 +127,22 @@ static double get_elapsed(struct timespec t1, struct timespec t2)
     }
 
     return sec + nsec * 1e-9;
+}
+
+
+const char *human_size(MPI_Count bytes)
+{
+    static char buf[32];
+    const char *units[] = { "B", "KiB", "MiB", "GiB", "TiB", "PiB" };
+    int i = 0;
+
+    double sz = (double)bytes;
+
+    while (sz >= 1024.0 && i < (int)(sizeof(units)/sizeof(units[0])) - 1) {
+        sz /= 1024.0;
+        i++;
+    }
+
+    snprintf(buf, sizeof(buf), "%.2f %s", sz, units[i]);
+    return buf;
 }
