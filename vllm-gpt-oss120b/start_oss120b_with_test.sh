@@ -41,7 +41,6 @@ export HTTPS_PROXY=http://proxy.alcf.anl.gov:3128
 export http_proxy=http://proxy.alcf.anl.gov:3128
 export https_proxy=http://proxy.alcf.anl.gov:3128
 
-env > start.env
 module load pti-gpu
 module load hdf5
 source "/opt/aurora/25.190.0/spack/unified/0.10.1/install/linux-sles15-x86_64/gcc-13.3.0/miniforge3-24.3.0-0-gfganax/bin/activate"
