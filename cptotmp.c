@@ -108,7 +108,7 @@ int main(int argc, char **argv) {
     MPI_Reduce(&elapsed, &max, 1, MPI_DOUBLE, MPI_MAX, 0, MPI_COMM_WORLD);
     if (rank == 0) {
         const char *hsize = human_size(total_size);
-        printf("cptotmp: %.6f seconds to stage %s from %s\n", max, hsize, argv[1]);
+        printf("cptotmp: %.2f seconds to stage %s from %s\n", max, hsize, argv[1]);
     }
 
     MPI_Finalize();
