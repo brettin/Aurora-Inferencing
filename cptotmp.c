@@ -23,7 +23,7 @@ const char *human_size(MPI_Count bytes);
 
 int main(int argc, char **argv) {
     struct timespec start, end;
-    char command[2048];
+    char command[4096];
     int rank;
 
     clock_gettime(CLOCK_MONOTONIC, &start);
@@ -75,9 +75,11 @@ int main(int argc, char **argv) {
     }
 
     /* open destination for writing */
-    int ret = system("mkdir -p /tmp/hf_home/hub");
+    snprintf(command, sizeof(command),
+	     "mkdir -p %s/hub", argv[2]);
+    int ret = system(command);
     CHECK_ERROR(ret, "mkdir");
-    snprintf(command, sizeof(command), "tar -xf - -C /tmp/hf_home/hub");
+    snprintf(command, sizeof(command), "tar -xf - -C %s/hub", argv[2]);
     FILE *dest = popen(command, "w");
     CHECK_ERROR(!dest, "popen");
 
