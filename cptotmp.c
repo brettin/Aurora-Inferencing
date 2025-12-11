@@ -31,6 +31,14 @@ int main(int argc, char **argv) {
     MPI_Init(NULL, NULL);
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
 
+    if (argc < 3) {
+      if (rank == 0) {
+	fprintf(stderr, "Usage: cptotmp <src> <dest>\n");
+      }
+      MPI_Finalize();
+      return 1;
+    }
+
     MPI_Count total_size;
     FILE *archive;
     if (rank == 0) {
