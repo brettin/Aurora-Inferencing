@@ -93,6 +93,7 @@ echo "$(date) Files to process: $files_to_process (from offset $OFFSET)"
 declare -a pids
 declare -a launch_hosts
 
+env > submit.env
 for ((i = 0; i < files_to_process; i++)); do
     host="${hosts[$i]}"
 
