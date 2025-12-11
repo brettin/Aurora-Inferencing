@@ -23,6 +23,7 @@ const char *human_size(MPI_Count bytes);
 
 int main(int argc, char **argv) {
     struct timespec start, end;
+    const char *destdir;
     char command[4096];
     int rank;
 
@@ -31,12 +32,19 @@ int main(int argc, char **argv) {
     MPI_Init(NULL, NULL);
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
 
+    if (argc < 2) {
+        if (rank == 0) {
+            fprintf(stderr, "Usage: cptotmp <src> [dest]\n");
+        }
+        MPI_Finalize();
+        return 1;
+    }
+
     if (argc < 3) {
-      if (rank == 0) {
-	fprintf(stderr, "Usage: cptotmp <src> <dest>\n");
-      }
-      MPI_Finalize();
-      return 1;
+        /* default destination is /tmp/hf_home */
+        destdir = "/tmp/hf_home";
+    } else {
+        destdir = argv[2];
     }
 
     MPI_Count total_size;
@@ -84,10 +92,10 @@ int main(int argc, char **argv) {
 
     /* open destination for writing */
     snprintf(command, sizeof(command),
-	     "mkdir -p %s/hub", argv[2]);
+	     "mkdir -p %s/hub", destdir);
     int ret = system(command);
     CHECK_ERROR(ret, "mkdir");
-    snprintf(command, sizeof(command), "tar -xf - -C %s/hub", argv[2]);
+    snprintf(command, sizeof(command), "tar -xf - -C %s/hub", destdir);
     FILE *dest = popen(command, "w");
     CHECK_ERROR(!dest, "popen");
 
