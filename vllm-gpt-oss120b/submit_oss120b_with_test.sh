@@ -26,7 +26,7 @@ LAUNCH_DELAY=2                          # Delay between launches in seconds
 start_vllm_on_host() {
     local host=$1
     local filename=$2
-    if ! ssh -o ConnectTimeout="${SSH_TIMEOUT}" -o StrictHostKeyChecking=no "$host" "cd $SCRIPT_DIR && ./start_oss120b_with_test.sh $filename" 2>&1; then
+    if ! ssh -o ConnectTimeout="${SSH_TIMEOUT}" -o StrictHostKeyChecking=no "$host" "bash -l -c 'cd $SCRIPT_DIR && ./start_oss120b_with_test.sh $filename'" 2>&1; then
         echo "$(date) Failed to launch vLLM on $host"
         return 1
     fi
