@@ -26,11 +26,11 @@ TEST_BATCH_SIZE=64
 export HF_TOKEN=${HF_TOKEN:-}
 
 # print settings
-echo "$(date) INFILE: $INFILE"
-echo "$(date) HOSTNAME: $HOSTNAME"
-echo "$(date) TEST_BATCH_SIZE: $TEST_BATCH_SIZE"
-echo "$(date) VLLM_MODEL: $VLLM_MODEL"
-echo "$(date) VLLM_HOST_PORT: $VLLM_HOST_PORT"
+echo "$(date) $HOSTNAME INFILE: $INFILE"
+echo "$(date) $HOSTNAME HOSTNAME: $HOSTNAME"
+echo "$(date) $HOSTNAME TEST_BATCH_SIZE: $TEST_BATCH_SIZE"
+echo "$(date) $HOSTNAME VLLM_MODEL: $VLLM_MODEL"
+echo "$(date) $HOSTNAME VLLM_HOST_PORT: $VLLM_HOST_PORT"
 
 # Directory setup
 mkdir -p "${TEST_OUTPUTS_DIR}"
@@ -75,9 +75,9 @@ export no_proxy="localhost,127.0.0.1" #Set no_proxy for the client to interact w
 export VLLM_HOST_IP=$(getent hosts $(hostname).hsn.cm.aurora.alcf.anl.gov | awk '{ print $1 }' | tr ' ' '\n' | sort | head -n 1)
 
 # Start vLLM server
-echo "$(date) Starting vLLM server with model: ${VLLM_MODEL}"
-echo "$(date) Server port: ${VLLM_HOST_PORT}"
-echo "$(date) Log file: ${TEST_OUTPUTS_DIR}/${HOSTNAME}.vllm.log"
+echo "$(date) $HOSTNAME Starting vLLM server with model: ${VLLM_MODEL}"
+echo "$(date) $HOSTNAME Server port: ${VLLM_HOST_PORT}"
+echo "$(date) $HOSTNAME Log file: ${TEST_OUTPUTS_DIR}/${HOSTNAME}.vllm.log"
 OCL_ICD_FILENAMES="libintelocl.so" VLLM_DISABLE_SINKS=1 vllm serve ${VLLM_MODEL} \
   --dtype bfloat16 \
   --tensor-parallel-size 8 \
@@ -90,7 +90,7 @@ vllm_pid=$!
 
 # wait for vllm server to be ready
 while ! curl -s http://localhost:${VLLM_HOST_PORT}/health > /dev/null 2>&1; do
-    echo "$(date) Waiting for vLLM server to be ready..."
+    echo "$(date) $HOSTNAME Waiting for vLLM server to be ready..."
     sleep 60
 done
 echo "$(date) ${HOSTNAME} vLLM server is ready"
@@ -110,23 +110,18 @@ unset http_proxy
 unset https_proxy
 
 # Print the full command with all variables expanded
-echo "============================================================"
-echo "$(date) ${HOSTNAME} FULL COMMAND TO BE EXECUTED:"
-echo "timeout ${TIMEOUT_SECONDS} python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v3.py $INFILE $HOSTNAME --batch-size ${TEST_BATCH_SIZE} --model ${VLLM_MODEL} --port ${VLLM_HOST_PORT} > ${TEST_OUTPUTS_DIR}/${infile_base}.${HOSTNAME}.test.coli_v3.txt 2>&1"
-echo "============================================================"
-echo "$(date) ${HOSTNAME} Variable values:"
-echo "  TIMEOUT_SECONDS: ${TIMEOUT_SECONDS}"
-echo "  SCRIPT_DIR: ${SCRIPT_DIR}"
-echo "  INFILE: ${INFILE}"
-echo "  HOSTNAME: ${HOSTNAME}"
-echo "  TEST_BATCH_SIZE: ${TEST_BATCH_SIZE}"
-echo "  VLLM_MODEL: ${VLLM_MODEL}"
-echo "  VLLM_HOST_PORT: ${VLLM_HOST_PORT}"
-echo "  TEST_OUTPUTS_DIR: ${TEST_OUTPUTS_DIR}"
-echo "  infile_base: ${infile_base}"
-echo "  Python path: $(which python)"
-echo "  Python version: $(python --version 2>&1)"
-echo "============================================================"
+echo "$(date) ${HOSTNAME} timeout ${TIMEOUT_SECONDS} python -u ${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v3.py $INFILE $HOSTNAME --batch-size ${TEST_BATCH_SIZE} --model ${VLLM_MODEL} --port ${VLLM_HOST_PORT} > ${TEST_OUTPUTS_DIR}/${infile_base}.${HOSTNAME}.test.coli_v3.txt 2>&1"
+echo "$(date) ${HOSTNAME} TIMEOUT_SECONDS: ${TIMEOUT_SECONDS}"
+echo "$(date) ${HOSTNAME} SCRIPT_DIR: ${SCRIPT_DIR}"
+echo "$(date) ${HOSTNAME} INFILE: ${INFILE}"
+echo "$(date) ${HOSTNAME} HOSTNAME: ${HOSTNAME}"
+echo "$(date) ${HOSTNAME} TEST_BATCH_SIZE: ${TEST_BATCH_SIZE}"
+echo "$(date) ${HOSTNAME} VLLM_MODEL: ${VLLM_MODEL}"
+echo "$(date) ${HOSTNAME} VLLM_HOST_PORT: ${VLLM_HOST_PORT}"
+echo "$(date) ${HOSTNAME} TEST_OUTPUTS_DIR: ${TEST_OUTPUTS_DIR}"
+echo "$(date) ${HOSTNAME} infile_base: ${infile_base}"
+echo "$(date) ${HOSTNAME} Python path: $(which python)"
+echo "$(date) ${HOSTNAME} Python version: $(python --version 2>&1)"
 
 timeout "${TIMEOUT_SECONDS}" python -u "${SCRIPT_DIR}/../examples/TOM.COLI/test.coli_v3.py" "$INFILE" "$HOSTNAME" \
 	--batch-size "${TEST_BATCH_SIZE}" \

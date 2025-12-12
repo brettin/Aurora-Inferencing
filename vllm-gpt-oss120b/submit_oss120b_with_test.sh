@@ -2,10 +2,10 @@
 #PBS -N gpt_oss_120b_vllm
 #PBS -l walltime=01:00:00
 #PBS -A candle_aesp_CNDA
-#PBS -q debug-scaling
+#PBS -q prod
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=2
+#PBS -l select=64
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
@@ -13,10 +13,12 @@
 SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-gpt-oss120b"
 INPUT_DIR="${SCRIPT_DIR}/../examples/TOM.COLI/batch_1"
 MODEL_PATH="/lus/flare/projects/datasets/model-weights/hub/models--openai--gpt-oss-120b"
+CONDA_ENV_PATH="/lus/flare/projects/datasets/softwares/envs/conda_envs/RC1_vllm_0.11.x_triton_3.5.0+git1b0418a9_no_patch_oneapi_2025.2.0_numpy_2.3.4_python3.12.8"
 
 # Operation settings
 OFFSET=${OFFSET:-0}                    # Starting offset for batch processing (resume capability)
 STAGE_WEIGHTS=${STAGE_WEIGHTS:-1}      # 1=stage model weights to /tmp, 0=skip staging
+STAGE_CONDA=${STAGE_CONDA:-0}         # 1=stage conda environment to /tmp, 0=skip staging
 
 # SSH and timing settings
 SSH_TIMEOUT=10                          # SSH connection timeout in seconds
@@ -63,6 +65,20 @@ if [ "$STAGE_WEIGHTS" -eq 1 ]; then
     time mpiexec -ppn 1 --cpu-bind numa "${SCRIPT_DIR}/../cptotmp" "$MODEL_PATH" 2>&1 || \
         echo "$(date) WARNING: Model staging failed or directory not found, will use shared filesystem"
     echo "$(date) Model staging complete"
+fi
+
+# Stage Conda Environment
+STAGE_CONDA=${STAGE_CONDA:-0} # 1=stage conda environment to /tmp, 0=skip staging
+if [ "$STAGE_CONDA" -eq 1 ]; then
+    echo "$(date) Staging conda environment to /tmp on all nodes"
+    if [ ! -f "${SCRIPT_DIR}/../cptotmp" ]; then
+        mpicc -o "${SCRIPT_DIR}/../cptotmp" "${SCRIPT_DIR}/../cptotmp.c"
+    fi
+    export MPIR_CVAR_CH4_OFI_ENABLE_MULTI_NIC_STRIPING=1
+    export MPIR_CVAR_CH4_OFI_MAX_NICS=4
+    time mpiexec -ppn 1 --cpu-bind numa "${SCRIPT_DIR}/../cptotmp" "$CONDA_ENV_PATH" "conda_envs" 2>&1 || \
+        echo "$(date) WARNING: Conda environment staging failed or directory not found, will use shared filesystem"
+    echo "$(date) Conda environment staging complete"
 fi
 
 # Process Input Files
