@@ -1,6 +1,6 @@
 name: Gitlab Mirror
 
-on: [push]
+on: push
       steps:
         - uses: actions/checkout@v3
           with:
