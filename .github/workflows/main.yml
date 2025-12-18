@@ -1,0 +1,10 @@
+on: [push]
+      steps:
+        - uses: actions/checkout@v3
+          with:
+            fetch-depth: 0
+        - uses: yesolutions/mirror-action@0.7.0
+          with:
+            REMOTE: 'https://gitlab.osti.gov/genesis/lcf-inference-scaling.git/'
+            GIT_USERNAME: raffenet
+            GIT_PASSWORD: ${{ secrets.OSTI_GITLAB_TOKEN }}
