@@ -4,7 +4,7 @@ on: push
 
 jobs:
   do_mirror:
-    runs_on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
