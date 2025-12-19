@@ -6,11 +6,11 @@ jobs:
   do_mirror:
     runs-on: ubuntu-latest
     steps:
-        - uses: actions/checkout@v6
-          with:
-            fetch-depth: 0
-            submodules: false
-        - uses: yesolutions/mirror-action@v0.7.0
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          submodules: false
+      - uses: yesolutions/mirror-action@v0.7.0
         with:
           REMOTE: 'https://gitlab.osti.gov/genesis/lcf-inference-scaling.git/'
           GIT_USERNAME: raffenet
