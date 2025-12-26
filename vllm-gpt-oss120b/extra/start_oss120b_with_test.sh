@@ -15,13 +15,13 @@ HOSTNAME=$(hostname)
 OUTPUT_DIR="/dev/shm"
 INFILE=${1:-"${SCRIPT_DIR}/../../examples/TOM.COLI/chunk_0000.txt"}
 VLLM_HOST_PORT=${2:-6739}
+TENSOR_PARALLEL_SIZE=${3:-2}  # Third parameter, default to 2
 infile_base=$(basename "$INFILE")
 TEST_OUTPUTS_DIR="${OUTPUT_DIR}/test_outputs_${HOSTNAME}_${VLLM_HOST_PORT}_$$"
 
 # VLLM configuration
 VLLM_MODEL="openai/gpt-oss-120b"
 # VLLM_MODEL_CACHE="/tmp/hf_home/hub/models--openai--gpt-oss-120b/snapshots/b5c939de8f754692c1647ca79fbf85e8c1e70f8a"
-TENSOR_PARALLEL_SIZE=2
 TEST_BATCH_SIZE=64
 
 # Calculate GPU affinity based on port
@@ -32,10 +32,13 @@ BASE_PORT=6739
 PORT_INDEX=$((VLLM_HOST_PORT - BASE_PORT))
 GPU_START=$((PORT_INDEX * TENSOR_PARALLEL_SIZE))
 GPU_END=$((GPU_START + TENSOR_PARALLEL_SIZE - 1))
-ZE_AFFINITY_MASK="${GPU_START},${GPU_END}"
+ZE_AFFINITY_MASK=$(seq -s, $GPU_START $GPU_END)
 
 # Authentication
 export HF_TOKEN=${HF_TOKEN:-}
+
+# Delay execution for PORT_INDEX * 10 seconds
+sleep $((PORT_INDEX * 10))
 
 # print settings
 echo "$(date) $HOSTNAME INFILE: $INFILE"
@@ -44,6 +47,8 @@ echo "$(date) $HOSTNAME TEST_BATCH_SIZE: $TEST_BATCH_SIZE"
 echo "$(date) $HOSTNAME VLLM_MODEL: $VLLM_MODEL"
 # echo "$(date) $HOSTNAME VLLM_MODEL_CACHE: $VLLM_MODEL_CACHE"
 echo "$(date) $HOSTNAME VLLM_HOST_PORT: $VLLM_HOST_PORT"
+echo "$(date) $HOSTNAME TENSOR_PARALLEL_SIZE: $TENSOR_PARALLEL_SIZE"
+echo "$(date) $HOSTNAME ZE_AFFINITY_MASK: $ZE_AFFINITY_MASK"
 
 # Directory setup
 mkdir -p "${TEST_OUTPUTS_DIR}"

@@ -22,6 +22,8 @@ STAGE_CONDA=${STAGE_CONDA:-1}         # 1=stage conda environment to /tmp, 0=ski
 
 # vLLM server settings
 SERVERS_PER_NODE=${SERVERS_PER_NODE:-6}  # Number of vLLM servers to launch per node
+GPUS_PER_NODE=12  # Aurora nodes have 12 GPUs
+TENSOR_PARALLEL_SIZE=$((GPUS_PER_NODE / SERVERS_PER_NODE))
 BASE_PORT=6739                           # Starting port number for vLLM servers
 
 # SSH and timing settings
@@ -33,8 +35,8 @@ start_vllm_on_host() {
     local host=$1
     local filename=$2
     local port=$3
-    if ! ssh -o ConnectTimeout="${SSH_TIMEOUT}" -o StrictHostKeyChecking=no "$host" "bash -l -c 'cd $SCRIPT_DIR && ./start_oss120b_with_test.sh $filename $port'" 2>&1; then
-        echo "$(date) Failed to launch vLLM on $host (port $port)"
+    if ! ssh -o ConnectTimeout="${SSH_TIMEOUT}" -o StrictHostKeyChecking=no "$host" "bash -l -c 'cd $SCRIPT_DIR && ./start_oss120b_with_test.sh $filename $port $TENSOR_PARALLEL_SIZE'" 2>&1; then
+        echo "$(date) Failed to launch vLLM on $host (port $port, tensor parallel size $TENSOR_PARALLEL_SIZE)"
         return 1
     fi
 }
@@ -49,6 +51,8 @@ echo "$(date) PBS Job ID: $PBS_JOBID"
 echo "$(date) PBS Job Name: $PBS_JOBNAME"
 echo "$(date) Nodes allocated: $(wc -l < $PBS_NODEFILE)"
 echo "$(date) OFFSET $OFFSET"
+echo "$(date) TENSOR_PARALLEL_SIZE $TENSOR_PARALLEL_SIZE"
+echo "$(date) SERVERS_PER_NODE $SERVERS_PER_NODE"
 
 # Validate input directory
 if [ ! -d "$INPUT_DIR" ]; then
@@ -104,7 +108,7 @@ echo "$(date) Total input files: $total_files"
 remaining_files=$((total_files - OFFSET))
 
 if [ $remaining_files -le 0 ]; then
-    echo "$(date) ERROR: OFFSET=$OFFSET is >= total files ($total_files)"
+    echo "$(date) ERROR: OFFSET=$OFFSET is >= total files=$total_files"
     echo "$(date) No files to process!"
     exit 1
 fi
