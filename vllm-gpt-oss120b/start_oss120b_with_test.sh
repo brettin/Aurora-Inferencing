@@ -44,11 +44,6 @@ export https_proxy=http://proxy.alcf.anl.gov:3128
 module load pti-gpu
 module load hdf5
 
-echo "$(date) $HOSTNAME Unpacking the environment"
-mkdir -p /tmp/hf_home/hub/vllm_env
-tar -xzf /tmp/hf_home/hub/vllm_env.tar.gz -C /tmp/hf_home/hub/vllm_env
-echo "$(date) $HOSTNAME Done unpacking the environment"
-
 source "/opt/aurora/25.190.0/spack/unified/0.10.1/install/linux-sles15-x86_64/gcc-13.3.0/miniforge3-24.3.0-0-gfganax/bin/activate"
 #conda activate "/lus/flare/projects/datasets/softwares/envs/conda_envs/RC1_vllm_0.11.x_triton_3.5.0+git1b0418a9_no_patch_oneapi_2025.2.0_numpy_2.3.4_python3.12.8"
 conda activate /tmp/hf_home/hub/vllm_env
@@ -57,6 +52,7 @@ conda activate /tmp/hf_home/hub/vllm_env
 export HF_HOME="/tmp/hf_home"
 export HF_DATASETS_CACHE="/tmp/hf_home"
 export HF_MODULES_CACHE="/tmp/hf_home"
+export HF_HUB_OFFLINE=1
 
 # Ray and temp directories
 export RAY_TMPDIR="/tmp"
@@ -96,9 +92,9 @@ OCL_ICD_FILENAMES="libintelocl.so" VLLM_DISABLE_SINKS=1 vllm serve ${VLLM_MODEL}
 vllm_pid=$!
 
 # wait for vllm server to be ready
+echo "$(date) $HOSTNAME Waiting for vLLM server to be ready..."
 while ! curl -s http://localhost:${VLLM_HOST_PORT}/health > /dev/null 2>&1; do
-    echo "$(date) $HOSTNAME Waiting for vLLM server to be ready..."
-    sleep 60
+    sleep 5
 done
 echo "$(date) ${HOSTNAME} vLLM server is ready"
 

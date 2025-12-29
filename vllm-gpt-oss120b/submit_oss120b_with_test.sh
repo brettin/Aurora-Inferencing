@@ -1,11 +1,11 @@
 #!/bin/bash
 #PBS -N gpt_oss_120b_vllm
-#PBS -l walltime=01:00:00
+#PBS -l walltime=02:00:00
 #PBS -A candle_aesp_CNDA
 #PBS -q prod
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=64
+#PBS -l select=1024
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
@@ -16,13 +16,13 @@ MODEL_PATH="/lus/flare/projects/datasets/model-weights/hub/models--openai--gpt-o
 CONDA_ENV_PATH="$SCRIPT_DIR/vllm_env.tar.gz"    # this is the tar.gz file that contains the conda environment on the lustre filesystem
 
 # Operation settings
-OFFSET=${OFFSET:-0}                    # Starting offset for batch processing (resume capability)
-STAGE_WEIGHTS=${STAGE_WEIGHTS:-1}      # 1=stage model weights to /tmp, 0=skip staging
+OFFSET=${OFFSET:-960}                  # Starting offset for batch processing (resume capability)
+STAGE_WEIGHTS=${STAGE_WEIGHTS:-1}     # 1=stage model weights to /tmp, 0=skip staging
 STAGE_CONDA=${STAGE_CONDA:-1}         # 1=stage conda environment to /tmp, 0=skip staging
 
 # SSH and timing settings
-SSH_TIMEOUT=10                          # SSH connection timeout in seconds
-LAUNCH_DELAY=2                          # Delay between launches in seconds
+SSH_TIMEOUT=10                        # SSH connection timeout in seconds
+# LAUNCH_DELAY=2                        # Delay between launches in seconds
 
 # Functions
 start_vllm_on_host() {
@@ -43,6 +43,7 @@ echo "$(date) Script directory: $SCRIPT_DIR"
 echo "$(date) PBS Job ID: $PBS_JOBID"
 echo "$(date) PBS Job Name: $PBS_JOBNAME"
 echo "$(date) Nodes allocated: $(wc -l < $PBS_NODEFILE)"
+echo "$(date) OFFSET $OFFSET"
 
 # Validate input directory
 if [ ! -d "$INPUT_DIR" ]; then
@@ -78,6 +79,12 @@ if [ "$STAGE_CONDA" -eq 1 ]; then
     time mpiexec -ppn 1 --cpu-bind numa "${SCRIPT_DIR}/../cptotmp" "$CONDA_ENV_PATH" 2>&1 || \
         echo "$(date) WARNING: Conda environment staging failed or directory not found, will use shared filesystem"
     echo "$(date) Conda environment staging complete"
+
+    # Unpack Conda Environment in parallel on all nodes
+    echo "$(date) Unpacking conda environment on all nodes in parallel"
+    time mpiexec -ppn 1 --cpu-bind numa bash -c 'mkdir -p /tmp/hf_home/hub/vllm_env && tar -xzf /tmp/hf_home/hub/vllm_env.tar.gz -C /tmp/hf_home/hub/vllm_env' 2>&1 || \
+        echo "$(date) WARNING: Conda environment unpacking failed"
+    echo "$(date) Conda environment unpacking complete"
 fi
 
 # Process Input Files
@@ -122,7 +129,7 @@ for ((i = 0; i < files_to_process; i++)); do
     launch_hosts+=("$host")
 
     # Small delay between launches to avoid overwhelming the system
-    sleep "$LAUNCH_DELAY"
+    # sleep "$LAUNCH_DELAY"
 done
 
 # Wait for Completion
