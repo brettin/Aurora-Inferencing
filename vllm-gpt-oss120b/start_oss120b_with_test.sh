@@ -3,7 +3,7 @@
 
 # Timing configuration
 START_TIME=$(date +%s)
-WALLTIME=3600
+WALLTIME=7200    # 60seconds * 60minutes * 2hrs = 7200
 CLEANUP_MARGIN=300
 PAUSE_EXECUTION=${PAUSE_EXECUTION:-}
 
@@ -31,6 +31,8 @@ echo "$(date) $HOSTNAME HOSTNAME: $HOSTNAME"
 echo "$(date) $HOSTNAME TEST_BATCH_SIZE: $TEST_BATCH_SIZE"
 echo "$(date) $HOSTNAME VLLM_MODEL: $VLLM_MODEL"
 echo "$(date) $HOSTNAME VLLM_HOST_PORT: $VLLM_HOST_PORT"
+echo "$(date) $HOSTNAME WALLTIME: $WALLTIME"
+echo "$(date) $HOSTNAME START_TIME: $START_TIME"
 
 # Directory setup
 mkdir -p "${TEST_OUTPUTS_DIR}"
@@ -103,6 +105,7 @@ echo "$(date) ${HOSTNAME} vLLM server is ready"
 CURRENT_TIME=$(date +%s)
 ELAPSED_TIME=$((CURRENT_TIME - START_TIME))
 TIMEOUT_SECONDS=$((WALLTIME - ELAPSED_TIME - CLEANUP_MARGIN))
+echo "$(date) ${HOSTNAME} ELAPSED_TIME: ${ELAPSED_TIME}"
 echo "$(date) ${HOSTNAME} Timeout seconds: ${TIMEOUT_SECONDS}"
 
 module load frameworks
