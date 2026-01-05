@@ -147,38 +147,56 @@ done
 echo "$(date) ${HOSTNAME} TSB vLLM ready!"
 
 # Redis Service Registry: Update status to healthy
-# echo "$(date) ${HOSTNAME} TSB Redis: Updating service status to healthy"
-# python3 "${REDIS_DIR}/cli.py" --redis-host "$REDIS_HOST" --redis-port "$REDIS_PORT" \
-#     update-health "$SERVICE_ID" --status healthy || \
-#     echo "$(date) ${HOSTNAME} TSB Redis: WARNING - Failed to update health status"
-#
+echo "$(date) ${HOSTNAME} TSB Redis: Updating service status to healthy"
+python3 "${REDIS_DIR}/cli.py" --redis-host "$REDIS_HOST" --redis-port "$REDIS_PORT" \
+    update-health "$SERVICE_ID" --status healthy || \
+    echo "$(date) ${HOSTNAME} TSB Redis: WARNING - Failed to update health status"
+
 # Redis Service Registry: Start heartbeat and health monitoring loop
-# echo "$(date) ${HOSTNAME} TSB Redis: Starting heartbeat monitor (interval: 10s)"
-# (
-#     HEARTBEAT_INTERVAL=10
-#     HEALTH_CHECK_FAILURES=0
-#     MAX_FAILURES=3
-#    
-#     while true; do
-#         # Check if vLLM process is still running
-#         if ! kill -0 "$vllm_pid" 2>/dev/null; then
-#             echo "$(date) ${HOSTNAME} TSB Redis: vLLM process no longer running, stopping heartbeat"
-#             break
-#         fi
-#            
-#            # If we recovered from failures, update status back to healthy
-#         if [ $HEALTH_CHECK_FAILURES -gt 0 ]; then
-#             echo "$(date) ${HOSTNAME} TSB Redis: Service recovered, updating to healthy"
-#             python3 "${REDIS_DIR}/cli.py" --redis-host "$REDIS_HOST" --redis-port "$REDIS_PORT" \
-#                 update-health "$SERVICE_ID" --status healthy 2>/dev/null || true
-#             HEALTH_CHECK_FAILURES=0
-#         fi
-#        
-#         sleep "$HEARTBEAT_INTERVAL"
-#     done
-# ) &
-# HEARTBEAT_PID=$!
-# echo "$(date) ${HOSTNAME} TSB Redis: Heartbeat monitor started (PID: $HEARTBEAT_PID)"
+echo "$(date) ${HOSTNAME} TSB Redis: Starting heartbeat monitor (interval: 10s)"
+(
+    HEARTBEAT_INTERVAL=10
+    HEALTH_CHECK_FAILURES=0
+    MAX_FAILURES=3
+    
+    while true; do
+        # Check if vLLM process is still running
+        if ! kill -0 "$vllm_pid" 2>/dev/null; then
+            echo "$(date) ${HOSTNAME} TSB Redis: vLLM process no longer running, stopping heartbeat"
+            break
+        fi
+        
+        # Check vLLM health endpoint
+        if curl -sf "http://${HOSTNAME}:${VLLM_HOST_PORT}/health" > /dev/null 2>&1; then
+            # Health check passed - send heartbeat to update last_seen timestamp
+            python3 "${REDIS_DIR}/cli.py" --redis-host "$REDIS_HOST" --redis-port "$REDIS_PORT" \
+                heartbeat "$SERVICE_ID" --quiet 2>/dev/null || true
+            
+            # If we recovered from failures, update status back to healthy
+            if [ $HEALTH_CHECK_FAILURES -gt 0 ]; then
+                echo "$(date) ${HOSTNAME} TSB Redis: Service recovered, updating to healthy"
+                python3 "${REDIS_DIR}/cli.py" --redis-host "$REDIS_HOST" --redis-port "$REDIS_PORT" \
+                    update-health "$SERVICE_ID" --status healthy 2>/dev/null || true
+                HEALTH_CHECK_FAILURES=0
+            fi
+        else
+            # Health check failed
+            HEALTH_CHECK_FAILURES=$((HEALTH_CHECK_FAILURES + 1))
+            echo "$(date) ${HOSTNAME} TSB Redis: Health check failed (${HEALTH_CHECK_FAILURES}/${MAX_FAILURES})"
+            
+            # Update status to unhealthy after MAX_FAILURES
+            if [ $HEALTH_CHECK_FAILURES -ge $MAX_FAILURES ]; then
+                echo "$(date) ${HOSTNAME} TSB Redis: Updating service status to unhealthy"
+                python3 "${REDIS_DIR}/cli.py" --redis-host "$REDIS_HOST" --redis-port "$REDIS_PORT" \
+                    update-health "$SERVICE_ID" --status unhealthy 2>/dev/null || true
+            fi
+        fi
+        
+        sleep "$HEARTBEAT_INTERVAL"
+    done
+) &
+HEARTBEAT_PID=$!
+echo "$(date) ${HOSTNAME} TSB Redis: Heartbeat monitor started (PID: $HEARTBEAT_PID)"
 
 # Calculate remaining time for timeout
 CURRENT_TIME=$(date +%s)
