@@ -67,7 +67,7 @@ LAUNCH_DELAY=2                         # Delay between launches (seconds)
 The `batch_1` directory contains input files:
 - Repository includes 5 example files (chunk_0000.txt through chunk_0004.txt) for testing
 - Populate with your full dataset for production runs
-- Files should be named `chunk_NNNN.txt`
+- One file maps to one node
 
 ## Output
 
