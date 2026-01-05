@@ -16,12 +16,12 @@ MODEL_PATH="/lus/flare/projects/datasets/model-weights/hub/models--openai--gpt-o
 CONDA_ENV_PATH="$SCRIPT_DIR/../vllm_env.tar.gz"    # this is the tar.gz file that contains the conda environment on the lustre filesystem
 
 # Operation settings
-OFFSET=${OFFSET:-384}                  # Starting offset for batch processing (resume capability)
+OFFSET=${OFFSET:-512}                 # Starting offset for batch processing (resume capability)
 STAGE_WEIGHTS=${STAGE_WEIGHTS:-1}     # 1=stage model weights to /tmp, 0=skip staging
 STAGE_CONDA=${STAGE_CONDA:-1}         # 1=stage conda environment to /tmp, 0=skip staging
 
 # vLLM server settings
-SERVERS_PER_NODE=${SERVERS_PER_NODE:-6}  # Number of vLLM servers to launch per node
+SERVERS_PER_NODE=${SERVERS_PER_NODE:-3}  # Number of vLLM servers to launch per node
 GPUS_PER_NODE=12  # Aurora nodes have 12 GPUs
 TENSOR_PARALLEL_SIZE=$((GPUS_PER_NODE / SERVERS_PER_NODE))
 BASE_PORT=6739                           # Starting port number for vLLM servers
