@@ -21,13 +21,9 @@ TEST_OUTPUTS_DIR="${OUTPUT_DIR}/test_outputs_${HOSTNAME}_${VLLM_HOST_PORT}_$$"
 
 # VLLM configuration
 VLLM_MODEL="openai/gpt-oss-120b"
-# VLLM_MODEL_CACHE="/tmp/hf_home/hub/models--openai--gpt-oss-120b/snapshots/b5c939de8f754692c1647ca79fbf85e8c1e70f8a"
 TEST_BATCH_SIZE=64
 
 # Calculate GPU affinity based on port
-# Port 6739 -> index 0 -> GPUs 0,1
-# Port 6740 -> index 1 -> GPUs 2,3
-# etc.
 BASE_PORT=6739
 PORT_INDEX=$((VLLM_HOST_PORT - BASE_PORT))
 GPU_START=$((PORT_INDEX * TENSOR_PARALLEL_SIZE))
@@ -45,7 +41,6 @@ echo "$(date) $HOSTNAME INFILE: $INFILE"
 echo "$(date) $HOSTNAME HOSTNAME: $HOSTNAME"
 echo "$(date) $HOSTNAME TEST_BATCH_SIZE: $TEST_BATCH_SIZE"
 echo "$(date) $HOSTNAME VLLM_MODEL: $VLLM_MODEL"
-# echo "$(date) $HOSTNAME VLLM_MODEL_CACHE: $VLLM_MODEL_CACHE"
 echo "$(date) $HOSTNAME VLLM_HOST_PORT: $VLLM_HOST_PORT"
 echo "$(date) $HOSTNAME TENSOR_PARALLEL_SIZE: $TENSOR_PARALLEL_SIZE"
 echo "$(date) $HOSTNAME ZE_AFFINITY_MASK: $ZE_AFFINITY_MASK"
@@ -68,10 +63,10 @@ source "/opt/aurora/25.190.0/spack/unified/0.10.1/install/linux-sles15-x86_64/gc
 conda activate /tmp/hf_home/hub/vllm_env
 
 # HuggingFace configuration
-export HF_HUB_OFFLINE=1
 export HF_HOME="/tmp/hf_home"
 export HF_DATASETS_CACHE="/tmp/hf_home"
 export HF_MODULES_CACHE="/tmp/hf_home"
+export HF_HUB_OFFLINE=1
 
 # Ray and temp directories
 export RAY_TMPDIR="/tmp"
@@ -91,9 +86,9 @@ export FI_MR_CACHE_MONITOR=userfaultfd
 export TOKENIZERS_PARALLELISM=false
 export VLLM_LOGGING_LEVEL=DEBUG
 export OCL_ICD_FILENAMES="libintelocl.so"
-export TORCH_COMPILE_DISABLE=1
-export OMP_NUM_THREADS=32
-export TORCH_XPU_ALLOC_CONF=expandable_segments:True
+#export TORCH_COMPILE_DISABLE=1
+#export OMP_NUM_THREADS=32
+#export TORCH_XPU_ALLOC_CONF=expandable_segments:True
 
 ray stop -f
 export no_proxy="localhost,127.0.0.1" #Set no_proxy for the client to interact with the locally hosted model
@@ -110,9 +105,10 @@ ZE_AFFINITY_MASK=${ZE_AFFINITY_MASK} OCL_ICD_FILENAMES="libintelocl.so" VLLM_DIS
   --tensor-parallel-size ${TENSOR_PARALLEL_SIZE} \
   --enforce-eager \
   --distributed-executor-backend mp \
-  --disable-custom-all-reduce \
   --trust-remote-code \
   --port ${VLLM_HOST_PORT} > "${TEST_OUTPUTS_DIR}/${HOSTNAME}_${VLLM_HOST_PORT}.vllm.log" 2>&1 &
+  # --disable-custom-all-reduce \
+
 # get vllm server pid
 vllm_pid=$!
 
