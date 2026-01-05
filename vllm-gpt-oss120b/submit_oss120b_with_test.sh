@@ -2,34 +2,39 @@
 #PBS -N gpt_oss_120b_vllm
 #PBS -l walltime=01:00:00
 #PBS -A ModCon 
-#PBS -q debug
+#PBS -q debug-scaling 
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=2
+#PBS -l select=16
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
 # Input/Output configuration
 SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-gpt-oss120b"
 INPUT_DIR="${SCRIPT_DIR}/../examples/TOM.COLI/batch_1"
-MODEL_PATH="/lus/flare/projects/datasets/model-weights/hub/models--openai--gpt-oss-120b"
+# MODEL_PATH="/lus/flare/projects/datasets/model-weights/hub/models--openai--gpt-oss-120b"
+MODEL_PATH="/lus/flare/projects/datasets/model-weights/hub/models--meta-llama--Llama-3.3-70B-Instruct"
 CONDA_ENV_PATH="$SCRIPT_DIR/vllm_env.tar.gz"    # this is the tar.gz file that contains the conda environment on the lustre filesystem
 
+# Extract model name from MODEL_PATH (converts models--org--name to org/name)
+MODEL_NAME=$(basename "$MODEL_PATH" | sed 's/^models--//' | sed 's/--/\//')
+
 # Operation settings
-OFFSET=${OFFSET:-960}                  # Starting offset for batch processing (resume capability)
+OFFSET=${OFFSET:-0 }                  # Starting offset for batch processing (resume capability)
 STAGE_WEIGHTS=${STAGE_WEIGHTS:-1}     # 1=stage model weights to /tmp, 0=skip staging
 STAGE_CONDA=${STAGE_CONDA:-1}         # 1=stage conda environment to /tmp, 0=skip staging
+USE_FRAMEWORKS=${USE_FRAMEWORKS:-0}   # 1=use frameworks module, 0=use conda environment
 
 # SSH and timing settings
 SSH_TIMEOUT=10                        # SSH connection timeout in seconds
-# LAUNCH_DELAY=2                        # Delay between launches in seconds
 
 # Functions
 start_vllm_on_host() {
     local host=$1
     local filename=$2
-    if ! ssh -o ConnectTimeout="${SSH_TIMEOUT}" -o StrictHostKeyChecking=no "$host" "bash -l -c 'cd $SCRIPT_DIR && ./start_oss120b_with_test.sh $filename'" 2>&1; then
-        echo "$(date) Failed to launch vLLM on $host"
+    local model=$3
+    if ! ssh -o ConnectTimeout="${SSH_TIMEOUT}" -o StrictHostKeyChecking=no "$host" "bash -l -c 'cd $SCRIPT_DIR && USE_FRAMEWORKS=${USE_FRAMEWORKS} ./start_oss120b_with_test.sh $filename $model'" 2>&1; then
+        echo "$(date) Failed to launch vLLM on $host (model: $model)"
         return 1
     fi
 }
@@ -38,12 +43,17 @@ start_vllm_on_host() {
 
 cat "$PBS_NODEFILE" > "$SCRIPT_DIR/hostfile"
 
-echo "$(date) GPT-OSS-120B vLLM Multi-Node Deployment"
+echo "$(date) vLLM Multi-Node Deployment"
 echo "$(date) Script directory: $SCRIPT_DIR"
 echo "$(date) PBS Job ID: $PBS_JOBID"
 echo "$(date) PBS Job Name: $PBS_JOBNAME"
 echo "$(date) Nodes allocated: $(wc -l < $PBS_NODEFILE)"
+echo "$(date) Model: $MODEL_NAME"
+echo "$(date) Model path: $MODEL_PATH"
 echo "$(date) OFFSET $OFFSET"
+echo "$(date) STAGE_WEIGHTS: $STAGE_WEIGHTS"
+echo "$(date) STAGE_CONDA: $STAGE_CONDA"
+echo "$(date) USE_FRAMEWORKS: $USE_FRAMEWORKS"
 
 # Validate input directory
 if [ ! -d "$INPUT_DIR" ]; then
@@ -123,7 +133,7 @@ for ((i = 0; i < files_to_process; i++)); do
     infile="${filenames[$file_index]}"
 
     # Launch vLLM on this host
-    start_vllm_on_host "$host" "$infile" &
+    start_vllm_on_host "$host" "$infile" "$MODEL_NAME" &
     pid=$!
     pids+=($pid)
     launch_hosts+=("$host")

@@ -1,5 +1,5 @@
 #!/bin/bash
-# input arguments: INFILE
+# input arguments: INFILE MODEL_NAME (optional)
 
 # Timing configuration
 START_TIME=$(date +%s)
@@ -12,13 +12,13 @@ SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 HOSTNAME=$(hostname)
 
 # Input/Output configuration
+INFILE=${1:-"${SCRIPT_DIR}/../examples/TOM.COLI/chunk_0000.txt"}
+VLLM_MODEL=${2:-"openai/gpt-oss-120b"}
 OUTPUT_DIR="/dev/shm"
 TEST_OUTPUTS_DIR="${OUTPUT_DIR}/test_outputs_${HOSTNAME}_$$"
-INFILE=${1:-"${SCRIPT_DIR}/../examples/TOM.COLI/chunk_0000.txt"}
 infile_base=$(basename "$INFILE")
 
 # VLLM configuration
-VLLM_MODEL="openai/gpt-oss-120b"
 VLLM_HOST_PORT=6739
 TEST_BATCH_SIZE=64
 
@@ -46,9 +46,19 @@ export https_proxy=http://proxy.alcf.anl.gov:3128
 module load pti-gpu
 module load hdf5
 
-source "/opt/aurora/25.190.0/spack/unified/0.10.1/install/linux-sles15-x86_64/gcc-13.3.0/miniforge3-24.3.0-0-gfganax/bin/activate"
-#conda activate "/lus/flare/projects/datasets/softwares/envs/conda_envs/RC1_vllm_0.11.x_triton_3.5.0+git1b0418a9_no_patch_oneapi_2025.2.0_numpy_2.3.4_python3.12.8"
-conda activate /tmp/hf_home/hub/vllm_env
+echo "$(date) $HOSTNAME USE_FRAMEWORKS: ${USE_FRAMEWORKS}"
+if [ "${USE_FRAMEWORKS}" -eq 1 ]; then
+    echo "$(date) $HOSTNAME Using frameworks module"
+    module load frameworks
+    echo "$(date) $HOSTNAME Frameworks module loaded"
+else
+    echo "$(date) $HOSTNAME Activating staged conda environment"
+    source "/opt/aurora/25.190.0/spack/unified/0.10.1/install/linux-sles15-x86_64/gcc-13.3.0/miniforge3-24.3.0-0-gfganax/bin/activate"
+    # Clear positional parameters to avoid conda activate picking them up
+    set --
+    conda activate /tmp/hf_home/hub/vllm_env
+    echo "$(date) $HOSTNAME Conda environment activated"
+fi
 
 # HuggingFace configuration
 export HF_HOME="/tmp/hf_home"
