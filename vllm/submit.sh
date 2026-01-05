@@ -38,12 +38,11 @@ start_vllm_on_host() {
 
 # Create arrays containing hostnames and filenames.
 mapfile -t hosts < <(cut -d'.' -f1 "$PBS_NODEFILE")
-#
 
 
 # stage model weights to /tmp
-#mpicc -o cptotmp ${SCRIPT_DIR}/../cptotmp.c
-#time mpiexec -ppn 1 ./cptotmp /flare/datasets/model-weights/hub/models--meta-llama--Llama-3.3-70B-Instruct
+# mpicc -o cptotmp ${SCRIPT_DIR}/../cptotmp.c
+# time mpiexec -ppn 1 ./cptotmp /flare/datasets/model-weights/hub/models--meta-llama--Llama-3.3-70B-Instruct
 
 declare -a pids
 for host in "${hosts[@]}"; do
