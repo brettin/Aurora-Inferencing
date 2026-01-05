@@ -27,7 +27,7 @@ tail -f output.log
 | `OFFSET` | 0 | Starting file index (for resuming) |
 | `STAGE_WEIGHTS` | 1 | Copy model to /tmp (1=yes, 0=no) |
 | `STAGE_CONDA` | 1 | Copy conda environment to /tmp (1=yes, 0=no) |
-| `USE_FRAMEWORKS` | unset | Use frameworks module instead of staged conda env |
+| `USE_FRAMEWORKS` | 0 | Use frameworks module instead of staged conda env (1=yes, 0=no)|
 
 ## How It Works
 
