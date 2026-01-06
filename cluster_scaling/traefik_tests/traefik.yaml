@@ -1,0 +1,27 @@
+# Traefik Static Configuration
+# This file is the base config - dynamic backends are loaded from dynamic.yaml
+
+entryPoints:
+  web:
+    address: ":8000"
+  traefik:
+    address: ":8080"
+
+providers:
+  file:
+    filename: /tmp/traefik_dynamic.yaml
+    watch: false  # Disable file watching to reduce goroutines
+
+api:
+  insecure: true
+  dashboard: false  # Disable dashboard to reduce overhead
+
+log:
+  level: WARN  # Reduce logging to minimize I/O
+  filePath: /tmp/traefik.log
+
+# Removed accessLog to reduce I/O
+
+# Ping endpoint for health checks
+ping:
+  entryPoint: web
