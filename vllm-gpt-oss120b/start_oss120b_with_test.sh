@@ -1,6 +1,8 @@
 #!/bin/bash
 # input arguments: INFILE MODEL_NAME (optional)
-
+#
+export PYTHONNOUSERSITE=1
+#
 # Timing configuration
 START_TIME=$(date +%s)
 WALLTIME=7200    # 60seconds * 60minutes * 2hrs = 7200
@@ -83,7 +85,7 @@ export VLLM_WORKER_MULTIPROC_METHOD=spawn
 export FI_MR_CACHE_MONITOR=userfaultfd
 export TOKENIZERS_PARALLELISM=false
 export VLLM_LOGGING_LEVEL=DEBUG
-export OCL_ICD_FILENAMES="libintelocl.so"
+export OCL_ICD_SO="/opt/aurora/25.190.0/oneapi/2025.2/lib/libintelocl.so"
 
 ray stop -f
 export no_proxy="localhost,127.0.0.1" #Set no_proxy for the client to interact with the locally hosted model
@@ -93,7 +95,7 @@ export VLLM_HOST_IP=$(getent hosts $(hostname).hsn.cm.aurora.alcf.anl.gov | awk 
 echo "$(date) $HOSTNAME Starting vLLM server with model: ${VLLM_MODEL}"
 echo "$(date) $HOSTNAME Server port: ${VLLM_HOST_PORT}"
 echo "$(date) $HOSTNAME Log file: ${TEST_OUTPUTS_DIR}/${HOSTNAME}.vllm.log"
-OCL_ICD_FILENAMES="libintelocl.so" VLLM_DISABLE_SINKS=1 vllm serve ${VLLM_MODEL} \
+OCL_ICD_FILENAMES=${OCL_ICD_SO} VLLM_DISABLE_SINKS=1 vllm serve ${VLLM_MODEL} \
   --dtype bfloat16 \
   --tensor-parallel-size 8 \
   --enforce-eager \
@@ -107,6 +109,7 @@ vllm_pid=$!
 echo "$(date) $HOSTNAME Waiting for vLLM server to be ready..."
 while ! curl -s http://localhost:${VLLM_HOST_PORT}/health > /dev/null 2>&1; do
     sleep 5
+    # if vllm_pid not in process table, exit loop
 done
 echo "$(date) ${HOSTNAME} vLLM server is ready"
 
