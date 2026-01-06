@@ -1,20 +1,21 @@
 #!/bin/bash
 #PBS -N gpt_oss_120b_vllm
 #PBS -l walltime=01:00:00
-#PBS -A ModCon 
-#PBS -q debug-scaling 
-#PBS -o output.log
-#PBS -e error.log
-#PBS -l select=16
+#PBS -A FoundEpidem
+#PBS -q R8223128
+#PBS -o 256.output.log
+#PBS -e 256.error.log
+#PBS -l select=256
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
 # Input/Output configuration
-SCRIPT_DIR="/lus/flare/projects/candle_aesp_CNDA/brettin/Aurora-Inferencing/vllm-gpt-oss120b"
+SCRIPT_DIR="/lus/flare/projects/ModCon/brettin/Aurora-Inferencing/vllm-gpt-oss120b"
 INPUT_DIR="${SCRIPT_DIR}/../examples/TOM.COLI/batch_1"
-# MODEL_PATH="/lus/flare/projects/datasets/model-weights/hub/models--openai--gpt-oss-120b"
-MODEL_PATH="/lus/flare/projects/datasets/model-weights/hub/models--meta-llama--Llama-3.3-70B-Instruct"
-CONDA_ENV_PATH="$SCRIPT_DIR/vllm_env.tar.gz"    # this is the tar.gz file that contains the conda environment on the lustre filesystem
+MODEL_PATH="/lus/flare/projects/datasets/model-weights/hub/models--openai--gpt-oss-120b"
+# MODEL_PATH="/lus/flare/projects/datasets/model-weights/hub/models--meta-llama--Llama-3.3-70B-Instruct"
+#CONDA_ENV_PATH="$SCRIPT_DIR/vllm_env.tar.gz"    # this is the tar.gz file that contains the conda environment on the lustre filesystem
+CONDA_ENV_PATH="$SCRIPT_DIR/vllm_oss.tar.gz"
 
 # Extract model name from MODEL_PATH (converts models--org--name to org/name)
 MODEL_NAME=$(basename "$MODEL_PATH" | sed 's/^models--//' | sed 's/--/\//')
@@ -92,10 +93,11 @@ if [ "$STAGE_CONDA" -eq 1 ]; then
 
     # Unpack Conda Environment in parallel on all nodes
     echo "$(date) Unpacking conda environment on all nodes in parallel"
-    time mpiexec -ppn 1 --cpu-bind numa bash -c 'mkdir -p /tmp/hf_home/hub/vllm_env && tar -xzf /tmp/hf_home/hub/vllm_env.tar.gz -C /tmp/hf_home/hub/vllm_env' 2>&1 || \
+    time mpiexec -ppn 1 --cpu-bind numa bash -c 'mkdir -p /tmp/hf_home/hub/vllm_env && tar -xzf /tmp/hf_home/hub/vllm_oss.tar.gz -C /tmp/hf_home/hub/vllm_env' 2>&1 || \
         echo "$(date) WARNING: Conda environment unpacking failed"
     echo "$(date) Conda environment unpacking complete"
 fi
+
 
 # Process Input Files
 filenames=("$INPUT_DIR"/*)
