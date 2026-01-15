@@ -55,11 +55,17 @@ if [ "${USE_FRAMEWORKS}" -eq 1 ]; then
     echo "$(date) $HOSTNAME Frameworks module loaded"
 else
     echo "$(date) $HOSTNAME Activating staged conda environment"
-    source "/opt/aurora/25.190.0/spack/unified/0.10.1/install/linux-sles15-x86_64/gcc-13.3.0/miniforge3-24.3.0-0-gfganax/bin/activate"
+    # source "/opt/aurora/25.190.0/spack/unified/0.10.1/install/linux-sles15-x86_64/gcc-13.3.0/miniforge3-24.3.0-0-gfganax/bin/activate"
     # Clear positional parameters to avoid conda activate picking them up
     set --
-    conda activate /tmp/hf_home/hub/vllm_env
+    # conda activate /tmp/hf_home/hub/vllm_env
+    source /tmp/hf_home/hub/vllm_env/bin/activate
+    conda-unpack
+
     echo "$(date) $HOSTNAME Conda environment activated"
+    which python
+    python -c 'import sys ; print(sys.path)'
+
 fi
 
 # HuggingFace configuration
@@ -86,6 +92,7 @@ export FI_MR_CACHE_MONITOR=userfaultfd
 export TOKENIZERS_PARALLELISM=false
 export VLLM_LOGGING_LEVEL=DEBUG
 export OCL_ICD_SO="/opt/aurora/25.190.0/oneapi/2025.2/lib/libintelocl.so"
+export VLLM_CACHE_ROOT="/tmp/hf_home/vllm_cache"
 
 ray stop -f
 export no_proxy="localhost,127.0.0.1" #Set no_proxy for the client to interact with the locally hosted model
@@ -95,7 +102,12 @@ export VLLM_HOST_IP=$(getent hosts $(hostname).hsn.cm.aurora.alcf.anl.gov | awk 
 echo "$(date) $HOSTNAME Starting vLLM server with model: ${VLLM_MODEL}"
 echo "$(date) $HOSTNAME Server port: ${VLLM_HOST_PORT}"
 echo "$(date) $HOSTNAME Log file: ${TEST_OUTPUTS_DIR}/${HOSTNAME}.vllm.log"
-OCL_ICD_FILENAMES=${OCL_ICD_SO} VLLM_DISABLE_SINKS=1 vllm serve ${VLLM_MODEL} \
+
+export OCL_ICD_FILENAMES="/opt/aurora/25.190.0/oneapi/2025.2/lib/libintelocl.so" 
+export VLLM_DISABLE_SINKS=1
+
+strace -ff -e trace=%file -o /tmp/strace.%p \
+vllm serve ${VLLM_MODEL} \
   --dtype bfloat16 \
   --tensor-parallel-size 8 \
   --enforce-eager \
