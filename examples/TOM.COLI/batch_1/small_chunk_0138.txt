@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01405	yidD	Membrane protein insertion efficiency factor YidD
+100177.28	Borreliella lusitaniae	QIA24_01410	Glycine betaine/L-proline transport substrate-binding protein ProX (TC 3.A.1.12.1)

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002690	katG	Catalase-peroxidase KatG (EC 1.11.1.21)
+1005395.227	Pseudomonas bharatica	CSV86_002695	SAM-dependent methyltransferase

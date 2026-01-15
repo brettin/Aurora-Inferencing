@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004200	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_004205	truA	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01890	Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxyguanosine kinase (EC 2.7.1.113)
+100177.28	Borreliella lusitaniae	QIA24_01895	Glycerol uptake facilitator protein

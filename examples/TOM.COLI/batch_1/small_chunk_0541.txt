@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00505		H8NH16		Periplasmic thiol:disulfide interchange protein DsbA		protein-disulfide isomerase
+1003201.3	Rickettsia typhi	RTTH1527_00510		H8NH17		ATP synthase protein I		hypothetical protein

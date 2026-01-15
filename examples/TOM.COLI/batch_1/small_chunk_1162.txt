@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002670	Il-IS_2, transposase
+1005395.227	Pseudomonas bharatica	CSV86_002675	winged helix-turn-helix transcriptional regulator

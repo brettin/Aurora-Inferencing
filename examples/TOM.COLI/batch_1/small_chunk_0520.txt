@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00290		H8NGX3		Protein-export protein SecB (maintains pre-export unfolded state)		preprotein translocase subunit SecB
+1003201.3	Rickettsia typhi	RTTH1527_00295		H8NGX4	dcd	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)	dcd	deoxycytidine triphosphate deaminase

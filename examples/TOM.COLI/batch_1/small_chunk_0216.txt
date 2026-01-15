@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02190	ftsZ	Cell division protein FtsZ
+100177.28	Borreliella lusitaniae	QIA24_02195	ftsA	Cell division protein FtsA

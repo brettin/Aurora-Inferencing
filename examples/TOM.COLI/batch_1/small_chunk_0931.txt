@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000245	Oxidoreductase, short-chain dehydrogenase/reductase family
+1005395.227	Pseudomonas bharatica	CSV86_000250	Oxidoreductase, short-chain dehydrogenase/reductase family

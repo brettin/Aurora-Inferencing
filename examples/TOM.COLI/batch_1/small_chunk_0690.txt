@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02010		H8NHF9		Ribonuclease D related protein		ribonuclease D
+1003201.3	Rickettsia typhi	RTTH1527_02015		H8NHG0		Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage		septum formation initiator

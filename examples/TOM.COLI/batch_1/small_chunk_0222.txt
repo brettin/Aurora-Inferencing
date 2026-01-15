@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02250	Positive regulator of CheA protein activity (CheW)
+100177.28	Borreliella lusitaniae	QIA24_02255	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)

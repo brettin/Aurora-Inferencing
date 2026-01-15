@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003285	ngg	Cyanophycin synthase (EC 6.3.2.29)(EC 6.3.2.30)
+1005395.227	Pseudomonas bharatica	CSV86_003290	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)

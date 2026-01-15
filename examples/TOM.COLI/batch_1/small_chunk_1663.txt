@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007840	Hydrolase, alpha/beta fold family
+1005395.227	Pseudomonas bharatica	CSV86_007845	hypothetical protein

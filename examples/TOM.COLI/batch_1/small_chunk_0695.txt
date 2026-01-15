@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02060		H8NHG9		Succinyl-CoA ligase [ADP-forming] alpha chain (EC 6.2.1.5)		succinyl-CoA synthetase subunit alpha
+1003201.3	Rickettsia typhi	RTTH1527_02065		H8NHH0	sucC	Succinyl-CoA ligase [ADP-forming] beta chain (EC 6.2.1.5)	sucC	succinyl-CoA synthetase subunit beta

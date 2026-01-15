@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02985	tRNA-Ser
+100177.28	Borreliella lusitaniae	QIA24_02990	tRNA-Ser

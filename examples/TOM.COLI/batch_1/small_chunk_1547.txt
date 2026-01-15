@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006640	Sensory box histidine kinase/response regulator
+1005395.227	Pseudomonas bharatica	CSV86_006645	DNA-binding transcriptional regulator, MocR family / aminotransferase domain

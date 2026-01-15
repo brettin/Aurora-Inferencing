@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001660	salA	Uncharacterized oxidoreductase
+1005395.227	Pseudomonas bharatica	CSV86_001665	Transcriptional regulator, LysR family

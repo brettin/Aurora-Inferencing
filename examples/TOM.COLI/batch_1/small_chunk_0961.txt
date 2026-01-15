@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000565	Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)
+1005395.227	Pseudomonas bharatica	CSV86_000570	Ubiquinol-cytochrome C reductase, cytochrome C1 subunit

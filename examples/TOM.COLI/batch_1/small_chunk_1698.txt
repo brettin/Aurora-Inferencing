@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008195	Domain often clustered or fused with uracil-DNA glycosylase
+1005395.227	Pseudomonas bharatica	CSV86_008200	Transcriptional regulator, DeoR family

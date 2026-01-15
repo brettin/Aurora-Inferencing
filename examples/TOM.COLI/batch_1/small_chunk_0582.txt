@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00925		H8NJ01		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_00930		H8NJ02		Ferredoxin, 2Fe-2S		(2Fe-2S) ferredoxin

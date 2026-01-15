@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01785	pstB	Phosphate ABC transporter, ATP-binding protein PstB (TC 3.A.1.7.1)
+100177.28	Borreliella lusitaniae	QIA24_01790	Metal transporter, ZIP family

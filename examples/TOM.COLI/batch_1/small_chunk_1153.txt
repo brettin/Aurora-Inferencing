@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002580	Oxidoreductase, short-chain dehydrogenase/reductase family
+1005395.227	Pseudomonas bharatica	CSV86_002585	Two-component system sensor histidine kinase

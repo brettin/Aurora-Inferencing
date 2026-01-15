@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_04165		H8NI85	rpmG	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent	rpmG	50S ribosomal protein L33
+1003201.3	Rickettsia typhi	RTTH1527_04170		H8NI86	mutL	DNA mismatch repair protein MutL	mutL	DNA mismatch repair protein

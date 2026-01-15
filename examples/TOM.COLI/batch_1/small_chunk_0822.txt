@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03345		H8NI00		Cytochrome c heme lyase subunit CcmF		cytochrome c-type biogenesis protein CcmF
+1003201.3	Rickettsia typhi	RTTH1527_03350		H8NIG9		hypothetical protein		outer membrane protein OmpB

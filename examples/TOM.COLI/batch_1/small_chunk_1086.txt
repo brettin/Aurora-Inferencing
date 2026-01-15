@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001880	Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin
+1005395.227	Pseudomonas bharatica	CSV86_001885	hypothetical protein

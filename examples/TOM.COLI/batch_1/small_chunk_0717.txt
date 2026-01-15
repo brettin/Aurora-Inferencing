@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02280		H8NHL3		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02285		H8NHL4		Decaprenyl diphosphate synthase (EC 2.5.1.91)		octaprenyl-diphosphate synthase

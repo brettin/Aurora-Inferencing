@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02695		H8NIB4		Transcriptional regulator MraZ		cell division protein MraZ
+1003201.3	Rickettsia typhi	RTTH1527_02700		H8NIB5		sodium-solute symporter, 		sodium coupled symporter

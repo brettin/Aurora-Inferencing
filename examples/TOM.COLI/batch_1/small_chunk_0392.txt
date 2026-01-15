@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03975	groL	Heat shock protein 60 kDa family chaperone GroEL
+100177.28	Borreliella lusitaniae	QIA24_03980	hypothetical protein

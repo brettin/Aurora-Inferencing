@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02550	S-ribosylhomocysteine lyase (EC 4.4.1.21) @ Autoinducer-2 production protein LuxS
+100177.28	Borreliella lusitaniae	QIA24_02555	ortholog to Borrelia burgdorferi BB0378

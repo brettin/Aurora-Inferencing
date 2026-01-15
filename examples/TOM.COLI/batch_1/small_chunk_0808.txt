@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03205		H8NHX2		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03210		H8NHX3		LPS-assembly protein LptD @ Organic solvent tolerance protein precursor		organic solvent tolerance protein OstA

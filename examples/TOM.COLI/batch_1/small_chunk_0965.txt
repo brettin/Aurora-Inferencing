@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000605	rsmI	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+1005395.227	Pseudomonas bharatica	CSV86_000610	rnpB	RNase P RNA component class A

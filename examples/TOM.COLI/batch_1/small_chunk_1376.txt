@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004855	yegS	Transcription regulator [contains diacylglycerol kinase catalytic domain]
+1005395.227	Pseudomonas bharatica	CSV86_004860	Two-component transcriptional response regulator, NarL/FixJ family

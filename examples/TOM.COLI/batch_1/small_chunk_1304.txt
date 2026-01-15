@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004120	tRNA-Glu
+1005395.227	Pseudomonas bharatica	CSV86_004125	tRNA-Glu

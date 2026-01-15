@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002425	Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase
+1005395.227	Pseudomonas bharatica	CSV86_002430	dinG	ATP-dependent helicase DinG/Rad3

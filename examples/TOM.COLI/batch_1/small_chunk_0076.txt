@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00780	udk	Uridine kinase (EC 2.7.1.48)
+100177.28	Borreliella lusitaniae	QIA24_00785	Phage shock protein E

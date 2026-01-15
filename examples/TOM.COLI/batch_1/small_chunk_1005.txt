@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001015	Low-affinity inorganic phosphate transporter
+1005395.227	Pseudomonas bharatica	CSV86_001020	hypothetical protein

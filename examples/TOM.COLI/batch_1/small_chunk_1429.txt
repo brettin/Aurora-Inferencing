@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005425	4-amino-4-deoxy-L-arabinose transferase
+1005395.227	Pseudomonas bharatica	CSV86_005430	Cobalt/zinc/cadmium resistance protein CzcD

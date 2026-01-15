@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02340	ABC transporter, permease protein 2 (cluster 5, nickel/peptides/opines)
+100177.28	Borreliella lusitaniae	QIA24_02345	Oligopeptide ABC transporter, ATP-binding protein OppD (TC 3.A.1.5.1)

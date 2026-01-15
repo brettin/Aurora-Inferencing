@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008565	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)
+1005395.227	Pseudomonas bharatica	CSV86_008570	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)

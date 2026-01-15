@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007180	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_007185	Urea carboxylase-related ABC transporter, substrate-binding protein

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001870	HD-GYP domain (HD superfamily hydrolase)
+1005395.227	Pseudomonas bharatica	CSV86_001875	tRNA-modifying protein YgfZ

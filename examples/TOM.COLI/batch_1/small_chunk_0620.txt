@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01305		H8NH96		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_01310		H8NH97		rickettsial conserved		hypothetical protein

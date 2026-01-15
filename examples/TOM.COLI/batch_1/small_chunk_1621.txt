@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007400	Spermidine/putrescine import ABC transporter permease protein PotC (TC 3.A.1.11.1)
+1005395.227	Pseudomonas bharatica	CSV86_007405	Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)

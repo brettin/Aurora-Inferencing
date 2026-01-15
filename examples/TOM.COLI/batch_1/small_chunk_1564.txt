@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006810	TonB-dependent receptor
+1005395.227	Pseudomonas bharatica	CSV86_006815	DNA-binding domain of LuxR-like proteins

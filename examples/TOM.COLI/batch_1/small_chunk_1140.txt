@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002445	OmpA family protein
+1005395.227	Pseudomonas bharatica	CSV86_002450	pdxH	Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5)

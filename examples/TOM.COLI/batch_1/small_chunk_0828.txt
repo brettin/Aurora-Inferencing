@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03405		H8NII0		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03410		H8NII1		hypothetical protein		hypothetical protein

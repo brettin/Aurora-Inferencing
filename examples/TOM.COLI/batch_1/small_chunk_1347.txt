@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004560	NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form
+1005395.227	Pseudomonas bharatica	CSV86_004565	hypothetical protein

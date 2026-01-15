@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00445		H8NH04	rpsF	SSU ribosomal protein S6p	rpsF	30S ribosomal protein S6
+1003201.3	Rickettsia typhi	RTTH1527_00450		H8NH05		Fatty acid desaturase (EC 1.14.19.1); Delta-9 fatty acid desaturase (EC 1.14.19.1)		Acyl-CoA desaturase

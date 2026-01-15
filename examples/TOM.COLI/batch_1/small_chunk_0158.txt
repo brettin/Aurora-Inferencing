@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01605	tsaB	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+100177.28	Borreliella lusitaniae	QIA24_01610	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008345	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_008350	Ammonium transporter

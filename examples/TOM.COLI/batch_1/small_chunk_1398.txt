@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005080	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_005085	Transcriptional regulator, ArsR family

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01745	mutL	DNA mismatch repair protein MutL
+100177.28	Borreliella lusitaniae	QIA24_01750	B. burgdorferi coding region BB0212

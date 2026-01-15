@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03315		H8NHZ4		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03320		H8NHZ5		Multidrug resistance transporter, Bcr/CflA family		bicyclomycin resistance protein

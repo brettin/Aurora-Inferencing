@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005970	lpxH	UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+1005395.227	Pseudomonas bharatica	CSV86_005975	Peptidyl-prolyl cis-trans isomerase PpiB (EC 5.2.1.8)

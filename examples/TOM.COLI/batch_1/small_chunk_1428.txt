@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005415	DNA-binding heavy metal response regulator
+1005395.227	Pseudomonas bharatica	CSV86_005420	hypothetical protein

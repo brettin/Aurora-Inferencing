@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03285		H8NHY8		DNA recombination protein RmuC		DNA recombination protein RmuC
+1003201.3	Rickettsia typhi	RTTH1527_03290		H8NHY9		rickettsial conserved		hypothetical protein

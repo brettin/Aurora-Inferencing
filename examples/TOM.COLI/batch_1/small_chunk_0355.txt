@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03595	Cell division integral membrane protein, YggT and half-length relatives
+100177.28	Borreliella lusitaniae	QIA24_03600	recG	ATP-dependent DNA helicase RecG (EC 3.6.4.12)

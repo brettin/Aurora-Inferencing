@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001105	Uncharacterized MFS-type transporter
+1005395.227	Pseudomonas bharatica	CSV86_001110	Transcriptional regulator clustered with PA0057, LysR family

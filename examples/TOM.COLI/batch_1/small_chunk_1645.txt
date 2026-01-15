@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007645	Transcriptional regulator, LysR family
+1005395.227	Pseudomonas bharatica	CSV86_007650	Uncharacterized protein PA5392, RidA/YER057c/UK114 superfamily

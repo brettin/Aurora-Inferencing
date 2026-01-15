@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001145	Flavin reductase-like, FMN-binding domain protein
+1005395.227	Pseudomonas bharatica	CSV86_001150	Large exoproteins involved in heme utilization or adhesion

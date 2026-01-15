@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03815		H8NI15		DNA protection during starvation protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03820		H8NI16		Penicillin-binding protein 1A		penicillin-binding protein 1A

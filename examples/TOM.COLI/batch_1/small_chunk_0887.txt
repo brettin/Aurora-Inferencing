@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03995		H8NI51	gltA	Citrate synthase (si) (EC 2.3.3.1)	gltA	type II citrate synthase
+1003201.3	Rickettsia typhi	RTTH1527_04000		H8NI52		Uracil-DNA glycosylase, family 4 (EC 3.2.2.27)		DNA polymerase

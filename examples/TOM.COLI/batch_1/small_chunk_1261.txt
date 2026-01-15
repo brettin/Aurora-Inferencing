@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003685	Ferrichrome-iron receptor
+1005395.227	Pseudomonas bharatica	CSV86_003690	hypothetical protein

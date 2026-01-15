@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002140	ybaK	Cys-tRNA(Pro) deacylase YbaK
+1005395.227	Pseudomonas bharatica	CSV86_002145	Ferric iron ABC transporter, ATP-binding protein

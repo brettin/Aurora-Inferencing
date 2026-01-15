@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01825	serS	Seryl-tRNA synthetase (EC 6.1.1.11)
+100177.28	Borreliella lusitaniae	QIA24_01830	hypothetical protein

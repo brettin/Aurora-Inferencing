@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04640	B. burgdorferi coding region BB0779
+100177.28	Borreliella lusitaniae	QIA24_04645	rpmA	LSU ribosomal protein L27p

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01025		H8NJ21		Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)		phosphoribosylaminoimidazole-succinocarboxamide synthase
+1003201.3	Rickettsia typhi	RTTH1527_01030		H8NJ22		hypothetical protein		hypothetical protein

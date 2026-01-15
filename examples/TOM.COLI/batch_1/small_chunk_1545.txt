@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006615	Transcriptional regulator, LysR family
+1005395.227	Pseudomonas bharatica	CSV86_006620	Inner membrane protein, KefB/KefC family

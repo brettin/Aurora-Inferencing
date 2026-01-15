@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001610	Protein GlcG
+1005395.227	Pseudomonas bharatica	CSV86_001615	4-oxalocrotonate tautomerase (EC 5.3.2.-)

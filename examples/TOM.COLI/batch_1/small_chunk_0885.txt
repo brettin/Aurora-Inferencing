@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03975		H8NI47		Chaperone protein HtpG		heat shock protein 90
+1003201.3	Rickettsia typhi	RTTH1527_03980		H8NI48		5-aminolevulinate synthase (EC 2.3.1.37)		5-aminolevulinate synthase

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004970	mfd	Transcription-repair coupling factor
+1005395.227	Pseudomonas bharatica	CSV86_004975	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.13)

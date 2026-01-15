@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000755	Peptide chain release factor RF-3
+1005395.227	Pseudomonas bharatica	CSV86_000760	Putative heme iron utilization protein

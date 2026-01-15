@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003150	ABC transporter, permease protein 2 (cluster 1, maltose/g3p/polyamine/iron)
+1005395.227	Pseudomonas bharatica	CSV86_003155	ABC transporter, permease protein 1 (cluster 1, maltose/g3p/polyamine/iron)

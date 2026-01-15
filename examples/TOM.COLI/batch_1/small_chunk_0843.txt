@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03555		H8NIL0		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03560		H8NIL1		proline/betaine transporter		proline/betaine transporter ProP5

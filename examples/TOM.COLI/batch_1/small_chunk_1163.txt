@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002680	Fe2+-dicitrate sensor, membrane component
+1005395.227	Pseudomonas bharatica	CSV86_002685	Ferrichrome-iron receptor

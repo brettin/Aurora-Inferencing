@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00035	Outer surface protein of unknown function, cellobiose operon
+100177.28	Borreliella lusitaniae	QIA24_00040	B. burgdorferi coding region BBB08

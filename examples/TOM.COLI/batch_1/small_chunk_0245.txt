@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02480	periplasmic protein
+100177.28	Borreliella lusitaniae	QIA24_02485	mgsA	Methylglyoxal synthase (EC 4.2.3.3)

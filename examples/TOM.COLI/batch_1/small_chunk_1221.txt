@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003275	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_003280	Deblocking aminopeptidase (EC 3.4.11.-) @ Cyanophycinase 2 (EC 3.4.15.6)

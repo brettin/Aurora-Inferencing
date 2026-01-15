@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02300	bamD	B. burgdorferi coding region BB0324
+100177.28	Borreliella lusitaniae	QIA24_02305	B. burgdorferi coding region BB0325

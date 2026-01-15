@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01375	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)
+100177.28	Borreliella lusitaniae	QIA24_01380	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)

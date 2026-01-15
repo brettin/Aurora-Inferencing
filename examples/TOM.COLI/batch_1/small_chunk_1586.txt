@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007030	Glutathione S-transferase, omega (EC 2.5.1.18)
+1005395.227	Pseudomonas bharatica	CSV86_007035	Anthranilate phosphoribosyltransferase-like protein

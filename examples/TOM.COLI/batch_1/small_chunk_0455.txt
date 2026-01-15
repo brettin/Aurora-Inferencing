@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04610	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_04615	flgG	Flagellar basal-body rod protein FlgG

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00970	secG	Protein translocase membrane subunit SecG
+100177.28	Borreliella lusitaniae	QIA24_00975	tpiA	Triosephosphate isomerase (EC 5.3.1.1)

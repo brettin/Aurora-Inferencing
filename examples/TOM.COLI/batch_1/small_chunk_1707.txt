@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008295	ABC transporter, permease protein 2 (cluster 4, leucine/isoleucine/valine/benzoate)
+1005395.227	Pseudomonas bharatica	CSV86_008300	ABC transporter, ATP-binding protein 1 (cluster 4, leucine/isoleucine/valine/benzoate)

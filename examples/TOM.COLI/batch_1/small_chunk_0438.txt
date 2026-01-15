@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04435	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_04440	groES	Heat shock protein 10 kDa family chaperone GroES

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03755		H8NI03		ABC transporter involved in cytochrome c biogenesis, ATPase component CcmA		cytochrome c biogenesis protein CcmA
+1003201.3	Rickettsia typhi	RTTH1527_03760		H8NI04		NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)		NADH dehydrogenase subunit I

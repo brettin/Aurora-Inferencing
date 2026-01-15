@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00430	CdsE
+100177.28	Borreliella lusitaniae	QIA24_00435	hypothetical protein

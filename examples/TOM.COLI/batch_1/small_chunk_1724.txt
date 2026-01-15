@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008475	Transcriptional regulator, AraC family
+1005395.227	Pseudomonas bharatica	CSV86_008480	Signaling protein with membrane-bound sensor domain and GGDEF domain

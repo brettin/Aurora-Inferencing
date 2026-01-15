@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02060	fliR	Flagellar biosynthesis protein FliR
+100177.28	Borreliella lusitaniae	QIA24_02065	fliQ	Flagellar biosynthesis protein FliQ

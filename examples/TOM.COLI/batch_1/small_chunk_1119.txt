@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002220	Two-component transcriptional response regulator, LuxR family
+1005395.227	Pseudomonas bharatica	CSV86_002225	hypothetical protein

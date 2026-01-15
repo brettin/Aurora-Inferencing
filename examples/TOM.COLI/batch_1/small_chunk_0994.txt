@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000895	Transcriptional regulator, ArsR family
+1005395.227	Pseudomonas bharatica	CSV86_000900	Acyl carrier protein phosphodiesterase (EC 3.1.4.14)

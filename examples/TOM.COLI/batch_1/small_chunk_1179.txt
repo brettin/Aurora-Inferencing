@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002840	rlmD	23S rRNA (uracil(1939)-C(5))-methyltransferase (EC 2.1.1.190)
+1005395.227	Pseudomonas bharatica	CSV86_002845	relA	Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I

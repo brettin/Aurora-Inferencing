@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007250	Epoxide hydrolase (EC 3.3.2.9)
+1005395.227	Pseudomonas bharatica	CSV86_007255	DipZ protein

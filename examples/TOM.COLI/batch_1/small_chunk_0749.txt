@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02610		H8NI97	infB	Translation initiation factor 2	infB	translation initiation factor IF-2
+1003201.3	Rickettsia typhi	RTTH1527_02615		H8NI98	nusA	Transcription termination protein NusA	nusA	transcription elongation factor NusA

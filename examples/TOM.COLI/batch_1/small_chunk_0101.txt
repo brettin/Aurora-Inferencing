@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01030	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_01035	Xaa-Pro aminopeptidase (EC 3.4.11.9)

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003620	Uncharacterized membrane protein RSP_1259
+1005395.227	Pseudomonas bharatica	CSV86_003625	Phosphoglycerol transferase and related proteins, alkaline phosphatase superfamily

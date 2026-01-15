@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000090	Two-component system sensor histidine kinase
+1005395.227	Pseudomonas bharatica	CSV86_000095	Hypothetical flavoprotein YqcA (clustered with tRNA pseudouridine synthase C)

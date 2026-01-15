@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008260	Uncharacterized MFS-type transporter
+1005395.227	Pseudomonas bharatica	CSV86_008270	Two-component system sensor histidine kinase

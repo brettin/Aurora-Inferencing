@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04215	rimM	16S rRNA processing protein RimM
+100177.28	Borreliella lusitaniae	QIA24_04220	trmD	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)

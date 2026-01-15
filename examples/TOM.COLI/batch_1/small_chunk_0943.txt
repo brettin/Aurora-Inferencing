@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000370	Ornithine cyclodeaminase (EC 4.3.1.12)
+1005395.227	Pseudomonas bharatica	CSV86_000375	rhlB	ATP-dependent RNA helicase RhlB (EC 3.6.4.13)

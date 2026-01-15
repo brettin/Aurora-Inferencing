@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007480	tRNA-Cys
+1005395.227	Pseudomonas bharatica	CSV86_007485	hypothetical protein

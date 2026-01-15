@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007665	argE	Uncharacterized deacetylase PA5390
+1005395.227	Pseudomonas bharatica	CSV86_007670	hypothetical protein

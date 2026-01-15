@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03725	cheD	Chemotaxis protein CheD
+100177.28	Borreliella lusitaniae	QIA24_03730	ATP-dependent DNA helicase Rep

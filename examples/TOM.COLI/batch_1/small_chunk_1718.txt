@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008410	Il-IS_2, transposase
+1005395.227	Pseudomonas bharatica	CSV86_008415	Lipoprotein signal peptidase (EC 3.4.23.36)

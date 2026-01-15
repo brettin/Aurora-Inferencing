@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004675	Nitrate transporter NasA
+1005395.227	Pseudomonas bharatica	CSV86_004680	Response regulator NasT

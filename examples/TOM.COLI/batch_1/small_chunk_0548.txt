@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00575		H8NH30	sdhA	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)	sdhA	succinate dehydrogenase flavoprotein subunit
+1003201.3	Rickettsia typhi	RTTH1527_00580		H8NH31		ABC transporter, permease protein (cluster 3, basic aa/glutamine/opines)		glutamine transport system permease protein GlnP

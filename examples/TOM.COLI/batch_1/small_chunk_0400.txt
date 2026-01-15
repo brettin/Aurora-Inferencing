@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04055	B. burgdorferi coding region BB0665
+100177.28	Borreliella lusitaniae	QIA24_04060	N-acetylmuramoyl-L-alanine amidase

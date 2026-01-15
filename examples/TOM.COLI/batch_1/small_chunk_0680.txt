@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01905		H8NHD8		Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)		carboxypeptidase IIW
+1003201.3	Rickettsia typhi	RTTH1527_01910		H8NHD9		Helicase / RecB family exonuclease		hypothetical protein

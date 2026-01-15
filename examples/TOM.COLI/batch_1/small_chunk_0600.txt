@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01105		H8NH56		Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase		RNA pyrophosphohydrolase
+1003201.3	Rickettsia typhi	RTTH1527_01110		H8NH57	pleD	Pole remodelling regulatory diguanylate cyclase	pleD	response regulator PleD

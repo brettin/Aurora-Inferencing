@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02755		H8NIC6		Mg/Co/Ni transporter MgtE, CBS domain-containing		magnesium transporter
+1003201.3	Rickettsia typhi	RTTH1527_02760		H8NIC7	yajC	Protein translocase subunit YajC	yajC	preprotein translocase subunit YajC

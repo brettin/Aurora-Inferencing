@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008035	modC	Molybdenum ABC transporter ATP-binding protein ModC
+1005395.227	Pseudomonas bharatica	CSV86_008040	modB	Molybdenum ABC transporter permease protein ModB

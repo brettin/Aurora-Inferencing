@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03015		H8NHT4	rplQ	LSU ribosomal protein L17p	rplQ	50S ribosomal protein L17
+1003201.3	Rickettsia typhi	RTTH1527_03020		H8NHT5		DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)		DNA-directed RNA polymerase subunit alpha

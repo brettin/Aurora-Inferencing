@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01505		H8NJ39		ATP-dependent protease subunit HslV (EC 3.4.25.2)		ATP-dependent protease subunit HslV
+1003201.3	Rickettsia typhi	RTTH1527_01510		H8NJ40	hslU	ATP-dependent hsl protease ATP-binding subunit HslU	hslU	ATP-dependent protease ATP-binding subunit HslU

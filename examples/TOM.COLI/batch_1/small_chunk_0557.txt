@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00665		H8NIV1		Integral membrane protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_00670		H8NIV2		4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)		dihydrodipicolinate reductase

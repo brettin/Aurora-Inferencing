@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005155	Copper tolerance protein
+1005395.227	Pseudomonas bharatica	CSV86_005160	Copper tolerance protein

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01805	6-phosphogluconolactonase (EC 3.1.1.31), eukaryotic type
+100177.28	Borreliella lusitaniae	QIA24_01810	hypothetical protein

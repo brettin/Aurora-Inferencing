@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005285	DUF2384 domain-containing protein
+1005395.227	Pseudomonas bharatica	CSV86_005290	Mobile element protein

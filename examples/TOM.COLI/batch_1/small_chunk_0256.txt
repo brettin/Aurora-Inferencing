@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02590	bmpD	ABC transporter, substrate-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
+100177.28	Borreliella lusitaniae	QIA24_02595	rpsG	SSU ribosomal protein S7p (S5e)

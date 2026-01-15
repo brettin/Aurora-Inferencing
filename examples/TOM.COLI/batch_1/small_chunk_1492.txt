@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006075	Hypothetical protein in pyoverdin gene cluster
+1005395.227	Pseudomonas bharatica	CSV86_006080	Putative thiamine pyrophosphate-requiring enzyme

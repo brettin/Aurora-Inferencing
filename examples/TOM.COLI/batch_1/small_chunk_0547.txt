@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00565		H8NH28		Succinate dehydrogenase cytochrome b-556 subunit		succinate dehydrogenase cytochrome b-556 subunit
+1003201.3	Rickettsia typhi	RTTH1527_00570		H8NH29		Succinate dehydrogenase hydrophobic membrane anchor protein		succinate dehydrogenase hydrophobic membrane anchor protein

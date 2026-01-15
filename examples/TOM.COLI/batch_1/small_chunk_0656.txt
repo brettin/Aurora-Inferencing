@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01665		H8NJ71		DNA-3-methyladenine glycosylase II (EC 3.2.2.21)		3-methyladenine DNA glycosylase
+1003201.3	Rickettsia typhi	RTTH1527_01670		H8NJ72		Membrane protein insertion efficiency factor YidD		hypothetical protein

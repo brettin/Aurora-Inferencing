@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01835	Predicted insulinase-like Zn-dependent peptidase DVU0941
+100177.28	Borreliella lusitaniae	QIA24_01840	LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent

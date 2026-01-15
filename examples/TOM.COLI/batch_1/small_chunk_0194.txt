@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01970	Membrane protein related to metalloendopeptidases
+100177.28	Borreliella lusitaniae	QIA24_01975	rpsU	SSU ribosomal protein S21p

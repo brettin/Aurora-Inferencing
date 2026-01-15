@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005840	Uncharacterized membrane protein, YraQ family
+1005395.227	Pseudomonas bharatica	CSV86_005845	Il-IS_2, transposase

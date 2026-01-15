@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00190		H8NIT5		Phospholipid ABC transporter permease protein MlaE		ABC transporter permease protein
+1003201.3	Rickettsia typhi	RTTH1527_00195		H8NIT6	alr	Alanine racemase (EC 5.1.1.1)	alr	alanine racemase

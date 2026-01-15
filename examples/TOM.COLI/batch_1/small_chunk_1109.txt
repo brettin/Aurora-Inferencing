@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002110	Glycerol-3-phosphate regulon repressor GlpR
+1005395.227	Pseudomonas bharatica	CSV86_002115	Il-IS_2, transposase

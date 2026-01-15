@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005790	ABC transporter, fused permease protein
+1005395.227	Pseudomonas bharatica	CSV86_005795	ABC-type antimicrobial peptide transport system, ATPase component

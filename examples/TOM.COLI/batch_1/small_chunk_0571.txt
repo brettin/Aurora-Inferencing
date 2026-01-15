@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00805		H8NIX9		Oxygen-independent coproporphyrinogen-III oxidase-like protein YggW		coproporphyrinogen III oxidase
+1003201.3	Rickettsia typhi	RTTH1527_00810		H8NIY0		Proton/glutamate symporter @ Sodium/glutamate symporter		proton/sodium glutamate symporter

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01705		H8NJ79		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_01710		H8NJ80	xerD	Site-specific tyrosine recombinase XerD	xerD	site-specific tyrosine recombinase XerD

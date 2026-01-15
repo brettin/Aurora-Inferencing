@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003325	Thioredoxin
+1005395.227	Pseudomonas bharatica	CSV86_003330	Efflux ABC transporter, permease/ATP-binding protein

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005235	Multicopper oxidase
+1005395.227	Pseudomonas bharatica	CSV86_005240	Copper resistance protein B

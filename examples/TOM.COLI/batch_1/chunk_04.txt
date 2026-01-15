@@ -1,0 +1,71 @@
+100177.28	Borreliella lusitaniae	QIA24_01445	Superoxide dismutase [Mn] (EC 1.15.1.1)
+100177.28	Borreliella lusitaniae	QIA24_01450	secA	Protein translocase subunit SecA
+100177.28	Borreliella lusitaniae	QIA24_01455	lipoprotein
+100177.28	Borreliella lusitaniae	QIA24_01460	B. burgdorferi coding region BB0156
+100177.28	Borreliella lusitaniae	QIA24_01465	ortholog to Borrelia burgdorferi BB0157
+100177.28	Borreliella lusitaniae	QIA24_01470	antigen, S2
+100177.28	Borreliella lusitaniae	QIA24_01475	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_01480	alr	Alanine racemase (EC 5.1.1.1)
+100177.28	Borreliella lusitaniae	QIA24_01485	YD repeat
+100177.28	Borreliella lusitaniae	QIA24_01490	Uncharacterized protein BB_0162
+100177.28	Borreliella lusitaniae	QIA24_01495	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_01500	Na+/Ca+ exchange protein,
+100177.28	Borreliella lusitaniae	QIA24_01505	glycoside hydrolase
+100177.28	Borreliella lusitaniae	QIA24_01510	malQ	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)
+100177.28	Borreliella lusitaniae	QIA24_01515	Outer membrane protein
+100177.28	Borreliella lusitaniae	QIA24_01520	RNA polymerase-binding transcription factor DksA
+100177.28	Borreliella lusitaniae	QIA24_01525	infA	Translation initiation factor 1
+100177.28	Borreliella lusitaniae	QIA24_01530	Aerotolerance protein BatD
+100177.28	Borreliella lusitaniae	QIA24_01535	Aerotolerance protein BatC
+100177.28	Borreliella lusitaniae	QIA24_01540	Aerotolerance protein BatB
+100177.28	Borreliella lusitaniae	QIA24_01545	Aerotolerance protein BatA
+100177.28	Borreliella lusitaniae	QIA24_01550	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_01555	hypothetical protein PA3071
+100177.28	Borreliella lusitaniae	QIA24_01560	MoxR-like ATPase in aerotolerance operon
+100177.28	Borreliella lusitaniae	QIA24_01565	rsmG	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+100177.28	Borreliella lusitaniae	QIA24_01570	mnmG	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+100177.28	Borreliella lusitaniae	QIA24_01575	mnmE	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+100177.28	Borreliella lusitaniae	QIA24_01580	flagellar protein FlbF
+100177.28	Borreliella lusitaniae	QIA24_01585	flgK	Flagellar hook-associated protein FlgK
+100177.28	Borreliella lusitaniae	QIA24_01590	Flagellar hook-associated protein FlgL
+100177.28	Borreliella lusitaniae	QIA24_01595	fliW	Flagellar assembly factor FliW
+100177.28	Borreliella lusitaniae	QIA24_01600	csrA	Carbon storage regulator
+100177.28	Borreliella lusitaniae	QIA24_01605	tsaB	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+100177.28	Borreliella lusitaniae	QIA24_01610	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+100177.28	Borreliella lusitaniae	QIA24_01615	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_01620	rplT	LSU ribosomal protein L20p
+100177.28	Borreliella lusitaniae	QIA24_01625	rpmI	LSU ribosomal protein L35p
+100177.28	Borreliella lusitaniae	QIA24_01630	infC	Translation initiation factor 3
+100177.28	Borreliella lusitaniae	QIA24_01635	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_01640	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_01645	Uncharacterized metal-dependent hydrolase YcfH
+100177.28	Borreliella lusitaniae	QIA24_01650	TPR-repeat-containing protein
+100177.28	Borreliella lusitaniae	QIA24_01655	prfA	Peptide chain release factor 1
+100177.28	Borreliella lusitaniae	QIA24_01660	prmC	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)
+100177.28	Borreliella lusitaniae	QIA24_01665	spoT	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
+100177.28	Borreliella lusitaniae	QIA24_01670	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_01675	D-alanine--D-alanine ligase (EC 6.3.2.4)
+100177.28	Borreliella lusitaniae	QIA24_01680	UDP-N-acetylmuramoyl-dipeptide--L-ornithine ligase
+100177.28	Borreliella lusitaniae	QIA24_01685	tRNA-Cys
+100177.28	Borreliella lusitaniae	QIA24_01690	Hemolysins and related proteins containing CBS domains
+100177.28	Borreliella lusitaniae	QIA24_01695	hflK	HflK protein
+100177.28	Borreliella lusitaniae	QIA24_01700	hflC	HflC protein
+100177.28	Borreliella lusitaniae	QIA24_01705	tRNA-Phe
+100177.28	Borreliella lusitaniae	QIA24_01710	tRNA-Phe
+100177.28	Borreliella lusitaniae	QIA24_01715	B. burgdorferi coding region BB0205
+100177.28	Borreliella lusitaniae	QIA24_01720	rsmD	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)
+100177.28	Borreliella lusitaniae	QIA24_01725	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+100177.28	Borreliella lusitaniae	QIA24_01730	B. burgdorferi coding region BB0208
+100177.28	Borreliella lusitaniae	QIA24_01735	B. burgdorferi coding region BB0209
+100177.28	Borreliella lusitaniae	QIA24_01740	surface-located membrane protein 1 (lmp1)
+100177.28	Borreliella lusitaniae	QIA24_01745	mutL	DNA mismatch repair protein MutL
+100177.28	Borreliella lusitaniae	QIA24_01750	B. burgdorferi coding region BB0212
+100177.28	Borreliella lusitaniae	QIA24_01755	tRNA-Ile
+100177.28	Borreliella lusitaniae	QIA24_01760	B. burgdorferi coding region BB0213
+100177.28	Borreliella lusitaniae	QIA24_01765	efp	Translation elongation factor P
+100177.28	Borreliella lusitaniae	QIA24_01770	Phosphate ABC transporter, substrate-binding protein PstS (TC 3.A.1.7.1)
+100177.28	Borreliella lusitaniae	QIA24_01775	pstC	Phosphate ABC transporter, permease protein PstC (TC 3.A.1.7.1)
+100177.28	Borreliella lusitaniae	QIA24_01780	pstA	Phosphate ABC transporter, permease protein PstA (TC 3.A.1.7.1)
+100177.28	Borreliella lusitaniae	QIA24_01785	pstB	Phosphate ABC transporter, ATP-binding protein PstB (TC 3.A.1.7.1)
+100177.28	Borreliella lusitaniae	QIA24_01790	Metal transporter, ZIP family
+100177.28	Borreliella lusitaniae	QIA24_01795	Alanyl-tRNA synthetase (EC 6.1.1.7)

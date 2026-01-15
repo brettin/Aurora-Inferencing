@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02955	Glycosyltransferase
+100177.28	Borreliella lusitaniae	QIA24_02960	DNA polymerase III delta subunit (EC 2.7.7.7)

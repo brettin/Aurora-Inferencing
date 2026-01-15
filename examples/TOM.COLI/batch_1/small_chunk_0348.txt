@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03525	Signal transduction histidine kinase CheA
+100177.28	Borreliella lusitaniae	QIA24_03530	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)

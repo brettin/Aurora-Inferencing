@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02490	lipoprotein LA7
+100177.28	Borreliella lusitaniae	QIA24_02495	Probable M18-family aminopeptidase 1 (EC 3.4.11.-)

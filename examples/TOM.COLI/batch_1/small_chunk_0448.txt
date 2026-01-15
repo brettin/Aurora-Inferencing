@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04540	membrane protein
+100177.28	Borreliella lusitaniae	QIA24_04545	MazG-related NTP pyrophosphohydrolase BB0760

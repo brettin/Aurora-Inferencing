@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01675	D-alanine--D-alanine ligase (EC 6.3.2.4)
+100177.28	Borreliella lusitaniae	QIA24_01680	UDP-N-acetylmuramoyl-dipeptide--L-ornithine ligase

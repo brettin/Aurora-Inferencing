@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01515	Outer membrane protein
+100177.28	Borreliella lusitaniae	QIA24_01520	RNA polymerase-binding transcription factor DksA

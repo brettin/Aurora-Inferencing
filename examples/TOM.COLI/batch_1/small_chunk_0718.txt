@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02290		H8NHL5		Xaa-Pro aminopeptidase (EC 3.4.11.9)		aminopeptidase P
+1003201.3	Rickettsia typhi	RTTH1527_02295		H8NHL6		Putrescine-ornithine antiporter		putrescine-ornithine antiporter

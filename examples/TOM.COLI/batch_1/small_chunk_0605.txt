@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01155		H8NH66		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_01160		H8NH67	murC	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	murC	UDP-N-acetylmuramate--L-alanine ligase

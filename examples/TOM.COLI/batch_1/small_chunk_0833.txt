@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03455		H8NIJ0		hypothetical protein		surfeit locus protein 1 (surf1)
+1003201.3	Rickettsia typhi	RTTH1527_03460		H8NIJ1		ATP-dependent helicase/nuclease		ATP-dependent helicase/nuclease

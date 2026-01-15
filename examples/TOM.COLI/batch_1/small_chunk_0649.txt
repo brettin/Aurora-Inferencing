@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01595		H8NJ57		Putative glycosyltransferase		glycosyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_01600		H8NJ58		hypothetical protein		hypothetical protein

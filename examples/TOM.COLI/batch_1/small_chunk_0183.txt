@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01855	Integration host factor alpha subunit
+100177.28	Borreliella lusitaniae	QIA24_01860	rpsT	SSU ribosomal protein S20p

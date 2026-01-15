@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03915	Methionine transporter MetT
+100177.28	Borreliella lusitaniae	QIA24_03920	Methionine transporter MetT

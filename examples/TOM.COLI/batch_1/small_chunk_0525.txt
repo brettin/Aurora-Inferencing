@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00340		H8NGY3		Energy-dependent translational throttle protein EttA		ABC transporter ATP-binding protein
+1003201.3	Rickettsia typhi	RTTH1527_00345		H8NGY4		Chromosome (plasmid) partitioning protein ParB		Chromosome partitioning protein ParB (Spo0J protein)

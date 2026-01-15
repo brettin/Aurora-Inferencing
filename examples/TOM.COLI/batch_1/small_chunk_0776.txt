@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02885		H8NIF2	rpmH	LSU ribosomal protein L34p	rpmH	50S ribosomal protein L34
+1003201.3	Rickettsia typhi	RTTH1527_02890		H8NIF3	rnpA	Ribonuclease P protein component (EC 3.1.26.5)	rnpA	ribonuclease P

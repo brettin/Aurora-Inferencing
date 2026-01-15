@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02570	Trehalase (EC 3.2.1.28)
+100177.28	Borreliella lusitaniae	QIA24_02575	bmpB	ABC transporter, substrate-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)

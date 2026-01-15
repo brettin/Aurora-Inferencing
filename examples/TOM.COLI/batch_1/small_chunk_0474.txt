@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04800	murJ	Peptidoglycan lipid II flippase MurJ
+100177.28	Borreliella lusitaniae	QIA24_04805	PBS lyase HEAT-like repeat domain protein

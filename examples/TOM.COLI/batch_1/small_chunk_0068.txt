@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00700	antigen, P35,
+100177.28	Borreliella lusitaniae	QIA24_00705	BBA74, a periplasmic protein associated with the outer membrane

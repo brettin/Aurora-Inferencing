@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003795	Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)
+1005395.227	Pseudomonas bharatica	CSV86_003800	Sensor histidine kinase/response regulator

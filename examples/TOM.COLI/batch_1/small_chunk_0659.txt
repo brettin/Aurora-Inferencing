@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01695		H8NJ77		NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)		NADH:ubiquinone oxidoreductase subunit A
+1003201.3	Rickettsia typhi	RTTH1527_01700		H8NJ78		Lipid A core - O-antigen ligase and related enzymes		hypothetical protein

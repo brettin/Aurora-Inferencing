@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02755	B. burgdorferi coding region BB0418
+100177.28	Borreliella lusitaniae	QIA24_02760	Two-component response regulator essential for glycerol utilization / Diguanylate cyclase

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03835		H8NI19		Inner membrane protein, KefB/KefC family		glutathione-regulated potassium-efflux system
+1003201.3	Rickettsia typhi	RTTH1527_03840		H8NI20		Ribosomal silencing factor RsfA		hypothetical protein

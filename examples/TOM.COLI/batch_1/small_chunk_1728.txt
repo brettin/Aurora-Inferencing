@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008515	probable membrane protein YPO2362
+1005395.227	Pseudomonas bharatica	CSV86_008520	hypothetical protein

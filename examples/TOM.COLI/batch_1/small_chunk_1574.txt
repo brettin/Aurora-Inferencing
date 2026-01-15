@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006910	Type II and III secretion system family protein
+1005395.227	Pseudomonas bharatica	CSV86_006915	GNAT family acetyltransferase YjcF

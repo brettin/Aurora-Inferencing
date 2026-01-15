@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005960	Multidrug efflux system EmrAB-OMF, membrane fusion component EmrA
+1005395.227	Pseudomonas bharatica	CSV86_005965	Multidrug efflux system EmrAB-OMF, inner-membrane proton/drug antiporter EmrB (MFS type)

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003190	LSU rRNA pseudouridine(746) synthase (EC 5.4.99.29) @ tRNA pseudouridine(32) synthase (EC 5.4.99.28)
+1005395.227	Pseudomonas bharatica	CSV86_003195	minE	Cell division topological specificity factor MinE

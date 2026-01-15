@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03705	DnaJ-like protein DjlA
+100177.28	Borreliella lusitaniae	QIA24_03710	membrane-associated protein p66

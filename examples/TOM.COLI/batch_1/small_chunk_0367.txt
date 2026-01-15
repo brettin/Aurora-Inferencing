@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03715	Uncharacterized substrate:H+ symporter, LctP family
+100177.28	Borreliella lusitaniae	QIA24_03720	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)

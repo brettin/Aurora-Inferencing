@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01255	rplI	LSU ribosomal protein L9p
+100177.28	Borreliella lusitaniae	QIA24_01260	rpsR	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent

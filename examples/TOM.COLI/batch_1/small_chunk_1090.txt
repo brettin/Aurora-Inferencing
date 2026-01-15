@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001920	lepB	Signal peptidase I (EC 3.4.21.89)
+1005395.227	Pseudomonas bharatica	CSV86_001925	rnc	Ribonuclease III (EC 3.1.26.3)

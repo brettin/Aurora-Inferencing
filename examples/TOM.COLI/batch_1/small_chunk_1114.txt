@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002165	bfr	Bacterioferritin (EC 1.16.3.1)
+1005395.227	Pseudomonas bharatica	CSV86_002170	Bacterioferritin-associated ferredoxin

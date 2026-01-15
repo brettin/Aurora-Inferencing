@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02945	Chromate transport protein
+100177.28	Borreliella lusitaniae	QIA24_02950	Small-conductance mechanosensitive channel

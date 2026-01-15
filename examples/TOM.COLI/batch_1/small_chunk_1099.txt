@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002010	Integral membrane protein
+1005395.227	Pseudomonas bharatica	CSV86_002015	iron-chelator utilization protein,

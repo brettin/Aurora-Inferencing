@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004685	Nitrate ABC transporter, substrate-binding protein
+1005395.227	Pseudomonas bharatica	CSV86_004690	Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2)

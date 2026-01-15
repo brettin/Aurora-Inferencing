@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04750	nusA	Transcription termination protein NusA
+100177.28	Borreliella lusitaniae	QIA24_04755	infB	Translation initiation factor 2

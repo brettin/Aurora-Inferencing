@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04225	rplS	LSU ribosomal protein L19p
+100177.28	Borreliella lusitaniae	QIA24_04230	ortholog to Borrelia burgdorferi BB0701

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01555		H8NJ49		Protein QmcA (possibly involved in integral membrane quality control)		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_01560		H8NJ50		hypothetical protein		hypothetical protein

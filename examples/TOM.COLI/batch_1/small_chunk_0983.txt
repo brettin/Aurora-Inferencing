@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000785	DNA-binding response regulator ColR
+1005395.227	Pseudomonas bharatica	CSV86_000790	Two-component system sensor histidine kinase

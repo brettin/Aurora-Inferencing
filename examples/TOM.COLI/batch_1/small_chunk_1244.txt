@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003505	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_003510	Putative NADP-dependent oxidoreductase PA1648

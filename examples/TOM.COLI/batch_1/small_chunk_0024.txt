@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00260	B. burgdorferi coding region BBB27
+100177.28	Borreliella lusitaniae	QIA24_00265	Oligopeptide ABC transporter, ATP-binding protein

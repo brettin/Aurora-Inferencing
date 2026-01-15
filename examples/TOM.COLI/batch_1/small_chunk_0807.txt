@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03195		H8NHX0		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03200		H8NHX1	ksgA	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)	ksgA	16S ribosomal RNA methyltransferase KsgA/Dim1 family protein

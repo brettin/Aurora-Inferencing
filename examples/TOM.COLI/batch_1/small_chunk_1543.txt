@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006595	nuclease inhibitor
+1005395.227	Pseudomonas bharatica	CSV86_006600	probable membrane protein YPO3302

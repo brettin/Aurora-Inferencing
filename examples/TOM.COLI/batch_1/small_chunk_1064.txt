@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001640	2-hydroxymuconic semialdehyde hydrolase (EC 3.7.1.9)
+1005395.227	Pseudomonas bharatica	CSV86_001645	Putative 5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase oxidoreductase protein (EC 1.2.1.60)

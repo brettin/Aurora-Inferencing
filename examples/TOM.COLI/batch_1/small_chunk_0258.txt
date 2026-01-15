@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02610	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+100177.28	Borreliella lusitaniae	QIA24_02615	rplL	LSU ribosomal protein L7p/L12p (P1/P2)

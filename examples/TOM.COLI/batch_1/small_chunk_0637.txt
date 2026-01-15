@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01475		H8NJ33		proline/betaine transporter		proline/betaine transporter ProP2
+1003201.3	Rickettsia typhi	RTTH1527_01480		H8NJ34		Alkaline protease secretion protein AprE		alkaline proteinase secretion protein

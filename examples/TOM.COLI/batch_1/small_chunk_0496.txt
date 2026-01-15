@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00050		H8NIQ7		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_00055		H8NIQ8		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE		hypothetical protein

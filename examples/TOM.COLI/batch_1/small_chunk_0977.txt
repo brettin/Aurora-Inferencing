@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000725	2-dehydropantoate 2-reductase (EC 1.1.1.169)
+1005395.227	Pseudomonas bharatica	CSV86_000730	UPF0234 protein Yitk

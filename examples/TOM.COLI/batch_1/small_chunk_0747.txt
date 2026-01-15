@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02590		H8NI93		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02595		H8NI94	recO	DNA recombination and repair protein RecO	recO	DNA repair protein RecO

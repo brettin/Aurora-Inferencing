@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004150	tRNA-dihydrouridine(16) synthase
+1005395.227	Pseudomonas bharatica	CSV86_004155	16 kDa heat shock protein A

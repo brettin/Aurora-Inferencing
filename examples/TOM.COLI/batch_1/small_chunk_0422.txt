@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04275	tRNA-Tyr
+100177.28	Borreliella lusitaniae	QIA24_04280	mltG	Murein endolytic transglycosylase MltG

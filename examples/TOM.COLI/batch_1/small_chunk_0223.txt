@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02260	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+100177.28	Borreliella lusitaniae	QIA24_02265	B. burgdorferi coding region BB0315

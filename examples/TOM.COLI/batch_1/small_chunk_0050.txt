@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00520	Outer surface protein precursor
+100177.28	Borreliella lusitaniae	QIA24_00525	B. burgdorferi coding region BBA37

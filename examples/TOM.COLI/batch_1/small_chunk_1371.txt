@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004805	Methyl-accepting chemotaxis sensor/transducer protein
+1005395.227	Pseudomonas bharatica	CSV86_004810	pdxB	Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)

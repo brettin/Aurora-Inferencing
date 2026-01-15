@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03185	rpmD	LSU ribosomal protein L30p (L7e)
+100177.28	Borreliella lusitaniae	QIA24_03190	rplO	LSU ribosomal protein L15p (L27Ae)

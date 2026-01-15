@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02335		H8NHM4		Pyruvate,phosphate dikinase (EC 2.7.9.1)		pyruvate phosphate dikinase
+1003201.3	Rickettsia typhi	RTTH1527_02340		H8NHM5		Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases		hypothetical protein

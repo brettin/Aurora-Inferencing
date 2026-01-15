@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006205	tRNA-Val
+1005395.227	Pseudomonas bharatica	CSV86_006210	NAD-dependent protein deacetylase of SIR2 family

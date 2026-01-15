@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02995	ortholog to Borrelia burgdorferi BB0460
+100177.28	Borreliella lusitaniae	QIA24_03000	tRNA-Arg

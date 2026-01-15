@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003475	Competence protein ComEA helix-hairpin-helix region precursor
+1005395.227	Pseudomonas bharatica	CSV86_003480	hypothetical protein

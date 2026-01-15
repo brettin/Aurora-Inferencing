@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001850	Tripartite tricarboxylate transporter TctC family
+1005395.227	Pseudomonas bharatica	CSV86_001855	Outer membrane low permeability porin, OprD family => OccK5/OpdH tricarboxylate

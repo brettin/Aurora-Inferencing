@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003130	tail-specific protease
+1005395.227	Pseudomonas bharatica	CSV86_003135	Quinone oxidoreductase (EC 1.6.5.5)

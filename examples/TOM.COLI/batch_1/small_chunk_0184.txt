@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01865	Integral membrane protein
+100177.28	Borreliella lusitaniae	QIA24_01870	ychF	GTP-binding and nucleic acid-binding protein YchF

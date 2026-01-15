@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00600	Outer membrane protein
+100177.28	Borreliella lusitaniae	QIA24_00605	hypothetical protein

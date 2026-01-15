@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01915		H8NHE0		Glutamine amidotransferase, class I		glutamine amidotransferase
+1003201.3	Rickettsia typhi	RTTH1527_01920		H8NHE1		Cytochrome c oxidase polypeptide I (EC 1.9.3.1)		cytochrome c oxidase polypeptide I

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03825	DJ-1/YajL/PfpI superfamily, includes chaperone protein YajL (former ThiJ), parkinsonism-associated protein DJ-1, peptidases PfpI, Hsp31
+100177.28	Borreliella lusitaniae	QIA24_03830	Acetate kinase (EC 2.7.2.1)

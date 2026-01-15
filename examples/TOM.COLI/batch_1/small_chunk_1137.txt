@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002415	Adenine specific DNA methylase Mod
+1005395.227	Pseudomonas bharatica	CSV86_002420	Collagen pro alpha-chain precursor

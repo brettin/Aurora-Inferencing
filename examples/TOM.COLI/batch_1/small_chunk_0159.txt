@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01615	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_01620	rplT	LSU ribosomal protein L20p

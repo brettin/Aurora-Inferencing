@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001705	Mobile element protein
+1005395.227	Pseudomonas bharatica	CSV86_001710	Mobile element protein

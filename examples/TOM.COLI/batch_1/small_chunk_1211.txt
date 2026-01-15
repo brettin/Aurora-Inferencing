@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003170	Transcriptional regulator, GntR family
+1005395.227	Pseudomonas bharatica	CSV86_003175	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel

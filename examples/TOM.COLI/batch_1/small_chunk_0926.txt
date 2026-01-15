@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000195	Histidine, proline, and proline betaine ABC transporter, substrate-binding protein HutX
+1005395.227	Pseudomonas bharatica	CSV86_000200	Ornithine cyclodeaminase (EC 4.3.1.12)

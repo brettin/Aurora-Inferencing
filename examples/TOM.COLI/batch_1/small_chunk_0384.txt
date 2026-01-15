@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03895	recB	Exodeoxyribonuclease V beta chain (EC 3.1.11.5)
+100177.28	Borreliella lusitaniae	QIA24_03900	Exodeoxyribonuclease V gamma chain (EC 3.1.11.5)

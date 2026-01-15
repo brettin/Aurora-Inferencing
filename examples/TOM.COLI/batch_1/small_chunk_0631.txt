@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01415		H8NHB8		Membrane-bound metallopeptidase		outer membrane antigenic lipoprotein B precursor
+1003201.3	Rickettsia typhi	RTTH1527_01420		H8NHB9	thyX	Thymidylate synthase ThyX (EC 2.1.1.148)	thyX	FAD-dependent thymidylate synthase

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004735	Rtn protein
+1005395.227	Pseudomonas bharatica	CSV86_004740	hypothetical protein

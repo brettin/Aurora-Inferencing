@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003530	Methyl-accepting chemotaxis sensor/transducer protein
+1005395.227	Pseudomonas bharatica	CSV86_003535	Benzoate transport protein

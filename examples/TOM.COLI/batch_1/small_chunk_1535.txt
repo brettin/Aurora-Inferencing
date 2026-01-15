@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006515	Methyl-accepting chemotaxis sensor/transducer protein
+1005395.227	Pseudomonas bharatica	CSV86_006520	Histidine permease YuiF

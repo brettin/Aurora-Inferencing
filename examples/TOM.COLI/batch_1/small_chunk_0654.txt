@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01645		H8NJ67		OUTER MEMBRANE ASSEMBLY PROTEIN (asmA)		outer membrane assembly protein
+1003201.3	Rickettsia typhi	RTTH1527_01650		H8NJ68	rimM	16S rRNA processing protein RimM	rimM	16S rRNA-processing protein RimM

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001045	3-carboxy-cis,cis-muconate cycloisomerase (EC 5.5.1.2)
+1005395.227	Pseudomonas bharatica	CSV86_001050	pcaD	Beta-ketoadipate enol-lactone hydrolase (EC 3.1.1.24)

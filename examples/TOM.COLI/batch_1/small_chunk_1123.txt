@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002260	apbC	[4Fe-4S] cluster assembly scaffold protein Mrp (=ApbC)
+1005395.227	Pseudomonas bharatica	CSV86_002265	Cold shock protein of CSP family

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000595	UPF0102 protein YraN
+1005395.227	Pseudomonas bharatica	CSV86_000600	Penicillin-binding protein activator LpoA

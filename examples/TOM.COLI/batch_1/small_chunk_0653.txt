@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01635		H8NJ65	rpsD	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent	rpsD	30S ribosomal protein S4
+1003201.3	Rickettsia typhi	RTTH1527_01640		H8NJ66		hypothetical protein		protoheme IX farnesyltransferase

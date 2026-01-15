@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004615	Phosphoenolpyruvate synthase regulatory protein
+1005395.227	Pseudomonas bharatica	CSV86_004620	ppsA	Phosphoenolpyruvate synthase (EC 2.7.9.2)

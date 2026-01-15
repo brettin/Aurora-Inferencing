@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003215	Patatin
+1005395.227	Pseudomonas bharatica	CSV86_003220	Outer-membrane-phospholipid-binding lipoprotein MlaA

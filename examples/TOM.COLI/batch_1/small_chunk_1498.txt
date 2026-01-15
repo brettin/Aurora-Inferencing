@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006135	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_006140	Shikimate 5-dehydrogenase I gamma (EC 1.1.1.25)

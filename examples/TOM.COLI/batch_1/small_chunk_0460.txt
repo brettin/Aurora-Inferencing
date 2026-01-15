@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04660	Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily S
+100177.28	Borreliella lusitaniae	QIA24_04665	rsfS	Ribosomal silencing factor RsfA

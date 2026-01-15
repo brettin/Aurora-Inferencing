@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002395	UPF0225 protein YchJ
+1005395.227	Pseudomonas bharatica	CSV86_002400	hypothetical protein

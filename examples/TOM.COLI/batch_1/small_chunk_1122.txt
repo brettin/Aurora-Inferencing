@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002250	Electron transport complex protein RnfA
+1005395.227	Pseudomonas bharatica	CSV86_002255	metG	Methionyl-tRNA synthetase (EC 6.1.1.10)

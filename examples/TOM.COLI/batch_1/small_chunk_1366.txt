@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004755	Ammonium transporter
+1005395.227	Pseudomonas bharatica	CSV86_004760	Inner membrane protein, KefB/KefC family

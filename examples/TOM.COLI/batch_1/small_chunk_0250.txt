@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02530	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02535	pdeB	HD domain protein

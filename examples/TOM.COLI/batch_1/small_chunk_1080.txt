@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001815	DNA or RNA helicases of superfamily II
+1005395.227	Pseudomonas bharatica	CSV86_001820	GGDEF domain protein

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03595		H8NIL8	recA	RecA protein	recA	recombinase A
+1003201.3	Rickettsia typhi	RTTH1527_03600		H8NIL9	fabG	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100), FadG	fabG	3-ketoacyl-(acyl-carrier-protein) reductase

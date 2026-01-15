@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02040		H8NHG5		Branched-chain amino acid aminotransferase (EC 2.6.1.42)		branched-chain amino acid aminotransferase
+1003201.3	Rickettsia typhi	RTTH1527_02045		H8NHG6		4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)		dihydrodipicolinate synthase

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000645	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+1005395.227	Pseudomonas bharatica	CSV86_000650	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)

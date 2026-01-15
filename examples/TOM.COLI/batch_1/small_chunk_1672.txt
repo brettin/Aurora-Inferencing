@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007935	hppD	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+1005395.227	Pseudomonas bharatica	CSV86_007940	Rtn protein

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004825	mqo	Malate:quinone oxidoreductase (EC 1.1.5.4)
+1005395.227	Pseudomonas bharatica	CSV86_004830	tRNA-Pro

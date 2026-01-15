@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007430	RNA polymerase sigma-70 factor, ECF subfamily
+1005395.227	Pseudomonas bharatica	CSV86_007435	hypothetical protein

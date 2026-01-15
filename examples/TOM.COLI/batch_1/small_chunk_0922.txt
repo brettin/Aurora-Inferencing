@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000155	Branched-chain amino acid dehydrogenase [deaminating] (EC 1.4.1.9)(EC 1.4.1.23)
+1005395.227	Pseudomonas bharatica	CSV86_000160	YebG, DNA damage-inducible gene in SOS regulon, expressed in stationary phase

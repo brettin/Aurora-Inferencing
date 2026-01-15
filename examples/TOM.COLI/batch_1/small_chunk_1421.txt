@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005340	Cobalt/zinc/cadmium efflux RND transporter, outer membrane protein CzcC
+1005395.227	Pseudomonas bharatica	CSV86_005345	Cobalt/zinc/cadmium efflux RND transporter, membrane fusion protein CzcB

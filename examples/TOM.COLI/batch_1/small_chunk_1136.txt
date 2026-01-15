@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002405	Putative outer membrane protein
+1005395.227	Pseudomonas bharatica	CSV86_002410	Putative outer membrane protein

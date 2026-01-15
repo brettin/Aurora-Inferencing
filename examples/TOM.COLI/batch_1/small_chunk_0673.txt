@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01835		H8NHC4		Lipid A export permease/ATP-binding protein MsbA		lipid A export ATP-binding/permease protein MsbA
+1003201.3	Rickettsia typhi	RTTH1527_01840		H8NHC5		D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)		D-alanyl-D-alanine carboxypeptidase

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04385	Glucose-6-phosphate isomerase (EC 5.3.1.9)
+100177.28	Borreliella lusitaniae	QIA24_04390	Chromosome (plasmid) partitioning protein ParB

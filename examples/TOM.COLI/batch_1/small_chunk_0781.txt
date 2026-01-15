@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02935		H8NIG2		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02940		H8NIG3		Lysophospholipid transporter LplT / 2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40) / Acyl-[acyl-carrier-protein] synthetase (EC 6.2.1.20)		acylglycerophosphoethanolamine acyltransferase

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006115	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_006120	HemK family modification methylase PA2179

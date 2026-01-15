@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03335		H8NHZ8		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03340		H8NHZ9		Hemolysins and related proteins containing CBS domains		hypothetical protein

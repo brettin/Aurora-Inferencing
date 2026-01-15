@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00900	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_00905	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01295	uppS	Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+100177.28	Borreliella lusitaniae	QIA24_01300	frr	Ribosome recycling factor

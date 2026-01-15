@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00030		H8NIQ3		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)		UDP-N-acetylglucosamine acyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_00035		H8NIQ4	fabZ	3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)	fabZ	(3R)-hydroxymyristoyl-ACP dehydratase

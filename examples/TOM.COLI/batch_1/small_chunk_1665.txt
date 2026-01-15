@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007865	gloA	Lactoylglutathione lyase (EC 4.4.1.5)
+1005395.227	Pseudomonas bharatica	CSV86_007870	transcriptional regulator MvaT, P16 subunit,

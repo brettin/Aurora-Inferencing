@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02260		H8NHK9		Uroporphyrinogen-III synthase in Rickettsia, divergent, (EC 4.2.1.75)		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02265		H8NHL0		AmpG permease		murein peptide permease protein AmpG

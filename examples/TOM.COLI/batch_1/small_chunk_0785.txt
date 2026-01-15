@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02975		H8NHS6	groES	Heat shock protein 10 kDa family chaperone GroES	groES	co-chaperonin GroES
+1003201.3	Rickettsia typhi	RTTH1527_02980		H8NHS7	rph	Ribonuclease PH (EC 2.7.7.56)	rph	ribonuclease PH

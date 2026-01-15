@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03355		H8NIH0		hypothetical protein		guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+1003201.3	Rickettsia typhi	RTTH1527_03360		H8NIH1		beta-N-acetylglucosaminidase (EC 3.2.1.52)		beta-glucosidase

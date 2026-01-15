@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005740	lipoprotein
+1005395.227	Pseudomonas bharatica	CSV86_005745	hypothetical protein

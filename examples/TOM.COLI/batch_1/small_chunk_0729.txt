@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02405		H8NHN8		Lipopolysaccharide ABC transporter, ATP-binding protein LptB		ABC transporter ATP-binding protein
+1003201.3	Rickettsia typhi	RTTH1527_02410		H8NHN9		Phosphomannomutase (EC 5.4.2.8)		phosphomannomutase

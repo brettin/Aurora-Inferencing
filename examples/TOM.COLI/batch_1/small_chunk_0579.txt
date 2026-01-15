@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00895		H8NIZ5		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_00900		H8NIZ6	dapD	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)	dapD	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase

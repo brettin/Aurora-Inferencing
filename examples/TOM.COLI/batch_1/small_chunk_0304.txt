@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03075	Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps
+100177.28	Borreliella lusitaniae	QIA24_03080	B. burgdorferi coding region BB0475

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01910	DUF327 domain-containing protein BB_0244
+100177.28	Borreliella lusitaniae	QIA24_01915	Polymer-forming bactofilin

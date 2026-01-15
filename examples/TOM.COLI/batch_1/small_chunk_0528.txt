@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00370		H8NGY9		Glycerol-3-phosphate transporter		glycerol-3-phosphate transporter
+1003201.3	Rickettsia typhi	RTTH1527_00375		H8NGZ0		ADP/ATP Translocase, NTT1		ADP/ATP carrier protein 1

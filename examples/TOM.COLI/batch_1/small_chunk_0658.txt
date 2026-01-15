@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01685		H8NJ75		NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)		NADH dehydrogenase subunit C
+1003201.3	Rickettsia typhi	RTTH1527_01690		H8NJ76		NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)		NADH dehydrogenase subunit B

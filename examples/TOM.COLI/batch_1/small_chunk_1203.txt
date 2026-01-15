@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003090	nirB	Nitrite reductase [NAD(P)H] large subunit (EC 1.7.1.4)
+1005395.227	Pseudomonas bharatica	CSV86_003095	nirD	Nitrite reductase [NAD(P)H] small subunit (EC 1.7.1.4)

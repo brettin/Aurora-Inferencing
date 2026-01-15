@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005870	pabB	Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)
+1005395.227	Pseudomonas bharatica	CSV86_005875	Alpha-L-glutamate ligase family protein

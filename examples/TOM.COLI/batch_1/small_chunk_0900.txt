@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_04125		H8NI77		Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein		phosphonate metabolism protein PhnP
+1003201.3	Rickettsia typhi	RTTH1527_04130		H8NI78		membrane-associated phospholipid phosphatase, PAP2 superfamily		hypothetical protein

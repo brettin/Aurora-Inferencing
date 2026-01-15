@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002485	Pyridoxal-5'-phosphate-dependent enzyme beta superfamily (fold type II)
+1005395.227	Pseudomonas bharatica	CSV86_002490	NAD(FAD)-utilizing dehydrogenase, sll0175 homolog

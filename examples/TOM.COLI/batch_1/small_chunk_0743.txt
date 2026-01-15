@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02550		H8NHR7		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02555		H8NHR8		Porphobilinogen synthase (EC 4.2.1.24)		delta-aminolevulinic acid dehydratase

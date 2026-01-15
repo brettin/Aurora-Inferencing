@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002905	Putative permease often clustered with de novo purine synthesis
+1005395.227	Pseudomonas bharatica	CSV86_002910	hda	DnaA inactivator Hda (shorter homolog of DnaA)

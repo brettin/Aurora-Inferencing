@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_04145		H8NI81		N-succinyl-L,L-diaminopimelate desuccinylase (EC 3.5.1.18)		succinyl-diaminopimelate desuccinylase
+1003201.3	Rickettsia typhi	RTTH1527_04150		H8NI82		YdcF-like protein		hypothetical protein

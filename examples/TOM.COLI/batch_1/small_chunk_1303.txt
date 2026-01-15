@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004110	Il-IS_2, transposase
+1005395.227	Pseudomonas bharatica	CSV86_004115	tRNA-Ala

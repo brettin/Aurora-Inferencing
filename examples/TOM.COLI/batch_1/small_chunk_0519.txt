@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00280		H8NGX1	queF	NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)	queF	7-cyano-7-deazaguanine reductase
+1003201.3	Rickettsia typhi	RTTH1527_00285		H8NGX2		Cell cycle transcriptional regulator CtrA		transcriptional activator protein CzcR

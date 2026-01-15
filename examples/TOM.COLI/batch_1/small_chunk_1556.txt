@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006730	Integral membrane protein TerC
+1005395.227	Pseudomonas bharatica	CSV86_006735	Phosphate-binding protein

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008115	Polyamine ABC transporter, permease protein
+1005395.227	Pseudomonas bharatica	CSV86_008120	Spermidine/putrescine-binding periplasmic protein

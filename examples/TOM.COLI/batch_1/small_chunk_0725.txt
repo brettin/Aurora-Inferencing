@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02365		H8NHN0		cell surface antigen		cell surface antigen
+1003201.3	Rickettsia typhi	RTTH1527_02370		H8NHN1		NAD transporter of enosymbionts, possible		ADP/ATP carrier protein 4

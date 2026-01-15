@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002270	Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
+1005395.227	Pseudomonas bharatica	CSV86_002275	hypothetical protein

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004745	Phage holin
+1005395.227	Pseudomonas bharatica	CSV86_004750	ElaB protein

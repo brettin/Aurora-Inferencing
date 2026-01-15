@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04710	B. burgdorferi coding region BB0792
+100177.28	Borreliella lusitaniae	QIA24_04715	tmk	Thymidylate kinase (EC 2.7.4.9)

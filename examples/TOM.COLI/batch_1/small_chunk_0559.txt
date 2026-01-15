@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00685		H8NIV5	gatB	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)	gatB	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1003201.3	Rickettsia typhi	RTTH1527_00690		H8NIV6	gatA	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)	gatA	aspartyl/glutamyl-tRNA amidotransferase subunit A

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00940	tRNA-Gly
+100177.28	Borreliella lusitaniae	QIA24_00945	ssrA	transfer-messenger RNA

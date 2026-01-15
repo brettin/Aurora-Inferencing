@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02925		H8NIG0		Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein of acetyl-CoA carboxylase; Propionyl-CoA carboxylase alpha chain (EC 6.4.1.3)		acetyl-CoA carboxylase, biotin carboxylase
+1003201.3	Rickettsia typhi	RTTH1527_02930		H8NIG1		Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2); Propionyl-CoA carboxylase beta chain (EC 6.4.1.3)		propionyl-CoA carboxylase beta chain precursor

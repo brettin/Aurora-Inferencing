@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00760	B. burgdorferi coding region BB0011
+100177.28	Borreliella lusitaniae	QIA24_00765	truA	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)

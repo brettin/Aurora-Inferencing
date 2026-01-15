@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002130	glpK	Glycerol kinase (EC 2.7.1.30)
+1005395.227	Pseudomonas bharatica	CSV86_002135	Glycerol uptake facilitator protein

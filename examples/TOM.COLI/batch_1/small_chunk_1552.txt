@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006690	DNA polymerase IV-like protein ImuB
+1005395.227	Pseudomonas bharatica	CSV86_006695	Error-prone repair homolog of DNA polymerase III alpha subunit (EC 2.7.7.7)

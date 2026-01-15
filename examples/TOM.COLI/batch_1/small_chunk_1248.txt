@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003550	folE	GTP cyclohydrolase I (EC 3.5.4.16) type 1
+1005395.227	Pseudomonas bharatica	CSV86_003555	Smr domain protein

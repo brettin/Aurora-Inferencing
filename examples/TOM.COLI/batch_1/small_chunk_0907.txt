@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_04195		H8NI91	hemH	Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)	hemH	ferrochelatase
+1003201.3	Rickettsia typhi	RTTH1527_04200		H8NI92	hemE	Uroporphyrinogen III decarboxylase (EC 4.1.1.37)	hemE	uroporphyrinogen decarboxylase

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04720	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_04725	bamA	Outer membrane protein assembly factor YaeT

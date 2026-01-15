@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02270		H8NHL1		hypothetical protein		lipopolysaccharide 1,2-glucosyltransferase WaaJ
+1003201.3	Rickettsia typhi	RTTH1527_02275		H8NHL2		Nucleotide related transporter, NTT family		ADP/ATP carrier protein 3

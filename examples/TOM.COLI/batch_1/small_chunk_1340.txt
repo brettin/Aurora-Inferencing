@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004485	Glutathione S-transferase family protein
+1005395.227	Pseudomonas bharatica	CSV86_004490	Exonuclease SbcC

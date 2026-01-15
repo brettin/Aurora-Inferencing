@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00475		H8NH10		Colicin V production protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_00480		H8NH11		UPF0301 protein YqgE		hypothetical protein

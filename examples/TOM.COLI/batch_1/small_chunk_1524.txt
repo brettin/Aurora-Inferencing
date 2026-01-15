@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006405	Isochorismatase (EC 3.3.2.1)
+1005395.227	Pseudomonas bharatica	CSV86_006410	Transcriptional regulator, AraC family

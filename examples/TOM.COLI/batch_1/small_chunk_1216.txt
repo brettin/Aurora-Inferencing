@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003225	Surface lipoprotein
+1005395.227	Pseudomonas bharatica	CSV86_003230	hypothetical protein

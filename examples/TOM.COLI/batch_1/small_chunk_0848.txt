@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03605		H8NIM0	acpP	Acyl carrier protein	acpP	acyl carrier protein
+1003201.3	Rickettsia typhi	RTTH1527_03610		H8NIM1		3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)		3-oxoacyl-(acyl carrier protein) synthase II

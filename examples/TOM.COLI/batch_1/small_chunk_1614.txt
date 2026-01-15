@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007330	Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+1005395.227	Pseudomonas bharatica	CSV86_007335	yghU	Glutathione S-transferase (EC 2.5.1.18)

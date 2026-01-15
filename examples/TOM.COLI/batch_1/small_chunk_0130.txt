@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01325	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_01330	SSU ribosomal protein S1p

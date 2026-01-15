@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006585	Soluble aldose sugar dehydrogenase, PQQ-dependent (EC 1.1.5.-)
+1005395.227	Pseudomonas bharatica	CSV86_006590	ATPase

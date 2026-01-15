@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007470	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_007475	Methyl-accepting chemotaxis sensor/transducer protein

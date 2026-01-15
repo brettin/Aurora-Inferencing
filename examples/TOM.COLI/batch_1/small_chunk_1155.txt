@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002600	Response regulator protein
+1005395.227	Pseudomonas bharatica	CSV86_002605	Il-IS_2, transposase

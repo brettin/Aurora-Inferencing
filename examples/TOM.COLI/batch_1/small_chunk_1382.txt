@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004915	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_004920	topA	DNA topoisomerase I (EC 5.99.1.2)

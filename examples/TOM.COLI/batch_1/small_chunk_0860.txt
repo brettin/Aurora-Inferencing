@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03725		H8NIP4		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03730		H8NIP5		SAM-dependent methyltransferase		hypothetical protein

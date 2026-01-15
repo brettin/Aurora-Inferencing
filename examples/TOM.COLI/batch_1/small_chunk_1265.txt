@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003725	earP	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_003730	efp	Translation elongation factor P

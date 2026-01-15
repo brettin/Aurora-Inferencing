@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005020	lolD	Lipoprotein-releasing system ATP-binding protein LolD
+1005395.227	Pseudomonas bharatica	CSV86_005025	Lipoprotein releasing system transmembrane protein LolC/LolE

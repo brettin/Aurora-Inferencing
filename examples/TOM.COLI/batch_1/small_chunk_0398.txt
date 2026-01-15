@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04035	Uncharacterized protein BB0661
+100177.28	Borreliella lusitaniae	QIA24_04040	ortholog to Borrelia burgdorferi BB0662

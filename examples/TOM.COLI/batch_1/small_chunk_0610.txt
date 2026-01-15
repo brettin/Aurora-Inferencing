@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01205		H8NH76		Ribonuclease E (EC 3.1.26.12)		ribonuclease E
+1003201.3	Rickettsia typhi	RTTH1527_01210		H8NH77		LSU rRNA pseudouridine(955/2504/2580) synthase (EC 5.4.99.24)		ribosomal large subunit pseudouridine synthase C

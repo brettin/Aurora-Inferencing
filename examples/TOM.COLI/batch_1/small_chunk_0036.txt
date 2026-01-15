@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00380	chpAI protein
+100177.28	Borreliella lusitaniae	QIA24_00385	hypothetical protein

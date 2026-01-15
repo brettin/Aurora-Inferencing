@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04760	rbfA	Ribosome-binding factor A
+100177.28	Borreliella lusitaniae	QIA24_04765	truB	tRNA pseudouridine(55) synthase (EC 5.4.99.25)

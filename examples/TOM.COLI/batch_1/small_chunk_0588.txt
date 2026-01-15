@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00985		H8NJ13		ATPase n2B		ATPase
+1003201.3	Rickettsia typhi	RTTH1527_00990		H8NJ14		S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)		S-adenosylmethionine:tRNA ribosyltransferase-isomerase

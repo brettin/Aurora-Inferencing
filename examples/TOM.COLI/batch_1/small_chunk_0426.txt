@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04315	mreC	Rod shape-determining protein MreC
+100177.28	Borreliella lusitaniae	QIA24_04320	mreD	Rod shape-determining protein MreD

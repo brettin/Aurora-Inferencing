@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02965		H8NIG8		hypothetical protein		guanosine polyphosphate pyrophosphohydrolase/synthetase
+1003201.3	Rickettsia typhi	RTTH1527_02970		H8NHS5	groEL	Heat shock protein 60 kDa family chaperone GroEL	groEL	chaperonin GroEL

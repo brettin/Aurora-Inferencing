@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02905		H8NIF6		Nitrogen regulation protein NtrY (EC 2.7.3.-)		nitrogen regulation protein NtrY
+1003201.3	Rickettsia typhi	RTTH1527_02910		H8NIF7	rpsU	SSU ribosomal protein S21p	rpsU	30S ribosomal protein S21

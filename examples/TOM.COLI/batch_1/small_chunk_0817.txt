@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03295		H8NHZ0	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	clpX	ATP-dependent protease ATP-binding subunit ClpX
+1003201.3	Rickettsia typhi	RTTH1527_03300		H8NHZ1		Acetyltransferase, GNAT family		ribosomal-protein-alanine N-acetyltransferase

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008535	Acyl-CoA dehydrogenase; probable dibenzothiophene desulfurization enzyme
+1005395.227	Pseudomonas bharatica	CSV86_008540	Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases

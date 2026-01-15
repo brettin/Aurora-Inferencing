@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03845		H8NI21		YrbA protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03850		H8NI22	infA	Translation initiation factor 1	infA	translation initiation factor IF-1

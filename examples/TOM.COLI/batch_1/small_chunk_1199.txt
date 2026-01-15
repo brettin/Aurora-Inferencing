@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003045	Lysophospholipid transporter LplT / 2-acylglycerophosphoethanolamine acyltransferase (EC 2.3.1.40)
+1005395.227	Pseudomonas bharatica	CSV86_003050	sugE	small multidrug resistance family (SMR) protein

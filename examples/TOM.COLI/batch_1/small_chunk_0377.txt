@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03815	beta-glycosyl hydrolase
+100177.28	Borreliella lusitaniae	QIA24_03820	tRNA-Met

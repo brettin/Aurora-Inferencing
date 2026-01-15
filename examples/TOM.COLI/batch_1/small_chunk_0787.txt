@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02995		H8NHT0		UPF0118 membrane protein RT0621		permease
+1003201.3	Rickettsia typhi	RTTH1527_03000		H8NHT1		DnaA inactivator Hda (shorter homolog of DnaA)		hypothetical protein

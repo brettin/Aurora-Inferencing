@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03425		H8NII4	rnhA	Ribonuclease HI (EC 3.1.26.4)	rnhA	ribonuclease H
+1003201.3	Rickettsia typhi	RTTH1527_03430		H8NII5		ClpXP protease specificity-enhancing factor SspBalpha		hypothetical protein

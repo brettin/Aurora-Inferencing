@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04770	rpsO	SSU ribosomal protein S15p (S13e)
+100177.28	Borreliella lusitaniae	QIA24_04775	pnp	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)

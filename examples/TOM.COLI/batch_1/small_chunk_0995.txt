@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000910	Putative hemolysin
+1005395.227	Pseudomonas bharatica	CSV86_000915	Acyl-CoA dehydrogenases

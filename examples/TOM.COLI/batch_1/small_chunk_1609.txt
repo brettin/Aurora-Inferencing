@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007280	bacteriophytochrome heme oxygenase BphO
+1005395.227	Pseudomonas bharatica	CSV86_007285	Phytochrome, two-component sensor histidine kinase (EC 2.7.3.-)

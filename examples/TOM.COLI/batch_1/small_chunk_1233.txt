@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003395	rpsA	SSU ribosomal protein S1p
+1005395.227	Pseudomonas bharatica	CSV86_003400	ihfB	Integration host factor beta subunit

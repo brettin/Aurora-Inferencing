@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01585	flgK	Flagellar hook-associated protein FlgK
+100177.28	Borreliella lusitaniae	QIA24_01590	Flagellar hook-associated protein FlgL

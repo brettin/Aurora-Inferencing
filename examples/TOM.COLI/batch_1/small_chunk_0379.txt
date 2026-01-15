@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03835	mfd	Transcription-repair coupling factor
+100177.28	Borreliella lusitaniae	QIA24_03840	hypothetical protein

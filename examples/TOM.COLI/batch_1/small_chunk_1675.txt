@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007965	clsB	Cardiolipin synthase (EC 2.7.8.-) bacterial type ClsB, has minor trans-phosphatidylation activity converting PE to PG
+1005395.227	Pseudomonas bharatica	CSV86_007970	Endonuclease/exonuclease/phosphatase family protein

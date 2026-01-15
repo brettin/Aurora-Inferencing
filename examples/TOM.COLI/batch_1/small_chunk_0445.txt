@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04505	Gliding motility-associated ABC transporter permease protein GldF
+100177.28	Borreliella lusitaniae	QIA24_04510	Gliding motility-associated ABC transporter ATP-binding protein GldA

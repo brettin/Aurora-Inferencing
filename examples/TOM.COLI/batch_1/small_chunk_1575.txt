@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006920	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_006925	purB	Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)

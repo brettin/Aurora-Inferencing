@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007135	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_007150	SH3 domain-containing protein

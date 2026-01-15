@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000420	cysN	Sulfate adenylyltransferase subunit 1 (EC 2.7.7.4) / Adenylylsulfate kinase (EC 2.7.1.25)
+1005395.227	Pseudomonas bharatica	CSV86_000425	Transcriptional regulator, AsnC family

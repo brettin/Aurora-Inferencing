@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000715	ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+1005395.227	Pseudomonas bharatica	CSV86_000720	Sensory box histidine kinase

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004010	Uncharacterized metal-dependent hydrolase YcfH
+1005395.227	Pseudomonas bharatica	CSV86_004015	Transcriptional regulator, AcrR family

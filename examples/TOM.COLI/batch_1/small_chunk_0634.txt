@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01445		H8NJ27		Uncharacterized amino acid permease, GabP family		cationic amino acid transporter-1
+1003201.3	Rickettsia typhi	RTTH1527_01450		H8NJ28	hisS	Histidyl-tRNA synthetase (EC 6.1.1.21)	hisS	histidyl-tRNA synthetase

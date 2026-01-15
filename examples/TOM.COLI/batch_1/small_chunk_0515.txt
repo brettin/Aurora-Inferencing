@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00240		H8NGW3	cysS	Cysteinyl-tRNA synthetase (EC 6.1.1.16)	cysS	cysteinyl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_00245		H8NGW4		hypothetical protein		hypothetical protein

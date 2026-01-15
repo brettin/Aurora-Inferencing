@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001180	C4-dicarboxylate transport sensor protein
+1005395.227	Pseudomonas bharatica	CSV86_001185	bglX	Periplasmic beta-glucosidase (EC 3.2.1.21)

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01075		H8NH50		histidine kinase sensor protein		histidine kinase sensor protein
+1003201.3	Rickettsia typhi	RTTH1527_01080		H8NH51		Cell division coordinator CpoB		Tol system periplasmic component

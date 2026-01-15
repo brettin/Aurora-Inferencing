@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008005	Protein of unknown function DUF1275
+1005395.227	Pseudomonas bharatica	CSV86_008010	hypothetical protein

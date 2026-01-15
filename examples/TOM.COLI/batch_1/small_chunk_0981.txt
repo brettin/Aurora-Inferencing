@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000765	fxsA	FxsA protein
+1005395.227	Pseudomonas bharatica	CSV86_000770	Heat shock protein 10 kDa family chaperone GroES

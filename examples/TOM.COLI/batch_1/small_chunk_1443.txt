@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005570	Mobile element protein
+1005395.227	Pseudomonas bharatica	CSV86_005580	tal	Transaldolase (EC 2.2.1.2)

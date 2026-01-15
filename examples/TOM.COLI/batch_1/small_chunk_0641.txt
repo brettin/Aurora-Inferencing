@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01515		H8NJ41	lpxB	Lipid-A-disaccharide synthase (EC 2.4.1.182)	lpxB	lipid-A-disaccharide synthase
+1003201.3	Rickettsia typhi	RTTH1527_01520		H8NJ42		Murein endolytic transglycosylase MltG		hypothetical protein

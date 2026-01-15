@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001930	era	GTP-binding protein Era
+1005395.227	Pseudomonas bharatica	CSV86_001935	recO	DNA recombination and repair protein RecO

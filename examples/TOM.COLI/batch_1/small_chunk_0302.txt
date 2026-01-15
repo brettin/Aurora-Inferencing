@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03055	lspA	Lipoprotein signal peptidase (EC 3.4.23.36)
+100177.28	Borreliella lusitaniae	QIA24_03060	hypothetical protein

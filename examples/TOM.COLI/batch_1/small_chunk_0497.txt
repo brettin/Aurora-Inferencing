@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00060		H8NIQ9		Zinc ABC transporter, substrate-binding protein ZnuA		zinc/manganese ABC transporter substrate binding protein
+1003201.3	Rickettsia typhi	RTTH1527_00065		H8NIR0		CCA tRNA nucleotidyltransferase (EC 2.7.7.72)		poly(A) polymerase

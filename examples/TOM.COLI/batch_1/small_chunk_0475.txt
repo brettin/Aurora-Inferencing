@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04810	coaBC	Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+100177.28	Borreliella lusitaniae	QIA24_04815	hypothetical protein

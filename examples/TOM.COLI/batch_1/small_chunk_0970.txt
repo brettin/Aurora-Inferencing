@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000655	ftsW	Peptidoglycan glycosyltransferase FtsW (EC 2.4.1.129)
+1005395.227	Pseudomonas bharatica	CSV86_000660	murG	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02200	Cell division protein FtsQ
+100177.28	Borreliella lusitaniae	QIA24_02205	ftsW	Peptidoglycan glycosyltransferase FtsW (EC 2.4.1.129)

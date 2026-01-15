@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007945	Intracellular protease
+1005395.227	Pseudomonas bharatica	CSV86_007950	Cytosine deaminase (EC 3.5.4.1)

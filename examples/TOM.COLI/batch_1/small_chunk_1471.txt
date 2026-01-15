@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005860	Adenylyl-sulfate reductase [thioredoxin] (EC 1.8.4.10)
+1005395.227	Pseudomonas bharatica	CSV86_005865	thrH	Homoserine kinase (EC 2.7.1.39) @ Phosphoserine phosphatase (EC 3.1.3.3)

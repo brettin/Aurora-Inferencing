@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005645	lysA	Diaminopimelate decarboxylase (EC 4.1.1.20)
+1005395.227	Pseudomonas bharatica	CSV86_005650	isochorismatase hydrolase

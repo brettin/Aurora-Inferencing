@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03845	N-acetylmuramoyl-L-alanine amidase AmiB precursor (EC 3.5.1.28)
+100177.28	Borreliella lusitaniae	QIA24_03855	rnmV	Ribonuclease M5 (EC 3.1.26.8)

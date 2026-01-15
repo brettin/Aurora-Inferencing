@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001535	Protein-disulfide isomerase
+1005395.227	Pseudomonas bharatica	CSV86_001545	hypothetical protein

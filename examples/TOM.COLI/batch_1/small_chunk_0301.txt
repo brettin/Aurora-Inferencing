@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03045	pgeF	Multicopper polyphenol oxidase
+100177.28	Borreliella lusitaniae	QIA24_03050	GTP cyclohydrolase 1 type 2 homolog YbgI

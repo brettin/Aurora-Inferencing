@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003570	prmB	Ribosomal protein L3 N(5)-glutamine methyltransferase (EC 2.1.1.298)
+1005395.227	Pseudomonas bharatica	CSV86_003575	hypothetical protein

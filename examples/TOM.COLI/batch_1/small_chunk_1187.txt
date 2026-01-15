@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002925	L-sorbosone dehydrogenase
+1005395.227	Pseudomonas bharatica	CSV86_002930	hypothetical protein

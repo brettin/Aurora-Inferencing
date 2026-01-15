@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00090		H8NIR5		Signal peptidase I (EC 3.4.21.89)		signal peptidase I
+1003201.3	Rickettsia typhi	RTTH1527_00095		H8NIR6		NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)		NADH dehydrogenase I subunit F

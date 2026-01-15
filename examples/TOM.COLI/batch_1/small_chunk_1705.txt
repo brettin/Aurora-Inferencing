@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008275	Two-component system response regulator protein
+1005395.227	Pseudomonas bharatica	CSV86_008280	ABC transporter, substrate-binding protein (cluster 4, leucine/isoleucine/valine/benzoate)

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000490	Transcriptional regulator, ArsR family
+1005395.227	Pseudomonas bharatica	CSV86_000495	Hydrolase PA4440, alpha/beta fold family

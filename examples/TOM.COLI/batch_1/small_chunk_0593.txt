@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01035		H8NH42	thrS	Threonyl-tRNA synthetase (EC 6.1.1.3)	thrS	threonyl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_01040		H8NH43		rickettsial conserved		hypothetical protein

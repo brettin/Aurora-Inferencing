@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01605		H8NJ59		minor teichoic acids biosynthesis protein ggaB		glycosyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_01610		H8NJ60		hypothetical protein		hypothetical protein

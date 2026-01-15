@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00910	phoU	Phosphate transport system regulatory protein PhoU
+100177.28	Borreliella lusitaniae	QIA24_00915	hypothetical protein

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007010	Replication-associated recombination protein RarA
+1005395.227	Pseudomonas bharatica	CSV86_007015	crcB	Fluoride ion transporter CrcB

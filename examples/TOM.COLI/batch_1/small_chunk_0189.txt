@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01920	Peptidase, M23/M37 family
+100177.28	Borreliella lusitaniae	QIA24_01925	rdgB	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)

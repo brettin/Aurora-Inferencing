@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04600	Flagellar protein FlgJ [peptidoglycan hydrolase]
+100177.28	Borreliella lusitaniae	QIA24_04605	flgI	Flagellar P-ring protein FlgI

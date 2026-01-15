@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004465	Exporter protein, RND family
+1005395.227	Pseudomonas bharatica	CSV86_004470	lipoprotein

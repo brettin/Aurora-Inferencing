@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02140		H8NHI5		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02145		H8NHI6		pyridoxal-phosphate dependent enzyme family protein		threonine dehydratase

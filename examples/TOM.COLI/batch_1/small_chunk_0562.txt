@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00715		H8NIW1		Inner-membrane proton/drug antiporter (MSF type) of tripartite multidrug efflux system		multidrug resistance protein B
+1003201.3	Rickettsia typhi	RTTH1527_00720		H8NIW2		rickettsial conserved		hypothetical protein

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02685		H8NIB2		Cell division protein FtsL		cell division protein FtsL
+1003201.3	Rickettsia typhi	RTTH1527_02690		H8NIB3		16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)		16S rRNA m(4)C1402 methyltransferase

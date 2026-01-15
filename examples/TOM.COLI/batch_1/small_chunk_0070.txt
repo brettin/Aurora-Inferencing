@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00720	B. burgdorferi coding region BB0003
+100177.28	Borreliella lusitaniae	QIA24_00725	Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10)

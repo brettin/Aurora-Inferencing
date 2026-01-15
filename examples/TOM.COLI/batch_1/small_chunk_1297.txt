@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004050	Inner-membrane proton/drug antiporter (MSF type) of tripartite multidrug efflux system
+1005395.227	Pseudomonas bharatica	CSV86_004055	Membrane fusion component of MSF-type tripartite multidrug efflux system

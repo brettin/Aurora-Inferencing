@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006930	hflD	High frequency lysogenization protein HflD
+1005395.227	Pseudomonas bharatica	CSV86_006935	mnmA	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)

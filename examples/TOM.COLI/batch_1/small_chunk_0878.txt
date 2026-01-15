@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03905		H8NI33		Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)		undecaprenyl-phosphate alpha-N-acetylglucosaminyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_03910		H8NI34		Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives		hypothetical protein

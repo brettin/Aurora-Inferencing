@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003335	Sensory box/GGDEF family protein
+1005395.227	Pseudomonas bharatica	CSV86_003340	Pyrroloquinoline quinone (Coenzyme PQQ) biosynthesis protein C

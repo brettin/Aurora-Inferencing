@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002985	Transcriptional regulator, MarR family
+1005395.227	Pseudomonas bharatica	CSV86_002990	Uncharacterized MFS-type transporter

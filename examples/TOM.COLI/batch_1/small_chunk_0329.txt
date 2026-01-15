@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03335	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+100177.28	Borreliella lusitaniae	QIA24_03340	hypothetical protein

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02345		H8NHM6		Multicopper polyphenol oxidase		cytoplasmic protein
+1003201.3	Rickettsia typhi	RTTH1527_02350		H8NHM7		Putative glutamine synthetase, Rickettsiales type (EC 6.3.1.2)		glutamine synthetase

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000845	Probable thiol oxidoreductase with 2 cytochrome c heme-binding sites
+1005395.227	Pseudomonas bharatica	CSV86_000850	Iron-regulated protein A precursor

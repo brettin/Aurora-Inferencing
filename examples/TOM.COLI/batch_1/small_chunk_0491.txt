@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_04200	hemE	uroporphyrinogen decarboxylase	hemE	uroporphyrinogen decarboxylase
+1003201.3	Rickettsia typhi	RTTH1527_00005		H8NIP8		Phosphoenolpyruvate synthase regulatory protein		PEP synthetase regulatory protein

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02845	Chromosome (plasmid) partitioning protein ParA
+100177.28	Borreliella lusitaniae	QIA24_02850	hypothetical protein

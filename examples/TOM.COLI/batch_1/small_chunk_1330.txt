@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004385	Transcriptional regulator, AraC family
+1005395.227	Pseudomonas bharatica	CSV86_004390	Hydrolase, carbon-nitrogen family

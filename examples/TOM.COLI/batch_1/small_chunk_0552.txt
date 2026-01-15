@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00615		H8NH38	rplA	LSU ribosomal protein L1p (L10Ae)	rplA	50S ribosomal protein L1
+1003201.3	Rickettsia typhi	RTTH1527_00620		H8NH39	rplJ	LSU ribosomal protein L10p (P0)	rplJ	50S ribosomal protein L10

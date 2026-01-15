@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01485		H8NJ35		Type I secretion system ATPase		alkaline proteinase secretion ATP-binding protein
+1003201.3	Rickettsia typhi	RTTH1527_01490		H8NJ36		Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)		aspartate-semialdehyde dehydrogenase

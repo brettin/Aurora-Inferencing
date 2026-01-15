@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02270	Riboflavin ABC transporter, permease protein 2
+100177.28	Borreliella lusitaniae	QIA24_02275	Riboflavin ABC transporter, permease protein 1

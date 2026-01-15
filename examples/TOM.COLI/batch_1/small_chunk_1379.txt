@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004885	Soluble lytic murein transglycosylase (EC 4.2.2.n1)
+1005395.227	Pseudomonas bharatica	CSV86_004890	Bis-ABC ATPase Uup

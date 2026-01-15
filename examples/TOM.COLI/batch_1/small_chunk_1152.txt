@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002570	Tetrapartite efflux system component, FusD-like
+1005395.227	Pseudomonas bharatica	CSV86_002575	Tetrapartite efflux system, membrane fusion component FusE-like

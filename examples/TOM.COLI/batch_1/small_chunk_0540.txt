@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00495		H8NH14		SAM-dependent methyltransferase		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_00500		H8NH15		CarD-like transcriptional regulator		hypothetical protein

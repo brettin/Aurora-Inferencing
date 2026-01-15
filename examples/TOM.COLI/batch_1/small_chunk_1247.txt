@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003540	Glutathione S-transferase, unnamed subgroup (EC 2.5.1.18)
+1005395.227	Pseudomonas bharatica	CSV86_003545	Glutaredoxin

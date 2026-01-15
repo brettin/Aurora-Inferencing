@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00930	Ribonuclease HII (EC 3.1.26.4)
+100177.28	Borreliella lusitaniae	QIA24_00935	bpuR	hypothetical protein

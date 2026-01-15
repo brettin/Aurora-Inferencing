@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03035	Hypothetical protein ortholog to Borrelia burgdorferi BB0465
+100177.28	Borreliella lusitaniae	QIA24_03040	lptB	Lipopolysaccharide ABC transporter, ATP-binding protein LptB

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004495	sbcD	Exonuclease SbcD
+1005395.227	Pseudomonas bharatica	CSV86_004500	Aerotolerance protein BatD

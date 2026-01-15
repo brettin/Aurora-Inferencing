@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003160	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_003165	ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)

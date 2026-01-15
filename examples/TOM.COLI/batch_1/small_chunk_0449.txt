@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04550	Membrane proteins related to metalloendopeptidases
+100177.28	Borreliella lusitaniae	QIA24_04555	Two-component system response regulator protein

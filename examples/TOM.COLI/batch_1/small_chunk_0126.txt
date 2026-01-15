@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01285	rseP	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+100177.28	Borreliella lusitaniae	QIA24_01290	Phosphatidate cytidylyltransferase (EC 2.7.7.41)

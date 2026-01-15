@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01195		H8NH74	lpxC	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)	lpxC	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1003201.3	Rickettsia typhi	RTTH1527_01200		H8NH75		rickettsial conserved		hypothetical protein

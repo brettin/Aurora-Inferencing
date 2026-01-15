@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04125	ABC transporter, permease protein 2 (cluster 11, riboflavin/purine nucleoside/unknown)
+100177.28	Borreliella lusitaniae	QIA24_04130	Methyl-accepting chemotaxis sensor protein BB_0680

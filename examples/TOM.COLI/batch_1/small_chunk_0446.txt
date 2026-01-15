@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04515	Ribonuclease Z (EC 3.1.26.11)
+100177.28	Borreliella lusitaniae	QIA24_04520	FAD-dependent cmnm(5)s(2)U34 oxidoreductase

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000855	c-di-GMP phosphodiesterase (EC 3.1.4.52) => BifA
+1005395.227	Pseudomonas bharatica	CSV86_000860	Superoxide dismutase [Fe] (EC 1.15.1.1)

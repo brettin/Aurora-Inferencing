@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03645		H8NIM8		Tol-Pal system peptidoglycan-associated lipoprotein PAL		peptidoglycan-associated lipoprotein precursor
+1003201.3	Rickettsia typhi	RTTH1527_03650		H8NIM9		3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)		3-oxoacyl-(acyl carrier protein) synthase III

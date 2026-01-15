@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04790	Lipopolysaccharide export system permease protein LptG
+100177.28	Borreliella lusitaniae	QIA24_04795	tgt	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)

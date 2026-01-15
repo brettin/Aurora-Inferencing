@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03805	cdd	Cytidine deaminase (EC 3.5.4.5)
+100177.28	Borreliella lusitaniae	QIA24_03810	3'-to-5' oligoribonuclease A, Bacillus type

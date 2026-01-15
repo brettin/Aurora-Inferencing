@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02430		H8NHP3	nrdF	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)	nrdF	ribonucleotide-diphosphate reductase subunit beta
+1003201.3	Rickettsia typhi	RTTH1527_02435		H8NHP4		Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)		ribonucleotide-diphosphate reductase subunit alpha

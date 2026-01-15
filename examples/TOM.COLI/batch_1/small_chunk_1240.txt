@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003465	nucleotide sugar epimerase/dehydratase WbpM
+1005395.227	Pseudomonas bharatica	CSV86_003470	UDP-glucose 4-epimerase (EC 5.1.3.2)

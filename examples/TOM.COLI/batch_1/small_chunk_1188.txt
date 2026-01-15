@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002935	cobO	Cob(I)alamin adenosyltransferase (EC 2.5.1.17) @ Cob(I)alamin adenosyltransferase (EC 2.5.1.17), clustered with cobalamin synthesis
+1005395.227	Pseudomonas bharatica	CSV86_002940	Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)

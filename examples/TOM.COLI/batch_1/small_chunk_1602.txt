@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007210	uca	Urea carboxylase (EC 6.3.4.6)
+1005395.227	Pseudomonas bharatica	CSV86_007215	atzF	Allophanate hydrolase (EC 3.5.1.54)

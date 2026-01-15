@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01355	greA	Uncharacterized N-terminal domain of the transcription elongation factor GreA / Transcription elongation factor GreA
+100177.28	Borreliella lusitaniae	QIA24_01360	TPR domain protein

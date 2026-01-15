@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008025	response regulator
+1005395.227	Pseudomonas bharatica	CSV86_008030	csrA	Carbon storage regulator

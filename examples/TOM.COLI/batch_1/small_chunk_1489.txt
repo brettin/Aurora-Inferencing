@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006045	Uncharacterized outer membrane protein YaiW
+1005395.227	Pseudomonas bharatica	CSV86_006050	ABC transporter in pyoverdin gene cluster, periplasmic component

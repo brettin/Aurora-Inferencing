@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004705	Sensory box/GGDEF family protein
+1005395.227	Pseudomonas bharatica	CSV86_004710	dacB	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)

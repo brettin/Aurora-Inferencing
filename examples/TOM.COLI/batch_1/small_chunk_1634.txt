@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007535	RidA/YER057c/UK114 superfamily protein
+1005395.227	Pseudomonas bharatica	CSV86_007540	Amine oxidase, flavin-containing

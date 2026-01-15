@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03860	Aspartyl aminopeptidase (EC 3.4.11.21)
+100177.28	Borreliella lusitaniae	QIA24_03865	hypothetical protein

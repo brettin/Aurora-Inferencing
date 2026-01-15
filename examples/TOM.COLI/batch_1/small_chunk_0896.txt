@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_04085		H8NI69		NAD(P) transhydrogenase C-domain of subunit alpha (EC 1.6.1.2)		NAD(P) transhydrogenase subunit alpha
+1003201.3	Rickettsia typhi	RTTH1527_04090		H8NI70		NAD(P) transhydrogenase N-domain of subunit alpha (EC 1.6.1.2)		NAD(P) transhydrogenase subunit alpha

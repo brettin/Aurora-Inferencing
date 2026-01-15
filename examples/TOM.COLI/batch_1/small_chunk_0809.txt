@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03215		H8NHX4	xseA	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)	xseA	exodeoxyribonuclease VII large subunit
+1003201.3	Rickettsia typhi	RTTH1527_03220		H8NHX5		Exodeoxyribonuclease III (EC 3.1.11.2)		exodeoxyribonuclease III

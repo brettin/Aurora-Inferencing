@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001960	cmoA	Carboxy-S-adenosyl-L-methionine synthase
+1005395.227	Pseudomonas bharatica	CSV86_001965	hypothetical protein

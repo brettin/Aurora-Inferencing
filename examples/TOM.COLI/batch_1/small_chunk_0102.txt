@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01040	HMP-PP hydrolase (pyridoxal phosphatase) Cof, detected in genetic screen for thiamin metabolic genes
+100177.28	Borreliella lusitaniae	QIA24_01045	aminopeptidase II

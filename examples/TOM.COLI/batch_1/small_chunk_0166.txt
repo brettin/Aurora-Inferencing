@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01685	tRNA-Cys
+100177.28	Borreliella lusitaniae	QIA24_01690	Hemolysins and related proteins containing CBS domains

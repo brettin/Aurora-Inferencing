@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004695	rmf	Ribosome modulation factor
+1005395.227	Pseudomonas bharatica	CSV86_004700	rlmKL	23S rRNA (guanine(2445)-N(2))-methyltransferase (EC 2.1.1.173) / 23S rRNA (guanine(2069)-N(7))-methyltransferase (EC 2.1.1.264)

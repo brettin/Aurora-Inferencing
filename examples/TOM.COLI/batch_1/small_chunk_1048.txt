@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001465	Il-IS_2, transposase
+1005395.227	Pseudomonas bharatica	CSV86_001470	hypothetical protein

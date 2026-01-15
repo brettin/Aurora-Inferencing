@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02100	Flagellar motor rotation protein MotA
+100177.28	Borreliella lusitaniae	QIA24_02105	Flagellar protein FlbD

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008400	Phage integrase
+1005395.227	Pseudomonas bharatica	CSV86_008405	mhpT	Putative hydroxycinnamate transporter

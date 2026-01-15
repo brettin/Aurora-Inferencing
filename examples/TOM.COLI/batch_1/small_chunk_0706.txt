@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02170		H8NHJ1		Probable transcriptional regulatory protein YebC		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02175		H8NHJ2	rpmJ	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent	rpmJ	50S ribosomal protein L36

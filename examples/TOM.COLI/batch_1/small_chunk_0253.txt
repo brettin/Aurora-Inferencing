@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02560	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)
+100177.28	Borreliella lusitaniae	QIA24_02565	mgtE	Mg/Co/Ni transporter MgtE, CBS domain-containing

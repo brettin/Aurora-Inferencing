@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03115		H8NHV4	rplV	LSU ribosomal protein L22p (L17e)	rplV	50S ribosomal protein L22
+1003201.3	Rickettsia typhi	RTTH1527_03120		H8NHV5	rpsS	SSU ribosomal protein S19p (S15e)	rpsS	30S ribosomal protein S19

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007655	Putative monooxygenase PA5393
+1005395.227	Pseudomonas bharatica	CSV86_007660	Protein of unknown function PA5391, DUF1028 family

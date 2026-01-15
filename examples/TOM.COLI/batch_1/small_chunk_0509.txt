@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00180		H8NIT3		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_00185		H8NIT4		Phospholipid ABC transporter ATP-binding protein MlaF		ribonucleotide ABC transporter ATP-binding protein

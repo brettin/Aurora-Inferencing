@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03705		H8NIP0		Seryl-tRNA synthetase (EC 6.1.1.11)		seryl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_03710		H8NIP1		ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex, VirB4		VirB4 protein precursor

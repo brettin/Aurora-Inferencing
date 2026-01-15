@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003055	rdgC	DNA recombination-dependent growth factor RdgC
+1005395.227	Pseudomonas bharatica	CSV86_003060	tRNA-Val

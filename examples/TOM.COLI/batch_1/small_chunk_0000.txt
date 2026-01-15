@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00005	Acylphosphate phosphohydrolase (EC 3.6.1.7)
+100177.28	Borreliella lusitaniae	QIA24_00010	B. burgdorferi coding region BBB02

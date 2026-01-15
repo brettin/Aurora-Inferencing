@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008605	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_008610	dkgB	Methylglyoxal reductase, dihydroxyacetone producing @ 2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming) (EC 1.1.1.346)

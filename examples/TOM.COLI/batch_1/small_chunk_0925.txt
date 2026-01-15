@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000185	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000190	TonB-dependent receptor

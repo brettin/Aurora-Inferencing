@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003455	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_003460	Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)

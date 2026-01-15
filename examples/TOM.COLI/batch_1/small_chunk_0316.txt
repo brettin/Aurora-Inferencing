@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03195	secY	Protein translocase subunit SecY
+100177.28	Borreliella lusitaniae	QIA24_03200	rpmJ	LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent

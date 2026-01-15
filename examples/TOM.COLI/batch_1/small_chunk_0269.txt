@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02725	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02730	Dolichol kinase (EC 2.7.1.108)

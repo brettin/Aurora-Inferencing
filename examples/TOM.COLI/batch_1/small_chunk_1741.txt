@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008645	Transporter, LysE family
+1005395.227	Pseudomonas bharatica	CSV86_008650	YebC paralog in Betaproteobacteria

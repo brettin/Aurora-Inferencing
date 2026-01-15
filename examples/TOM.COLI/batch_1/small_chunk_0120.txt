@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01225	Sulfotransferase:TPR repeat
+100177.28	Borreliella lusitaniae	QIA24_01230	nusB	Transcription termination protein NusB

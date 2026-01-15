@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_04055		H8NI63	alaS	Alanyl-tRNA synthetase (EC 6.1.1.7)	alaS	alanyl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_04060		H8NI64	truA	tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)	truA	tRNA pseudouridine synthase A

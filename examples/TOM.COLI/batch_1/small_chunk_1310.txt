@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004180	SAM-dependent methyltransferase YafE (UbiE paralog)
+1005395.227	Pseudomonas bharatica	CSV86_004185	leuB	3-isopropylmalate dehydrogenase (EC 1.1.1.85)

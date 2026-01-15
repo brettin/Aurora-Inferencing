@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01095	Lipoprotein-releasing system ATP-binding protein LolD
+100177.28	Borreliella lusitaniae	QIA24_01100	Lipoprotein releasing system transmembrane protein LolC/LolE

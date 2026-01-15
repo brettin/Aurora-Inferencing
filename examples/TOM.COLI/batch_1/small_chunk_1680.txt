@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008015	sensory box histidine kinase
+1005395.227	Pseudomonas bharatica	CSV86_008020	Circadian clock protein KaiC

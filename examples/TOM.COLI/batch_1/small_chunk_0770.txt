@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02825		H8NIE0		Transcription-repair coupling factor		transcription-repair coupling factor
+1003201.3	Rickettsia typhi	RTTH1527_02830		H8NIE1		Succinate dehydrogenase flavin-adding protein, antitoxin of CptAB toxin-antitoxin		hypothetical protein

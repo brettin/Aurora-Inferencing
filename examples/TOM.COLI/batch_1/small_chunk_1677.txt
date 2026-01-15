@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007985	TPR domain protein
+1005395.227	Pseudomonas bharatica	CSV86_007990	hypothetical protein

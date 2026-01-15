@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03565	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03570	pyrG	CTP synthase (EC 6.3.4.2)

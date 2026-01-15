@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01950		H8NHE7	murD	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)	murD	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+1003201.3	Rickettsia typhi	RTTH1527_01955		H8NHE8		Peptidoglycan glycosyltransferase FtsW (EC 2.4.1.129)		cell division protein FtsW

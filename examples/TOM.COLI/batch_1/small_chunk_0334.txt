@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03385	Inner membrane protein YbhL
+100177.28	Borreliella lusitaniae	QIA24_03390	fusA	Translation elongation factor G

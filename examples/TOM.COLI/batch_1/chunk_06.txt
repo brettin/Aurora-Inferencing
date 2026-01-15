@@ -1,0 +1,71 @@
+100177.28	Borreliella lusitaniae	QIA24_02160	flgC	Flagellar basal-body rod protein FlgC
+100177.28	Borreliella lusitaniae	QIA24_02165	flgB	Flagellar basal-body rod protein FlgB
+100177.28	Borreliella lusitaniae	QIA24_02170	hslU	ATP-dependent hsl protease ATP-binding subunit HslU
+100177.28	Borreliella lusitaniae	QIA24_02175	hslV	ATP-dependent protease subunit HslV (EC 3.4.25.2)
+100177.28	Borreliella lusitaniae	QIA24_02180	dprA	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+100177.28	Borreliella lusitaniae	QIA24_02185	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02190	ftsZ	Cell division protein FtsZ
+100177.28	Borreliella lusitaniae	QIA24_02195	ftsA	Cell division protein FtsA
+100177.28	Borreliella lusitaniae	QIA24_02200	Cell division protein FtsQ
+100177.28	Borreliella lusitaniae	QIA24_02205	ftsW	Peptidoglycan glycosyltransferase FtsW (EC 2.4.1.129)
+100177.28	Borreliella lusitaniae	QIA24_02210	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+100177.28	Borreliella lusitaniae	QIA24_02215	murF	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+100177.28	Borreliella lusitaniae	QIA24_02220	Cell division protein FtsL
+100177.28	Borreliella lusitaniae	QIA24_02225	rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+100177.28	Borreliella lusitaniae	QIA24_02230	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02235	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02240	B. burgdorferi coding region BB0309
+100177.28	Borreliella lusitaniae	QIA24_02245	NAD kinase (EC 2.7.1.23)
+100177.28	Borreliella lusitaniae	QIA24_02250	Positive regulator of CheA protein activity (CheW)
+100177.28	Borreliella lusitaniae	QIA24_02255	23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)
+100177.28	Borreliella lusitaniae	QIA24_02260	Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
+100177.28	Borreliella lusitaniae	QIA24_02265	B. burgdorferi coding region BB0315
+100177.28	Borreliella lusitaniae	QIA24_02270	Riboflavin ABC transporter, permease protein 2
+100177.28	Borreliella lusitaniae	QIA24_02275	Riboflavin ABC transporter, permease protein 1
+100177.28	Borreliella lusitaniae	QIA24_02280	Riboflavin ABC transporter, ATP-binding protein
+100177.28	Borreliella lusitaniae	QIA24_02285	Riboflavin ABC transporter, substrate-binding protein
+100177.28	Borreliella lusitaniae	QIA24_02290	B. burgdorferi coding region BB0322
+100177.28	Borreliella lusitaniae	QIA24_02295	B. burgdorferi coding region BB0323
+100177.28	Borreliella lusitaniae	QIA24_02300	bamD	B. burgdorferi coding region BB0324
+100177.28	Borreliella lusitaniae	QIA24_02305	B. burgdorferi coding region BB0325
+100177.28	Borreliella lusitaniae	QIA24_02310	B. burgdorferi coding region BB0326
+100177.28	Borreliella lusitaniae	QIA24_02315	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02320	Oligopeptide ABC transporter, substrate-binding protein OppA (TC 3.A.1.5.1)
+100177.28	Borreliella lusitaniae	QIA24_02325	Oligopeptide ABC transporter, substrate-binding protein OppA (TC 3.A.1.5.1)
+100177.28	Borreliella lusitaniae	QIA24_02330	Oligopeptide ABC transporter, substrate-binding protein OppA (TC 3.A.1.5.1)
+100177.28	Borreliella lusitaniae	QIA24_02335	Oligopeptide ABC transporter, permease protein OppB (TC 3.A.1.5.1)
+100177.28	Borreliella lusitaniae	QIA24_02340	ABC transporter, permease protein 2 (cluster 5, nickel/peptides/opines)
+100177.28	Borreliella lusitaniae	QIA24_02345	Oligopeptide ABC transporter, ATP-binding protein OppD (TC 3.A.1.5.1)
+100177.28	Borreliella lusitaniae	QIA24_02350	Oligopeptide ABC transporter, ATP-binding protein OppF (TC 3.A.1.5.1)
+100177.28	Borreliella lusitaniae	QIA24_02355	P26
+100177.28	Borreliella lusitaniae	QIA24_02360	eno	Enolase (EC 4.2.1.11)
+100177.28	Borreliella lusitaniae	QIA24_02365	rpsI	SSU ribosomal protein S9p (S16e)
+100177.28	Borreliella lusitaniae	QIA24_02370	rplM	LSU ribosomal protein L13p (L13Ae)
+100177.28	Borreliella lusitaniae	QIA24_02375	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02380	gatB	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+100177.28	Borreliella lusitaniae	QIA24_02385	gatA	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+100177.28	Borreliella lusitaniae	QIA24_02390	gatC	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+100177.28	Borreliella lusitaniae	QIA24_02395	ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)
+100177.28	Borreliella lusitaniae	QIA24_02400	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02405	B. burgdorferi coding region BB0346
+100177.28	Borreliella lusitaniae	QIA24_02410	Fibronectin/fibrinogen-binding protein
+100177.28	Borreliella lusitaniae	QIA24_02415	pyk	Pyruvate kinase (EC 2.7.1.40)
+100177.28	Borreliella lusitaniae	QIA24_02420	amrB	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02425	rpmB	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent
+100177.28	Borreliella lusitaniae	QIA24_02430	B. burgdorferi coding region BB0351
+100177.28	Borreliella lusitaniae	QIA24_02435	B. burgdorferi coding region BB0352
+100177.28	Borreliella lusitaniae	QIA24_02440	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02445	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02450	CarD-like transcriptional regulator
+100177.28	Borreliella lusitaniae	QIA24_02455	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02460	16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+100177.28	Borreliella lusitaniae	QIA24_02465	carboxyl-terminal protease (ctp)
+100177.28	Borreliella lusitaniae	QIA24_02470	ParA-like protein
+100177.28	Borreliella lusitaniae	QIA24_02475	lgt	Prolipoprotein diacylglyceryl transferase
+100177.28	Borreliella lusitaniae	QIA24_02480	periplasmic protein
+100177.28	Borreliella lusitaniae	QIA24_02485	mgsA	Methylglyoxal synthase (EC 4.2.3.3)
+100177.28	Borreliella lusitaniae	QIA24_02490	lipoprotein LA7
+100177.28	Borreliella lusitaniae	QIA24_02495	Probable M18-family aminopeptidase 1 (EC 3.4.11.-)
+100177.28	Borreliella lusitaniae	QIA24_02500	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02505	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)
+100177.28	Borreliella lusitaniae	QIA24_02510	ATP-dependent Clp protease ATP-binding subunit ClpA

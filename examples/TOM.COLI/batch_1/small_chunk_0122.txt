@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01245	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_01250	dnaB	Replicative DNA helicase (DnaB) (EC 3.6.4.12)

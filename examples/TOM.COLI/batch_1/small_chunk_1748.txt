@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008720	helix-turn-helix domain-containing protein
+1005395.227	Pseudomonas bharatica	CSV86_008730	Methylglutaconyl-CoA hydratase (EC 4.2.1.18)

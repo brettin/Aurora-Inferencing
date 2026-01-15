@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01930	pepF	Oligoendopeptidase F
+100177.28	Borreliella lusitaniae	QIA24_01935	Phosphatidylcholine synthase (EC 2.7.8.24)

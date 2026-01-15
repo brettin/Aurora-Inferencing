@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01005		H8NJ17		Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)		cytochrome d ubiquinol oxidase subunit I
+1003201.3	Rickettsia typhi	RTTH1527_01010		H8NJ18		Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)		cytochrome d ubiquinol oxidase subunit II

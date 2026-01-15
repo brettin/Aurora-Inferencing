@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02375		H8NHN2	truB	tRNA pseudouridine(55) synthase (EC 5.4.99.25)	truB	tRNA pseudouridine synthase B
+1003201.3	Rickettsia typhi	RTTH1527_02380		H8NHN3	rpsO	SSU ribosomal protein S15p (S13e)	rpsO	30S ribosomal protein S15

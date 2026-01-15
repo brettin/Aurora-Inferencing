@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007525	Nitrilotriacetate monooxygenase component A (EC 1.14.13.-)
+1005395.227	Pseudomonas bharatica	CSV86_007530	TonB-dependent receptor

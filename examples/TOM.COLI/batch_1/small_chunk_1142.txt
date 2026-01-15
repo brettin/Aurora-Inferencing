@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002465	nhaA	Na+/H+ antiporter NhaA type
+1005395.227	Pseudomonas bharatica	CSV86_002470	Il-IS_2, transposase

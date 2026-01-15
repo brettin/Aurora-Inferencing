@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005390	Polymyxin resistance protein ArnC, glycosyl transferase (EC 2.4.-.-)
+1005395.227	Pseudomonas bharatica	CSV86_005400	hypothetical protein

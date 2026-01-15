@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03735	pepD	Cytosol nonspecific dipeptidase (EC 3.4.13.18)
+100177.28	Borreliella lusitaniae	QIA24_03740	tRNA-His

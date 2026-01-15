@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03785	rpsD	SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-independent
+100177.28	Borreliella lusitaniae	QIA24_03790	tRNA-Met

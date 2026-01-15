@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00875		H8NIZ3		2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase, coq7 type		ubiquinone biosynthesis protein coq7
+1003201.3	Rickettsia typhi	RTTH1527_00890		H8NIZ4		Major pilus subunit of type IV secretion complex, VirB2		hypothetical protein

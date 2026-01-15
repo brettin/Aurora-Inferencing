@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004020	GTP 3',8-cyclase (EC 4.1.99.22)
+1005395.227	Pseudomonas bharatica	CSV86_004025	lipoprotein

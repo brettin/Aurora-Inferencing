@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004510	Aerotolerance protein BatA
+1005395.227	Pseudomonas bharatica	CSV86_004515	hypothetical protein

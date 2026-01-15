@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005550	chrA	Chromate transport protein ChrA
+1005395.227	Pseudomonas bharatica	CSV86_005555	Transcriptional regulator, PadR family

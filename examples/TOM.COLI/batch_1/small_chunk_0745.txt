@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02570		H8NHS1		Replicative DNA helicase (DnaB) (EC 3.6.4.12)		replicative DNA helicase
+1003201.3	Rickettsia typhi	RTTH1527_02575		H8NHS2		LSU rRNA pseudouridine(2605) synthase (EC 5.4.99.22)		ribosomal large subunit pseudouridine synthase

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03005		H8NHT2		rickettsial conserved		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03010		H8NHT3	rpsT	SSU ribosomal protein S20p	rpsT	30S ribosomal protein S20

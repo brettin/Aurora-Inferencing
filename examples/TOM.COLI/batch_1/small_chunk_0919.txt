@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000125	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000130	Homogentisate pathway transcriptional regulator HmgR

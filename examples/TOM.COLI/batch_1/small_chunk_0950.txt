@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000445	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_000450	Furin precursor (EC 3.4.21.75)

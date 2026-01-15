@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006125	Putative cytoplasmic protein
+1005395.227	Pseudomonas bharatica	CSV86_006130	hypothetical protein

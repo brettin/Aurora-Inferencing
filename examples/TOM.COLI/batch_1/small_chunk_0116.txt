@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01185	Recombination inhibitory protein MutS2
+100177.28	Borreliella lusitaniae	QIA24_01190	rsgA	Ribosome small subunit biogenesis RbfA-release protein RsgA

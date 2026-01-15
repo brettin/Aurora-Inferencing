@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03765	clpP	ATP-dependent Clp protease proteolytic subunit ClpP (EC 3.4.21.92)
+100177.28	Borreliella lusitaniae	QIA24_03770	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01575		H8NJ53		Capsular polysaccharide biosynthesis protein CapD		sugar epimerase
+1003201.3	Rickettsia typhi	RTTH1527_01580		H8NJ54		UDP-N-acetyl-L-fucosamine synthase (EC 5.1.3.28)		UDP-N-acetylglucosamine 2-epimerase

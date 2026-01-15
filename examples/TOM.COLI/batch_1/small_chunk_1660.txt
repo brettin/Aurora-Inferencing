@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007810	Transcriptional regulator, LysR family
+1005395.227	Pseudomonas bharatica	CSV86_007815	MutT/Nudix family protein

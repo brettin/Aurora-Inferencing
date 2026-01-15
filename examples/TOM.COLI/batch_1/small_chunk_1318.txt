@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004260	tRNA-Asp
+1005395.227	Pseudomonas bharatica	CSV86_004265	Thioesterase involved in non-ribosomal peptide biosynthesis

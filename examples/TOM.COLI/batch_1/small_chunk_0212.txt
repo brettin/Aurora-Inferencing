@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02150	fliF	Flagellar M-ring protein FliF
+100177.28	Borreliella lusitaniae	QIA24_02155	fliE	Flagellar hook-basal body complex protein FliE

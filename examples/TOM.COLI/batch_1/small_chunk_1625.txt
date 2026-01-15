@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007440	Ferrichrome-iron receptor
+1005395.227	Pseudomonas bharatica	CSV86_007445	esterase

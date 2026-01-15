@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02765	Two-component system sensor histidine kinase
+100177.28	Borreliella lusitaniae	QIA24_02770	rrf	5S rRNA ## 5S ribosomal RNA

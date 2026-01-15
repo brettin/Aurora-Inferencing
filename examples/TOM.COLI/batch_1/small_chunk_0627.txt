@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01375		H8NHB0		ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex, VirB11		type IV secretion system ATPase VirB11
+1003201.3	Rickettsia typhi	RTTH1527_01380		H8NHB1		Coupling protein VirD4, ATPase required for T-DNA transfer		type IV secretion system component VirD4

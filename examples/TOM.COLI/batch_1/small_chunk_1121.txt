@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002240	Electron transport complex protein RnfG
+1005395.227	Pseudomonas bharatica	CSV86_002245	Electron transport complex protein RnfD

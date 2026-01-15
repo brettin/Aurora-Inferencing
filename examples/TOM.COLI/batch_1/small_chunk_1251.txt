@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003580	Hydrolase, alpha/beta fold family
+1005395.227	Pseudomonas bharatica	CSV86_003585	aroC	Chorismate synthase (EC 4.2.3.5)

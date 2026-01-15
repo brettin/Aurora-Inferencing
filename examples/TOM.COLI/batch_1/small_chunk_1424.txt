@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005370	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_005375	Phosphate/pyrophosphate-specific outer membrane porin OprP/OprO

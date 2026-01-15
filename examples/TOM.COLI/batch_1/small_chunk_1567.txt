@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006840	nuoM	NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
+1005395.227	Pseudomonas bharatica	CSV86_006845	nuoL	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)

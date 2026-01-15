@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001250	Cobalt-zinc-cadmium resistance protein
+1005395.227	Pseudomonas bharatica	CSV86_001255	Methyl-accepting chemotaxis sensor/transducer protein

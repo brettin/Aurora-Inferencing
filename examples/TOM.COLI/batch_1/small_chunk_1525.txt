@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006415	Prolyl oligopeptidase family protein
+1005395.227	Pseudomonas bharatica	CSV86_006420	Biotin carboxylase (EC 6.3.4.14)

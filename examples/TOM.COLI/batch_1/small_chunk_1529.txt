@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006455	rhtA	Threonine/homoserine exporter RhtA
+1005395.227	Pseudomonas bharatica	CSV86_006460	SSU rRNA ## 16S rRNA, small subunit ribosomal RNA

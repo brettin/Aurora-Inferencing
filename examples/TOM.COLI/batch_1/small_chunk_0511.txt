@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00200		H8NIT7		Phospholipid ABC transporter shuttle protein MlaC		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_00205		H8NIT8		Outer-membrane-phospholipid-binding lipoprotein MlaA		VacJ lipoprotein precursor

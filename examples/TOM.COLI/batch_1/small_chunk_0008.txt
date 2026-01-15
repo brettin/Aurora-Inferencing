@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00085	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_00090	Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)

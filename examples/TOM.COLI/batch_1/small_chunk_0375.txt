@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03795	Cobalt-zinc-cadmium resistance protein
+100177.28	Borreliella lusitaniae	QIA24_03800	hypothetical protein

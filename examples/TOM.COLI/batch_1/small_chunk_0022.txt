@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00235	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)
+100177.28	Borreliella lusitaniae	QIA24_00240	Outer-surface protein C (OspC)

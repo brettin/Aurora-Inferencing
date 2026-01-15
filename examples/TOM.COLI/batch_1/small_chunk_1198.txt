@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003035	Two-component system sensor histidine kinase
+1005395.227	Pseudomonas bharatica	CSV86_003040	C4-dicarboxylate transporter/malic acid transport protein

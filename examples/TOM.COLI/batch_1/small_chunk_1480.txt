@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005950	Transcriptional regulator, MarR family
+1005395.227	Pseudomonas bharatica	CSV86_005955	Outer membrane factor (OMF) lipoprotein associated wth EmrAB-OMF efflux system

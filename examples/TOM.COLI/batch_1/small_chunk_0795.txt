@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03075		H8NHU6	rpsN	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-independent	rpsN	30S ribosomal protein S14
+1003201.3	Rickettsia typhi	RTTH1527_03080		H8NHU7	rplE	LSU ribosomal protein L5p (L11e)	rplE	50S ribosomal protein L5

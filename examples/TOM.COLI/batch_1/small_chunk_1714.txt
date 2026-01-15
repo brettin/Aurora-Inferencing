@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008365	Flavin-containing monooxygenase
+1005395.227	Pseudomonas bharatica	CSV86_008370	purU	Formyltetrahydrofolate deformylase (EC 3.5.1.10)

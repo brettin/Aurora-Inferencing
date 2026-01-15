@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00800	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_00805	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)

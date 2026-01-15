@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02530		H8NHR3		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02535		H8NHR4		Superoxide dismutase [Fe] (EC 1.15.1.1)		superoxide dismutase

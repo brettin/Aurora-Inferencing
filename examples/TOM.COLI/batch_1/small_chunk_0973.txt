@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000685	ftsZ	Cell division protein FtsZ
+1005395.227	Pseudomonas bharatica	CSV86_000690	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)

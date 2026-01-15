@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001260	Uncharacterized amino acid permease, GabP family
+1005395.227	Pseudomonas bharatica	CSV86_001265	Putative transcriptional regulatory protein

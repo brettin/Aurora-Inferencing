@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04255	CCA tRNA nucleotidyltransferase (EC 2.7.7.72)
+100177.28	Borreliella lusitaniae	QIA24_04260	B. burgdorferi coding region BB0707

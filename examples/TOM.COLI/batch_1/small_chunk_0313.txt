@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03165	rpsH	SSU ribosomal protein S8p (S15Ae)
+100177.28	Borreliella lusitaniae	QIA24_03170	rplF	LSU ribosomal protein L6p (L9e)

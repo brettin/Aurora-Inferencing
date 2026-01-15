@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04185	Neutrophil activating protein (NapA), Dps family protein
+100177.28	Borreliella lusitaniae	QIA24_04190	fusA	Translation elongation factor G-related protein

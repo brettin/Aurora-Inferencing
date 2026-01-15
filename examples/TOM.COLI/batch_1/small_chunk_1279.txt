@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003870	Uncharacterized glutathione S-transferase-like protein
+1005395.227	Pseudomonas bharatica	CSV86_003875	Uncharacterized efflux ABC transporter, ATP-binding protein YadG

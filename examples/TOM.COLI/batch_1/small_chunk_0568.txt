@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00775		H8NIX3		Uncharacterized membrane protein YuzA		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_00780		H8NIX4		RND efflux system, inner membrane transporter		acriflavin resistance protein D

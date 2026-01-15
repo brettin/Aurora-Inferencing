@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002280	pdeM	ICC-like protein phosphoesterase
+1005395.227	Pseudomonas bharatica	CSV86_002285	ATP-dependent, 3'-5' DNA helicase with strand annealing activity

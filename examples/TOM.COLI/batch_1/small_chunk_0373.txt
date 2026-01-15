@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03775	lon	ATP-dependent protease La (EC 3.4.21.53) Type I
+100177.28	Borreliella lusitaniae	QIA24_03780	hypothetical protein

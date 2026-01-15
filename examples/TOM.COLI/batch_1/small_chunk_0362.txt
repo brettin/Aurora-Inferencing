@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03665	argS	Arginyl-tRNA synthetase (EC 6.1.1.19)
+100177.28	Borreliella lusitaniae	QIA24_03670	B. burgdorferi coding region BB0595

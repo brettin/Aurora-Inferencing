@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01135		H8NH62		CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8) @ Archaetidylserine synthase (EC 2.7.8.38)		CDP-diacylglycerol--serine O-phosphatidyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_01140		H8NH63		Membrane fusion component of MSF-type tripartite multidrug efflux system		multidrug resistance protein A

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03225	rny	Ribonuclease Y
+100177.28	Borreliella lusitaniae	QIA24_03230	2',3'-cyclic-nucleotide 2'-phosphodiesterase, Bsub YmdB

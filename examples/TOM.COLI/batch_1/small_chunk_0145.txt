@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01475	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_01480	alr	Alanine racemase (EC 5.1.1.1)

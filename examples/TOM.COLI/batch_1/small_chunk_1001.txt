@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000975	sbcB	Exodeoxyribonuclease I (EC 3.1.11.1)
+1005395.227	Pseudomonas bharatica	CSV86_000980	transcriptional regulator MvaT, P16 subunit

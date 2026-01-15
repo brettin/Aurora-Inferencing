@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03655		H8NIN0	rpmF	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent	rpmF	50S ribosomal protein L32
+1003201.3	Rickettsia typhi	RTTH1527_03660		H8NIN1		Outer membrane beta-barrel assembly protein BamE		hypothetical protein

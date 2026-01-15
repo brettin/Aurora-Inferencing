@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003120	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_003125	Sensory box/GGDEF family protein

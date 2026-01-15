@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000350	moaE	Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)
+1005395.227	Pseudomonas bharatica	CSV86_000355	Arginine/ornithine ABC transporter, substrate-binding protein AotJ

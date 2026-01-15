@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04570	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_04575	murG	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)

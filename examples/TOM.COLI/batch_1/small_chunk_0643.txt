@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01535		H8NJ45		Substrate-specific component BioY of biotin ECF transporter		BioY family protein
+1003201.3	Rickettsia typhi	RTTH1527_01540		H8NJ46		Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)		glutamyl-tRNA synthetase

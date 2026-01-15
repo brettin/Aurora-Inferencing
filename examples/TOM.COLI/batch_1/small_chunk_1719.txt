@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008420	Cobalt/zinc/cadmium resistance protein CzcD
+1005395.227	Pseudomonas bharatica	CSV86_008425	cadR	Cd(II)/Pb(II)-responsive transcriptional regulator

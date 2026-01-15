@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04495	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_04500	Gliding motility-associated ABC transporter substrate-binding protein GldG

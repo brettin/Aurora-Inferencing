@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02815	SSU rRNA ## 16S rRNA, small subunit ribosomal RNA
+100177.28	Borreliella lusitaniae	QIA24_02820	Nucleoside 2-deoxyribosyltransferase

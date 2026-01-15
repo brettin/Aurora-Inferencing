@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001025	Pca regulon regulatory protein PcaR
+1005395.227	Pseudomonas bharatica	CSV86_001030	4-hydroxybenzoate transporter

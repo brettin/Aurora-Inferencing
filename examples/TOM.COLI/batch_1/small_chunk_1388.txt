@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004980	FAD:protein FMN transferase (EC 2.7.1.180) @ FAD:protein FMN transferase (EC 2.7.1.180), NqrBC-associated
+1005395.227	Pseudomonas bharatica	CSV86_004985	Il-IS_2, transposase

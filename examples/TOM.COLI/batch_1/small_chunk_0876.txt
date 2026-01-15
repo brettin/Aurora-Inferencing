@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03885		H8NI29		3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.98)		3-polyprenyl-4-hydroxybenzoate decarboxylase
+1003201.3	Rickettsia typhi	RTTH1527_03890		H8NI30		Peptidyl-prolyl cis-trans isomerase PpiD (EC 5.2.1.8)		parvulin-like peptidyl-prolyl isomerase

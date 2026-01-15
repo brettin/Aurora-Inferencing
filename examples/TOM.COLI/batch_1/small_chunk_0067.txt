@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00690	complement regulator-acquiring protein
+100177.28	Borreliella lusitaniae	QIA24_00695	antigen, P35,

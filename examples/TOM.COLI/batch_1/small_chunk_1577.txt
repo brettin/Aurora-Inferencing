@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006940	Nudix-like NDP and NTP phosphohydrolase NudJ
+1005395.227	Pseudomonas bharatica	CSV86_006945	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42); Monomeric isocitrate dehydrogenase [NADP] (EC 1.1.1.42)

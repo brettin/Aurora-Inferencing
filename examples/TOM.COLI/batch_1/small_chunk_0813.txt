@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03255		H8NHY2	tmk	Thymidylate kinase (EC 2.7.4.9)	tmk	thymidylate kinase
+1003201.3	Rickettsia typhi	RTTH1527_03260		H8NHY3		proline/betaine transporter		proline/betaine transporter ProP4

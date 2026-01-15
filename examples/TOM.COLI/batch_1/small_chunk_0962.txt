@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000575	Stringent starvation protein A
+1005395.227	Pseudomonas bharatica	CSV86_000580	Stringent starvation protein B

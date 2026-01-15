@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00890	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+100177.28	Borreliella lusitaniae	QIA24_00895	ortholog to Borrelia burgdorferi BB0038

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002515	livH	Branched-chain amino acid ABC transporter, permease protein LivH (TC 3.A.1.4.1)
+1005395.227	Pseudomonas bharatica	CSV86_002520	Branched-chain amino acid ABC transporter, substrate-binding protein LivJ (TC 3.A.1.4.1)

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03445		H8NII8		DNA polymerase III epsilon subunit (EC 2.7.7.7)		DNA polymerase III subunit epsilon
+1003201.3	Rickettsia typhi	RTTH1527_03450		H8NII9		Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion		surfeit locus protein 1 (surf1)

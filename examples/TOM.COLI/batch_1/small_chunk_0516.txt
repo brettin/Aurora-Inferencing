@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00250		H8NGW5	secG	Protein translocase membrane subunit SecG	secG	preprotein translocase subunit SecG
+1003201.3	Rickettsia typhi	RTTH1527_00255		H8NGW6		proline/betaine transporter		proline/betaine transporter ProP1

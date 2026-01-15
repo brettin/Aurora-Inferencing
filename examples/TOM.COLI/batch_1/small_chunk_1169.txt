@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002740	Dienelactone hydrolase family protein
+1005395.227	Pseudomonas bharatica	CSV86_002745	outer membrane protein H1

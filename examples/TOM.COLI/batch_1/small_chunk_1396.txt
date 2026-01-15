@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005060	Outer-membrane-phospholipid-binding lipoprotein MlaA
+1005395.227	Pseudomonas bharatica	CSV86_005065	Serine phosphatase RsbU, regulator of sigma subunit

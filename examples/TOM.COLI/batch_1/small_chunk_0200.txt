@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02030	ortholog to Borrelia burgdorferi BB0267
+100177.28	Borreliella lusitaniae	QIA24_02035	hypothetical protein

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03065	2',3'-cyclic-nucleotide 2'-phosphodiesterase, Bsub YmdB
+100177.28	Borreliella lusitaniae	QIA24_03070	murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)

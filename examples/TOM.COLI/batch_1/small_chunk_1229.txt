@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003355	ubiG	3-demethylubiquinol 3-O-methyltransferase (EC 2.1.1.64) @ 2-polyprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+1005395.227	Pseudomonas bharatica	CSV86_003360	Methylthioadenosine deaminase (EC 3.5.4.31)

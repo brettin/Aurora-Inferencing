@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00655		H8NIU9	aspS	Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)	aspS	aspartyl-tRNA synthetase
+1003201.3	Rickettsia typhi	RTTH1527_00660		H8NIV0		hypothetical protein		hypothetical protein

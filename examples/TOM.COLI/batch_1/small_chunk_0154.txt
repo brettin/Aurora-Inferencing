@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01565	rsmG	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)
+100177.28	Borreliella lusitaniae	QIA24_01570	mnmG	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG

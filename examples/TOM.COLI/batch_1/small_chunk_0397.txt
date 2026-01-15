@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04025	lysS	Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)
+100177.28	Borreliella lusitaniae	QIA24_04030	era	GTP-binding protein Era

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01455	lipoprotein
+100177.28	Borreliella lusitaniae	QIA24_01460	B. burgdorferi coding region BB0156

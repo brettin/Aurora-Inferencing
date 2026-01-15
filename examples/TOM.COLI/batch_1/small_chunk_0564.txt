@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00735		H8NIW5		Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage		membrane associated zinc metalloprotease
+1003201.3	Rickettsia typhi	RTTH1527_00740		H8NIW6	nusB	Transcription termination protein NusB	nusB	transcription antitermination protein NusB

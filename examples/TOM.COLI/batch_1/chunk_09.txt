@@ -1,0 +1,62 @@
+100177.28	Borreliella lusitaniae	QIA24_03230	2',3'-cyclic-nucleotide 2'-phosphodiesterase, Bsub YmdB
+100177.28	Borreliella lusitaniae	QIA24_03235	RNA binding methyltransferase FtsJ like
+100177.28	Borreliella lusitaniae	QIA24_03240	T. pallidum coding region TP0832
+100177.28	Borreliella lusitaniae	QIA24_03245	der	GTP-binding protein EngA
+100177.28	Borreliella lusitaniae	QIA24_03250	B. burgdorferi coding region BB0509
+100177.28	Borreliella lusitaniae	QIA24_03255	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+100177.28	Borreliella lusitaniae	QIA24_03260	ortholog to Borrelia burgdorferi BB0512
+100177.28	Borreliella lusitaniae	QIA24_03265	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
+100177.28	Borreliella lusitaniae	QIA24_03270	pheT	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+100177.28	Borreliella lusitaniae	QIA24_03275	trxB	Thioredoxin reductase (EC 1.8.1.9)
+100177.28	Borreliella lusitaniae	QIA24_03280	rlmB	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)
+100177.28	Borreliella lusitaniae	QIA24_03285	dnaJ	Chaperone protein DnaJ
+100177.28	Borreliella lusitaniae	QIA24_03290	dnaK	Chaperone protein DnaK
+100177.28	Borreliella lusitaniae	QIA24_03295	grpE	Heat shock protein GrpE
+100177.28	Borreliella lusitaniae	QIA24_03300	nadE	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase
+100177.28	Borreliella lusitaniae	QIA24_03310	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03315	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03325	Aldo/keto reductase
+100177.28	Borreliella lusitaniae	QIA24_03330	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03335	N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+100177.28	Borreliella lusitaniae	QIA24_03340	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03345	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
+100177.28	Borreliella lusitaniae	QIA24_03350	xth	Exodeoxyribonuclease III (EC 3.1.11.2)
+100177.28	Borreliella lusitaniae	QIA24_03355	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03360	zinc protease,
+100177.28	Borreliella lusitaniae	QIA24_03365	tRNA-Lys
+100177.28	Borreliella lusitaniae	QIA24_03370	tRNA-Lys
+100177.28	Borreliella lusitaniae	QIA24_03375	TPR domain protein
+100177.28	Borreliella lusitaniae	QIA24_03380	Polymer-forming bactofilin
+100177.28	Borreliella lusitaniae	QIA24_03385	Inner membrane protein YbhL
+100177.28	Borreliella lusitaniae	QIA24_03390	fusA	Translation elongation factor G
+100177.28	Borreliella lusitaniae	QIA24_03395	ortholog to Borrelia burgdorferi BB0541
+100177.28	Borreliella lusitaniae	QIA24_03400	TPR repeat
+100177.28	Borreliella lusitaniae	QIA24_03405	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03410	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+100177.28	Borreliella lusitaniae	QIA24_03415	Xylulose kinase (EC 2.7.1.17)
+100177.28	Borreliella lusitaniae	QIA24_03420	Membrane protein
+100177.28	Borreliella lusitaniae	QIA24_03425	coaE	Dephospho-CoA kinase (EC 2.7.1.24)
+100177.28	Borreliella lusitaniae	QIA24_03430	polA	DNA polymerase I (EC 2.7.7.7)
+100177.28	Borreliella lusitaniae	QIA24_03435	B. burgdorferi coding region BB0549
+100177.28	Borreliella lusitaniae	QIA24_03440	fliS	Flagellar biosynthesis protein FliS
+100177.28	Borreliella lusitaniae	QIA24_03445	chemotaxis response regulator
+100177.28	Borreliella lusitaniae	QIA24_03450	ligA	DNA ligase (NAD(+)) (EC 6.5.1.2)
+100177.28	Borreliella lusitaniae	QIA24_03455	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03460	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03465	ortholog to Borrelia burgdorferi BB0555
+100177.28	Borreliella lusitaniae	QIA24_03470	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03475	Phosphotransferase system, phosphocarrier protein HPr
+100177.28	Borreliella lusitaniae	QIA24_03480	ptsP	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+100177.28	Borreliella lusitaniae	QIA24_03485	crr	PTS system, glucose-specific IIA component (EC 2.7.1.199)
+100177.28	Borreliella lusitaniae	QIA24_03490	htpG	Chaperone protein HtpG
+100177.28	Borreliella lusitaniae	QIA24_03495	gnd	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
+100177.28	Borreliella lusitaniae	QIA24_03500	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03505	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03510	ortholog to Borrelia burgdorferi BB0564
+100177.28	Borreliella lusitaniae	QIA24_03515	Positive regulator of CheA protein activity (CheW)
+100177.28	Borreliella lusitaniae	QIA24_03520	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_03525	Signal transduction histidine kinase CheA
+100177.28	Borreliella lusitaniae	QIA24_03530	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)
+100177.28	Borreliella lusitaniae	QIA24_03535	reticulocyte binding protein 2 homolog a
+100177.28	Borreliella lusitaniae	QIA24_03540	Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY
+100177.28	Borreliella lusitaniae	QIA24_03545	tRNA-Leu

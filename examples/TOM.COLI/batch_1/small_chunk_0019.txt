@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00195	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_00200	Oligopeptide permease homolog OppAIV

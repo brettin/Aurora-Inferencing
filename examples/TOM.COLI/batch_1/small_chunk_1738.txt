@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008615	Putative transposase InsK for insertion sequence element IS150
+1005395.227	Pseudomonas bharatica	CSV86_008620	Dihydrodipicolinate synthase family PA0223

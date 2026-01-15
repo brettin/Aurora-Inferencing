@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007460	Transcriptional regulator, AcrR family
+1005395.227	Pseudomonas bharatica	CSV86_007465	Methyl-accepting chemotaxis sensor/transducer protein

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02220	Cell division protein FtsL
+100177.28	Borreliella lusitaniae	QIA24_02225	rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)

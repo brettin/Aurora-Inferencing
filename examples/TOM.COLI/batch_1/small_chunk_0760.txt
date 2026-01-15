@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02725		H8NIC0		Foldase protein PrsA precursor (EC 5.2.1.8)		protein export protein PrsA precursor
+1003201.3	Rickettsia typhi	RTTH1527_02730		H8NIC1	acpS	Holo-[acyl-carrier-protein] synthase (EC 2.7.8.7)	acpS	4'-phosphopantetheinyl transferase

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01425	flaB	Flagellin protein FlaA
+100177.28	Borreliella lusitaniae	QIA24_01430	fliD	Flagellar cap protein FliD

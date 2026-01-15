@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01445	Superoxide dismutase [Mn] (EC 1.15.1.1)
+100177.28	Borreliella lusitaniae	QIA24_01450	secA	Protein translocase subunit SecA

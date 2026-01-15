@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001210	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_001215	Putative Ton-B dependent hemine receptor

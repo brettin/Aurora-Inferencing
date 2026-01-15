@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003655	Cytochrome c family protein
+1005395.227	Pseudomonas bharatica	CSV86_003660	Glutamine amidotransferase, class I

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004815	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_004820	Efflux ABC transporter, permease/ATP-binding protein

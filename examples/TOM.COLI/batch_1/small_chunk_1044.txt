@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001425	traD	Coupling protein VirD4, ATPase required for T-DNA transfer
+1005395.227	Pseudomonas bharatica	CSV86_001430	membrane protein

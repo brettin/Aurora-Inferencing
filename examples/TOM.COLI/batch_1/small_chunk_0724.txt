@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02355		H8NHM8		Inner membrane protein YihY, formerly thought to be RNase BN		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02360		H8NHM9		Transcriptional regulator, Xre family		hypothetical protein

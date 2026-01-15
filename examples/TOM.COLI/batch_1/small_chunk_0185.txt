@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01875	Tripartite motif protein 3
+100177.28	Borreliella lusitaniae	QIA24_01880	lnt	Apolipoprotein N-acyltransferase

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03415		H8NII2		Phospholipid ABC transporter substrate-binding protein MlaD		ABC transporter substrate binding protein
+1003201.3	Rickettsia typhi	RTTH1527_03420		H8NII3		NADH:ubiquinone oxidoreductase 17.2 kD subunit		hypothetical protein

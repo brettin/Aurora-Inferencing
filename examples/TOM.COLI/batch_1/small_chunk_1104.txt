@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002060	Transcriptional activator MetR
+1005395.227	Pseudomonas bharatica	CSV86_002065	hypothetical protein

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001630	Acetaldehyde dehydrogenase, acetylating, (EC 1.2.1.10) in gene cluster for degradation of phenols, cresols, catechol
+1005395.227	Pseudomonas bharatica	CSV86_001635	dmpE	2-hydroxyhexa-2,4-dienoate hydratase (EC 4.2.1.132)

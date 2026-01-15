@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004635	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_004640	rraA	Ribonuclease E inhibitor RraA

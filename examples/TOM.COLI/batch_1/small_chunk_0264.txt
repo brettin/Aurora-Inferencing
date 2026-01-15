@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02675	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_02680	glutamate transporter,

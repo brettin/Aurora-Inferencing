@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01885		H8NHD4		Signal peptide peptidase SppA, 36K type		protease
+1003201.3	Rickettsia typhi	RTTH1527_01890		H8NHD5	dut	Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	dut	deoxyuridine 5'-triphosphate nucleotidohydrolase

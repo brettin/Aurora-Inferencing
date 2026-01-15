@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04930	uvrA	Excinuclease ABC subunit A
+100177.28	Borreliella lusitaniae	QIA24_04935	LPS-assembly protein LptD

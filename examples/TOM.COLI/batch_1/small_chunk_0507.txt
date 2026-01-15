@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00160		H8NIS9		Inner membrane protein forms channel for type IV secretion of T-DNA complex, VirB3		type IV secretion system protein VirB3
+1003201.3	Rickettsia typhi	RTTH1527_00165		H8NIT0	engB	GTP-binding protein EngB	engB	GTP-binding protein YsxC

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007300	Thiamine pyrophosphate-requiring protein PA2108
+1005395.227	Pseudomonas bharatica	CSV86_007305	2,5-dioxovalerate dehydrogenase (EC 1.2.1.26)

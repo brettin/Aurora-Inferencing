@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01545		H8NJ47		DNA topoisomerase I (EC 5.99.1.2)		DNA topoisomerase I
+1003201.3	Rickettsia typhi	RTTH1527_01550		H8NJ48		Alkyl hydroperoxide reductase subunit C-like protein		thioredoxin peroxidase 1

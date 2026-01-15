@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000510	Transcriptional regulator, AraC family
+1005395.227	Pseudomonas bharatica	CSV86_000515	Il-IS_2, transposase

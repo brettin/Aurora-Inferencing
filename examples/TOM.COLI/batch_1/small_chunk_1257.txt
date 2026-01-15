@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003640	Protein containing domains DUF404, DUF407
+1005395.227	Pseudomonas bharatica	CSV86_003645	Protein containing domains DUF403

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004330	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules
+1005395.227	Pseudomonas bharatica	CSV86_004335	Siderophore biosynthesis non-ribosomal peptide synthetase modules

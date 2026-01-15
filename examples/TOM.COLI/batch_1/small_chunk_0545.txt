@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00545		H8NH24		HflK protein		protease activity modulator protein HflK
+1003201.3	Rickettsia typhi	RTTH1527_00550		H8NH25		HflC protein		protease activity modulator protein HflC

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000705	argJ	Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)
+1005395.227	Pseudomonas bharatica	CSV86_000710	Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-) / Thiazole tautomerase TenI-like domain

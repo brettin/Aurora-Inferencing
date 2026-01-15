@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001395	Superfamily II DNA/RNA helicases, SNF2 family
+1005395.227	Pseudomonas bharatica	CSV86_001400	PilL protein

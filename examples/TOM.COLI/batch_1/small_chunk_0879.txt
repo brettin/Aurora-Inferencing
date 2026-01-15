@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03915		H8NI35		hypothetical protein		outer surface protein
+1003201.3	Rickettsia typhi	RTTH1527_03920		H8NI36		hypothetical protein		outer surface protein

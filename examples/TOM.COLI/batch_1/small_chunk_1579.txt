@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006960	clpS	ATP-dependent Clp protease adaptor protein ClpS
+1005395.227	Pseudomonas bharatica	CSV86_006965	clpA	ATP-dependent Clp protease ATP-binding subunit ClpA

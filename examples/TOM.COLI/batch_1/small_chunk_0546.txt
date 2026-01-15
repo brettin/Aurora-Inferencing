@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00555		H8NH26		HtrA protease/chaperone protein		serine protease
+1003201.3	Rickettsia typhi	RTTH1527_00560		H8NH27		Rhodanese domain protein		hypothetical protein

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004645	Magnesium and cobalt transport protein CorA
+1005395.227	Pseudomonas bharatica	CSV86_004650	CrfX protein

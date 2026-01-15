@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008105	Polyamine ABC transporter, ATP-binding protein
+1005395.227	Pseudomonas bharatica	CSV86_008110	Polyamine ABC transporter, permease protein

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02440		H8NHP5		Thioredoxin reductase (EC 1.8.1.9)		thioredoxin reductase
+1003201.3	Rickettsia typhi	RTTH1527_02445		H8NHP6		Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)		bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase

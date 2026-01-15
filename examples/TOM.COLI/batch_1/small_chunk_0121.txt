@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01235	Periplasmic chaperone and peptidyl-prolyl cis-trans isomerase of outer membrane proteins SurA (EC 5.2.1.8)
+100177.28	Borreliella lusitaniae	QIA24_01240	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)

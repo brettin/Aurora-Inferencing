@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03375	TPR domain protein
+100177.28	Borreliella lusitaniae	QIA24_03380	Polymer-forming bactofilin

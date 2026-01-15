@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002455	Ribosomal protein S3
+1005395.227	Pseudomonas bharatica	CSV86_002460	Outer membrane lipoprotein

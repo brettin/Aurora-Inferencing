@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03615	Na+-driven multidrug efflux pump
+100177.28	Borreliella lusitaniae	QIA24_03620	murD	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)

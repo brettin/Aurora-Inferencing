@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006065	Cation ABC transporter, periplasmic cation-binding protein
+1005395.227	Pseudomonas bharatica	CSV86_006070	Hypothetical protein in pyoverdin gene cluster

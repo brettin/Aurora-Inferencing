@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005510	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_005515	tyrosine-type recombinase/integrase

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00625		H8NH40	rplL	LSU ribosomal protein L7p/L12p (P1/P2)	rplL	50S ribosomal protein L7/L12
+1003201.3	Rickettsia typhi	RTTH1527_00630		H8NH41	rpoB	DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	rpoB	DNA-directed RNA polymerase subunit beta

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02200		H8NHJ7		5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)		5-formyltetrahydrofolate cyclo-ligase
+1003201.3	Rickettsia typhi	RTTH1527_02205		H8NHJ8		Ribonuclease D (EC 3.1.26.3)		ribonuclease D

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005255	Outer membrane low permeability porin, OprD family => OccD4/OpdT tyrosine
+1005395.227	Pseudomonas bharatica	CSV86_005260	hypothetical protein

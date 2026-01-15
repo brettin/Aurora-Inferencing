@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02460		H8NHP9	clpP	ATP-dependent Clp protease proteolytic subunit ClpP (EC 3.4.21.92)	clpP	ATP-dependent Clp protease proteolytic subunit
+1003201.3	Rickettsia typhi	RTTH1527_02465		H8NHQ0	rpsA	SSU ribosomal protein S1p	rpsA	30S ribosomal protein S1

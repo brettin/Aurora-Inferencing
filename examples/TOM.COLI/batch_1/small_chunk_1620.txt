@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007390	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_007395	Outer membrane low permeability porin, OprD family => OccD1/OprD basic amino acids, carbapenem uptake

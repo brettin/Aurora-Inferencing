@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000110	CidA-associated membrane protein CidB
+1005395.227	Pseudomonas bharatica	CSV86_000115	Hydrolase, alpha/beta fold family

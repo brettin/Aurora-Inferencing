@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000635	UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)
+1005395.227	Pseudomonas bharatica	CSV86_000640	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)

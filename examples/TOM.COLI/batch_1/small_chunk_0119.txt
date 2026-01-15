@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01215	htrA	periplasmic serine protease DO (htrA)
+100177.28	Borreliella lusitaniae	QIA24_01220	map	Methionine aminopeptidase (EC 3.4.11.18)

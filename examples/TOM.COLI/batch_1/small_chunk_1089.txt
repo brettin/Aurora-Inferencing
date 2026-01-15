@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001910	HtrA protease/chaperone protein
+1005395.227	Pseudomonas bharatica	CSV86_001915	lepA	Translation elongation factor LepA

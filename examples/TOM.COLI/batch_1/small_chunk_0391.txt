@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03965	bosR	Oxidative stress response regulator, BosR
+100177.28	Borreliella lusitaniae	QIA24_03970	serine/threonine kinase,

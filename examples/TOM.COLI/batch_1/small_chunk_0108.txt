@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01105	B. burgdorferi coding region BB0082
+100177.28	Borreliella lusitaniae	QIA24_01110	ortholog to Borrelia burgdorferi BB0083

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006225	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_006230	Chromate reductase (EC 1.6.5.2)

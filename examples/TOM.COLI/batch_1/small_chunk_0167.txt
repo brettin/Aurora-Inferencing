@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01695	hflK	HflK protein
+100177.28	Borreliella lusitaniae	QIA24_01700	hflC	HflC protein

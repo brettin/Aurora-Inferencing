@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04890	Exonuclease SbcD
+100177.28	Borreliella lusitaniae	QIA24_04895	Exonuclease SbcC

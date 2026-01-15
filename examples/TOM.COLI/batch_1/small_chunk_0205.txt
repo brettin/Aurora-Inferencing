@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02080	fliN	Flagellar motor switch protein FliN
+100177.28	Borreliella lusitaniae	QIA24_02085	fliM	Flagellar motor switch protein FliM

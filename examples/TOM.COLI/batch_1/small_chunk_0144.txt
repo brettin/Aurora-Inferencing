@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01465	ortholog to Borrelia burgdorferi BB0157
+100177.28	Borreliella lusitaniae	QIA24_01470	antigen, S2

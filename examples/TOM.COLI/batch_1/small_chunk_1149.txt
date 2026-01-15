@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002535	3-hydroxyisobutyrate dehydrogenase family protein
+1005395.227	Pseudomonas bharatica	CSV86_002545	Uncharacterized MFS-type transporter

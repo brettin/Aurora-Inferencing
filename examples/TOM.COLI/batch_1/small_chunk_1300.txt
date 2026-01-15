@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004080	Il-IS_2, transposase
+1005395.227	Pseudomonas bharatica	CSV86_004085	Transcriptional regulator, ArsR family

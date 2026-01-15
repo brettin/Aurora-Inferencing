@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01435		H8NJ25		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_01440		H8NJ26	mnmA	tRNA-specific 2-thiouridylase MnmA (EC 2.8.1.13)	mnmA	tRNA-specific 2-thiouridylase MnmA

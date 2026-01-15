@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01875		H8NHD2		Protocatechuate 3,4-dioxygenase alpha chain (EC 1.13.11.3)		protocatechuate-3,4-dioxygenase, beta subunit
+1003201.3	Rickettsia typhi	RTTH1527_01880		H8NHD3		Thiol:disulfide interchange protein tlpA		thiol-disulfide interchange protein

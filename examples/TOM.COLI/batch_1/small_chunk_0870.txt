@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03825		H8NI17		tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)		(dimethylallyl)adenosine tRNA methylthiotransferase
+1003201.3	Rickettsia typhi	RTTH1527_03830		H8NI18		hypothetical protein shared among alpha-Proteobacteria		hypothetical protein

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03625	FemAB family protein
+100177.28	Borreliella lusitaniae	QIA24_03630	metG	Methionyl-tRNA synthetase (EC 6.1.1.10)

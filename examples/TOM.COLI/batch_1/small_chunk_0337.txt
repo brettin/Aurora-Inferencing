@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03415	Xylulose kinase (EC 2.7.1.17)
+100177.28	Borreliella lusitaniae	QIA24_03420	Membrane protein

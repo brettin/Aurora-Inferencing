@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000625	ftsL	Cell division protein FtsL
+1005395.227	Pseudomonas bharatica	CSV86_000630	Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)

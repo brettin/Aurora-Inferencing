@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_04075		H8NI67		Dolichol kinase (EC 2.7.1.108)		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04080		H8NI68	greA	Transcription elongation factor GreA	greA	transcription elongation factor GreA

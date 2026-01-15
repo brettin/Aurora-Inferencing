@@ -1,0 +1,1 @@
+1005395.227	Pseudomonas bharatica	CSV86_008765	glgB	1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03965		H8NI45		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03970		H8NI46		hypothetical protein		hypothetical protein

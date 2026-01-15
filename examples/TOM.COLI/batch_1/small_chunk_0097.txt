@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00990	TPR domain protein
+100177.28	Borreliella lusitaniae	QIA24_00995	Magnesium and cobalt efflux protein CorC

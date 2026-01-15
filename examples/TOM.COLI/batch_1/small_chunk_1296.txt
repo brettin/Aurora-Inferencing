@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004040	Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aromatic-amino-acid aminotransferase (EC 2.6.1.57)
+1005395.227	Pseudomonas bharatica	CSV86_004045	uvrB	Excinuclease ABC subunit B

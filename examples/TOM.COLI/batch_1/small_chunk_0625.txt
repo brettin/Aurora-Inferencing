@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01355		H8NHA6		Lipoprotein of type IV secretion complex that spans outer membrane and periplasm, VirB7		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_01360		H8NHA7		Inner membrane protein forms channel for type IV secretion of T-DNA complex, VirB8		VirB8-like protein of the Type IV secretion system

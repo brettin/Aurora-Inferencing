@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_04015		H8NI55		Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04020		H8NI56	glyS	Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)	glyS	glycyl-tRNA synthetase subunit beta

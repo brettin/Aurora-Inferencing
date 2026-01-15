@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02240	B. burgdorferi coding region BB0309
+100177.28	Borreliella lusitaniae	QIA24_02245	NAD kinase (EC 2.7.1.23)

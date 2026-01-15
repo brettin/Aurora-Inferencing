@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00950	Uncharacterized integral membrane protein BB_0050
+100177.28	Borreliella lusitaniae	QIA24_00955	Uncharacterized integral membrane protein BB_0051

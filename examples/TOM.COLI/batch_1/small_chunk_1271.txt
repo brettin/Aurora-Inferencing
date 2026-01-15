@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003785	Alanine transaminase (EC 2.6.1.2)
+1005395.227	Pseudomonas bharatica	CSV86_003790	msrB	Peptide-methionine (R)-S-oxide reductase MsrB (EC 1.8.4.12)

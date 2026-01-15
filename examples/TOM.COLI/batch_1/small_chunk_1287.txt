@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003950	maf	Maf-like protein YceF
+1005395.227	Pseudomonas bharatica	CSV86_003955	protein, clustered with ribosomal protein L32p

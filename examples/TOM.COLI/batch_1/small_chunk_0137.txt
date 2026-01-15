@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01395	RND efflux system, membrane fusion protein
+100177.28	Borreliella lusitaniae	QIA24_01400	Outer membrane efflux protein

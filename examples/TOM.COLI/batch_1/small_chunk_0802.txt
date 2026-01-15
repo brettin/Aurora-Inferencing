@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03145		H8NHW0	rpsJ	SSU ribosomal protein S10p (S20e)	rpsJ	30S ribosomal protein S10
+1003201.3	Rickettsia typhi	RTTH1527_03150		H8NHW1		Translation elongation factor Tu		elongation factor Tu

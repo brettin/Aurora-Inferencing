@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005360	Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)
+1005395.227	Pseudomonas bharatica	CSV86_005365	hypothetical protein

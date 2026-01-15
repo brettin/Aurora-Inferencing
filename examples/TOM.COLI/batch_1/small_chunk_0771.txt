@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02835		H8NIE2		Rhodanese-related sulfurtransferase		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02840		H8NIE3	dnaA	Chromosomal replication initiator protein DnaA	dnaA	chromosomal replication initiation protein

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_04175		H8NI87		Uncharacterized protein SPO3846		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_04180		H8NI88		proline/betaine transporter		proline/betaine transporter

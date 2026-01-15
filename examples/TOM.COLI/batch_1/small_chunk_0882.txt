@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03945		H8NI41		rickettsial 17 kDa surface antigen precursor		17 kD surface antigen precursor
+1003201.3	Rickettsia typhi	RTTH1527_03950		H8NI42		Zinc ABC transporter, ATP-binding protein ZnuC		metal transport ATP-binding protein

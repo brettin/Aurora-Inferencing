@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_006395	Permease of the drug/metabolite transporter (DMT) superfamily
+1005395.227	Pseudomonas bharatica	CSV86_006400	Transcriptional regulator, Xre family

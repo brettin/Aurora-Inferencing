@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02490		H8NHQ5		SAM-dependent methyltransferase		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_02495		H8NHQ6		Single-stranded-DNA-specific exonuclease RecJ		single-stranded-DNA-specific exonuclease RecJ

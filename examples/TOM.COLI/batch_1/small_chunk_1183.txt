@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002885	Enzyme involved in the deoxyxylulose pathway of isoprenoid biosynthesis
+1005395.227	Pseudomonas bharatica	CSV86_002890	purN	Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)

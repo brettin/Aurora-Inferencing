@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00515		H8NH18		ATP synthase F0 sector subunit a (EC 3.6.3.14)		F0F1 ATP synthase subunit A
+1003201.3	Rickettsia typhi	RTTH1527_00520		H8NH19		ATP synthase F0 sector subunit c (EC 3.6.3.14)		F0F1 ATP synthase subunit C

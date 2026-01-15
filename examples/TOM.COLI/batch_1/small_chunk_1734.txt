@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008575	Transcriptional regulator, AraC family
+1005395.227	Pseudomonas bharatica	CSV86_008580	4-carboxymuconolactone decarboxylase domain/alkylhydroperoxidase AhpD family core domain protein

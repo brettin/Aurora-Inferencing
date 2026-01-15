@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000380	Carboxylesterase PA3859
+1005395.227	Pseudomonas bharatica	CSV86_000385	Amino acid ABC transporter, substrate-binding protein YhdW

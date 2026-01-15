@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01055		H8NH46		Cell division organizing protein PopZ		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_01060		H8NH47		rickettsial conserved		hypothetical protein

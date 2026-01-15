@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03615		H8NIM2		hypothetical protein		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_03620		H8NIM3	gmk	Guanylate kinase (EC 2.7.4.8)	gmk	guanylate kinase

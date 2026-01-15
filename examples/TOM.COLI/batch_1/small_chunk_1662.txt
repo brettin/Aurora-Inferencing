@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_007830	NADH-FMN oxidoreductase
+1005395.227	Pseudomonas bharatica	CSV86_007835	Aldehyde dehydrogenase (EC 1.2.1.3)

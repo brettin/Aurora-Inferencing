@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02130	flagellar protein
+100177.28	Borreliella lusitaniae	QIA24_02135	fliI	Flagellum-specific ATP synthase FliI

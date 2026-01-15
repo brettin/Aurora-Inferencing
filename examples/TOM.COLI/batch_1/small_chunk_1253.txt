@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003600	Helicase subunit of the DNA excision repair complex
+1005395.227	Pseudomonas bharatica	CSV86_003605	Ankyrin

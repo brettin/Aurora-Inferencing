@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004945	Predicted transcriptional regulator for fatty acid degradation FadQ, TetR family
+1005395.227	Pseudomonas bharatica	CSV86_004955	nagZ	beta-N-acetylglucosaminidase (EC 3.2.1.52)

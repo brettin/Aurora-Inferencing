@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03395		H8NIH8	tgt	Queuine tRNA-ribosyltransferase (EC 2.4.2.29)	tgt	queuine tRNA-ribosyltransferase
+1003201.3	Rickettsia typhi	RTTH1527_03400		H8NHW9		hypothetical protein		hypothetical protein

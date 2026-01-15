@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04045	Exported protein
+100177.28	Borreliella lusitaniae	QIA24_04050	hypothetical protein

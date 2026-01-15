@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_005625	Outer membrane low permeability porin, OprD family => OccK7/OpdD, meropenem uptake
+1005395.227	Pseudomonas bharatica	CSV86_005630	Acetate permease ActP (cation/acetate symporter)

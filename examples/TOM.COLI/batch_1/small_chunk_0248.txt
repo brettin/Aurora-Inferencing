@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_02510	ATP-dependent Clp protease ATP-binding subunit ClpA
+100177.28	Borreliella lusitaniae	QIA24_02515	tyrS	Tyrosyl-tRNA synthetase (EC 6.1.1.1)

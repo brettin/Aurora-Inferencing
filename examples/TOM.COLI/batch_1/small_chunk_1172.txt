@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_002770	Inner membrane protein YohC
+1005395.227	Pseudomonas bharatica	CSV86_002775	ttcA	tRNA-(cytosine32)-2-thiocytidine synthetase TtcA

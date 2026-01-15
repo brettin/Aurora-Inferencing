@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_04820	panF	Pantothenate:Na+ symporter (TC 2.A.21.1.1)
+100177.28	Borreliella lusitaniae	QIA24_04825	LSU rRNA pseudouridine(955/2504/2580) synthase (EC 5.4.99.24)

@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02220		H8NHK1		Two-component system sensor histidine kinase		two-component sensor histidine kinase
+1003201.3	Rickettsia typhi	RTTH1527_02225		H8NHK2	hemC	Porphobilinogen deaminase (EC 2.5.1.61)	hemC	porphobilinogen deaminase

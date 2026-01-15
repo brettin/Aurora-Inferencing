@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03925		H8NI37		4Fe-4S dicluster fused with DUF3470		ferredoxin
+1003201.3	Rickettsia typhi	RTTH1527_03930		H8NI38		Cytochrome c-type biogenesis protein CcmC, heme lyase for CcmE		heme exporter protein C

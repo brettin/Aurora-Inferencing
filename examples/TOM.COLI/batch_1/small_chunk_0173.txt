@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01755	tRNA-Ile
+100177.28	Borreliella lusitaniae	QIA24_01760	B. burgdorferi coding region BB0213

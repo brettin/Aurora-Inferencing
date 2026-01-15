@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000825	Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexW of MexVW-OprM system
+1005395.227	Pseudomonas bharatica	CSV86_000830	Multidrug efflux system, membrane fusion component => MexV of MexVW-OprM system

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004795	rlmM	23S rRNA (cytidine(2498)-2'-O)-methyltransferase (EC 2.1.1.186)
+1005395.227	Pseudomonas bharatica	CSV86_004800	tusA	tRNA 5-methylaminomethyl-2-thiouridine synthesis sulfur carrier protein TusA

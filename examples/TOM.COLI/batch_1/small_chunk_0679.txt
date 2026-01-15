@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01895		H8NHD6		Soluble lytic murein transglycosylase (EC 4.2.2.n1)		soluble lytic transglycosylase domain-containing protein
+1003201.3	Rickettsia typhi	RTTH1527_01900		H8NHD7		rickettsial conserved		hypothetical protein

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003930	rne	Ribonuclease E (EC 3.1.26.12)
+1005395.227	Pseudomonas bharatica	CSV86_003935	rluC	LSU rRNA pseudouridine(955/2504/2580) synthase (EC 5.4.99.24)

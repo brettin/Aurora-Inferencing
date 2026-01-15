@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00660	Chromosome partition protein smc
+100177.28	Borreliella lusitaniae	QIA24_00665	hypothetical protein

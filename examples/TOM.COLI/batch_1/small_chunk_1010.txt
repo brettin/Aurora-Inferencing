@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001065	Transcriptional regulator, Crp/Fnr family
+1005395.227	Pseudomonas bharatica	CSV86_001070	LysR family transcriptional regulator PA0191

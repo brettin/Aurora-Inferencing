@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008095	ahpC	Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)
+1005395.227	Pseudomonas bharatica	CSV86_008100	ahpF	Alkyl hydroperoxide reductase protein F

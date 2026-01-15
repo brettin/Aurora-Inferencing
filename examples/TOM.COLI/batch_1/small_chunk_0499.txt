@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00080		H8NIR3	era	GTP-binding protein Era	era	GTPase Era
+1003201.3	Rickettsia typhi	RTTH1527_00085		H8NIR4	rnc	Ribonuclease III (EC 3.1.26.3)	rnc	ribonuclease III

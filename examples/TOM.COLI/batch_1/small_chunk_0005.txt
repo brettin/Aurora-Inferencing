@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00055	hypothetical protein
+100177.28	Borreliella lusitaniae	QIA24_00060	Borrelia plasmid incompatibility determinant

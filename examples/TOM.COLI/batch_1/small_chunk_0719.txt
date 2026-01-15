@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_02300		H8NHL7		Iron-sulfur cluster assembly iron binding protein IscA		iron-sulfur cluster assembly accessory protein
+1003201.3	Rickettsia typhi	RTTH1527_02305		H8NHL8		Iron-sulfur cluster assembly scaffold protein IscU		scaffold protein

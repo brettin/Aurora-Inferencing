@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004290	Putative thiamine pyrophosphate-requiring enzyme
+1005395.227	Pseudomonas bharatica	CSV86_004295	Putative iron-regulated membrane protein

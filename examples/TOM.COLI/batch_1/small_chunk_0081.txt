@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_00830	Probable transcriptional regulatory protein YebC
+100177.28	Borreliella lusitaniae	QIA24_00835	Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_01175	V-type ATP synthase subunit E (EC 3.6.3.14)
+100177.28	Borreliella lusitaniae	QIA24_01180	hypothetical protein

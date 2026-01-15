@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000675	Cell division protein FtsQ
+1005395.227	Pseudomonas bharatica	CSV86_000680	ftsA	Cell division protein FtsA

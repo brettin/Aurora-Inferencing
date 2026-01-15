@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_001115	Rrf2-linked NADH-flavin reductase
+1005395.227	Pseudomonas bharatica	CSV86_001120	Transcriptional regulator, LysR family

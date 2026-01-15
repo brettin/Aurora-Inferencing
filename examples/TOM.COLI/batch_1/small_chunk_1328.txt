@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_004365	Outer membrane ferripyoverdine receptor FpvA, TonB-dependent @ Ferric siderophore receptor, TonB dependent
+1005395.227	Pseudomonas bharatica	CSV86_004370	hypothetical protein

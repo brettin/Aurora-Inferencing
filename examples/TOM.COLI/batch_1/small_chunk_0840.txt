@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_03525		H8NIK4		Uncharacterized protein RBE_1412		ABC-type transport systems periplasmic component
+1003201.3	Rickettsia typhi	RTTH1527_03530		H8NIK5	tatA	Twin-arginine translocation protein TatA	tatA	twin arginine translocase protein A

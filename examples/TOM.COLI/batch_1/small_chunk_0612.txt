@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_01225		H8NH80		Pyruvate dehydrogenase E1 component alpha subunit (EC 1.2.4.1)		pyruvate dehydrogenase e1 component, alpha subunit precursor
+1003201.3	Rickettsia typhi	RTTH1527_01230		H8NH81		Pyruvate dehydrogenase E1 component beta subunit (EC 1.2.4.1)		pyruvate dehydrogenase subunit beta

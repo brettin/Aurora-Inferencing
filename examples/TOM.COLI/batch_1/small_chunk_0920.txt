@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_000135	Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+1005395.227	Pseudomonas bharatica	CSV86_000140	fahA	Fumarylacetoacetase (EC 3.7.1.2)

@@ -1,0 +1,2 @@
+100177.28	Borreliella lusitaniae	QIA24_03255	2-haloalkanoic acid dehalogenase (EC 3.8.1.2)
+100177.28	Borreliella lusitaniae	QIA24_03260	ortholog to Borrelia burgdorferi BB0512

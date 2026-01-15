@@ -1,0 +1,2 @@
+1003201.3	Rickettsia typhi	RTTH1527_00765		H8NIX1		Uncharacterized protein RSP_1104		hypothetical protein
+1003201.3	Rickettsia typhi	RTTH1527_00770		H8NIX2		16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)		16S ribosomal RNA methyltransferase RsmE

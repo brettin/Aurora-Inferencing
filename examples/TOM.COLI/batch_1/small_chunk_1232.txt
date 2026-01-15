@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_003385	Cyclohexadienyl dehydrogenase (EC 1.3.1.12)(EC 1.3.1.43) / 3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+1005395.227	Pseudomonas bharatica	CSV86_003390	cmk	Cytidylate kinase (EC 2.7.4.25)

@@ -1,0 +1,2 @@
+1005395.227	Pseudomonas bharatica	CSV86_008085	hypothetical protein
+1005395.227	Pseudomonas bharatica	CSV86_008090	gorA	Glutathione reductase (EC 1.8.1.7)
