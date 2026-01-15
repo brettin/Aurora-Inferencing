@@ -1,18 +1,20 @@
 #!/bin/bash
 #PBS -N gpt_oss_120b_vllm
 #PBS -l walltime=01:00:00
-#PBS -A FoundEpidem
-#PBS -q R8223128
-#PBS -o 256.output.log
-#PBS -e 256.error.log
-#PBS -l select=256
+#PBS -A datascience
+#PBS -q debug-scaling
+#PBS -o 1.output.log
+#PBS -e 1.error.log
+#PBS -l select=1
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
+#PBS -j oe
 
 # Input/Output configuration
-SCRIPT_DIR="/lus/flare/projects/ModCon/brettin/Aurora-Inferencing/vllm-gpt-oss120b"
+SCRIPT_DIR="/lus/flare/projects/datasets/softwares/testing/vllm-efforts/Aurora-Inferencing/vllm-gpt-oss120b"
 INPUT_DIR="${SCRIPT_DIR}/../examples/TOM.COLI/batch_1"
 MODEL_PATH="/lus/flare/projects/datasets/model-weights/hub/models--openai--gpt-oss-120b"
+MODEL_WEIGHTS= basename ${MODEL_PATH}
 CONDA_FILE="vllm_oss_conda_pack_01082026.tar.gz"
 CONDA_ENV_PATH="$SCRIPT_DIR/vllm_oss_conda_pack_01082026.tar.gz"
 
@@ -73,7 +75,10 @@ if [ "$STAGE_WEIGHTS" -eq 1 ]; then
     mpicc -o "${SCRIPT_DIR}/../cptotmp" "${SCRIPT_DIR}/../cptotmp.c"
     export MPIR_CVAR_CH4_OFI_ENABLE_MULTI_NIC_STRIPING=1
     export MPIR_CVAR_CH4_OFI_MAX_NICS=4
-    time mpiexec -ppn 1 --cpu-bind numa "${SCRIPT_DIR}/../cptotmp" "$MODEL_PATH" 2>&1 || \
+    module add mpifileutils
+    time mpiexec -ppn 1 --cpu-bind numa bash -c 'mkdir -p /tmp/hf_home/hub/${MODEL_WEIGHTS}'
+#    time mpiexec -ppn 1 --cpu-bind numa "${SCRIPT_DIR}/../cptotmp" "$MODEL_PATH" 2>&1 || \
+    time mpiexec -ppn 102 --cpu-bind depth --depth=1 dsync "$MODEL_PATH" "/tmp/hf_home/hub" 2>&1 || \
         echo "$(date) WARNING: Model staging failed or directory not found, will use shared filesystem"
     echo "$(date) Model staging complete"
 fi
