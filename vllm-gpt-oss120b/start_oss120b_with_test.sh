@@ -59,7 +59,7 @@ else
     # Clear positional parameters to avoid conda activate picking them up
     set --
     # conda activate /tmp/hf_home/hub/vllm_env
-    source /tmp/hf_home/hub/vllm_env/bin/activate
+    source /tmp/vllm_env/bin/activate
     conda-unpack
 
     echo "$(date) $HOSTNAME Conda environment activated"
