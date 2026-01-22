@@ -107,8 +107,8 @@ echo "$(date) $HOSTNAME Log file: ${TEST_OUTPUTS_DIR}/${HOSTNAME}.vllm.log"
 export OCL_ICD_FILENAMES="/opt/aurora/25.190.0/oneapi/2025.2/lib/libintelocl.so" 
 export VLLM_DISABLE_SINKS=1
 
-strace -ff -e trace=%file -o /tmp/strace.%p \
-vllm serve ${VLLM_MODEL} \
+#strace -ff -e trace=%file -o /tmp/strace.%p \
+OCL_ICD_FILENAMES="/opt/aurora/25.190.0/oneapi/2025.2/lib/libintelocl.so" VLLM_DISABLE_SINKS=1 vllm serve ${VLLM_MODEL} \
   --dtype bfloat16 \
   --tensor-parallel-size 8 \
   --enforce-eager \

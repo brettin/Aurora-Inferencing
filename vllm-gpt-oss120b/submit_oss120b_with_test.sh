@@ -1,14 +1,21 @@
 #!/bin/bash
 #PBS -N gpt_oss_120b_vllm
-#PBS -l walltime=01:00:00
+#PBS -l walltime=02:00:00
 #PBS -A datascience
-#PBS -q debug-scaling
-#PBS -o 1.output.log
-#PBS -e 1.error.log
-#PBS -l select=1
+#PBS -q prod
+#PBS -o 1024.output.log
+#PBS -e 1024.error.log
+#PBS -l select=1024
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 #PBS -j oe
+#
+
+NNODES=$(wc -l < $PBS_NODEFILE)
+RANKS_PER_NODE=12
+NRANKS=$(( NNODES * RANKS_PER_NODE ))
+
+echo "N_RANKS = ${NRANKS}"
 
 # Input/Output configuration
 SCRIPT_DIR="/lus/flare/projects/datasets/softwares/testing/vllm-efforts/Aurora-Inferencing/vllm-gpt-oss120b"
@@ -78,10 +85,10 @@ if [ "$STAGE_WEIGHTS" -eq 1 ]; then
     mpicc -o "${SCRIPT_DIR}/../cptotmp" "${SCRIPT_DIR}/../cptotmp.c"
     export MPIR_CVAR_CH4_OFI_ENABLE_MULTI_NIC_STRIPING=1
     export MPIR_CVAR_CH4_OFI_MAX_NICS=4
-    module add mpifileutils
-    time mpiexec -ppn 1 --cpu-bind numa bash -c 'mkdir -p /tmp/hf_home/hub/${MODEL_WEIGHTS}'
-#    time mpiexec -ppn 1 --cpu-bind numa "${SCRIPT_DIR}/../cptotmp" "$MODEL_PATH" 2>&1 || \
-    time mpiexec -ppn 102 --cpu-bind depth --depth=1 dsync "$MODEL_PATH" "/tmp/hf_home/hub/${MODEL_WEIGHTS}" 2>&1 || \
+    #module add mpifileutils
+    #time mpiexec -n ${NNODES} -ppn 1 --cpu-bind numa bash -c 'mkdir -p /tmp/hf_home/hub/${MODEL_WEIGHTS}'
+    time mpiexec -ppn 1 --cpu-bind numa "${SCRIPT_DIR}/../cptotmp" "$MODEL_PATH" 2>&1 || \
+#    time mpiexec -n ${NRANKS} -ppn 12 --cpu-bind depth --depth=4 dsync "$MODEL_PATH" "/tmp/hf_home/hub/${MODEL_WEIGHTS}" 2>&1 || \
         echo "$(date) WARNING: Model staging failed or directory not found, will use shared filesystem"
     echo "$(date) Model staging complete"
 fi
