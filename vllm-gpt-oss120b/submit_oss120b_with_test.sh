@@ -1,11 +1,11 @@
 #!/bin/bash
 #PBS -N gpt_oss_120b_vllm
-#PBS -l walltime=02:00:00
-#PBS -A datascience
-#PBS -q prod
-#PBS -o 1024.output.log
-#PBS -e 1024.error.log
-#PBS -l select=1024
+#PBS -l walltime=00:30:00
+#PBS -A ModCon
+#PBS -q debug-scaling
+#PBS -o 16.output.log
+#PBS -e 16.error.log
+#PBS -l select=16
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 #PBS -j oe
