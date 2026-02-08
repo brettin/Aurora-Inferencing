@@ -2,6 +2,7 @@
 # input arguments: INFILE MODEL_NAME (optional)
 #
 export PYTHONNOUSERSITE=1
+USE_FRAMEWORKS=${USE_FRAMEWORKS:-0}
 #
 # Timing configuration
 START_TIME=$(date +%s)
@@ -59,7 +60,7 @@ else
     # Clear positional parameters to avoid conda activate picking them up
     set --
     # conda activate /tmp/hf_home/hub/vllm_env
-    source /tmp/vllm_env/bin/activate
+    source /tmp/hf_home/hub/vllm_env/bin/activate
     conda-unpack
     export LD_LIBRARY_PATH=/tmp/hf_home/hub/vllm_env/lib/python3.12/site-packages/intel_extension_for_pytorch/lib:/tmp/hf_home/hub/vllm_env/lib:/tmp/hf_home/hub/vllm_env/lib/python3.12/site-packages/torch/lib:${LD_LIBRARY_PATH}:/usr/lib64
 
