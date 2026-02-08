@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002640	rrf	5S rRNA ## 5S ribosomal RNA
-1005395.227	Pseudomonas bharatica	CSV86_002645	hypothetical protein

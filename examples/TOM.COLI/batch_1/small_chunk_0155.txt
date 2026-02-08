@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01575	mnmE	tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
-100177.28	Borreliella lusitaniae	QIA24_01580	flagellar protein FlbF

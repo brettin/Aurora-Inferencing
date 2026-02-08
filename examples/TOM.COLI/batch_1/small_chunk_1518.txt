@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006345	DksA family protein PA5536 (no Zn-finger)
-1005395.227	Pseudomonas bharatica	CSV86_006350	Methyl-accepting chemotaxis protein

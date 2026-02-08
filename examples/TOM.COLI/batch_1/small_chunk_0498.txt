@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00070		H8NIR1		cell surface antigen		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00075		H8NIR2	ruvC	Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4)	ruvC	Holliday junction resolvase

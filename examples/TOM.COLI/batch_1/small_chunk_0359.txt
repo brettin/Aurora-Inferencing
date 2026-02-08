@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03635	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
-100177.28	Borreliella lusitaniae	QIA24_03640	pta	Phosphate acetyltransferase (EC 2.3.1.8)

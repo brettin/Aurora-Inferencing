@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03085	tuf	Translation elongation factor Tu
-100177.28	Borreliella lusitaniae	QIA24_03090	rpsJ	SSU ribosomal protein S10p (S20e)

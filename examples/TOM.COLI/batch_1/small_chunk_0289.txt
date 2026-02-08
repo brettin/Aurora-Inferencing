@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02925	phosphocarrier protein HPr
-100177.28	Borreliella lusitaniae	QIA24_02930	Ribosome hibernation promoting factor Hpf

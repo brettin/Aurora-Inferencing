@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00680	antigen, P35,
-100177.28	Borreliella lusitaniae	QIA24_00685	hypothetical protein

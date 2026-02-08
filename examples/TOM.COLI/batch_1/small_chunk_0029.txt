@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00310	CdsJ
-100177.28	Borreliella lusitaniae	QIA24_00315	CdsI

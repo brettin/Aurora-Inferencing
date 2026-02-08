@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04525	ATP-dependent Clp protease proteolytic subunit ClpP (EC 3.4.21.92)
-100177.28	Borreliella lusitaniae	QIA24_04530	hypothetical protein

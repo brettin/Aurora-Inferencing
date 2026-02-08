@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006950	icd	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)
-1005395.227	Pseudomonas bharatica	CSV86_006955	cspD	Cold shock protein of CSP family => CspD (naming convention as in E.coli)

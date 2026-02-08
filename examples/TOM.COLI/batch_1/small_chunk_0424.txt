@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04295	Hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_04300	rnpB	RNase P RNA component class A

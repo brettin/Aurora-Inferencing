@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01595	fliW	Flagellar assembly factor FliW
-100177.28	Borreliella lusitaniae	QIA24_01600	csrA	Carbon storage regulator

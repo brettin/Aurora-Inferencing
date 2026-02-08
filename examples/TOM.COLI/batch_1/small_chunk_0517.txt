@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00260		H8NGW7		AdoMet-AdoHcy transporter 2		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00265		H8NGW8		Outer membrane protein W precursor		OmpW family outer-membrane protein

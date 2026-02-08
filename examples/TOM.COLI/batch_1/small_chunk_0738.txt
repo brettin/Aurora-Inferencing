@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02500		H8NHQ7	prfA	Peptide chain release factor 1	prfA	peptide chain release factor 1
-1003201.3	Rickettsia typhi	RTTH1527_02505		H8NHQ8		Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)		branched-chain alpha-keto acid dehydrogenase subunit E2

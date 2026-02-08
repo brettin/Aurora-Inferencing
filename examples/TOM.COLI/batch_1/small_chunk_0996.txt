@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000920	Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily
-1005395.227	Pseudomonas bharatica	CSV86_000925	hypothetical protein

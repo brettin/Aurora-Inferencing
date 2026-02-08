@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000100	Transcriptional regulator CidR, LysR family
-1005395.227	Pseudomonas bharatica	CSV86_000105	Holin-like protein CidA

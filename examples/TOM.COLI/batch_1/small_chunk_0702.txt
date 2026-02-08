@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02130		H8NHI3		Glycosyl transferase		glycosyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_02135		H8NHI4		ATP-dependent DNA helicase UvrD/PcrA (EC 3.6.4.12)		DNA helicase II

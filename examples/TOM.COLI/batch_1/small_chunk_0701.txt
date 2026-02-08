@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02120		H8NHI1		hypothetical protein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_02125		H8NHI2		Thioredoxin reductase (EC 1.8.1.9)		thioredoxin reductase

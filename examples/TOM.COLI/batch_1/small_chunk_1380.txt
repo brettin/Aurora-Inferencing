@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004895	Universal stress protein family COG0589
-1005395.227	Pseudomonas bharatica	CSV86_004900	hypothetical protein

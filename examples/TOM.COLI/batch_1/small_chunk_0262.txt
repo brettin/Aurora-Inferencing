@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02650	rpmG	LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-independent
-100177.28	Borreliella lusitaniae	QIA24_02655	tRNA-Thr

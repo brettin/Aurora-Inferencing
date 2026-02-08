@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03585	Methyl-accepting chemotaxis sensor protein BB_0578
-100177.28	Borreliella lusitaniae	QIA24_03590	dnaE	DNA polymerase III alpha subunit (EC 2.7.7.7)

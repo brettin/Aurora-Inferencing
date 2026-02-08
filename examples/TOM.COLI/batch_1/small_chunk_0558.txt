@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00675		H8NIV3		NADH-FMN oxidoreductase		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00680		H8NIV4		ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)		glutamine-binding periplasmic protein GlnH

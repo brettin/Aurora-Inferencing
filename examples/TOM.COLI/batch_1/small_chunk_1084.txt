@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001860	Tricarboxylate transport transcriptional regulator TctD
-1005395.227	Pseudomonas bharatica	CSV86_001865	Tricarboxylate transport sensor protein TctE

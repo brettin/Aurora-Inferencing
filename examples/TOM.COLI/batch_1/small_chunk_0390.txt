@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03955	PTS system, N-acetylmannosamine-specific IIC component / PTS system, N-acetylmannosamine-specific IIB component
-100177.28	Borreliella lusitaniae	QIA24_03960	Hydrolase, alpha/beta fold family

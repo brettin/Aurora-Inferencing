@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01265		H8NH88		rickettsial conserved		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_01270		H8NH89		Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)		Ubiquinol-cytochrome c reductase iron-sulfur subunit

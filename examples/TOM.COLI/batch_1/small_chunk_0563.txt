@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00725		H8NIW3		hypothetical protein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00730		H8NIW4		Outer membrane protein assembly factor YaeT		outer membrane protein omp1

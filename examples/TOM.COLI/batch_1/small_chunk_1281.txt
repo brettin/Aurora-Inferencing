@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003890	DNA internalization-related competence protein ComEC/Rec2
-1005395.227	Pseudomonas bharatica	CSV86_003895	MotA/TolQ/ExbB proton channel family protein

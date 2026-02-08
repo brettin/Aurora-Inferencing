@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003970	fabD	Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
-1005395.227	Pseudomonas bharatica	CSV86_003975	fabG	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100), FadG

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006095	Pyoverdin biosynthesis protein PvdN, aminotransferase, class V
-1005395.227	Pseudomonas bharatica	CSV86_006100	Putative dipeptidase, pyoverdin biosynthesis PvdM

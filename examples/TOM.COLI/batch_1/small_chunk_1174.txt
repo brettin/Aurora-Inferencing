@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002790	wrbA	Flavoprotein WrbA
-1005395.227	Pseudomonas bharatica	CSV86_002795	arsC	Uncharacterized protein YfgD, not an arsenate reductase

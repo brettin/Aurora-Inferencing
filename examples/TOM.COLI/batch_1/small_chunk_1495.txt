@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006105	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_006110	pbpG	Murein-DD-endopeptidase (EC 3.4.99.-)

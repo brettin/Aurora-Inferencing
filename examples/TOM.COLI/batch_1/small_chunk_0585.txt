@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00955		H8NJ07		Glutaredoxin 3		glutaredoxin 3
-1003201.3	Rickettsia typhi	RTTH1527_00960		H8NJ08		Efflux ABC transporter, permease/ATP-binding protein mlr7818		ABC transporter ATP-binding protein

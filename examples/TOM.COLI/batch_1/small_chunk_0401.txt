@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04065	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_04070	flaA	flagellar filament outer layer protein

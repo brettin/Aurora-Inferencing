@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02100		H8NHH7	ppnK	NAD kinase (EC 2.7.1.23)	ppnK	inorganic polyphosphate/ATP-NAD kinase
-1003201.3	Rickettsia typhi	RTTH1527_02105		H8NHH8		Ribonuclease J (endonuclease and 5' exonuclease)		hypothetical protein

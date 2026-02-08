@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02835	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_02840	protein co-occurring with transport systems (COG1739)

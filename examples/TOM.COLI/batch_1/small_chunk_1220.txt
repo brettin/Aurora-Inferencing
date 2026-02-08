@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003265	Protein of unknown function UPF0060
-1005395.227	Pseudomonas bharatica	CSV86_003270	csrA	carbon storage regulator

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03755	tRNA-Gly
-100177.28	Borreliella lusitaniae	QIA24_03760	tig	Cell division trigger factor (EC 5.2.1.8)

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008185	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_008190	Biotin synthase related domain containing protein

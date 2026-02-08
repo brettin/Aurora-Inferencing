@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04465	tRNA-Arg
-100177.28	Borreliella lusitaniae	QIA24_04470	nth	Endonuclease III (EC 4.2.99.18)

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02000		H8NHF7		Uncharacterized protein CC_3748		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_02005		H8NHF8	leuS	Leucyl-tRNA synthetase (EC 6.1.1.4)	leuS	leucyl-tRNA synthetase

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01255		H8NH86		Na(+) H(+) antiporter subunit B		monovalent cation/H+ antiporter subunit B
-1003201.3	Rickettsia typhi	RTTH1527_01260		H8NH87		ABC transporter involved in cytochrome c biogenesis, CcmB subunit		heme exporter protein B

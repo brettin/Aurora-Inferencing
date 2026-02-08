@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002185	pyrC	Dihydroorotase (EC 3.5.2.3)
-1005395.227	Pseudomonas bharatica	CSV86_002190	Transcriptional regulator, ArsR family

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03485	crr	PTS system, glucose-specific IIA component (EC 2.7.1.199)
-100177.28	Borreliella lusitaniae	QIA24_03490	htpG	Chaperone protein HtpG

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04355	KtrAB potassium uptake system, integral membrane component KtrB
-100177.28	Borreliella lusitaniae	QIA24_04360	KtrAB potassium uptake system, peripheral membrane component KtrA

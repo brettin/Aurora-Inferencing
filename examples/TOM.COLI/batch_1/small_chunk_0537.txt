@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00465		H8NH08		Acetoacetyl-CoA reductase (EC 1.1.1.36)		acetoacetyl-CoA reductase
-1003201.3	Rickettsia typhi	RTTH1527_00470		H8NH09		hypothetical protein		hypothetical protein

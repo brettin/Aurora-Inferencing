@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00485		H8NH12		hypothetical protein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00490		H8NH13	recF	DNA recombination and repair protein RecF	recF	recombination protein F

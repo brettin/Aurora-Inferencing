@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007800	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_007805	Putative lipase

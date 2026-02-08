@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02070	fliP	Flagellar biosynthesis protein FliP
-100177.28	Borreliella lusitaniae	QIA24_02075	Regulator of sigma S factor FliZ

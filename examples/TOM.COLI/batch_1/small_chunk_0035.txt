@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00370	antigen, S2
-100177.28	Borreliella lusitaniae	QIA24_00375	antigen, S1

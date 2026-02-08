@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002560	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_002565	Tetrapartite efflux system, inner membrane component FusBC-like

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003200	minD	Septum site-determining protein MinD
-1005395.227	Pseudomonas bharatica	CSV86_003210	Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)

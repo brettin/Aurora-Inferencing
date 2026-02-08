@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02560		H8NHR9		Helicase PriA essential for oriC/DnaA-independent DNA replication		primosome assembly protein PriA
-1003201.3	Rickettsia typhi	RTTH1527_02565		H8NHS0		Flavin prenyltransferase UbiX		aromatic acid decarboxylase

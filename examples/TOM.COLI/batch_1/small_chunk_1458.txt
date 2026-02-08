@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005730	DNA-binding response regulator KdpE
-1005395.227	Pseudomonas bharatica	CSV86_005735	Bacterial patatin-like phospholipase domain containing protein

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00845		H8NIY7		competence lipoprotein ComL, 		lipoprotein
-1003201.3	Rickettsia typhi	RTTH1527_00850		H8NIY8		Chaperone protein DnaJ		chaperone protein DnaJ

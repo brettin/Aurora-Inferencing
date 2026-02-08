@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000775	groL	Heat shock protein 60 kDa family chaperone GroEL
-1005395.227	Pseudomonas bharatica	CSV86_000780	Lipid A 4'-phosphatase LpxF-like,

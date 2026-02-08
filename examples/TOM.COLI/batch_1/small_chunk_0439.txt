@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04445	Bis-ABC ATPase YbiT
-100177.28	Borreliella lusitaniae	QIA24_04450	Putative membrane-spanning protein

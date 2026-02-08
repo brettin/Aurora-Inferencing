@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004765	Glutaredoxin-like domain-containing protein PA3033
-1005395.227	Pseudomonas bharatica	CSV86_004770	Membrane protein

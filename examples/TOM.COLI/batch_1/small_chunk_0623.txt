@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01335		H8NHA2		hypothetical protein		monovalent cation/H+ antiporter subunit D
-1003201.3	Rickettsia typhi	RTTH1527_01340		H8NHA3		Na(+) H(+) antiporter subunit C		monovalent cation/H+ antiporter subunit C

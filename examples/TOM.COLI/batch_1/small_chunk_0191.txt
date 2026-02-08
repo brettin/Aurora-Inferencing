@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01940	DedA protein
-100177.28	Borreliella lusitaniae	QIA24_01945	tRNA-Leu

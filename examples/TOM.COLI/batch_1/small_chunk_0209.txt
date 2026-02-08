@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02120	Flagellar hook-length control protein FliK
-100177.28	Borreliella lusitaniae	QIA24_02125	Flagellar protein FlbB

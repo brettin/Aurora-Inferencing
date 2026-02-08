@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006185	Gamma-glutamyl-putrescine oxidase (EC1.4.3.-)
-1005395.227	Pseudomonas bharatica	CSV86_006190	tRNA-Val

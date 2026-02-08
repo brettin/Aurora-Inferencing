@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02985		H8NHS8		Ribonuclease PH (EC 2.7.7.56)		ribonuclease PH
-1003201.3	Rickettsia typhi	RTTH1527_02990		H8NHS9		Heat shock protein GrpE		heat shock protein GrpE

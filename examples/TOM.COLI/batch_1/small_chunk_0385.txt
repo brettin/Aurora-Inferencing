@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03905	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)
-100177.28	Borreliella lusitaniae	QIA24_03910	zwf	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)

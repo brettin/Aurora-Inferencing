@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00860	lepB	Signal peptidase I (EC 3.4.21.89)
-100177.28	Borreliella lusitaniae	QIA24_00865	hypothetical protein

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01665	spoT	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II
-100177.28	Borreliella lusitaniae	QIA24_01670	hypothetical protein

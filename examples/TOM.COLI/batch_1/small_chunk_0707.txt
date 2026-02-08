@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02180		H8NHJ3		Peptidoglycan hydrolase VirB1, involved in T-DNA transfer		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_02185		H8NHJ4		rickettsial conserved		hypothetical protein

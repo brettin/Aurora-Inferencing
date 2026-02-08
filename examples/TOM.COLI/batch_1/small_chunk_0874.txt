@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03865		H8NI25	xerC	Site-specific tyrosine recombinase XerC	xerC	site-specific tyrosine recombinase XerC
-1003201.3	Rickettsia typhi	RTTH1527_03870		H8NI26		rickettsial conserved		hypothetical protein

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03035		H8NHT8	adk	Adenylate kinase (EC 2.7.4.3)	adk	adenylate kinase
-1003201.3	Rickettsia typhi	RTTH1527_03040		H8NHT9	secY	Protein translocase subunit SecY	secY	preprotein translocase subunit SecY

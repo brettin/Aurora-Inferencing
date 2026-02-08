@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004210	Phosphoribosylanthranilate isomerase (EC 5.3.1.24)
-1005395.227	Pseudomonas bharatica	CSV86_004215	Acetyl-coenzyme A carboxyl transferase beta chain (EC 6.4.1.2)

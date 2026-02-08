@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002435	Putative hydrolase
-1005395.227	Pseudomonas bharatica	CSV86_002440	Putative esterase

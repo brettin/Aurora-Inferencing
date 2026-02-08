@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02385		H8NHN4		Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)		polynucleotide phosphorylase/polyadenylase
-1003201.3	Rickettsia typhi	RTTH1527_02390		H8NHN5		D-arabinose-5-phosphate isomerase (EC 5.3.1.13)		sugar isomerase

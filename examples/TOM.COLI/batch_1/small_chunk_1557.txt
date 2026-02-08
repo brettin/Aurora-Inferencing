@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006740	xthA	Exodeoxyribonuclease III (EC 3.1.11.2)
-1005395.227	Pseudomonas bharatica	CSV86_006745	Histone acetyltransferase HPA2 and related acetyltransferases

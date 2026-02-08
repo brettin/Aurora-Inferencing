@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02785		H8NID2		Inorganic pyrophosphatase (EC 3.6.1.1)		inorganic pyrophosphatase
-1003201.3	Rickettsia typhi	RTTH1527_02790		H8NID3		Peptidoglycan lipid II flippase MurJ		MviN-like protein

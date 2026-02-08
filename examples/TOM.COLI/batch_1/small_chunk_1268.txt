@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003755	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
-1005395.227	Pseudomonas bharatica	CSV86_003760	Spermidine synthase-like protein

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02360	eno	Enolase (EC 4.2.1.11)
-100177.28	Borreliella lusitaniae	QIA24_02365	rpsI	SSU ribosomal protein S9p (S16e)

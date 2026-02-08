@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000275	Alginate O-acetyltransferase AlgJ, inner membrane
-1005395.227	Pseudomonas bharatica	CSV86_000280	Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)

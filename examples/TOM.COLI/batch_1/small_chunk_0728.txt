@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02395		H8NHN6		Lipopolysaccharide export system protein LptC		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_02400		H8NHN7		Lipopolysaccharide export system protein LptA		hypothetical protein

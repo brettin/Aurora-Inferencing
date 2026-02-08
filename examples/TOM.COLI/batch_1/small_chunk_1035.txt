@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001335	DNA topoisomerase III (EC 5.99.1.2) in PFGI-1-like cluster
-1005395.227	Pseudomonas bharatica	CSV86_001340	hypothetical protein

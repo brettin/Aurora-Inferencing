@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01545	Aerotolerance protein BatA
-100177.28	Borreliella lusitaniae	QIA24_01550	hypothetical protein

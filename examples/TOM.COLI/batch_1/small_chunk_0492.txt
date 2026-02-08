@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00010		H8NIP9		Thioredoxin		thioredoxin
-1003201.3	Rickettsia typhi	RTTH1527_00015		H8NIQ0		O-antigen export system ATP-binding protein RfbE		O-antigen export system ATP-binding protein

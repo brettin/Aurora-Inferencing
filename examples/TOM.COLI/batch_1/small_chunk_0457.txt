@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04630	Adenine phosphoribosyltransferase (EC 2.4.2.7)
-100177.28	Borreliella lusitaniae	QIA24_04635	rplU	LSU ribosomal protein L21p

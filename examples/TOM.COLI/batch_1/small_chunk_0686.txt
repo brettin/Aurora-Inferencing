@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01970		H8NHF1		capM protein		glycosyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_01975		H8NHF2	dapF	Diaminopimelate epimerase (EC 5.1.1.7)	dapF	diaminopimelate epimerase

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005265	Copper/silver efflux RND transporter, transmembrane protein CusA
-1005395.227	Pseudomonas bharatica	CSV86_005270	Copper/silver efflux RND transporter, membrane fusion protein CusB

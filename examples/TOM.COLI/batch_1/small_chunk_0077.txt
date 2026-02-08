@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00790	Uncharacterized UPF0750 membrane protein BB0017
-100177.28	Borreliella lusitaniae	QIA24_00795	LSU rRNA pseudouridine(1911/1915/1917) synthase (EC 5.4.99.23)

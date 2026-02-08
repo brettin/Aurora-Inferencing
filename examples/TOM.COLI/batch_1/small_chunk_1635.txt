@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007545	Transcriptional regulator, LysR family
-1005395.227	Pseudomonas bharatica	CSV86_007550	COG0457: FOG: TPR repeat

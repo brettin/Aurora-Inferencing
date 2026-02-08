@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00980	Phosphoglycerate kinase (EC 2.7.2.3)
-100177.28	Borreliella lusitaniae	QIA24_00985	gap	NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)

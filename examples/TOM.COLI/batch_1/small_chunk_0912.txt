@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000045	Il-IS_2, transposase
-1005395.227	Pseudomonas bharatica	CSV86_000050	transmembrane acyltransferase

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02795	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)
-100177.28	Borreliella lusitaniae	QIA24_02800	tRNA-Ile

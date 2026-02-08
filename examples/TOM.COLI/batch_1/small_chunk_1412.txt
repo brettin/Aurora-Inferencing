@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005245	Cytochrome c family protein
-1005395.227	Pseudomonas bharatica	CSV86_005250	CopG protein

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000555	rpsI	SSU ribosomal protein S9p (S16e)
-1005395.227	Pseudomonas bharatica	CSV86_000560	petA	Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)

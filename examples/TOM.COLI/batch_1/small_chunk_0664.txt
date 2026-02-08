@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01745		H8NJ87		ABC transporter, ATP-binding protein (cluster 15, trp?)		ABC transporter ATP-binding protein
-1003201.3	Rickettsia typhi	RTTH1527_01750		H8NJ88		Periplasmic thiol:disulfide oxidoreductase DsbB, required for DsbA reoxidation		disulfide bond formation protein DsbB

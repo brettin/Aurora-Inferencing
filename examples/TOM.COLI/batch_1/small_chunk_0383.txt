@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03885	tRNA-Asp
-100177.28	Borreliella lusitaniae	QIA24_03890	recD	Exodeoxyribonuclease V alpha chain (EC 3.1.11.5)

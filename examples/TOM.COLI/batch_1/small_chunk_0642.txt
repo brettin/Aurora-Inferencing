@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01525		H8NJ43	cyaY	Frataxin homolog CyaY, facilitates Fe-S cluster assembly, interacts with IscS	cyaY	frataxin-like protein
-1003201.3	Rickettsia typhi	RTTH1527_01530		H8NJ44		rickettsial conserved		hypothetical protein

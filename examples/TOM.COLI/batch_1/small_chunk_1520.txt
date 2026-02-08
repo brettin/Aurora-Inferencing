@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006365	Na(+) H(+) antiporter subunit G
-1005395.227	Pseudomonas bharatica	CSV86_006370	Na(+) H(+) antiporter subunit F

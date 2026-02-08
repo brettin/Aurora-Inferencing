@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007060	Uracil-xanthine permease
-1005395.227	Pseudomonas bharatica	CSV86_007065	soxR	Redox-sensitive transcriptional activator SoxR

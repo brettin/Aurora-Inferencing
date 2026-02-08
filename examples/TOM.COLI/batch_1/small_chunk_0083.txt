@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00850	Integral membrane protein
-100177.28	Borreliella lusitaniae	QIA24_00855	lepB	Signal peptidase I (EC 3.4.21.89)

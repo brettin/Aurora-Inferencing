@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00965		H8NJ09		DNA gyrase subunit A (EC 5.99.1.3)		DNA gyrase subunit A
-1003201.3	Rickettsia typhi	RTTH1527_00970		H8NJ10	def	Peptide deformylase (EC 3.5.1.88)	def	peptide deformylase

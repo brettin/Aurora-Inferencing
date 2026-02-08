@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02955		H8NIG6	gltX	Glutamyl-tRNA synthetase (EC 6.1.1.17)	gltX	glutamyl-tRNA synthetase
-1003201.3	Rickettsia typhi	RTTH1527_02960		H8NIG7		hypothetical protein		guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase

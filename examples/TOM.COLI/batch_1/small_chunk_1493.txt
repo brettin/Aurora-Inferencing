@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006085	Putative iron-regulated membrane protein
-1005395.227	Pseudomonas bharatica	CSV86_006090	PvdO, pyoverdine responsive serine/threonine kinase (by OlgaV)

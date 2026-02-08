@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02510		H8NHQ9	infC	Translation initiation factor 3	infC	translation initiation factor IF-3
-1003201.3	Rickettsia typhi	RTTH1527_02515		H8NHR0		rickettsial conserved		hypothetical protein

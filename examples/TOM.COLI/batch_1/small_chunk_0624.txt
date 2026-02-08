@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01345		H8NHA4		Outer membrane and periplasm component of type IV secretion of T-DNA complex, has secretin-like domain, VirB9		VirB9-like conjugal transfer protein precursor
-1003201.3	Rickettsia typhi	RTTH1527_01350		H8NHA5		Inner membrane protein forms channel for type IV secretion of T-DNA complex, VirB8		VirB8-like protein of type IV secretion system

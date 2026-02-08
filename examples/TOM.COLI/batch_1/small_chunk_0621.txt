@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01315		H8NH98		Rod shape-determining protein RodA		rod shape-determining protein rodA
-1003201.3	Rickettsia typhi	RTTH1527_01320		H8NH99		Protease II		protease II

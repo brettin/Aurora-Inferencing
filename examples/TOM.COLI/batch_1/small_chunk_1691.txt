@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008125	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_008130	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)

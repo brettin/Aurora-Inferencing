@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000835	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_000840	Iron-regulated protein A precursor

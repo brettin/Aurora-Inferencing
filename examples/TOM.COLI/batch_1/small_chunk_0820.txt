@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03325		H8NHZ6		Lipoprotein releasing system transmembrane protein LolC/LolE		lipoprotein releasing system, transmembrane protein
-1003201.3	Rickettsia typhi	RTTH1527_03330		H8NHZ7		Lipoprotein-releasing system ATP-binding protein LolD		lipoprotein releasing system ATP-binding protein LolD

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001170	Dicarboxylate MFS transporter
-1005395.227	Pseudomonas bharatica	CSV86_001175	C4-dicarboxylate transport transcriptional regulatory protein

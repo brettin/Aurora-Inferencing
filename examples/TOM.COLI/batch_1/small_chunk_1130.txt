@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002335	Aminotransferase, class II (EC 2.3.1.-)
-1005395.227	Pseudomonas bharatica	CSV86_002340	hypothetical protein

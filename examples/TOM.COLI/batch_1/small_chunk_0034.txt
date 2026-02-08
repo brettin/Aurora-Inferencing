@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00360	B. burgdorferi coding region BB0034
-100177.28	Borreliella lusitaniae	QIA24_00365	Outer membrane protein

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007505	Multidrug efflux system, outer membrane factor lipoprotein => OprN of MexEF-OprN system
-1005395.227	Pseudomonas bharatica	CSV86_007510	Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexF of MexEF-OprN system

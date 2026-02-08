@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04155	Hydroxymethylglutaryl-CoA reductase (EC 1.1.1.34)
-100177.28	Borreliella lusitaniae	QIA24_04160	mvaD	Diphosphomevalonate decarboxylase (EC 4.1.1.33)

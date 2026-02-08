@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03695		H8NIN8		AmpG permease		murein peptide permease protein AmpG
-1003201.3	Rickettsia typhi	RTTH1527_03700		H8NIN9		Twin-arginine translocation protein TatC		Sec-independent protein translocase protein TatC

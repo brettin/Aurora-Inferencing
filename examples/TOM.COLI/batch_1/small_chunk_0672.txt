@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01825		H8NHC2	ruvA	Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)	ruvA	Holliday junction DNA helicase RuvA
-1003201.3	Rickettsia typhi	RTTH1527_01830		H8NHC3	ruvB	Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)	ruvB	Holliday junction DNA helicase RuvB

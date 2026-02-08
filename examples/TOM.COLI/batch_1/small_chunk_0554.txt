@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00635		H8NIU5		DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)		DNA-directed RNA polymerase subunit beta'
-1003201.3	Rickettsia typhi	RTTH1527_00640		H8NIU6		Cytosol aminopeptidase PepA (EC 3.4.11.1)		multifunctional aminopeptidase A

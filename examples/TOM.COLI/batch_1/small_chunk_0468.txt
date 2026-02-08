@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04740	Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy
-100177.28	Borreliella lusitaniae	QIA24_04745	rimP	Bacterial ribosome SSU maturation protein RimP

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02110		H8NHH9	gpsA	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	gpsA	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
-1003201.3	Rickettsia typhi	RTTH1527_02115		H8NHI0		Putative permease		hypothetical protein

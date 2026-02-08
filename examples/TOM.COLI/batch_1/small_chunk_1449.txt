@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005635	Inner membrane protein YjcH, clustering with ActP
-1005395.227	Pseudomonas bharatica	CSV86_005640	Transcriptional activator protein LysR

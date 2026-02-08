@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02845		H8NIE4		patatin-like protein		patatin-like protein
-1003201.3	Rickettsia typhi	RTTH1527_02850		H8NIE5		Multidrug resistance transporter, Bcr/CflA family		bicyclomycin resistance protein

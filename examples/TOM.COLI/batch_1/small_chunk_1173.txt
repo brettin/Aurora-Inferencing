@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002780	DNA-3-methyladenine glycosylase (EC 3.2.2.20)
-1005395.227	Pseudomonas bharatica	CSV86_002785	hypothetical protein

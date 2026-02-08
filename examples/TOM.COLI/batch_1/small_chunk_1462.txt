@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005770	Transglycosylase, Slt family
-1005395.227	Pseudomonas bharatica	CSV86_005775	Membrane protein, distant similarity to thiosulphate:quinone oxidoreductase DoxD

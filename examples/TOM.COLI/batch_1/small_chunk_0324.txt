@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03275	trxB	Thioredoxin reductase (EC 1.8.1.9)
-100177.28	Borreliella lusitaniae	QIA24_03280	rlmB	23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)

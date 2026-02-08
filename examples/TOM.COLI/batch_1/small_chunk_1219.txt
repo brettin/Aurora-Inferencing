@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003255	Transmembrane protein Msl3831
-1005395.227	Pseudomonas bharatica	CSV86_003260	Oxidoreductase, short-chain dehydrogenase/reductase family

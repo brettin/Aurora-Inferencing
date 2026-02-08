@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03935	Spermidine/putrescine import ABC transporter permease protein PotB (TC 3.A.1.11.1)
-100177.28	Borreliella lusitaniae	QIA24_03940	Spermidine/putrescine import ABC transporter ATP-binding protein PotA (TC 3.A.1.11.1)

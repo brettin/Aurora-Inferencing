@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02620		H8NI99		Bacterial ribosome SSU maturation protein RimP		ribosome maturation protein RimP
-1003201.3	Rickettsia typhi	RTTH1527_02625		H8NIA0		RNA binding methyltransferase FtsJ like		hemolysin

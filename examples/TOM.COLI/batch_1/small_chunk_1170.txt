@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002750	Transcriptional regulatory protein PhoP
-1005395.227	Pseudomonas bharatica	CSV86_002755	Sensor histidine kinase PhoQ (EC 2.7.13.3)

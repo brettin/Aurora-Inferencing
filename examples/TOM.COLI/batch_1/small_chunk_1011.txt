@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001075	Outer membrane low permeability porin, OprD family
-1005395.227	Pseudomonas bharatica	CSV86_001080	adeC	Multidrug efflux system, outer membrane factor lipoprotein => OprM of MexAB-OprM

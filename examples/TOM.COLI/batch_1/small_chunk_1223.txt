@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003295	mnmC	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61) / FAD-dependent cmnm(5)s(2)U34 oxidoreductase
-1005395.227	Pseudomonas bharatica	CSV86_003300	pap	UDP-galactose-lipid carrier transferase (EC 2.-.-.-)

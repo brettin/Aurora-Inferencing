@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04345	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_04350	cyaB	Adenylate cyclase (EC 4.6.1.1)

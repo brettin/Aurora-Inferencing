@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007310	Altronate dehydratase (EC 4.2.1.7)
-1005395.227	Pseudomonas bharatica	CSV86_007315	Uncharacterized MFS-type transporter

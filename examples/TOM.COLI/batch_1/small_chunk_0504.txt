@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00130		H8NIS3		Inner membrane protein of type IV secretion of T-DNA complex, VirB6		VirB6-like protein of the type IV secretion system
-1003201.3	Rickettsia typhi	RTTH1527_00135		H8NIS4		Inner membrane protein of type IV secretion of T-DNA complex, VirB6		VirB6-like protein of the type IV secretion system

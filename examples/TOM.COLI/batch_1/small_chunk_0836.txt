@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03485		H8NIJ6		hemolysin C		hemolysin C
-1003201.3	Rickettsia typhi	RTTH1527_03490		H8NIJ7		Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly		metal-binding heat shock protein

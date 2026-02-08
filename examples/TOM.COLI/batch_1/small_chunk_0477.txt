@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04830	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_04835	murC	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)

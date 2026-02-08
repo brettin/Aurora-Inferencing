@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000315	Alginate polymerase/glycosyltransferase Alg8
-1005395.227	Pseudomonas bharatica	CSV86_000325	yaaA	UPF0246 protein YaaA

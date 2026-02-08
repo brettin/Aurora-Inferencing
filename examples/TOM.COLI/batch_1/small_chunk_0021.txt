@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00215	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_00225	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)

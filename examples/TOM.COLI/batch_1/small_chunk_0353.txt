@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03575	B. burgdorferi coding region BB0576
-100177.28	Borreliella lusitaniae	QIA24_03580	hypothetical protein

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004625	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_004630	Esterase/lipase/thioesterase family protein

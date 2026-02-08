@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005405	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_005410	Heavy metal sensor histidine kinase

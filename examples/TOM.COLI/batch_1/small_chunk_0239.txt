@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02420	amrB	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_02425	rpmB	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent

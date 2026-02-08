@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00105	Xanthine/uracil/thiamine/ascorbate permease family protein
-100177.28	Borreliella lusitaniae	QIA24_00110	Xanthine/uracil/thiamine/ascorbate permease family protein

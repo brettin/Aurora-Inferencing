@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005615	Putative Heme-regulated two-component response regulator
-1005395.227	Pseudomonas bharatica	CSV86_005620	c-di-GMP phosphodiesterase (EC 3.1.4.52) => Heme-regulated, oxygen sensor PdeO

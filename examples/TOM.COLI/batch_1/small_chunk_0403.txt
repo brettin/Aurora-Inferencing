@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04085	Chemotaxis protein CheX
-100177.28	Borreliella lusitaniae	QIA24_04090	Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY

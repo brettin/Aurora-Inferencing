@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005560	Mobile element protein
-1005395.227	Pseudomonas bharatica	CSV86_005565	tnpB	ISPpu14, transposase Orf2

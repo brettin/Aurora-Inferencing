@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02520	Glycyl-tRNA synthetase (EC 6.1.1.14)
-100177.28	Borreliella lusitaniae	QIA24_02525	gltX	Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)

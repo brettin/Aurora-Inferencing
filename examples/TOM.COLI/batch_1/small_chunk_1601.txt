@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007200	Urea carboxylase-related aminomethyltransferase
-1005395.227	Pseudomonas bharatica	CSV86_007205	Urea carboxylase-related aminomethyltransferase

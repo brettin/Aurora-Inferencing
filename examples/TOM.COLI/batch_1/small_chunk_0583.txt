@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00935		H8NJ03	hscA	Chaperone protein HscA	hscA	chaperone protein HscA
-1003201.3	Rickettsia typhi	RTTH1527_00940		H8NJ04	hscB	Chaperone protein HscB	hscB	co-chaperone HscB

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003345	Oxidoreductase, short-chain dehydrogenase/reductase family
-1005395.227	Pseudomonas bharatica	CSV86_003350	mupP	Similar to phosphoglycolate phosphatase, clustered with ubiquinone biosynthesis SAM-dependent O-methyltransferase

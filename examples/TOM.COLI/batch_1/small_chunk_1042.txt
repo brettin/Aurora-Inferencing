@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001405	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_001410	probable exported protein STY4558

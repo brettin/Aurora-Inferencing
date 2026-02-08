@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007925	rarD	Uncharacterized inner membrane protein RarD
-1005395.227	Pseudomonas bharatica	CSV86_007930	Rtn protein

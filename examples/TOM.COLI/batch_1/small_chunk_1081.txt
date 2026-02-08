@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001830	ung	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)
-1005395.227	Pseudomonas bharatica	CSV86_001835	Ammonia monooxygenase

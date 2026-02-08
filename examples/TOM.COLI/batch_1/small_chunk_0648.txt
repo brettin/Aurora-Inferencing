@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01585		H8NJ55		rickettsial conserved		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_01590		H8NJ56		hypothetical protein		glycosyltransferase

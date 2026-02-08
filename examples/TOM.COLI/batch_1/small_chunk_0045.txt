@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00470	B. burgdorferi coding region BBA30
-100177.28	Borreliella lusitaniae	QIA24_00475	Phage terminase, large subunit

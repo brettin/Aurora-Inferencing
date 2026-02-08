@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00100		H8NIR7	secF	Protein translocase subunit SecF	secF	preprotein translocase subunit SecF
-1003201.3	Rickettsia typhi	RTTH1527_00105		H8NIR8		hypothetical protein		hypothetical protein

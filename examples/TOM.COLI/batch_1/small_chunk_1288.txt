@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003960	rpmF	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent
-1005395.227	Pseudomonas bharatica	CSV86_003965	plsX	Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)

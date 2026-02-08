@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02090	fliL	Flagellar basal body-associated protein FliL
-100177.28	Borreliella lusitaniae	QIA24_02095	motB	Flagellar motor rotation protein MotB

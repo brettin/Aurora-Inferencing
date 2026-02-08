@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00425		H8NH00		Cell division-associated, ATP-dependent zinc metalloprotease FtsH		cell division protein FtsH
-1003201.3	Rickettsia typhi	RTTH1527_00430		H8NH01		tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)		cell cycle ATPase MesJ

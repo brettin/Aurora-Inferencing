@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01555	hypothetical protein PA3071
-100177.28	Borreliella lusitaniae	QIA24_01560	MoxR-like ATPase in aerotolerance operon

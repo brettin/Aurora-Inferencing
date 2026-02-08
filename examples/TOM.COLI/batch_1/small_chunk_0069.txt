@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00710	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_00715	beta-N-acetylglucosaminidase (EC 3.2.1.52)

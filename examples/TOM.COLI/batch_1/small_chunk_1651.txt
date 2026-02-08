@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007710	TonB-dependent siderophore receptor
-1005395.227	Pseudomonas bharatica	CSV86_007715	Fe2+-dicitrate sensor, membrane component

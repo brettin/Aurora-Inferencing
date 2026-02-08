@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04235	coaD	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
-100177.28	Borreliella lusitaniae	QIA24_04240	rpmF	LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01845		H8NHC6		rare lipoprotein A precursor		rare lipoprotein A precursor
-1003201.3	Rickettsia typhi	RTTH1527_01850		H8NHC7		Putative periplasmic protein		periplasmic protein

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01265	ssb	Single-stranded DNA-binding protein
-100177.28	Borreliella lusitaniae	QIA24_01270	rpsF	SSU ribosomal protein S6p

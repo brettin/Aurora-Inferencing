@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001795	Integrase
-1005395.227	Pseudomonas bharatica	CSV86_001800	tRNA-Gly

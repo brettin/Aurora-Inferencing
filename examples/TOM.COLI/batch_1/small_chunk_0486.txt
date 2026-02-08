@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04920	Phosphoglucosamine mutase (EC 5.4.2.10)
-100177.28	Borreliella lusitaniae	QIA24_04925	uvrB	Excinuclease ABC subunit B

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01980	DNA translocase FtsK
-100177.28	Borreliella lusitaniae	QIA24_01985	Undecaprenyl-diphosphatase (EC 3.6.1.27)

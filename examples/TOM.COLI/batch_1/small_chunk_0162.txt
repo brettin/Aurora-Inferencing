@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01645	Uncharacterized metal-dependent hydrolase YcfH
-100177.28	Borreliella lusitaniae	QIA24_01650	TPR-repeat-containing protein

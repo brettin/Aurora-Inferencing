@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02905	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
-100177.28	Borreliella lusitaniae	QIA24_02910	fbaA	Fructose-bisphosphate aldolase class II (EC 4.1.2.13)

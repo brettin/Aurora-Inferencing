@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04015	rpiA	Ribose-5-phosphate isomerase A (EC 5.3.1.6)
-100177.28	Borreliella lusitaniae	QIA24_04020	gpmA	Phosphoglycerate mutase (EC 5.4.2.11)

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01990	Soluble lytic murein transglycosylase (EC 4.2.2.n1)
-100177.28	Borreliella lusitaniae	QIA24_01995	hypothetical protein

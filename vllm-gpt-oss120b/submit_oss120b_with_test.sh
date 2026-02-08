@@ -1,11 +1,11 @@
 #!/bin/bash
 #PBS -N gpt_oss_120b_vllm
-#PBS -l walltime=00:30:00
+#PBS -l walltime=02:00:00
 #PBS -A ModCon
-#PBS -q debug-scaling
-#PBS -o 16.output.log
-#PBS -e 16.error.log
-#PBS -l select=16
+#PBS -q prod
+#PBS -o output.log
+#PBS -e error.log
+#PBS -l select=128
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 #PBS -j oe
@@ -21,18 +21,19 @@ echo "N_RANKS = ${NRANKS}"
 SCRIPT_DIR="/lus/flare/projects/ModCon/brettin/Aurora-Inferencing/vllm-gpt-oss120b"
 INPUT_DIR="${SCRIPT_DIR}/../examples/TOM.COLI/batch_1"
 MODEL_PATH="/lus/flare/projects/datasets/model-weights/hub/models--openai--gpt-oss-120b"
+# The last component (the filename or directory name) from the MODEL_PATH variable.
 MODEL_WEIGHTS="${MODEL_PATH##*/}"
-
 echo "MODEL WEIGHTS = ${MODEL_WEIGHTS}"
 
 CONDA_FILE="vllm_oss_conda_pack_01082026.tar.gz"
-CONDA_ENV_PATH="$SCRIPT_DIR/vllm_oss_conda_pack_01082026.tar.gz"
+CONDA_ENV_PATH="$SCRIPT_DIR/${CONDA_FILE}"
+echo "CONDA_ENV_PATH = ${CONDA_ENV_PATH}"
 
 # Extract model name from MODEL_PATH (converts models--org--name to org/name)
 MODEL_NAME=$(basename "$MODEL_PATH" | sed 's/^models--//' | sed 's/--/\//')
 
 # Operation settings
-OFFSET=${OFFSET:-0 }                  # Starting offset for batch processing (resume capability)
+OFFSET=${OFFSET:-0}                  # Starting offset for batch processing (resume capability)
 STAGE_WEIGHTS=${STAGE_WEIGHTS:-1}     # 1=stage model weights to /tmp, 0=skip staging
 STAGE_CONDA=${STAGE_CONDA:-1}         # 1=stage conda environment to /tmp, 0=skip staging
 USE_FRAMEWORKS=${USE_FRAMEWORKS:-0}   # 1=use frameworks module, 0=use conda environment
@@ -104,7 +105,8 @@ if [ "$STAGE_CONDA" -eq 1 ]; then
 
     # Unpack Conda Environment in parallel on all nodes
     echo "$(date) Unpacking conda environment on all nodes in parallel"
-    time mpiexec -ppn 1 --cpu-bind numa bash -c 'mkdir -p /tmp/hf_home/hub/vllm_env && tar -xzf /tmp/vllm_oss_conda_pack_01082026.tar.gz -C /tmp/hf_home/hub/vllm_env' 2>&1 || \
+    unpack_cmd="mkdir -p /tmp/hf_home/hub/vllm_env && tar -xzf /tmp/hf_home/hub/${CONDA_FILE} -C /tmp/hf_home/hub/vllm_env"
+   time mpiexec -ppn 1 --cpu-bind numa bash -c 'mkdir -p /tmp/hf_home/hub/vllm_env && tar -xzf /tmp/vllm_oss_conda_pack_01082026.tar.gz -C /tmp/hf_home/hub/vllm_env' 2>&1 || \ 
         echo "$(date) WARNING: Conda environment unpacking failed"
     echo "$(date) Conda environment unpacking complete"
 fi
@@ -153,8 +155,6 @@ for ((i = 0; i < files_to_process; i++)); do
     pids+=($pid)
     launch_hosts+=("$host")
 
-    # Small delay between launches to avoid overwhelming the system
-    # sleep "$LAUNCH_DELAY"
 done
 
 # Wait for Completion

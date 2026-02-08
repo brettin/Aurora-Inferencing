@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04115	ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown) / ABC transporter, ATP-binding protein (cluster 11, riboflavin/purine nucleoside/unknown)
-100177.28	Borreliella lusitaniae	QIA24_04120	ABC transporter, permease protein 1 (cluster 11, riboflavin/purine nucleoside/unknown)

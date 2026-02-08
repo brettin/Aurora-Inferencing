@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005605	Il-IS_2, transposase
-1005395.227	Pseudomonas bharatica	CSV86_005610	Permease of the drug/metabolite transporter (DMT) superfamily

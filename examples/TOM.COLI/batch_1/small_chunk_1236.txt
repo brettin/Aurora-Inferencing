@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003425	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase (EC 2.6.1.90)
-1005395.227	Pseudomonas bharatica	CSV86_003430	Lipid III flippase

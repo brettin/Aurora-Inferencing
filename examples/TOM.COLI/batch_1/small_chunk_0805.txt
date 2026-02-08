@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03175		H8NHW6		murein peptide permease protein AmpG		murein peptide permease protein AmpG
-1003201.3	Rickettsia typhi	RTTH1527_03180		H8NHW7		DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)		ATP-dependent RNA helicase RhlE

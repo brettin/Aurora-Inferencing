@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003245	Inner membrane protein YjcH, clustering with ActP
-1005395.227	Pseudomonas bharatica	CSV86_003250	Acetate permease ActP (cation/acetate symporter)

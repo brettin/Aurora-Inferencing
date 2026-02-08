@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007240	Pyruvate:Oxaloacetate transcarboxylase domain protein
-1005395.227	Pseudomonas bharatica	CSV86_007245	Transcriptional regulator, LysR family

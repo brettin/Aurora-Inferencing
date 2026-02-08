@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01385		H8NHB2		Guanosine pentaphosphate phosphohydrolase (EC 3.6.1.11) (EC 3.6.1.40)		guanosine pentaphosphate phosphohydrolase
-1003201.3	Rickettsia typhi	RTTH1527_01390		H8NHB3		rickettsial conserved		hypothetical protein

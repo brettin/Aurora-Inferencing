@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01625	rpmI	LSU ribosomal protein L35p
-100177.28	Borreliella lusitaniae	QIA24_01630	infC	Translation initiation factor 3

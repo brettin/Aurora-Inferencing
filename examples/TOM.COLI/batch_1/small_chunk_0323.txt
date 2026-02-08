@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03265	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
-100177.28	Borreliella lusitaniae	QIA24_03270	pheT	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)

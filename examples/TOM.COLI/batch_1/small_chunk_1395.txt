@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005050	Chromosome segregation ATPases
-1005395.227	Pseudomonas bharatica	CSV86_005055	Phosphonoacetaldehyde phosphonohydrolase-related protein

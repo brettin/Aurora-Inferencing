@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007000	DNA translocase FtsK
-1005395.227	Pseudomonas bharatica	CSV86_007005	lolA	Outer membrane lipoprotein carrier protein LolA

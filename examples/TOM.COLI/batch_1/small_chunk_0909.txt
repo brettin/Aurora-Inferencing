@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000015	YapH protein
-1005395.227	Pseudomonas bharatica	CSV86_000020	hypothetical protein

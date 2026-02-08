@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01625		H8NJ63		2-hydroxymuconic semialdehyde hydrolase (EC 3.7.1.9)		hydrolase
-1003201.3	Rickettsia typhi	RTTH1527_01630		H8NJ64		Glycosyltransferase		hypothetical protein

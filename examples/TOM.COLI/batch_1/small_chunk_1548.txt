@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006650	ccoG	Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation
-1005395.227	Pseudomonas bharatica	CSV86_006655	hypothetical protein

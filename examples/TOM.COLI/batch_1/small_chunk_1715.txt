@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008375	Aminomethyltransferase
-1005395.227	Pseudomonas bharatica	CSV86_008380	Mlr7324 protein

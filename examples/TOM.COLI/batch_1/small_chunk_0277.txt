@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02805	16S ribosomal RNA
-100177.28	Borreliella lusitaniae	QIA24_02810	tRNA-Ala

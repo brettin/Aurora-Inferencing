@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_04035		H8NI59		proline/betaine transporter ProP6		proline/betaine transporter ProP6
-1003201.3	Rickettsia typhi	RTTH1527_04040		H8NI60		rickettsial conserved		hypothetical protein

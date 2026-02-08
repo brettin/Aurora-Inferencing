@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02230		H8NHK3		Tryptophanyl-tRNA synthetase (EC 6.1.1.2)		tryptophanyl-tRNA synthetase
-1003201.3	Rickettsia typhi	RTTH1527_02235		H8NHK4		1-acyl-sn-glycerol-3-phosphate acyltransferase		1-acyl-sn-glycerol-3-phosphate acyltransferase

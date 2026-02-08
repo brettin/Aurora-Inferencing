@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01735	B. burgdorferi coding region BB0209
-100177.28	Borreliella lusitaniae	QIA24_01740	surface-located membrane protein 1 (lmp1)

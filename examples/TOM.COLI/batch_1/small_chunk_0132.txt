@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01345	B. burgdorferi coding region BB0130
-100177.28	Borreliella lusitaniae	QIA24_01350	recA	RecA protein

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001580	Ync
-1005395.227	Pseudomonas bharatica	CSV86_001585	Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008135	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_008140	Pirin

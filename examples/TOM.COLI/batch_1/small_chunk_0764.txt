@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02765		H8NIC8	secD	Protein translocase subunit SecD	secD	preprotein translocase subunit SecD
-1003201.3	Rickettsia typhi	RTTH1527_02770		H8NIC9		Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center		Sco2 protein precursor

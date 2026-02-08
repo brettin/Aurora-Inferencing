@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04145	Hydroxymethylglutaryl-CoA synthase (EC 2.3.3.10)
-100177.28	Borreliella lusitaniae	QIA24_04150	fni	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002710	Phage antirepressor
-1005395.227	Pseudomonas bharatica	CSV86_002715	Ribonucleotide reductase of class Ia (aerobic), beta subunit (EC 1.17.4.1)

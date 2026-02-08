@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007605	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_007610	Transcriptional regulator, AraC family

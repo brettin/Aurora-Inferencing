@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004550	Rhs-family protein
-1005395.227	Pseudomonas bharatica	CSV86_004555	hypothetical protein

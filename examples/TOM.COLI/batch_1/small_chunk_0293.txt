@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02965	B. burgdorferi coding region BB0456
-100177.28	Borreliella lusitaniae	QIA24_02970	uvrC	Excinuclease ABC subunit C

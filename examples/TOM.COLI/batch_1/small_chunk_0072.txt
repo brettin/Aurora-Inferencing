@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00740	B. burgdorferi coding region BB0007
-100177.28	Borreliella lusitaniae	QIA24_00745	cdaA	Diadenylate cyclase spyDAC; Bacterial checkpoint controller DisA with nucleotide-binding domain

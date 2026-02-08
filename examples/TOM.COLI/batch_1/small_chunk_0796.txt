@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03085		H8NHU8	rplX	LSU ribosomal protein L24p (L26e)	rplX	50S ribosomal protein L24
-1003201.3	Rickettsia typhi	RTTH1527_03090		H8NHU9	rplN	LSU ribosomal protein L14p (L23e)	rplN	50S ribosomal protein L14

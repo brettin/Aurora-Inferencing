@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003065	tRNA-Asp
-1005395.227	Pseudomonas bharatica	CSV86_003070	Chaperone protein HscC

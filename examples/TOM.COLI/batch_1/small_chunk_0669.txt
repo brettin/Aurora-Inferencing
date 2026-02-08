@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01795		H8NJ97	pyrG	CTP synthase (EC 6.3.4.2)	pyrG	CTP synthetase
-1003201.3	Rickettsia typhi	RTTH1527_01800		H8NJ98		3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)		3-deoxy-manno-octulosonate cytidylyltransferase

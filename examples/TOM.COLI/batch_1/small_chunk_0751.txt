@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02630		H8NIA1		Tyrosyl-tRNA synthetase (EC 6.1.1.1)		tyrosyl-tRNA synthetase
-1003201.3	Rickettsia typhi	RTTH1527_02635		H8NIA2		Large extracellular alpha-helical protein		large extracellular alpha-helical protein

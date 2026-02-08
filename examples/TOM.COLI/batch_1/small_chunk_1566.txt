@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006830	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_006835	nuoN	NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)

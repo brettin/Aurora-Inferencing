@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01215		H8NH78		Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily		penicillin binding protein 4*
-1003201.3	Rickettsia typhi	RTTH1527_01220		H8NH79		Exodeoxyribonuclease III (EC 3.1.11.2)		exodeoxyribonuclease III

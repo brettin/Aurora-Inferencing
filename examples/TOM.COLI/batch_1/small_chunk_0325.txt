@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03285	dnaJ	Chaperone protein DnaJ
-100177.28	Borreliella lusitaniae	QIA24_03290	dnaK	Chaperone protein DnaK

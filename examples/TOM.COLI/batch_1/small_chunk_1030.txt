@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001280	hypothetical protein in PFGI-1-like cluster
-1005395.227	Pseudomonas bharatica	CSV86_001285	Transcriptional regulator in PFGI-1-like cluster

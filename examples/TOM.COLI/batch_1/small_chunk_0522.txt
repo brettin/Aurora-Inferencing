@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00310		H8NGX7		Membrane protein containing sporulation/cell division related domain		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00315		H8NGX8	argS	Arginyl-tRNA synthetase (EC 6.1.1.19)	argS	arginyl-tRNA synthetase

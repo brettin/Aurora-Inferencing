@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003110	DUF1232 domain-containing protein
-1005395.227	Pseudomonas bharatica	CSV86_003115	Transcriptional regulator, Xre family

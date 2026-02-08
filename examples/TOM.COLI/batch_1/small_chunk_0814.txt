@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03265		H8NHY4	ubiA	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)	ubiA	4-hydroxybenzoate polyprenyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_03270		H8NHY5	valS	Valyl-tRNA synthetase (EC 6.1.1.9)	valS	valyl-tRNA synthetase

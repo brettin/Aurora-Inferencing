@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02170	hslU	ATP-dependent hsl protease ATP-binding subunit HslU
-100177.28	Borreliella lusitaniae	QIA24_02175	hslV	ATP-dependent protease subunit HslV (EC 3.4.25.2)

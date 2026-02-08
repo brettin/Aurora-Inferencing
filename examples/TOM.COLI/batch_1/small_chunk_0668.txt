@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01785		H8NJ95		Malate dehydrogenase (EC 1.1.1.37)		malate dehydrogenase
-1003201.3	Rickettsia typhi	RTTH1527_01790		H8NJ96		NAD transporter of enosymbionts, possible		ADP/ATP carrier protein 2

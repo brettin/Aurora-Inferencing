@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02415		H8NHP0	miaA	tRNA dimethylallyltransferase (EC 2.5.1.75)	miaA	tRNA delta(2)-isopentenylpyrophosphate transferase
-1003201.3	Rickettsia typhi	RTTH1527_02425		H8NHP2		rickettsial conserved		hypothetical protein

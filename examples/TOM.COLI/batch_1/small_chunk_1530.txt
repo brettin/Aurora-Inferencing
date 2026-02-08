@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006465	tRNA-Ile
-1005395.227	Pseudomonas bharatica	CSV86_006470	tRNA-Ala

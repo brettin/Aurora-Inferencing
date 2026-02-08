@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00795		H8NIX7		Signal recognition particle protein Ffh		signal recognition particle protein
-1003201.3	Rickettsia typhi	RTTH1527_00800		H8NIX8		Prolyl oligopeptidase family protein		post-proline cleaving enzyme

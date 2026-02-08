@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002230	nth	Endonuclease III (EC 4.2.99.18)
-1005395.227	Pseudomonas bharatica	CSV86_002235	hypothetical protein

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005000	sthA	Soluble pyridine nucleotide transhydrogenase (EC 1.6.1.1)
-1005395.227	Pseudomonas bharatica	CSV86_005005	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)

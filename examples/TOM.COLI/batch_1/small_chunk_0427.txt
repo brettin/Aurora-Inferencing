@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04325	mrdA	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
-100177.28	Borreliella lusitaniae	QIA24_04330	rodA	Rod shape-determining protein RodA

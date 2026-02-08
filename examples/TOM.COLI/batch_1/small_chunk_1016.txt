@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001125	Acetohydroxy acid synthase
-1005395.227	Pseudomonas bharatica	CSV86_001130	Transcriptional regulator, AraC family

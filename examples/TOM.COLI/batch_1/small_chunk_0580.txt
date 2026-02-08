@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00905		H8NIZ7		Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)		bifunctional penicillin-binding protein 1C
-1003201.3	Rickettsia typhi	RTTH1527_00910		H8NIZ8		hypothetical protein		hypothetical protein

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02630	rplK	LSU ribosomal protein L11p (L12e)
-100177.28	Borreliella lusitaniae	QIA24_02635	nusG	Transcription antitermination protein NusG

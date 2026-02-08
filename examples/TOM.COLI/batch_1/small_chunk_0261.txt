@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02640	secE	Protein translocase subunit SecE
-100177.28	Borreliella lusitaniae	QIA24_02645	tRNA-Trp

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008250	putataive branched-chain amino acid transport protein AzlC
-1005395.227	Pseudomonas bharatica	CSV86_008255	branched-chain amino acid transport

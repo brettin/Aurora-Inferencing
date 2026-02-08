@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006680	lexA	SOS-response repressor and protease LexA (EC 3.4.21.88)
-1005395.227	Pseudomonas bharatica	CSV86_006685	imuA	RecA/RadA recombinase

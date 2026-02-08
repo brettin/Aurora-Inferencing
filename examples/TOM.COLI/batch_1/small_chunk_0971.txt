@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000665	murC	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
-1005395.227	Pseudomonas bharatica	CSV86_000670	D-alanine--D-alanine ligase (EC 6.3.2.4)

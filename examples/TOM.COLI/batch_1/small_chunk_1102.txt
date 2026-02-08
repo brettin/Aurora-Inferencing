@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002040	Ferredoxin-dependent glutamate synthase (EC 1.4.7.1)
-1005395.227	Pseudomonas bharatica	CSV86_002045	Uncharacterized ATP-dependent DNA helicase PA3272

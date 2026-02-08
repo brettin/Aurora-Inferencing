@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008175	Putative NADH-flavin reductase
-1005395.227	Pseudomonas bharatica	CSV86_008180	membrane protein

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008710	DNA-directed RNA polymerase specialized sigma subunit, sigma24-like
-1005395.227	Pseudomonas bharatica	CSV86_008715	hypothetical protein

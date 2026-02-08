@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000585	Uncharacterized protein YraP
-1005395.227	Pseudomonas bharatica	CSV86_000590	DnaA initiator-associating protein DiaA

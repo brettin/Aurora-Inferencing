@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004475	3-carboxymuconate cyclase
-1005395.227	Pseudomonas bharatica	CSV86_004480	hypothetical protein

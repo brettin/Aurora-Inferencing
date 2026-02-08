@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003815	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_003820	tRNA-Glu

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03295	grpE	Heat shock protein GrpE
-100177.28	Borreliella lusitaniae	QIA24_03300	nadE	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00435		H8NH02	rplI	LSU ribosomal protein L9p	rplI	50S ribosomal protein L9
-1003201.3	Rickettsia typhi	RTTH1527_00440		H8NH03	rpsR	SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-independent	rpsR	30S ribosomal protein S18

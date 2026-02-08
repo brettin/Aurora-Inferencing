@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01755		H8NJ89	lysK	Lysyl-tRNA synthetase (class I) (EC 6.1.1.6)	lysK	lysyl-tRNA synthetase
-1003201.3	Rickettsia typhi	RTTH1527_01760		H8NJ90		Auxin efflux carrier family protein		hypothetical protein

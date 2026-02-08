@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003180	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_003185	Aspartyl aminopeptidase (EC 3.4.11.21)

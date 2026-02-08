@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001415	Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains)
-1005395.227	Pseudomonas bharatica	CSV86_001420	hypothetical protein

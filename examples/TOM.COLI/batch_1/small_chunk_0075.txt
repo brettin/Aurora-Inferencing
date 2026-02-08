@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00770	ortholog to Borrelia burgdorferi BB0013
-100177.28	Borreliella lusitaniae	QIA24_00775	priA	Helicase PriA essential for oriC/DnaA-independent DNA replication

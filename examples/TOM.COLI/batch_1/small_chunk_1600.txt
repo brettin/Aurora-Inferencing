@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007190	Urea carboxylase-related ABC transporter, permease protein
-1005395.227	Pseudomonas bharatica	CSV86_007195	Urea carboxylase-related ABC transporter, ATP-binding protein

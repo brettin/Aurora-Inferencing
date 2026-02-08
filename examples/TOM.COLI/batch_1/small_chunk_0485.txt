@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04910	ileS	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
-100177.28	Borreliella lusitaniae	QIA24_04915	ATP-dependent Clp protease ATP-binding subunit ClpA

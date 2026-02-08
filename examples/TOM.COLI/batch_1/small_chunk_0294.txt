@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02975	Fibronectin type III domain protein
-100177.28	Borreliella lusitaniae	QIA24_02980	GTP cyclohydrolase III (methanopterin)

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004240	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) @ O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)
-1005395.227	Pseudomonas bharatica	CSV86_004245	Oxidoreductase, short-chain dehydrogenase/reductase family

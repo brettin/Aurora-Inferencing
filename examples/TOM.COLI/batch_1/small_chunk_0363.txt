@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03675	Methyl-accepting chemotaxis sensor protein BB_0596
-100177.28	Borreliella lusitaniae	QIA24_03680	Methyl-accepting chemotaxis sensor protein BB_0597

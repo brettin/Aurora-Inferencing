@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001230	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_001235	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46) periplasmic (secreted in GramPositives)

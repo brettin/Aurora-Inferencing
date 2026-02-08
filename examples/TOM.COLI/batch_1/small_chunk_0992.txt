@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000875	NAD(P)H steroid dehydrogenase
-1005395.227	Pseudomonas bharatica	CSV86_000880	hypothetical protein

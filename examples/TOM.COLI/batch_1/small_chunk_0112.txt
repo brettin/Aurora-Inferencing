@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01145	V-type ATP synthase subunit K (EC 3.6.3.14)
-100177.28	Borreliella lusitaniae	QIA24_01150	V-type ATP synthase subunit I (EC 3.6.3.14)

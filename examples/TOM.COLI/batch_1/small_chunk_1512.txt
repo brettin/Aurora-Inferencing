@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006275	Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases
-1005395.227	Pseudomonas bharatica	CSV86_006280	3-hydroxyacyl-CoA dehydrogenase [isoleucine degradation] (EC 1.1.1.35)

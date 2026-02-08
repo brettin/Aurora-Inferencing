@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00920	ortholog to Borrelia burgdorferi BB0044
-100177.28	Borreliella lusitaniae	QIA24_00925	Chromosome partition protein smc

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007895	GNAT family N-acetyltransferase
-1005395.227	Pseudomonas bharatica	CSV86_007900	hypothetical protein

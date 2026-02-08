@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03575		H8NIL4		hypothetical protein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_03580		H8NIL5		NAD-specific glutamate dehydrogenase (EC 1.4.1.2), large form		NAD-specific glutamate dehydrogenase

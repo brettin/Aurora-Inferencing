@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02190		H8NHJ5		SAM-dependent methyltransferase, BioC-like		biotin synthesis protein BioC
-1003201.3	Rickettsia typhi	RTTH1527_02195		H8NHJ6		Dihydrolipoamide dehydrogenase (EC 1.8.1.4)		dihydrolipoamide dehydrogenase

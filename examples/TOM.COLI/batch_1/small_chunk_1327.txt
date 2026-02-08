@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004355	Pyoverdine sidechain non-ribosomal peptide synthetase PvdD @ Siderophore biosynthesis non-ribosomal peptide synthetase modules
-1005395.227	Pseudomonas bharatica	CSV86_004360	Pyoverdine sidechain non-ribosomal peptide synthetase PvdD @ Siderophore biosynthesis non-ribosomal peptide synthetase modules

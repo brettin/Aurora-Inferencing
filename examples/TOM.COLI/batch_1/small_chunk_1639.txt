@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007585	Deacetylases, including yeast histone deacetylase and acetoin utilization protein
-1005395.227	Pseudomonas bharatica	CSV86_007590	Uncharacterized MFS-type transporter

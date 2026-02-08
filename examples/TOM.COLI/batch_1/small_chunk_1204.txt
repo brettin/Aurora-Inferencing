@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003100	pcaQ	Pca operon transcriptional activator PcaQ
-1005395.227	Pseudomonas bharatica	CSV86_003105	FKBP-type peptidyl-prolyl cis-trans isomerase FklB (EC 5.2.1.8)

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003805	ATP/GTP-binding protein
-1005395.227	Pseudomonas bharatica	CSV86_003810	Free methionine-(R)-sulfoxide reductase, contains GAF domain

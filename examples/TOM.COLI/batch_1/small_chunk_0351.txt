@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03555	Glycosyl transferase
-100177.28	Borreliella lusitaniae	QIA24_03560	Efflux ABC transporter, ATP-binding protein

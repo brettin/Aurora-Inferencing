@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00535		H8NH22		DUF1022 domain-containing protein		nucleoside-diphosphate-sugar epimerase
-1003201.3	Rickettsia typhi	RTTH1527_00540		H8NH23		Scaffold protein for [4Fe-4S] cluster assembly ApbC, MRP-like		ATP-binding protein Mrp

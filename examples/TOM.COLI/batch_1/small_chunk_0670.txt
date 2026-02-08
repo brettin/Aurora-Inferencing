@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01805		H8NJ99		hypothetical protein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_01810		H8NJA0	folE	GTP cyclohydrolase I (EC 3.5.4.16) type 1	folE	GTP cyclohydrolase I

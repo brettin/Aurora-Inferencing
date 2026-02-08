@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003940	Similar to phosphoglycolate phosphatase, clustered with ribosomal large subunit pseudouridine synthase C
-1005395.227	Pseudomonas bharatica	CSV86_003945	Periplasmic serine proteases (ClpP class)

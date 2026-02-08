@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005940	Universal stress protein family 7
-1005395.227	Pseudomonas bharatica	CSV86_005945	tRNA-(ms[2]io[6]A)-hydroxylase

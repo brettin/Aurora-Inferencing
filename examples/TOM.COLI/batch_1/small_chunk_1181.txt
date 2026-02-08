@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002860	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_002865	cadR	Cd(II)/Pb(II)-responsive transcriptional regulator

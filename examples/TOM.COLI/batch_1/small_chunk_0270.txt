@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02735	Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)
-100177.28	Borreliella lusitaniae	QIA24_02740	Chemotaxis response regulator protein-glutamate methylesterase CheB (EC 3.1.1.61)

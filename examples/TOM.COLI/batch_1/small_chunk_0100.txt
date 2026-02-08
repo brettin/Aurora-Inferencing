@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01020	fmt	Methionyl-tRNA formyltransferase (EC 2.1.2.9)
-100177.28	Borreliella lusitaniae	QIA24_01025	def	Peptide deformylase (EC 3.5.1.88)

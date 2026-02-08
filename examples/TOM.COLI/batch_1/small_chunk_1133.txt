@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002375	N-acyl-homoserine lactone acylase
-1005395.227	Pseudomonas bharatica	CSV86_002380	Glutathione S-transferase (EC 2.5.1.18)

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005380	Transcriptional regulator, LysR family
-1005395.227	Pseudomonas bharatica	CSV86_005385	GtrA family protein

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_04025		H8NI57	glyQ	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)	glyQ	glycyl-tRNA synthetase subunit alpha
-1003201.3	Rickettsia typhi	RTTH1527_04030		H8NI58		Epoxyqueuosine reductase (EC 1.17.99.6) QueH		hypothetical protein

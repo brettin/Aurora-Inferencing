@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007515	Multidrug efflux system, membrane fusion component => MexE of MexEF-OprN system
-1005395.227	Pseudomonas bharatica	CSV86_007520	Aliphatic sulfonate monooxygenase family, FMNH2- or F420-dependent

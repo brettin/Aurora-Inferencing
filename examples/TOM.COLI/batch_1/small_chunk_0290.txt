@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02935	rpoN	RNA polymerase sigma-54 factor RpoN
-100177.28	Borreliella lusitaniae	QIA24_02940	Chromate transport protein

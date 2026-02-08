@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03235	RNA binding methyltransferase FtsJ like
-100177.28	Borreliella lusitaniae	QIA24_03240	T. pallidum coding region TP0832

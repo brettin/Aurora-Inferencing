@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_04135		H8NI79		Lipopolysaccharide export system permease protein LptF		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_04140		H8NI80		DNA polymerase III subunit chi		DNA polymerase III subunit chi

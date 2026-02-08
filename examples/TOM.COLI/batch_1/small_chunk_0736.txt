@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02480		H8NHQ3		Protease IV		endopeptidase IV
-1003201.3	Rickettsia typhi	RTTH1527_02485		H8NHQ4	rho	Transcription termination factor Rho	rho	transcription termination factor Rho

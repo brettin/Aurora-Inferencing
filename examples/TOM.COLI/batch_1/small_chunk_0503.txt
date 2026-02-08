@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00120		H8NIS1		Acetate kinase (EC 2.7.2.1)		acetate kinase
-1003201.3	Rickettsia typhi	RTTH1527_00125		H8NIS2		Enoyl-CoA hydratase / Phosphate acetyltransferase (EC 2.3.1.8)		phosphate acetyltransferase

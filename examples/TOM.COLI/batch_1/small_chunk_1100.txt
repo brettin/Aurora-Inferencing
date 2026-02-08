@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002020	Transcriptional regulator, PadR family
-1005395.227	Pseudomonas bharatica	CSV86_002025	Membrane carboxypeptidase (penicillin-binding protein)

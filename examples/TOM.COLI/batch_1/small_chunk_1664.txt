@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007850	Alkanal monooxygenase alpha chain (EC 1.14.14.3)
-1005395.227	Pseudomonas bharatica	CSV86_007855	NADH-FMN oxidoreductase

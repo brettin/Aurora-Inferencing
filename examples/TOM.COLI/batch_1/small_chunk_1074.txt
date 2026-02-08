@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001755	trans-O-hydroxybenzylidenepyruvate hydratase-aldolase (EC 4.1.2.45)
-1005395.227	Pseudomonas bharatica	CSV86_001760	1,2-dihydroxynaphthalene dioxygenase

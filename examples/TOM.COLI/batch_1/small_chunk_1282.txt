@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003900	Biopolymer transport protein ExbD/TolR
-1005395.227	Pseudomonas bharatica	CSV86_003905	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001840	Tripartite tricarboxylate transporter TctA family
-1005395.227	Pseudomonas bharatica	CSV86_001845	Tripartite tricarboxylate transporter TctB family

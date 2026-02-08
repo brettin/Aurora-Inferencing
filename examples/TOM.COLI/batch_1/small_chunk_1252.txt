@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003590	Nucleoside:H+ symporter:Major facilitator superfamily
-1005395.227	Pseudomonas bharatica	CSV86_003595	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008555	Methionine ABC transporter ATP-binding protein
-1005395.227	Pseudomonas bharatica	CSV86_008560	Transcriptional regulator, AcrR family

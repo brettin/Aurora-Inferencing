@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02855	Chromosome (plasmid) partitioning protein ParB
-100177.28	Borreliella lusitaniae	QIA24_02860	gyrA	DNA gyrase subunit A (EC 5.99.1.3)

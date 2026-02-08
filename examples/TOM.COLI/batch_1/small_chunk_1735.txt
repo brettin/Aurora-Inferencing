@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008585	Transcriptional regulator, LysR family
-1005395.227	Pseudomonas bharatica	CSV86_008590	Guanine deaminase (EC 3.5.4.3)

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01815		H8NHC0		Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type		prolyl-tRNA synthetase
-1003201.3	Rickettsia typhi	RTTH1527_01820		H8NHC1		rickettsial conserved		hypothetical protein

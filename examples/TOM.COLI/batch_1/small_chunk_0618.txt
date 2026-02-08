@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01285		H8NH92		HEAT SHOCK PROTEIN (hsp22)		small heat shock protein
-1003201.3	Rickettsia typhi	RTTH1527_01290		H8NH93	prfB	Peptide chain release factor 2 @ programmed frameshift-containing	prfB	peptide chain release factor 2

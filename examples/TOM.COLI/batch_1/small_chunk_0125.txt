@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01275	PTS system, maltose and glucose-specific IIC component / PTS system, maltose and glucose-specific IIB component (EC 2.7.1.208)
-100177.28	Borreliella lusitaniae	QIA24_01280	Predicted membrane protein, hemolysin III homolog

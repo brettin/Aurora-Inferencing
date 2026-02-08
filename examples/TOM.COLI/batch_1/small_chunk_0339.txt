@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03435	B. burgdorferi coding region BB0549
-100177.28	Borreliella lusitaniae	QIA24_03440	fliS	Flagellar biosynthesis protein FliS

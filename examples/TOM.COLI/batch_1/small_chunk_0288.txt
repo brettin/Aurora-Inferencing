@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02915	aspS	Aspartyl-tRNA synthetase (EC 6.1.1.12)
-100177.28	Borreliella lusitaniae	QIA24_02920	Na+/H+ antiporter

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03855		H8NI23		Septum formation protein Maf		Maf-like protein
-1003201.3	Rickettsia typhi	RTTH1527_03860		H8NI24		DksA family protein PA5536 (no Zn-finger)		DnaK suppressor protein

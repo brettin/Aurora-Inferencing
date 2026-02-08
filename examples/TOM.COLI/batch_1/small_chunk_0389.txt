@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03945	ylqF	LSU ribosomal maturation GTPase RbgA (B. subtilis YlqF)
-100177.28	Borreliella lusitaniae	QIA24_03950	N-acetylmannosamine-6-phosphate 2-epimerase (EC 5.1.3.9)

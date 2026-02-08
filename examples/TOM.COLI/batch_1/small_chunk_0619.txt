@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01295		H8NH94		Translation elongation factor LepA		GTP-binding protein LepA
-1003201.3	Rickettsia typhi	RTTH1527_01300		H8NH95		rickettsial conserved		hypothetical protein

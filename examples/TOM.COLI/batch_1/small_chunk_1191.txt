@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002965	cobU	Adenosylcobinamide kinase (EC 2.7.1.156) / Adenosylcobinamide-phosphate guanylyltransferase (EC 2.7.7.62)
-1005395.227	Pseudomonas bharatica	CSV86_002970	cobT	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)

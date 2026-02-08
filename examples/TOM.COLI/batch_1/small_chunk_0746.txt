@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02580		H8NHS3		16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)		methylase
-1003201.3	Rickettsia typhi	RTTH1527_02585		H8NHS4		DNA repair protein RadA		DNA repair protein RadA

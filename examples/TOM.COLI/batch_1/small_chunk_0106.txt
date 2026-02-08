@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01085	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_01090	Lipoprotein releasing system transmembrane protein LolC/LolE

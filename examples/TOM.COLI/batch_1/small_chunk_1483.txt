@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005980	Glutaminyl-tRNA synthetase (EC 6.1.1.18)
-1005395.227	Pseudomonas bharatica	CSV86_005990	Two-component system sensor histidine kinase

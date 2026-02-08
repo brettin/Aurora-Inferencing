@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03685		H8NIN6		UDP-glucose 6-dehydrogenase (EC 1.1.1.22)		UDP-glucose 6-dehydrogenase
-1003201.3	Rickettsia typhi	RTTH1527_03690		H8NIN7		hypothetical protein		hypothetical protein

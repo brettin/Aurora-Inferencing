@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007615	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_007620	Oxaloacetate decarboxylase (EC 4.1.1.3)

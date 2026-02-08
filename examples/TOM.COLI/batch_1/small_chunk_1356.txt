@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004655	CmpX
-1005395.227	Pseudomonas bharatica	CSV86_004660	sigX	RNA polymerase sigma factor SigX

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04580	Pyridoxal kinase (EC 2.7.1.35)
-100177.28	Borreliella lusitaniae	QIA24_04585	tsaD	N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)

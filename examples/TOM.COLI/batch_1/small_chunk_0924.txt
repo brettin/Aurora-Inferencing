@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000175	ABC-type phosphate/phosphonate transport system, periplasmic component
-1005395.227	Pseudomonas bharatica	CSV86_000180	Sigma factor, ECF subfamily

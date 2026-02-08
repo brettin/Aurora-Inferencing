@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03225		H8NHX6		GTP-binding protein EngA		GTP-binding protein Der
-1003201.3	Rickettsia typhi	RTTH1527_03230		H8NHX7		Ubiquinone biosynthesis regulatory protein kinase UbiB		ubiquinone biosynthesis protein

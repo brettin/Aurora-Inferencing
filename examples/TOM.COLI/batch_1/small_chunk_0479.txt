@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04850	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_04855	miaA	tRNA dimethylallyltransferase (EC 2.5.1.75)

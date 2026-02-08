@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003560	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_003565	Isochorismatase (EC 3.3.2.1)

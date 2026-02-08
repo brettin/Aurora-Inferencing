@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003675	Enoyl-CoA hydratase/isomerase family protein
-1005395.227	Pseudomonas bharatica	CSV86_003680	tRNA-Ser

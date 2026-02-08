@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004170	leuC	3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
-1005395.227	Pseudomonas bharatica	CSV86_004175	leuD	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)

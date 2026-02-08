@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04620	Flagellar basal-body rod protein FlgF
-100177.28	Borreliella lusitaniae	QIA24_04625	B. burgdorferi coding region BB0776

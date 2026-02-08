@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00865		H8NIZ1		rickettsial conserved		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00870		H8NIZ2	holA	DNA polymerase III delta subunit (EC 2.7.7.7)	holA	DNA polymerase III subunit delta

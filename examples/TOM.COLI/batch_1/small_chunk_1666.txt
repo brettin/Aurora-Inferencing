@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007875	cobF	Precorrin-6A synthase (deacetylating) (EC 2.1.1.152)
-1005395.227	Pseudomonas bharatica	CSV86_007880	Membrane-fusion protein

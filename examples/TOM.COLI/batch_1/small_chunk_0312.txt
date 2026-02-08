@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03155	rplE	LSU ribosomal protein L5p (L11e)
-100177.28	Borreliella lusitaniae	QIA24_03160	SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent

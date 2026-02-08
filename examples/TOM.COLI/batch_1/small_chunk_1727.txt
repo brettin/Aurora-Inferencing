@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008505	Tol biopolymer transport system, TolR protein
-1005395.227	Pseudomonas bharatica	CSV86_008510	hypothetical protein

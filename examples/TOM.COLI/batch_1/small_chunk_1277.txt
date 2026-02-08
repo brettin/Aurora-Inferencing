@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003845	Acyl-CoA dehydrogenase
-1005395.227	Pseudomonas bharatica	CSV86_003850	Il-IS_2, transposase

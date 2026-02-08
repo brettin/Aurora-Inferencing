@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02775	LSU rRNA ## 23S rRNA, large subunit ribosomal RNA
-100177.28	Borreliella lusitaniae	QIA24_02780	rrf	5S rRNA ## 5S ribosomal RNA

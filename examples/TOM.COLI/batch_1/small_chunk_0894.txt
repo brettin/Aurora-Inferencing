@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_04065		H8NI65		RNA polymerase sigma factor RpoD		RNA polymerase sigma factor RpoD
-1003201.3	Rickettsia typhi	RTTH1527_04070		H8NI66	dnaG	DNA primase DnaG	dnaG	DNA primase

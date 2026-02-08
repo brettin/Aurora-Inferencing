@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002590	lipoprotein
-1005395.227	Pseudomonas bharatica	CSV86_002595	Sensory box/GGDEF family protein

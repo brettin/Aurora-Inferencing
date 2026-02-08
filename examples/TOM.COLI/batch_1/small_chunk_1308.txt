@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004160	Sensory box protein
-1005395.227	Pseudomonas bharatica	CSV86_004165	Transcriptional regulator, LysR family

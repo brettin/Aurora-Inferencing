@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008595	Uncharacterized MFS-type transporter
-1005395.227	Pseudomonas bharatica	CSV86_008600	Transcriptional regulator, GntR family domain / Aspartate aminotransferase (EC 2.6.1.1)

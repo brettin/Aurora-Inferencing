@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01205	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_01210	Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01275		H8NH90		Ubiquinol-cytochrome C reductase, cytochrome B subunit (EC 1.10.2.2)		cytochrome b
-1003201.3	Rickettsia typhi	RTTH1527_01280		H8NH91		Ubiquinol-cytochrome C reductase, cytochrome C1 subunit		cytochrome c1, heme protein precursor

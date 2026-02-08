@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00025	PTS system, chitobiose-specific IIA component
-100177.28	Borreliella lusitaniae	QIA24_00030	PTS system, chitobiose-specific IIB component

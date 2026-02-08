@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00585		H8NH32	rpsL	SSU ribosomal protein S12p (S23e)	rpsL	30S ribosomal protein S12
-1003201.3	Rickettsia typhi	RTTH1527_00590		H8NH33		SSU ribosomal protein S7p (S5e)		30S ribosomal protein S7

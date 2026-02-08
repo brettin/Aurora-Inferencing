@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002955	L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)
-1005395.227	Pseudomonas bharatica	CSV86_002960	Cobyric acid synthase (EC 6.3.5.10)

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02855		H8NIE6		GTP-binding and nucleic acid-binding protein YchF		GTP-binding protein YchF
-1003201.3	Rickettsia typhi	RTTH1527_02860		H8NIE7		Peptidyl-tRNA hydrolase (EC 3.1.1.29)		peptidyl-tRNA hydrolase

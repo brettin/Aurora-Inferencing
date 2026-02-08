@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04455	antigen, p83/100
-100177.28	Borreliella lusitaniae	QIA24_04460	tRNA-Pro

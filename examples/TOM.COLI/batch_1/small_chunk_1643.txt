@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007625	ttdB	Fumarate hydratase class I, beta region (EC 4.2.1.2); L(+)-tartrate dehydratase beta subunit (EC 4.2.1.32)
-1005395.227	Pseudomonas bharatica	CSV86_007630	ttdA	Fumarate hydratase class I, alpha region (EC 4.2.1.2); L(+)-tartrate dehydratase alpha subunit (EC 4.2.1.32)

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000145	maiA	Maleylacetoacetate isomerase (EC 5.2.1.2) @ Glutathione S-transferase, zeta (EC 2.5.1.18)
-1005395.227	Pseudomonas bharatica	CSV86_000150	Protein sirB1

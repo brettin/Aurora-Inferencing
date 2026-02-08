@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000340	moaC	Cyclic pyranopterin monophosphate synthase (EC 4.6.1.17)
-1005395.227	Pseudomonas bharatica	CSV86_000345	Molybdopterin synthase sulfur carrier subunit

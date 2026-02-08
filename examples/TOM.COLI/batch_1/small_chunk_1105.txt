@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002070	Hydrolase, alpha/beta fold family
-1005395.227	Pseudomonas bharatica	CSV86_002075	Two component, Sigma-54 Specific, central transcriptional regulator of acidic amino acid uptake

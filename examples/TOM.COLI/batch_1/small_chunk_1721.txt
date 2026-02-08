@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008440	Trans-feruloyl-CoA hydratase (EC 4.2.1.101)
-1005395.227	Pseudomonas bharatica	CSV86_008445	Probable VANILLIN dehydrogenase oxidoreductase protein (EC 1.-.-.-)

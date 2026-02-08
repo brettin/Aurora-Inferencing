@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005030	Heavy metal sensor histidine kinase
-1005395.227	Pseudomonas bharatica	CSV86_005035	Copper-sensing two-component system response regulator CusR

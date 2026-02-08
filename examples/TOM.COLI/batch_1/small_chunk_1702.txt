@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008240	Transcriptional regulator, LysR family
-1005395.227	Pseudomonas bharatica	CSV86_008245	Transcriptional regulator, LysR family

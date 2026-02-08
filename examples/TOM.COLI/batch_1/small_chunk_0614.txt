@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01245		H8NH84		Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)		isocitrate dehydrogenase
-1003201.3	Rickettsia typhi	RTTH1527_01250		H8NH85		Na(+) H(+) antiporter subunit G		monovalent cation/H+ antiporter subunit G

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008155	Carboxynorspermidine decarboxylase (EC 4.1.1.96)
-1005395.227	Pseudomonas bharatica	CSV86_008160	hypothetical protein

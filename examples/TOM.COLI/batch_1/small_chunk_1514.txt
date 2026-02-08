@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006295	Enoyl-CoA hydratase (EC 4.2.1.17) => degradation of branched-chain amino acids and alpha-keto acids
-1005395.227	Pseudomonas bharatica	CSV86_006300	hypothetical protein

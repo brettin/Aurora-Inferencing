@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004905	fadB	Enoyl-CoA hydratase (EC 4.2.1.17) / Delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase (EC 5.3.3.8) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
-1005395.227	Pseudomonas bharatica	CSV86_004910	fadA	3-ketoacyl-CoA thiolase (EC 2.3.1.16)

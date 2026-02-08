@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001475	vsr	Very-short-patch mismatch repair endonuclease (G-T specific)
-1005395.227	Pseudomonas bharatica	CSV86_001480	DNA-cytosine methyltransferase (EC 2.1.1.37)

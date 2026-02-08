@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00020		H8NIQ1		O-antigen export system permease protein RfbD		O-antigen export system permease protein
-1003201.3	Rickettsia typhi	RTTH1527_00025		H8NIQ2		Glutamate synthase [NADPH] small chain (EC 1.4.1.13)		bifunctional glutamate synthase subunit beta/2-polyprenylphenol hydroxylase

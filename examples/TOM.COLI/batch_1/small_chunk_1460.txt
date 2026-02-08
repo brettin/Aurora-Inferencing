@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005750	TesB-like acyl-CoA thioesterase 1
-1005395.227	Pseudomonas bharatica	CSV86_005755	Phage terminase, small subunit

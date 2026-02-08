@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00645		H8NIU7		Spacial regulator of FtsZ polymerization, MipZ		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00650		H8NIU8		hypothetical protein		hypothetical protein

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005760	Methyl-accepting chemotaxis protein
-1005395.227	Pseudomonas bharatica	CSV86_005765	Deoxyribonuclease TatD

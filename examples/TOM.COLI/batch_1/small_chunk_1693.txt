@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008145	Transcriptional regulator, AraC family
-1005395.227	Pseudomonas bharatica	CSV86_008150	Carboxynorspermidine synthase (EC 1.5.1.43)

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005190	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_005200	Uncharacterized protein conserved in bacteria, NMA0228-like

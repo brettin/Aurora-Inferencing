@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001650	Catechol 2,3-dioxygenase (EC 1.13.11.2)
-1005395.227	Pseudomonas bharatica	CSV86_001655	Iron-sulfur binding electron transfer protein

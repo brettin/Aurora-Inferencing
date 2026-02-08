@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03475		H8NIJ4		Polyhydroxyalkanoic acid synthase		poly-beta-hydroxybutyrate polymerase
-1003201.3	Rickettsia typhi	RTTH1527_03480		H8NIJ5		NAD transporter of enosymbionts, possible		ADP/ATP carrier protein 5

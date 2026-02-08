@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04285	dnaG	DNA primase DnaG
-100177.28	Borreliella lusitaniae	QIA24_04290	rpoD	RNA polymerase sigma factor RpoD

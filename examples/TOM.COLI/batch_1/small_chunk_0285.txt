@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02885	rpmH	LSU ribosomal protein L34p
-100177.28	Borreliella lusitaniae	QIA24_02890	rnpA	Ribonuclease P protein component (EC 3.1.26.5)

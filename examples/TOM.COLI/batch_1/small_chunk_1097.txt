@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001990	Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2)
-1005395.227	Pseudomonas bharatica	CSV86_001995	Carbohydrate-selective porin OprB

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03155		H8NHW2		23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)		tRNA/rRNA methyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_03160		H8NHW3	fumC	Fumarate hydratase class II (EC 4.2.1.2)	fumC	fumarate hydratase

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004715	uncharacterized protein YggL
-1005395.227	Pseudomonas bharatica	CSV86_004720	Hybrid sensory histidine kinase in two-component regulatory system with EvgA

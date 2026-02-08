@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01385	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_01390	RND efflux system, inner membrane transporter

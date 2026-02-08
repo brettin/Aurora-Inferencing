@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01435	nagA	N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
-100177.28	Borreliella lusitaniae	QIA24_01440	nagB	Glucosamine-6-phosphate deaminase (EC 3.5.99.6)

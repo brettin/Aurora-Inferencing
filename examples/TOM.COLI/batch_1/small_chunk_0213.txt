@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02160	flgC	Flagellar basal-body rod protein FlgC
-100177.28	Borreliella lusitaniae	QIA24_02165	flgB	Flagellar basal-body rod protein FlgB

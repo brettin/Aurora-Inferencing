@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003140	Phosphoserine phosphatase (EC 3.1.3.3)
-1005395.227	Pseudomonas bharatica	CSV86_003145	ABC transporter, ATP-binding protein (cluster 1, maltose/g3p/polyamine/iron); ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)

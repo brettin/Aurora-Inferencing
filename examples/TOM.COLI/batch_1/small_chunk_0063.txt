@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00650	Bba64 protein, implicated in tick to mammal transmission
-100177.28	Borreliella lusitaniae	QIA24_00655	hypothetical protein

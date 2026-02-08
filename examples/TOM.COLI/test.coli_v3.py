@@ -65,7 +65,7 @@ parser.add_argument('--model', default='meta-llama/Llama-3.1-70B-Instruct', help
 parser.add_argument('--port', default='8000', help='Port number for the vLLM server (default: 8000)')
 parser.add_argument('--key', default='EMPTY', help='API key for authentication (default: EMPTY)')
 parser.add_argument('--output', help='Output file for results (default: stdout)')
-parser.add_argument('--output-format', choices=['text', 'tsv', 'json'], default='text', 
+parser.add_argument('--output-format', choices=['text', 'tsv', 'json'], default='json', 
                    help='Output format: text (default), tsv, or json')
 
 args = parser.parse_args()

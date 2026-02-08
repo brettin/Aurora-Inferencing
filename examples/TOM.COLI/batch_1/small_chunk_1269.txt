@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003765	DEAD-box ATP-dependent RNA helicase DeaD (= CshA) (EC 3.6.4.13)
-1005395.227	Pseudomonas bharatica	CSV86_003770	hypothetical protein

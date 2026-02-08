@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01095		H8NH54	rplM	LSU ribosomal protein L13p (L13Ae)	rplM	50S ribosomal protein L13
-1003201.3	Rickettsia typhi	RTTH1527_01100		H8NH55	rpsI	SSU ribosomal protein S9p (S16e)	rpsI	30S ribosomal protein S9

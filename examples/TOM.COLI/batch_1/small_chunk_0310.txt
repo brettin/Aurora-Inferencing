@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03135	rpmC	LSU ribosomal protein L29p (L35e)
-100177.28	Borreliella lusitaniae	QIA24_03140	rpsQ	SSU ribosomal protein S17p (S11e)

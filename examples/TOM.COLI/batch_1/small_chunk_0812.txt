@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03245		H8NHY0		Uncharacterized metal-dependent hydrolase YcfH		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_03250		H8NHY1		Methionyl-tRNA synthetase (EC 6.1.1.10)		methionyl-tRNA synthetase

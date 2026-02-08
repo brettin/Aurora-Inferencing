@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001980	lon	ATP-dependent protease La (EC 3.4.21.53) Type I
-1005395.227	Pseudomonas bharatica	CSV86_001985	Ubiquitin-conjugating enzyme E2 D2

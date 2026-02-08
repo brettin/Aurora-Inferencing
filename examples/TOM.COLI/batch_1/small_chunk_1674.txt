@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007955	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_007960	Inner membrane protein YbhQ

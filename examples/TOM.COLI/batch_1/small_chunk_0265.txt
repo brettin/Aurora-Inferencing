@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02685	proS	Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type
-100177.28	Borreliella lusitaniae	QIA24_02690	hypothetical protein

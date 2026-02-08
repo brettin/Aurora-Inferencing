@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04205	rpsP	SSU ribosomal protein S16p
-100177.28	Borreliella lusitaniae	QIA24_04210	KH domain RNA binding protein YlqC

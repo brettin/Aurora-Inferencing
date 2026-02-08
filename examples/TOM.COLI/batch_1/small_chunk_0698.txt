@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02090		H8NHH5	recR	Recombination protein RecR	recR	recombination protein RecR
-1003201.3	Rickettsia typhi	RTTH1527_02095		H8NHH6		rickettsial conserved		hypothetical protein

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03875		H8NI27		rickettsial conserved		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_03880		H8NI28		Polyhydroxyalkanoic acid synthase		poly(3-hydroxyalkanoate) synthetase

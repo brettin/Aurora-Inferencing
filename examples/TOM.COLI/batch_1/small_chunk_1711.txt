@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008335	Quaternary ammonium compound-resistance protein SugE
-1005395.227	Pseudomonas bharatica	CSV86_008340	Mobile element protein

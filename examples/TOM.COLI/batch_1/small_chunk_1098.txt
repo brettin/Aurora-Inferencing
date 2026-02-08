@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002000	Zinc-regulated outer membrane receptor
-1005395.227	Pseudomonas bharatica	CSV86_002005	hypothetical protein

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002800	Thioredoxin
-1005395.227	Pseudomonas bharatica	CSV86_002805	Heat shock protein

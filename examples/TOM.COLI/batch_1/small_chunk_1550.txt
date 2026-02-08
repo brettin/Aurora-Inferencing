@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006670	Predicted transcriptional regulator LiuR of leucine degradation pathway, MerR family
-1005395.227	Pseudomonas bharatica	CSV86_006675	Beta-phosphoglucomutase (EC 5.4.2.6)

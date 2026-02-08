@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001680	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_001700	tnpB	Mobile element protein

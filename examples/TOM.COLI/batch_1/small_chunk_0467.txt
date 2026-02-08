@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04730	B. burgdorferi coding region BB0796
-100177.28	Borreliella lusitaniae	QIA24_04735	mutS	DNA mismatch repair protein MutS

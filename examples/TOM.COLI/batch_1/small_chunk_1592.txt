@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007090	mrdA	Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)
-1005395.227	Pseudomonas bharatica	CSV86_007095	Outer membrane low permeability porin, OprD family

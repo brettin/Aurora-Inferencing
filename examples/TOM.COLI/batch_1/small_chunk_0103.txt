@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01050	Uncharacterized membrane protein YuiD
-100177.28	Borreliella lusitaniae	QIA24_01055	ortholog to Borrelia burgdorferi BB0071

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01115	Cysteine desulfurase (EC 2.8.1.7) => SufS
-100177.28	Borreliella lusitaniae	QIA24_01120	hypothetical protein

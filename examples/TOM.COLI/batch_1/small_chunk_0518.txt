@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00270		H8NGW9		NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)		NAD(p) transhydrogenase subunit beta
-1003201.3	Rickettsia typhi	RTTH1527_00275		H8NGX0		hypothetical protein		cytoplasmic protein

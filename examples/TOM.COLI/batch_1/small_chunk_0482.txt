@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04880	ATP-dependent helicase HrpA
-100177.28	Borreliella lusitaniae	QIA24_04885	topA	DNA topoisomerase I (EC 5.99.1.2)

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03635		H8NIM6		Rod shape-determining protein MreB		rod shape-determining protein MreB
-1003201.3	Rickettsia typhi	RTTH1527_03640		H8NIM7		Lipopolysaccharide export system permease protein LptG		hypothetical protein

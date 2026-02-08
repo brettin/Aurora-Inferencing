@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02895	yidC	Inner membrane protein translocase and chaperone YidC, long form
-100177.28	Borreliella lusitaniae	QIA24_02900	jag	RNA-binding protein Jag

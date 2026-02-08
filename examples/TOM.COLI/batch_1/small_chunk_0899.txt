@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_04115		H8NI75		Aspartyl protease		aspartyl protease
-1003201.3	Rickettsia typhi	RTTH1527_04120		H8NI76		ABC transporter, ATP-binding protein (cluster 3, basic aa/glutamine/opines)		glutamine ABC transporter ATP-binding protein

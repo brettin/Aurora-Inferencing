@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02140	fliH	Flagellar assembly protein FliH
-100177.28	Borreliella lusitaniae	QIA24_02145	fliG	Flagellar motor switch protein FliG

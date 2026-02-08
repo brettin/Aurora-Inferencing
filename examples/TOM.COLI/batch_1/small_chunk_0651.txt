@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01615		H8NJ61		RND efflux system, membrane fusion protein		efflux transporter
-1003201.3	Rickettsia typhi	RTTH1527_01620		H8NJ62		rickettsial conserved		hypothetical protein

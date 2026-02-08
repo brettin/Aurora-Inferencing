@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002030	Uncharacterized amino acid permease YtnA
-1005395.227	Pseudomonas bharatica	CSV86_002035	OpgC protein

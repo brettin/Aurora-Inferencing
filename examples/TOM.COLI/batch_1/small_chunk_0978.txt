@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000735	Small-conductance mechanosensitive channel
-1005395.227	Pseudomonas bharatica	CSV86_000740	Multidrug resistance transporter, Bcr/CflA family

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004415	pyridoxal phosphate-dependent deaminase,
-1005395.227	Pseudomonas bharatica	CSV86_004420	Cytochrome b561

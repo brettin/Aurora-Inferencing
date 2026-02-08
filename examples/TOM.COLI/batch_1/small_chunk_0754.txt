@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02665		H8NIA8		rickettsial conserved		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_02670		H8NIA9		Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)		penicillin-binding protein

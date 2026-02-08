@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002175	Alkyl hydroperoxide reductase subunit C-like protein
-1005395.227	Pseudomonas bharatica	CSV86_002180	rnt	Ribonuclease T

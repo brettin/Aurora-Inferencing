@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03375		H8NIH4		Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)		lipid A biosynthesis lauroyl acyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_03380		H8NIH5	lpxK	Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)	lpxK	tetraacyldisaccharide 4'-kinase

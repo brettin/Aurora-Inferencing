@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001805	(R)-3-hydroxydecanoyl-ACP:CoA transacylase PhaG (3-hydroxyacyl-CoA-acyl carrier protein transferase) (EC 2.4.1.-)
-1005395.227	Pseudomonas bharatica	CSV86_001810	SSU rRNA pseudouridine(516) synthase (EC 5.4.99.19)

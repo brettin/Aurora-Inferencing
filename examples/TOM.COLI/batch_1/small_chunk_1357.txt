@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004665	Nonspecific porin and structural outer membrane protein OprF
-1005395.227	Pseudomonas bharatica	CSV86_004670	Serine/threonine protein kinase

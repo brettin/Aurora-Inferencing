@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001775	Naphthalene 1,2-dioxygenase small subunit (EC 1.14.12.12)
-1005395.227	Pseudomonas bharatica	CSV86_001780	Naphthalene 1,2-dioxygenase large subunit (EC 1.14.12.12)

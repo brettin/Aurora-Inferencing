@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001900	Sigma factor RpoE negative regulatory protein RseA
-1005395.227	Pseudomonas bharatica	CSV86_001905	Sigma factor RpoE negative regulatory protein RseB precursor

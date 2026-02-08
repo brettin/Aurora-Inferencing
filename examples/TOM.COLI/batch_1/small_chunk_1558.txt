@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006750	Outer membrane component of TAM transport system
-1005395.227	Pseudomonas bharatica	CSV86_006755	Inner membrane component of TAM transport system

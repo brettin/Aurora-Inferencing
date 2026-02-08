@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01495		H8NJ37		Protein kinase C inhibitor 1		protein kinase C inhibitor 1
-1003201.3	Rickettsia typhi	RTTH1527_01500		H8NJ38		hypothetical protein		hypothetical protein

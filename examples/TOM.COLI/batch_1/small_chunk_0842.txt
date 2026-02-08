@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03545		H8NIK8	rpmA	LSU ribosomal protein L27p	rpmA	50S ribosomal protein L27
-1003201.3	Rickettsia typhi	RTTH1527_03550		H8NIK9		Aspartokinase (EC 2.7.2.4)		aspartate kinase

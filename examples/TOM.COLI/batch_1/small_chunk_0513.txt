@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00220		H8NIU1		lipoprotein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00225		H8NIU2		3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)		3-deoxy-D-manno-octulosonic-acid transferase

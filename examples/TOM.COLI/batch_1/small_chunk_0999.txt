@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000950	Fumarate hydratase class I, aerobic (EC 4.2.1.2)
-1005395.227	Pseudomonas bharatica	CSV86_000960	pyk	Pyruvate kinase (EC 2.7.1.40)

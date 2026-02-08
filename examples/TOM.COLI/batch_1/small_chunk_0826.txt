@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03385		H8NIH6		hypothetical protein		periplasmic protein
-1003201.3	Rickettsia typhi	RTTH1527_03390		H8NIH7	ligA	DNA ligase (NAD(+)) (EC 6.5.1.2)	ligA	NAD-dependent DNA ligase LigA

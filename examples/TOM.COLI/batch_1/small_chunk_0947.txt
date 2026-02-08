@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000410	GTP cyclohydrolase 1 type 2 homolog YbgI
-1005395.227	Pseudomonas bharatica	CSV86_000415	cysD	Sulfate adenylyltransferase subunit 2 (EC 2.7.7.4)

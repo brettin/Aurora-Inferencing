@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003715	Transcription elongation factor
-1005395.227	Pseudomonas bharatica	CSV86_003720	hypothetical protein

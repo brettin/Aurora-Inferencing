@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003375	serC	Phosphoserine aminotransferase (EC 2.6.1.52)
-1005395.227	Pseudomonas bharatica	CSV86_003380	pheA	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)

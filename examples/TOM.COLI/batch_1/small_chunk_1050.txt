@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001485	DNA binding domain, excisionase family
-1005395.227	Pseudomonas bharatica	CSV86_001490	Candidate type III effector Hop protein

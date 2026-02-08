@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00455		H8NH06		N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)		UGMP family protein
-1003201.3	Rickettsia typhi	RTTH1527_00460		H8NH07		Chaperone protein ClpB (ATP-dependent unfoldase)		ATP-binding ClpB chaperone

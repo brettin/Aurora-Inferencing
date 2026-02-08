@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01495	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_01500	Na+/Ca+ exchange protein,

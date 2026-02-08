@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008745	Acetoacetyl-CoA synthetase [leucine] (EC 6.2.1.16)
-1005395.227	Pseudomonas bharatica	CSV86_008750	hypothetical protein

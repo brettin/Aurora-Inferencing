@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006055	ABC transporter in pyoverdin gene cluster, permease component
-1005395.227	Pseudomonas bharatica	CSV86_006060	ABC transporter in pyoverdin gene cluster, ATP-binding component

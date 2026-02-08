@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008660	Propionate--CoA ligase (EC 6.2.1.17)
-1005395.227	Pseudomonas bharatica	CSV86_008665	zapE	ATPase

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03365		H8NIH2		rickettsial conserved		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_03370		H8NIH3		Integration host factor alpha subunit		integration host factor alpha subunit

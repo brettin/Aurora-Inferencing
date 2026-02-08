@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04365	ParA-like protein
-100177.28	Borreliella lusitaniae	QIA24_04370	6-phosphofructokinase (EC 2.7.1.11)

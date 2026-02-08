@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01125		H8NH60		rickettsial conserved		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_01130		H8NH61		Phosphatidylserine decarboxylase (EC 4.1.1.65)		phosphatidylserine decarboxylase

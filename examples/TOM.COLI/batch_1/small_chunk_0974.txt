@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000695	Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives
-1005395.227	Pseudomonas bharatica	CSV86_000700	secA	Protein translocase subunit SecA

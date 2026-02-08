@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004435	Diadenosine tetraphosphatase and related serine/threonine protein phosphatases
-1005395.227	Pseudomonas bharatica	CSV86_004440	Rhomboid protease GlpG (EC 3.4.21.105)

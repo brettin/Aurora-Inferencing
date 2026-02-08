@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03625		H8NIM4		hypothetical protein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_03630		H8NIM5		Rod shape-determining protein MreC		rod shape-determining protein MreC

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02110	flgE	Flagellar hook protein FlgE
-100177.28	Borreliella lusitaniae	QIA24_02115	flgD	Flagellar basal-body rod modification protein FlgD

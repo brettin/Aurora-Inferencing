@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00405		H8NGZ6		Small-conductance mechanosensitive channel		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00410		H8NGZ7		Prolipoprotein diacylglyceryl transferase		prolipoprotein diacylglyceryl transferase

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04375	Pyridine nucleotide-disulfide oxidoreductase; NADH dehydrogenase (EC 1.6.99.3)
-100177.28	Borreliella lusitaniae	QIA24_04380	L-cystine uptake protein TcyP, sodium:anion symporter family

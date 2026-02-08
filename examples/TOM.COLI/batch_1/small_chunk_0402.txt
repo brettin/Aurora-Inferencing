@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04075	Signal transduction histidine kinase CheA
-100177.28	Borreliella lusitaniae	QIA24_04080	Positive regulator of CheA protein activity (CheW) / Chemotaxis protein methyltransferase CheR (EC 2.1.1.80)

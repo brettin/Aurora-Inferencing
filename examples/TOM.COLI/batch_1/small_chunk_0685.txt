@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01960		H8NHE9	murG	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)	murG	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_01965		H8NHF0		rickettsial conserved		hypothetical protein

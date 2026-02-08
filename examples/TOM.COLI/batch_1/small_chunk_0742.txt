@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02540		H8NHR5		Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)		folylpolyglutamate synthase
-1003201.3	Rickettsia typhi	RTTH1527_02545		H8NHR6		NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)		NADH:ubiquinone oxidoreductase subunit N

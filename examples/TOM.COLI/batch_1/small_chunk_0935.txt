@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000285	Alginate lyase AlgL (EC 4.2.2.3)
-1005395.227	Pseudomonas bharatica	CSV86_000290	Alginate O-acetyltransferase AlgX, periplasmic

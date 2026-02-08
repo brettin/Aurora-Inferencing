@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03535	reticulocyte binding protein 2 homolog a
-100177.28	Borreliella lusitaniae	QIA24_03540	Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01145		H8NH64		rickettsial conserved		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_01150		H8NH65		Cell division protein BolA		BolA-like protein

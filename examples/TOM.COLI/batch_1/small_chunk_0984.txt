@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000795	SAM-dependent methyltransferase
-1005395.227	Pseudomonas bharatica	CSV86_000800	Il-IS_2, transposase

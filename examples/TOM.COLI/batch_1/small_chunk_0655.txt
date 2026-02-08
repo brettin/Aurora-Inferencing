@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01655		H8NJ69		hypothetical protein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_01660		H8NJ70		Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)		exodeoxyribonuclease VII small subunit

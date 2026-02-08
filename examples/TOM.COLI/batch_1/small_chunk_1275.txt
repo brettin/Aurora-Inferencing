@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003825	tRNA-Gly
-1005395.227	Pseudomonas bharatica	CSV86_003830	tRNA-Glu

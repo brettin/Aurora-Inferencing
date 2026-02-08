@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007230	Carbonic anhydrase-like protein MJ0304
-1005395.227	Pseudomonas bharatica	CSV86_007235	CaiB/BaiF family protein

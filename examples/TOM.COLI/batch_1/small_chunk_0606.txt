@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01165		H8NH68	murB	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)	murB	UDP-N-acetylenolpyruvoylglucosamine reductase
-1003201.3	Rickettsia typhi	RTTH1527_01170		H8NH69	ddl	D-alanine--D-alanine ligase (EC 6.3.2.4)	ddl	D-alanine--D-alanine ligase

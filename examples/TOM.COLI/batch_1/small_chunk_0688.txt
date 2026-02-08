@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01990		H8NHF5	pheT	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	pheT	phenylalanyl-tRNA synthetase subunit beta
-1003201.3	Rickettsia typhi	RTTH1527_01995		H8NHF6		DNA polymerase III beta subunit (EC 2.7.7.7)		DNA polymerase III subunit beta

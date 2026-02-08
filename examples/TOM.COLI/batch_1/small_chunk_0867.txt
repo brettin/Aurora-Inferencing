@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03795		H8NI11		ATP synthase gamma chain (EC 3.6.3.14)		F0F1 ATP synthase subunit gamma
-1003201.3	Rickettsia typhi	RTTH1527_03800		H8NI12		ATP synthase alpha chain (EC 3.6.3.14)		F0F1 ATP synthase subunit alpha

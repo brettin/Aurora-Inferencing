@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01845	rho	Transcription termination factor Rho
-100177.28	Borreliella lusitaniae	QIA24_01850	Polymer-forming bactofilin

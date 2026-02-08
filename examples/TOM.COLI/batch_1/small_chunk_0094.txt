@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00960	tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34)
-100177.28	Borreliella lusitaniae	QIA24_00965	ung	Uracil-DNA glycosylase, family 1 (EC 3.2.2.27)

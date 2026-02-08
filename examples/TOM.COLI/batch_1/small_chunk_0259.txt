@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02620	rplJ	LSU ribosomal protein L10p (P0)
-100177.28	Borreliella lusitaniae	QIA24_02625	rplA	LSU ribosomal protein L1p (L10Ae)

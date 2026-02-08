@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004280	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)
-1005395.227	Pseudomonas bharatica	CSV86_004285	MbtH-like NRPS chaperone

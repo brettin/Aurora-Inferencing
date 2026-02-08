@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008485	Purple acid phosphatase
-1005395.227	Pseudomonas bharatica	CSV86_008490	TonB-dependent receptor

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002850	mazG	Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
-1005395.227	Pseudomonas bharatica	CSV86_002855	Nucleoprotein/polynucleotide-associated enzyme

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03245	der	GTP-binding protein EngA
-100177.28	Borreliella lusitaniae	QIA24_03250	B. burgdorferi coding region BB0509

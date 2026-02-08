@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04670	spoVG	DNA-binding protein SpoVG @ DNA-binding protein associated with VlsE antigenic variation system
-100177.28	Borreliella lusitaniae	QIA24_04675	tRNA-Gln

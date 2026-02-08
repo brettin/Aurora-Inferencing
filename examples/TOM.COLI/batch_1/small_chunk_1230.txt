@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003365	mtnA	S-methyl-5-thioribose-1-phosphate isomerase (EC 5.3.1.23)
-1005395.227	Pseudomonas bharatica	CSV86_003370	gyrA	DNA gyrase subunit A (EC 5.99.1.3)

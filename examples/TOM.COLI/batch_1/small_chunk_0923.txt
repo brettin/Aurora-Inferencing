@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000165	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_000170	Fatty acid desaturase

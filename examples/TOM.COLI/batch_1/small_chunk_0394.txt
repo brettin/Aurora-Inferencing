@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03995	secF	Protein translocase subunit SecF
-100177.28	Borreliella lusitaniae	QIA24_04000	B. burgdorferi coding region BB0654

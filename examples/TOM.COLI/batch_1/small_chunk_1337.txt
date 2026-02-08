@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004455	pepN	Membrane alanine aminopeptidase N (EC 3.4.11.2)
-1005395.227	Pseudomonas bharatica	CSV86_004460	BNR/Asp-box repeat protein

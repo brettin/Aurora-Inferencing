@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03145	rplN	LSU ribosomal protein L14p (L23e)
-100177.28	Borreliella lusitaniae	QIA24_03150	rplX	LSU ribosomal protein L24p (L26e)

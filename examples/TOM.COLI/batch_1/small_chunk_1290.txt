@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003980	acpP	Acyl carrier protein
-1005395.227	Pseudomonas bharatica	CSV86_003985	fabF	3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)

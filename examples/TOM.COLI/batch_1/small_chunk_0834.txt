@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03465		H8NIJ2		Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)		acyl-carrier-protein S-malonyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_03470		H8NIJ3		3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)		acetyl-CoA acetyltransferase

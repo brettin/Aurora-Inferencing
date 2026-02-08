@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008385	Flavodoxin reductases (ferredoxin-NADPH reductases) family 1; Vanillate O-demethylase oxidoreductase (EC 1.14.13.-)
-1005395.227	Pseudomonas bharatica	CSV86_008390	hypothetical protein

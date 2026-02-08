@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001890	nadB	L-aspartate oxidase (EC 1.4.3.16)
-1005395.227	Pseudomonas bharatica	CSV86_001895	rpoE	RNA polymerase sigma factor RpoE

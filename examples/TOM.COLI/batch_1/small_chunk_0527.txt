@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00360		H8NGY7		tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG		tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
-1003201.3	Rickettsia typhi	RTTH1527_00365		H8NGY8	ndk	Nucleoside diphosphate kinase (EC 2.7.4.6)	ndk	mulitfunctional nucleoside diphosphate kinase/apyrimidinic endonuclease/3'-phosphodiesterase

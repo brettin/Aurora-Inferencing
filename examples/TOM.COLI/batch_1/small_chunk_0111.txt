@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01135	lepA	Translation elongation factor LepA
-100177.28	Borreliella lusitaniae	QIA24_01140	ortholog to Borrelia burgdorferi BB0089

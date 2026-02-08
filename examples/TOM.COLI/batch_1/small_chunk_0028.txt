@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00300	plasmid maintenance protein
-100177.28	Borreliella lusitaniae	QIA24_00305	hypothetical protein

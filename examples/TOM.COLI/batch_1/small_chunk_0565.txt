@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00745		H8NIW7		23S rRNA (uridine(2552)-2'-O)-methyltransferase (EC 2.1.1.166)		rRNA (uridine-2'-O-)-methyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_00750		H8NIW8		rickettsial conserved		hypothetical protein

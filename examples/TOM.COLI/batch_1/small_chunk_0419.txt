@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04245	acpP	Acyl carrier protein
-100177.28	Borreliella lusitaniae	QIA24_04250	rnc	Ribonuclease III (EC 3.1.26.3)

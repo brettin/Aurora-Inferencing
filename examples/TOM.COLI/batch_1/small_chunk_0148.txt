@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01505	glycoside hydrolase
-100177.28	Borreliella lusitaniae	QIA24_01510	malQ	4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)

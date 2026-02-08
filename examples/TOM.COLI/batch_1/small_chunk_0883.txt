@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03955		H8NI43	uvrA	Excinuclease ABC subunit A	uvrA	excinuclease ABC subunit A
-1003201.3	Rickettsia typhi	RTTH1527_03960		H8NI44		Single-stranded DNA-binding protein		single-stranded DNA-binding protein

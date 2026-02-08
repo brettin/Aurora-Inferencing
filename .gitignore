@@ -5,12 +5,12 @@ cptotmp
 examples/NICK.NARRATIVE/
 
 # Ignore all batch_1 files except first 5 examples
-#examples/TOM.COLI/batch_1/*
-#!examples/TOM.COLI/batch_1/chunk_0000.txt
-#!examples/TOM.COLI/batch_1/chunk_0001.txt
-#!examples/TOM.COLI/batch_1/chunk_0002.txt
-#!examples/TOM.COLI/batch_1/chunk_0003.txt
-#!examples/TOM.COLI/batch_1/chunk_0004.txt
+examples/TOM.COLI/batch_1/*
+!examples/TOM.COLI/batch_1/chunk_0000.txt
+!examples/TOM.COLI/batch_1/chunk_0001.txt
+!examples/TOM.COLI/batch_1/chunk_0002.txt
+!examples/TOM.COLI/batch_1/chunk_0003.txt
+!examples/TOM.COLI/batch_1/chunk_0004.txt
 
 examples/TOM.COLI/batch_1-no-organism/
 examples/TOM.COLI/batch_1-with-organism/

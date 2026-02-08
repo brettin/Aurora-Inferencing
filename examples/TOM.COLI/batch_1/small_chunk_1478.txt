@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005930	Putative insecticidal toxin complex
-1005395.227	Pseudomonas bharatica	CSV86_005935	Putative insecticidal toxin complex

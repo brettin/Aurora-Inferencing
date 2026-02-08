@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04950	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_04955	arcA	Arginine deiminase (EC 3.5.3.6)

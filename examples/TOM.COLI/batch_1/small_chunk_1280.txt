@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003880	Uncharacterized efflux ABC transporter, permease protein YadH
-1005395.227	Pseudomonas bharatica	CSV86_003885	COGs COG3216

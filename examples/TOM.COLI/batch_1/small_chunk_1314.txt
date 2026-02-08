@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004220	folC	Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
-1005395.227	Pseudomonas bharatica	CSV86_004225	Septum-associated cell division protein DedD

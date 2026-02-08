@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005460	Mobile element protein
-1005395.227	Pseudomonas bharatica	CSV86_005465	transcriptional regulator MvaT, P16 subunit,

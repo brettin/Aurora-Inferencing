@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02600		H8NI95		tRNA threonylcarbamoyladenosine biosynthesis protein TsaB		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_02605		H8NI96		hypothetical protein		hypothetical protein

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03005	tRNA-Ser
-100177.28	Borreliella lusitaniae	QIA24_03010	ffs	signal recognition particle sRNA small type

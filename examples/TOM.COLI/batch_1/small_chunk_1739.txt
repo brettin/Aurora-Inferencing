@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008625	Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases
-1005395.227	Pseudomonas bharatica	CSV86_008630	Transcriptional regulator, Xre family

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004190	asd	Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
-1005395.227	Pseudomonas bharatica	CSV86_004195	Semialdehyde dehydrogenase, USG-1 protein

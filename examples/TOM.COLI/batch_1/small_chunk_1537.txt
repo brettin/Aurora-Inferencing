@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006535	3-methylmercaptopropionyl-CoA ligase (EC 6.2.1.44) of DmdB1 type
-1005395.227	Pseudomonas bharatica	CSV86_006540	Putative two-component sensor

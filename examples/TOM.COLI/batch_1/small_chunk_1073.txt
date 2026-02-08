@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001745	alcohol dehydrogenase catalytic domain-containing protein
-1005395.227	Pseudomonas bharatica	CSV86_001750	hypothetical protein

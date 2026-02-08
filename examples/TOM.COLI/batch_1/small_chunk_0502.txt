@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00110		H8NIR9	rplS	LSU ribosomal protein L19p	rplS	50S ribosomal protein L19
-1003201.3	Rickettsia typhi	RTTH1527_00115		H8NIS0	trmD	tRNA (guanine(37)-N(1))-methyltransferase (EC 2.1.1.228)	trmD	tRNA (guanine-N(1)-)-methyltransferase

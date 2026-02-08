@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02915		H8NIF8		hypothetical protein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_02920		H8NIF9	ileS	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	ileS	isoleucyl-tRNA synthetase

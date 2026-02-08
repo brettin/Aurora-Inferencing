@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03695	Transglutaminase-like domain protein
-100177.28	Borreliella lusitaniae	QIA24_03700	glyA	Serine hydroxymethyltransferase (EC 2.1.2.1)

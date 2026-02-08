@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02450	CarD-like transcriptional regulator
-100177.28	Borreliella lusitaniae	QIA24_02455	hypothetical protein

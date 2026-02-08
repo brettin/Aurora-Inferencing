@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004835	lipoprotein
-1005395.227	Pseudomonas bharatica	CSV86_004840	moaB	Molybdenum cofactor biosynthesis protein MoaB

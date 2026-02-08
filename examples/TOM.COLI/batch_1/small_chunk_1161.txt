@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002660	Cobalt/zinc/cadmium resistance protein CzcD
-1005395.227	Pseudomonas bharatica	CSV86_002665	Lipoprotein signal peptidase (EC 3.4.23.36)

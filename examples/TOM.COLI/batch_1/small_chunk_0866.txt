@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03785		H8NI09	atpC	ATP synthase epsilon chain (EC 3.6.3.14)	atpC	F0F1 ATP synthase subunit epsilon
-1003201.3	Rickettsia typhi	RTTH1527_03790		H8NI10		ATP synthase beta chain (EC 3.6.3.14)		F0F1 ATP synthase subunit beta

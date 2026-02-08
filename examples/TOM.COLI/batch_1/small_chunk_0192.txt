@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01950	leuS	Leucyl-tRNA synthetase (EC 6.1.1.4)
-100177.28	Borreliella lusitaniae	QIA24_01955	Exporter protein, RND family

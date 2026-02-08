@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02705		H8NIB6	uvrC	Excinuclease ABC subunit C	uvrC	excinuclease ABC subunit C
-1003201.3	Rickettsia typhi	RTTH1527_02710		H8NIB7		Copper metallochaperone PCu(A)C, inserts Cu(I) into cytochrome oxidase subunit II		copper(I)-binding protein

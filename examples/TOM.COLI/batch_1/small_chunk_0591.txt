@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01015		H8NJ19		Beta 1,4 glucosyltransferase		glucosyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_01020		H8NJ20		Mitochondrial processing peptidase-like protein (EC 3.4.24.64)		protease

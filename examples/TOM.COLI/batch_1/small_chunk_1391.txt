@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005010	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_005015	Lipoprotein releasing system transmembrane protein LolC/LolE

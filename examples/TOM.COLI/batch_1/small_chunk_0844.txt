@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03565		H8NIL2		hypothetical protein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_03570		H8NIL3		hypothetical protein		hypothetical protein

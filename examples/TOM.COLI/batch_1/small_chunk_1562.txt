@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006790	Acyl-homoserine lactone acylase PvdQ (EC 3.5.1.-), quorum-quenching
-1005395.227	Pseudomonas bharatica	CSV86_006795	Uncharacterized protease YegQ

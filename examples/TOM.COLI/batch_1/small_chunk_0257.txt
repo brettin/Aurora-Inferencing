@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02600	rpsL	SSU ribosomal protein S12p (S23e)
-100177.28	Borreliella lusitaniae	QIA24_02605	rpoC	DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)

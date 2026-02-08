@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008680	Sigma-fimbriae uncharacterized paralogous subunit
-1005395.227	Pseudomonas bharatica	CSV86_008685	Sigma-fimbriae uncharacterized paralogous subunit

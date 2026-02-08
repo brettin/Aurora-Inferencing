@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004230	Colicin V production protein
-1005395.227	Pseudomonas bharatica	CSV86_004235	purF	Amidophosphoribosyltransferase (EC 2.4.2.14)

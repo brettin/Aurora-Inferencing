@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01980		H8NHF3		tRNA t(6)A37-methylthiotransferase (EC 2.8.4.5)		tRNA-methylthiotransferase (MiaB protein)
-1003201.3	Rickettsia typhi	RTTH1527_01985		H8NHF4	pheS	Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)	pheS	phenylalanyl-tRNA synthetase subunit alpha

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007290	Transcriptional regulator, AraC family
-1005395.227	Pseudomonas bharatica	CSV86_007295	probable sensor/response regulator hybrid

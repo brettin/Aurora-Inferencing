@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02030		H8NHG3		Two-component system sensor histidine kinase		osmolarity sensor protein EnvZ
-1003201.3	Rickettsia typhi	RTTH1527_02035		H8NHG4		Two-component transcriptional response regulator, OmpR family		response regulator protein OmpR

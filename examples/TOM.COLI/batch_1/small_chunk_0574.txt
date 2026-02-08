@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00835		H8NIY5		hypothetical protein		carboxypeptidase Taq
-1003201.3	Rickettsia typhi	RTTH1527_00840		H8NIY6		DNA repair protein RecN		DNA repair protein RecN

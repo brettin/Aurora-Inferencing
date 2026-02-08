@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03405	hypothetical protein
-100177.28	Borreliella lusitaniae	QIA24_03410	Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)

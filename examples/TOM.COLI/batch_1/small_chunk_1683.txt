@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008045	modA	Molybdenum ABC transporter, substrate-binding protein ModA
-1005395.227	Pseudomonas bharatica	CSV86_008050	oxidoreductase, nitronate monooxygenase family

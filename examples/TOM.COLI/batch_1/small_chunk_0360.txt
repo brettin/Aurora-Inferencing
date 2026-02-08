@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03645	rsmA	SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase (EC 2.1.1.182)
-100177.28	Borreliella lusitaniae	QIA24_03650	DNA internalization-related competence protein ComEC/Rec2

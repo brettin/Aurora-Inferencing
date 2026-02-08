@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006710	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A (EC 2.8.3.5)
-1005395.227	Pseudomonas bharatica	CSV86_006715	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B (EC 2.8.3.5)

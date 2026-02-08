@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03515		H8NIK2		Endonuclease III (EC 4.2.99.18)		endonuclease III
-1003201.3	Rickettsia typhi	RTTH1527_03520		H8NIK3		16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)		hypothetical protein

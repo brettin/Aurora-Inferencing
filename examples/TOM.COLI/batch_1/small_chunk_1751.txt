@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008755	Alpha-amylase (EC 3.2.1.1)
-1005395.227	Pseudomonas bharatica	CSV86_008760	treS	Trehalose synthase (EC 5.4.99.16)

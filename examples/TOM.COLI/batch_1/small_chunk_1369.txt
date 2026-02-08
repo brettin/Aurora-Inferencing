@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004785	Aerotaxis sensor receptor protein
-1005395.227	Pseudomonas bharatica	CSV86_004790	acnA	Aconitate hydratase (EC 4.2.1.3)

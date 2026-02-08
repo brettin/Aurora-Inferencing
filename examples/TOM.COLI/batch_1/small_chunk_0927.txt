@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000205	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_000210	hypothetical protein

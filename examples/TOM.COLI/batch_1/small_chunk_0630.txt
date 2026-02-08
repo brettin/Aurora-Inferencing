@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01405		H8NHB6		DNA mismatch repair protein MutS		DNA mismatch repair protein MutS
-1003201.3	Rickettsia typhi	RTTH1527_01410		H8NHB7		Ribose-5-phosphate isomerase B (EC 5.3.1.6)		ribose-5-phosphate isomerase B

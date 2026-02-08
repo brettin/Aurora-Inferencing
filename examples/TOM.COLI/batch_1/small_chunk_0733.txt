@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02450		H8NHP7		Carbonic anhydrase, gamma class (EC 4.2.1.1)		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_02455		H8NHP8		Ribosome hibernation promoting factor Hpf		sigma(54) modulation protein

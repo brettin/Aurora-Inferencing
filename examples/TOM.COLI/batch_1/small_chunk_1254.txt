@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003610	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_003615	Metal transporter, ZIP family

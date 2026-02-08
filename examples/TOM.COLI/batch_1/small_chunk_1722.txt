@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008450	Trans-feruloyl-CoA synthase (EC 6.2.1.34)
-1005395.227	Pseudomonas bharatica	CSV86_008455	3-ketoacyl-CoA thiolase (EC 2.3.1.16)

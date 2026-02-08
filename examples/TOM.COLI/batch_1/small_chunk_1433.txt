@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005470	helix-turn-helix transcriptional regulator
-1005395.227	Pseudomonas bharatica	CSV86_005475	hypothetical protein

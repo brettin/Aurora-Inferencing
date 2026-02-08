@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01655	prfA	Peptide chain release factor 1
-100177.28	Borreliella lusitaniae	QIA24_01660	prmC	Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)

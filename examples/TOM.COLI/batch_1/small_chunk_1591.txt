@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007080	Multidrug efflux system, outer membrane factor lipoprotein => OpmD of MexHI-OpmD system
-1005395.227	Pseudomonas bharatica	CSV86_007085	ABC transporter, ATP-binding protein

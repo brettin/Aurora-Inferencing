@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01775	pstC	Phosphate ABC transporter, permease protein PstC (TC 3.A.1.7.1)
-100177.28	Borreliella lusitaniae	QIA24_01780	pstA	Phosphate ABC transporter, permease protein PstA (TC 3.A.1.7.1)

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02150		H8NHI7		ATP-dependent protease La (EC 3.4.21.53) Type I		ATP-dependent protease La
-1003201.3	Rickettsia typhi	RTTH1527_02155		H8NHI8		hypothetical protein		cell surface antigen Sca3

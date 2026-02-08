@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03015	dnaX	DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
-100177.28	Borreliella lusitaniae	QIA24_03020	Nucleoid-associated protein YaaK

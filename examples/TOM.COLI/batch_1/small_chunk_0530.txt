@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00395		H8NGZ4		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_00400		H8NGZ5		Inner membrane protein translocase and chaperone YidC, long form		membrane protein insertase

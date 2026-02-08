@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01010	Uncharacterized methyltransferase PA5071
-100177.28	Borreliella lusitaniae	QIA24_01015	ortholog to Borrelia burgdorferi BB0063

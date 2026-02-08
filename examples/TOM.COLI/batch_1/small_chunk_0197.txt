@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02000	TPR domain protein, component of TonB system
-100177.28	Borreliella lusitaniae	QIA24_02005	Putative peptidase

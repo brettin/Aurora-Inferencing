@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01305	tsf	Translation elongation factor Ts
-100177.28	Borreliella lusitaniae	QIA24_01310	rpsB	SSU ribosomal protein S2p (SAe)

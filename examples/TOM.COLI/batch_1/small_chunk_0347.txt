@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03515	Positive regulator of CheA protein activity (CheW)
-100177.28	Borreliella lusitaniae	QIA24_03520	hypothetical protein

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03805		H8NI13		ATP synthase delta chain (EC 3.6.3.14)		F0F1 ATP synthase subunit delta
-1003201.3	Rickettsia typhi	RTTH1527_03810		H8NI14		Dihydrolipoamide dehydrogenase (EC 1.8.1.4)		dihydrolipoamide dehydrogenase

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002620	SSU rRNA ## 16S rRNA, small subunit ribosomal RNA
-1005395.227	Pseudomonas bharatica	CSV86_002625	tRNA-Ile

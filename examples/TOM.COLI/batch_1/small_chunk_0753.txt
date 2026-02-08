@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02655		H8NIA6		nitrogen assimilation regulatory protein NtrX		nitrogen assimilation regulatory protein NtrX
-1003201.3	Rickettsia typhi	RTTH1527_02660		H8NIA7		Pentapeptide repeat family protein		hypothetical protein

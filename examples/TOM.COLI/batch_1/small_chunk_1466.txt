@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005810	L,D-transpeptidase
-1005395.227	Pseudomonas bharatica	CSV86_005815	Major outer membrane lipoprotein I

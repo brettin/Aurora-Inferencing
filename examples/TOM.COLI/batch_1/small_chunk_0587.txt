@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00975		H8NJ11	fmt	Methionyl-tRNA formyltransferase (EC 2.1.2.9)	fmt	methionyl-tRNA formyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_00980		H8NJ12		hypothetical protein		hypothetical protein

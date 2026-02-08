@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001950	Two-component transcriptional response regulator, OmpR family
-1005395.227	Pseudomonas bharatica	CSV86_001955	cmoB	tRNA ho5U(34) carboxymethyltransferase

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03165		H8NHW4		Cell division protein FtsZ		cell division protein FtsZ
-1003201.3	Rickettsia typhi	RTTH1527_03170		H8NHW5		NifU-like protein		hypothetical protein

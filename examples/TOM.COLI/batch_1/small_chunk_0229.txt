@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02320	Oligopeptide ABC transporter, substrate-binding protein OppA (TC 3.A.1.5.1)
-100177.28	Borreliella lusitaniae	QIA24_02325	Oligopeptide ABC transporter, substrate-binding protein OppA (TC 3.A.1.5.1)

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000400	Amino acid ABC transporter, ATP-binding protein YhdZ
-1005395.227	Pseudomonas bharatica	CSV86_000405	Outer membrane stress sensor protease DegS

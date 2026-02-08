@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02310		H8NHL9		Cysteine desulfurase (EC 2.8.1.7) => IscS		cysteine desulfurase
-1003201.3	Rickettsia typhi	RTTH1527_02315		H8NHM0		Cysteine desulfurase (EC 2.8.1.7)		cysteine desulfurase

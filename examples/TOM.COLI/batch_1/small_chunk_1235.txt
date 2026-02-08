@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003415	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_003420	dTDP-6-deoxy-3,4-keto-hexulose isomerase (EC 5.3.2.3)

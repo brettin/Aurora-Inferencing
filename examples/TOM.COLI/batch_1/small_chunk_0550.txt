@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00595		H8NH34		Translation elongation factor G		elongation factor G
-1003201.3	Rickettsia typhi	RTTH1527_00600		H8NH35	secE	Protein translocase subunit SecE	secE	preprotein translocase subunit SecE

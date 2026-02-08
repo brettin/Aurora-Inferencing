@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02705	manA	Mannose-6-phosphate isomerase (EC 5.3.1.8)
-100177.28	Borreliella lusitaniae	QIA24_02710	PTS system, fructose-specific IIA component (EC 2.7.1.202) / PTS system, fructose-specific IIB component (EC 2.7.1.202) / PTS system, fructose-specific IIC component

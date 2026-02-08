@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04005	DnaJ-class molecular chaperone CbpA
-100177.28	Borreliella lusitaniae	QIA24_04010	psgB	HemN-related protein

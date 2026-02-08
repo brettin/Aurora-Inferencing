@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00915		H8NIZ9		Universal stress protein family 3		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00920		H8NJ00		TRAP-type uncharacterized transport system		hypothetical protein

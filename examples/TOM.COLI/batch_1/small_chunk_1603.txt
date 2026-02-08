@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007220	Outer membrane low permeability porin, OprD family => OccK9/OpdG
-1005395.227	Pseudomonas bharatica	CSV86_007225	Uncharacterized MFS-type transporter

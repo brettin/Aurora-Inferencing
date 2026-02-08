@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02715		H8NIB8		Uncharacterized protein RT0563		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_02720		H8NIB9		Protein translocase subunit SecA		preprotein translocase subunit SecA

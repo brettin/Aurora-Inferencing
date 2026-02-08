@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02785	LSU rRNA ## 23S rRNA, large subunit ribosomal RNA
-100177.28	Borreliella lusitaniae	QIA24_02790	Cof protein, HD superfamily hydrolase

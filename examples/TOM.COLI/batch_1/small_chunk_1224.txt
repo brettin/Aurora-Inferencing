@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003305	Fumarate hydratase class II (EC 4.2.1.2)
-1005395.227	Pseudomonas bharatica	CSV86_003310	hypothetical protein

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000360	YheO-like PAS domain
-1005395.227	Pseudomonas bharatica	CSV86_000365	Glycine/D-amino acid oxidases (deaminating)

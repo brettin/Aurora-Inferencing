@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008545	Methionine ABC transporter permease protein
-1005395.227	Pseudomonas bharatica	CSV86_008550	Methionine ABC transporter substrate-binding protein

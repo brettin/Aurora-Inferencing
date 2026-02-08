@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01185		H8NH72		Putative activity regulator of membrane protease YbbK		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_01190		H8NH73		membrane c-type cytochrome cy		cytochrome c

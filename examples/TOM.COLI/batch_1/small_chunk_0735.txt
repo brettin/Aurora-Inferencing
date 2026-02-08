@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02470		H8NHQ1	cmk	Cytidylate kinase (EC 2.7.4.25)	cmk	cytidylate kinase
-1003201.3	Rickettsia typhi	RTTH1527_02475		H8NHQ2		Integration host factor beta subunit		integration host factor beta subunit

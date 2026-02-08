@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002820	Signal transduction histidine-protein kinase BarA (EC 2.7.13.3)
-1005395.227	Pseudomonas bharatica	CSV86_002825	Two-component transcriptional response regulator, OmpR family

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04265	B. burgdorferi coding region BB0708
-100177.28	Borreliella lusitaniae	QIA24_04270	tRNA-Thr

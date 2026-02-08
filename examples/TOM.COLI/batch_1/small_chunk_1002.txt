@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000985	purU	Formyltetrahydrofolate deformylase (EC 3.5.1.10)
-1005395.227	Pseudomonas bharatica	CSV86_000990	membrane protein

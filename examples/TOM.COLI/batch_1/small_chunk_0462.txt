@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04680	LSU ribosomal protein L25p
-100177.28	Borreliella lusitaniae	QIA24_04685	pth	Peptidyl-tRNA hydrolase (EC 3.1.1.29)

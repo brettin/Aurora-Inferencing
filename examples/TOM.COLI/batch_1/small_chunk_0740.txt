@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02520		H8NHR1		rickettsial conserved		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_02525		H8NHR2		Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)		biotin--protein ligase

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006145	Virulence factor mviM
-1005395.227	Pseudomonas bharatica	CSV86_006150	sstT	Serine/threonine:Na+ symporter SstT

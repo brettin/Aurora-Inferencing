@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02640		H8NIA3		3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / Enoyl-CoA hydratase (EC 4.2.1.17)		3-hydroxyacyl-CoA dehydrogenase
-1003201.3	Rickettsia typhi	RTTH1527_02645		H8NIA4		2-polyprenyl-6-methoxyphenol hydroxylase		2-octaprenyl-6-methoxyphenyl hydroxylase

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02825	rsmI	16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
-100177.28	Borreliella lusitaniae	QIA24_02830	hypothetical protein

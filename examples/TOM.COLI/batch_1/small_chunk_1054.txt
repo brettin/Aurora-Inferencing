@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001525	lipoprotein
-1005395.227	Pseudomonas bharatica	CSV86_001530	Type IV secretory pathway, VirB4 components

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000330	Polysaccharide deacetylase family protein
-1005395.227	Pseudomonas bharatica	CSV86_000335	Predicted ATPase related to phosphate starvation-inducible protein PhoH

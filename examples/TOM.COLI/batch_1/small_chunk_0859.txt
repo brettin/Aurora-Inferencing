@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03715		H8NIP2		hypothetical protein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_03720		H8NIP3		Tellurium resistance protein TerC		tellurium resistance protein TerC

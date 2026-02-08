@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03495	gnd	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)
-100177.28	Borreliella lusitaniae	QIA24_03500	hypothetical protein

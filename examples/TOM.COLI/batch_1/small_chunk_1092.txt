@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001940	pdxJ	Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)
-1005395.227	Pseudomonas bharatica	CSV86_001945	hypothetical protein

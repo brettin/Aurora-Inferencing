@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007740	Acyl dehydratase
-1005395.227	Pseudomonas bharatica	CSV86_007745	Transcriptional regulator, AraC family

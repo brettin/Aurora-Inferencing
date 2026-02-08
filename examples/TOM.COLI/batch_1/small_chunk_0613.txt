@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01235		H8NH82		GTP-binding protein TypA/BipA		GTP-binding protein
-1003201.3	Rickettsia typhi	RTTH1527_01240		H8NH83		Periplasmic chaperone of outer membrane proteins Skp @ Outer membrane protein H precursor		hypothetical protein

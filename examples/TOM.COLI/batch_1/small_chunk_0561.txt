@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00705		H8NIV9	pyrH	Uridylate kinase (EC 2.7.4.22)	pyrH	uridylate kinase
-1003201.3	Rickettsia typhi	RTTH1527_00710		H8NIW0		Na(+) H(+) antiporter subunit E		monovalent cation/H+ antiporter subunit E

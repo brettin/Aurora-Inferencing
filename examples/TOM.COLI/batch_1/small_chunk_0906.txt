@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_04185		H8NI89		Coproporphyrinogen III oxidase, aerobic (EC 1.3.3.3)		coproporphyrinogen III oxidase
-1003201.3	Rickettsia typhi	RTTH1527_04190		H8NI90		Protoporphyrinogen IX oxidase, novel form, HemJ (EC 1.3.-.-)		hypothetical protein

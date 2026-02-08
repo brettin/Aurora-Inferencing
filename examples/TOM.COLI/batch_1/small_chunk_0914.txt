@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000065	DUF1244 domain-containing protein
-1005395.227	Pseudomonas bharatica	CSV86_000070	folM	FolM Alternative dihydrofolate reductase 1

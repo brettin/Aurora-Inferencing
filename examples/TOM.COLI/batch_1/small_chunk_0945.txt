@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000390	Amino acid ABC transporter, permease protein 1, YhdX
-1005395.227	Pseudomonas bharatica	CSV86_000395	Amino acid ABC transporter, permease protein 2, YhdY

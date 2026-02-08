@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002365	ATP-dependent DNA ligase (EC 6.5.1.1) LigC
-1005395.227	Pseudomonas bharatica	CSV86_002370	mRNA 3-end processing exonuclease

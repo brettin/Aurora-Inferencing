@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000430	Methionine gamma-lyase (EC 4.4.1.11)
-1005395.227	Pseudomonas bharatica	CSV86_000435	RTX toxin transporter, ATP-binding protein

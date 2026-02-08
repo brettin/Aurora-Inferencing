@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00170		H8NIT1		LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent		50S ribosomal protein L31
-1003201.3	Rickettsia typhi	RTTH1527_00175		H8NIT2	rpmB	LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent	rpmB	50S ribosomal protein L28

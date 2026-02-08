@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003445	NAD-dependent epimerase/dehydratase family protein
-1005395.227	Pseudomonas bharatica	CSV86_003450	hypothetical protein

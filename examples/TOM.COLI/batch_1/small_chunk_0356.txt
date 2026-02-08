@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03605	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
-100177.28	Borreliella lusitaniae	QIA24_03610	Na+-driven multidrug efflux pump

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001365	Periplasmic protein TonB, links inner and outer membranes
-1005395.227	Pseudomonas bharatica	CSV86_001370	Hypothetical protein

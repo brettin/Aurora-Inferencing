@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02745	pheromone shutdown protein (traB)
-100177.28	Borreliella lusitaniae	QIA24_02750	Adenylate kinase (EC 2.7.4.3)

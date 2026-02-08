@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002895	purM	Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
-1005395.227	Pseudomonas bharatica	CSV86_002900	hypothetical protein

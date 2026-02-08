@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00015	resT	Telomere resolvase resT (EC 3.1.22.-)
-100177.28	Borreliella lusitaniae	QIA24_00020	celB	PTS system, chitobiose-specific IIC component

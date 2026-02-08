@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001620	dmpH	4-oxalocrotonate decarboxylase (EC 4.1.1.77)
-1005395.227	Pseudomonas bharatica	CSV86_001625	dmpG	4-hydroxy-2-oxovalerate aldolase (EC 4.1.3.39)

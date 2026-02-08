@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03985		H8NI49	tig	Cell division trigger factor (EC 5.2.1.8)	tig	trigger factor
-1003201.3	Rickettsia typhi	RTTH1527_03990		H8NI50	obgE	GTP-binding protein Obg	obgE	GTPase CgtA

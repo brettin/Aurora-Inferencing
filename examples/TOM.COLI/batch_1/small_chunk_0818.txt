@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03305		H8NHZ2		7-cyano-7-deazaguanine synthase (EC 6.3.4.20)		trans-regulatory protein ExsB
-1003201.3	Rickettsia typhi	RTTH1527_03310		H8NHZ3		Efflux ABC transporter, permease/ATP-binding protein		lipid A export ATP-binding/permease protein MsbA

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00825		H8NIY3		Dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61)		dihydrolipoamide succinyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_00830		H8NIY4	sucA	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)	sucA	2-oxoglutarate dehydrogenase E1 component

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01045		H8NH44		rickettsial conserved		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_01050		H8NH45		Type I secretion outer membrane protein, TolC family		outer membrane protein tolC precursor

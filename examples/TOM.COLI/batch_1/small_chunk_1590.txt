@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007070	Multidrug efflux system, membrane fusion component => MexH of MexHI-OpmD system
-1005395.227	Pseudomonas bharatica	CSV86_007075	mexI	Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexI of MexHI-OpmD system

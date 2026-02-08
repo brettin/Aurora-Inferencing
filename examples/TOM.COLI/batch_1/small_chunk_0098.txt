@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01000	ybeY	Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
-100177.28	Borreliella lusitaniae	QIA24_01005	trxA	Thioredoxin

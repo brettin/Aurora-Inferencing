@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01415	Glycine betaine/L-proline transport system permease protein ProW (TC 3.A.1.12.1)
-100177.28	Borreliella lusitaniae	QIA24_01420	Glycine betaine/L-proline transport ATP-binding protein ProV (TC 3.A.1.12.1)

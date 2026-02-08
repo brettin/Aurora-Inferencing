@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00785		H8NIX5		DNA-binding protein HU		DNA-binding protein HU
-1003201.3	Rickettsia typhi	RTTH1527_00790		H8NIX6		DNA polymerase III delta prime subunit (EC 2.7.7.7)		DNA polymerase III subunit delta'

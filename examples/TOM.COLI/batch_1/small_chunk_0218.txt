@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02210	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
-100177.28	Borreliella lusitaniae	QIA24_02215	murF	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)

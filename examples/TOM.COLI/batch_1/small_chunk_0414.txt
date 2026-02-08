@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04195	Xylose-responsive transcription regulator, ROK family
-100177.28	Borreliella lusitaniae	QIA24_04200	ffh	Signal recognition particle protein Ffh

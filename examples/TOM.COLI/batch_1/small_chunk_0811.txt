@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03235		H8NHX8	ubiE	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)	ubiE	ubiquinone/menaquinone biosynthesis methyltransferase
-1003201.3	Rickettsia typhi	RTTH1527_03240		H8NHX9		Poly-beta-hydroxyalkanoate depolymerase		poly-beta-hydroxyalkanoate depolymerase

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003080	tRNA ligase
-1005395.227	Pseudomonas bharatica	CSV86_003085	Assimilatory nitrate reductase large subunit (EC 1.7.99.4)

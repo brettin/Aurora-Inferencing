@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003665	Magnesium and cobalt transport protein CorA
-1005395.227	Pseudomonas bharatica	CSV86_003670	Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51) @ Acyl-ACP:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.n4)

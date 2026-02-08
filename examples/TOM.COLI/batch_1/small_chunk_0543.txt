@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00525		H8NH20		ATP synthase F0 sector subunit b' (EC 3.6.3.14)		F0F1 ATP synthase subunit B'
-1003201.3	Rickettsia typhi	RTTH1527_00530		H8NH21		ATP synthase F0 sector subunit b (EC 3.6.3.14)		F0F1 ATP synthase subunit B

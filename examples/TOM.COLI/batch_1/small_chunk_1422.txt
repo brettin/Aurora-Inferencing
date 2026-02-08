@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005350	Cobalt/zinc/cadmium efflux RND transporter, transmembrane protein CzcA
-1005395.227	Pseudomonas bharatica	CSV86_005355	hypothetical protein

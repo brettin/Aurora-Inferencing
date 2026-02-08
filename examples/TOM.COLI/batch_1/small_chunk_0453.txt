@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04590	Putative periplasmic protein
-100177.28	Borreliella lusitaniae	QIA24_04595	rpoS	RNA polymerase sigma factor RpoS

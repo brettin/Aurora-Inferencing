@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007420	Aminotransferase, class III
-1005395.227	Pseudomonas bharatica	CSV86_007425	Transcriptional regulator, IclR family

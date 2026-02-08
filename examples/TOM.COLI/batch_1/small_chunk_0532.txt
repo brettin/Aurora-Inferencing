@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00415		H8NGZ8		SAM-dependent methyltransferase, MidA		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00420		H8NGZ9	sdhB	Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)	sdhB	succinate dehydrogenase iron-sulfur subunit

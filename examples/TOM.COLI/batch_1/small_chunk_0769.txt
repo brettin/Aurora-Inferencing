@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02815		H8NID8		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)		UDP-N-acetylmuramoylalanyl-D-glutamyl- 2,6-diaminopimelate--D-alanyl-D-alanyl ligase
-1003201.3	Rickettsia typhi	RTTH1527_02820		H8NID9	murE	UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)	murE	UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase

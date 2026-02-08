@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00730	trpS	Tryptophanyl-tRNA synthetase (EC 6.1.1.2)
-100177.28	Borreliella lusitaniae	QIA24_00735	Uncharacterized UPF0118 membrane protein

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004775	Transcriptional regulator
-1005395.227	Pseudomonas bharatica	CSV86_004780	Pseudouridine synthase (EC 4.2.1.70), PA2043 type

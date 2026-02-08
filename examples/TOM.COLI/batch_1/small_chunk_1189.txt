@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002945	bluB	Cobalamin biosynthesis protein BluB @ 5,6-dimethylbenzimidazole synthase, flavin destructase family
-1005395.227	Pseudomonas bharatica	CSV86_002950	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)

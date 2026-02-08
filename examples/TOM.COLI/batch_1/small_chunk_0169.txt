@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01715	B. burgdorferi coding region BB0205
-100177.28	Borreliella lusitaniae	QIA24_01720	rsmD	16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)

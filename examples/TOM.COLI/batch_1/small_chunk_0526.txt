@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00350		H8NGY5		Chromosome (plasmid) partitioning protein ParA		Chromosome partitioning protein ParA (Soj protein)
-1003201.3	Rickettsia typhi	RTTH1527_00355		H8NGY6	gidB	16S rRNA (guanine(527)-N(7))-methyltransferase (EC 2.1.1.170)	gidB	16S rRNA methyltransferase GidB

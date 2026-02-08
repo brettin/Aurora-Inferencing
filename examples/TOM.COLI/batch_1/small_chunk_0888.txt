@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_04005		H8NI53		LSU rRNA pseudouridine(1911/1915/1917) synthase (EC 5.4.99.23)		pseudouridine synthase
-1003201.3	Rickettsia typhi	RTTH1527_04010		H8NI54		Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297) / tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)		bifunctional N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase/tRNA (m7G46) methyltransferase

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02470	ParA-like protein
-100177.28	Borreliella lusitaniae	QIA24_02475	lgt	Prolipoprotein diacylglyceryl transferase

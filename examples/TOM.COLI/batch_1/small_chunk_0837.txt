@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03495		H8NIJ8		Lipoyl synthase (EC 2.8.1.8)		lipoyl synthase
-1003201.3	Rickettsia typhi	RTTH1527_03500		H8NIJ9	glyA	Serine hydroxymethyltransferase (EC 2.1.2.1)	glyA	serine hydroxymethyltransferase

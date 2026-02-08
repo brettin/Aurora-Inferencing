@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04900	xylose operon regulatory protein
-100177.28	Borreliella lusitaniae	QIA24_04905	hypothetical protein

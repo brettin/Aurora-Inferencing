@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_03505		H8NIK0		Phospholipase/carboxylesterase family protein		serine esterase
-1003201.3	Rickettsia typhi	RTTH1527_03510		H8NIK1		Uncharacterized monothiol glutaredoxin ycf64-like		glutaredoxin 3

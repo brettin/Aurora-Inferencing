@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004935	Cell division inhibitor-related protein
-1005395.227	Pseudomonas bharatica	CSV86_004940	lexA	SOS-response repressor and protease LexA (EC 3.4.21.88)

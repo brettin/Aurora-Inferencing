@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007125	Putative TEGT family carrier/transport protein
-1005395.227	Pseudomonas bharatica	CSV86_007130	tRNA-Ser

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006820	Phage holin or membrane protein (ACLAME 246)
-1005395.227	Pseudomonas bharatica	CSV86_006825	hypothetical protein

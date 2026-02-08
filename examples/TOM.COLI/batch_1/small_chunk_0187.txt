@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01900	glpK	Glycerol kinase (EC 2.7.1.30)
-100177.28	Borreliella lusitaniae	QIA24_01905	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)

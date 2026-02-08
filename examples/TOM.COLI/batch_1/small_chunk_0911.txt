@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_000035	Transcriptional regulator, ArsR family
-1005395.227	Pseudomonas bharatica	CSV86_000040	Uncharacterized membrane protein, YraQ family

@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03745	tRNA-Arg
-100177.28	Borreliella lusitaniae	QIA24_03750	tRNA-Leu

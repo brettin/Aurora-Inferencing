@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003630	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_003635	Superfamily II DNA/RNA helicases, SNF2 family

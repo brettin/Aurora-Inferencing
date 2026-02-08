@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02775		H8NID0		hypothetical protein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_02780		H8NID1		Cytochrome c-type biogenesis protein CcmE, heme chaperone		cytochrome c-type biogenesis protein CcmE

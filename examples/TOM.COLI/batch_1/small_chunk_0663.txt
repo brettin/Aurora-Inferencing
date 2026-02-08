@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01735		H8NJ85		ABC transporter, substrate-binding protein (cluster 15, trp?)		ABC-type transport system, periplasmic component
-1003201.3	Rickettsia typhi	RTTH1527_01740		H8NJ86		ABC transporter, permease protein (cluster 15, trp?)		ABC transporter permease protein

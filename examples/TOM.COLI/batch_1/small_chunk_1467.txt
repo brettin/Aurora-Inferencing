@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005820	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_005825	2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)

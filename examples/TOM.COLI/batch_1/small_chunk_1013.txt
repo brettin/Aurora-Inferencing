@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001095	Multidrug resistance operon repressor MexR2/TtgR
-1005395.227	Pseudomonas bharatica	CSV86_001100	membrane protein

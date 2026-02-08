@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02805		H8NID6		ATP-dependent DNA helicase RecG (EC 3.6.4.12)		ATP-dependent DNA helicase RecG
-1003201.3	Rickettsia typhi	RTTH1527_02810		H8NID7	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	mraY	phospho-N-acetylmuramoyl-pentapeptide- transferase

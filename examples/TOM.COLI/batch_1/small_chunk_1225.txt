@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_003315	Cell division protein BolA
-1005395.227	Pseudomonas bharatica	CSV86_003320	Rhodanese domain protein UPF0176

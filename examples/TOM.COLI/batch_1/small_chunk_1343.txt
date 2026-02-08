@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_004520	hypothetical protein PA3071
-1005395.227	Pseudomonas bharatica	CSV86_004525	MoxR-like ATPase in aerotolerance operon

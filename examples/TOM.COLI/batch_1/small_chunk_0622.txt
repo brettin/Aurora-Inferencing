@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01325		H8NHA0		NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)		monovalent cation/H+ antiporter subunit D
-1003201.3	Rickettsia typhi	RTTH1527_01330		H8NHA1		NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)		monovalent cation/H+ antiporter subunit D

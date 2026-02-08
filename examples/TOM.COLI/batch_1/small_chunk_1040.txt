@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001385	Plasmid related protein
-1005395.227	Pseudomonas bharatica	CSV86_001390	Plasmid related protein

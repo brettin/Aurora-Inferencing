@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_006980	Il-IS_2, transposase
-1005395.227	Pseudomonas bharatica	CSV86_006985	infA	Translation initiation factor 1

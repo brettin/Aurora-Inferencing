@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03475	Phosphotransferase system, phosphocarrier protein HPr
-100177.28	Borreliella lusitaniae	QIA24_03480	ptsP	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008700	Sigma-fimbriae tip adhesin
-1005395.227	Pseudomonas bharatica	CSV86_008705	Zinc carboxypeptidase domain protein

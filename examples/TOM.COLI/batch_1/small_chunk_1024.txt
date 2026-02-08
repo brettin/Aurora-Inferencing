@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_001220	probable transmembrane sensor
-1005395.227	Pseudomonas bharatica	CSV86_001225	RNA polymerase ECF-type sigma factor

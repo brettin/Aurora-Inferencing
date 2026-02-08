@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_002915	NLP/P60 family protein
-1005395.227	Pseudomonas bharatica	CSV86_002920	lipoprotein

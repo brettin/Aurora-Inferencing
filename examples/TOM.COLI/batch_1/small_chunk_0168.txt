@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_01705	tRNA-Phe
-100177.28	Borreliella lusitaniae	QIA24_01710	tRNA-Phe

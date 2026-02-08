@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_008430	Outer membrane low permeability porin, OprD family
-1005395.227	Pseudomonas bharatica	CSV86_008435	Transcriptional regulator, MarR family

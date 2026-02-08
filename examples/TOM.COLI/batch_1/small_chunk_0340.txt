@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03445	chemotaxis response regulator
-100177.28	Borreliella lusitaniae	QIA24_03450	ligA	DNA ligase (NAD(+)) (EC 6.5.1.2)

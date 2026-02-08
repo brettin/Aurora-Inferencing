@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03345	Metal-dependent hydrolases of the beta-lactamase superfamily I; PhnP protein
-100177.28	Borreliella lusitaniae	QIA24_03350	xth	Exodeoxyribonuclease III (EC 3.1.11.2)

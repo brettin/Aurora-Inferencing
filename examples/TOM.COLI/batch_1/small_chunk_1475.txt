@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005900	prpC	2-methylcitrate synthase (EC 2.3.3.5)
-1005395.227	Pseudomonas bharatica	CSV86_005905	acnD	2-methylcitrate dehydratase (2-methyl-trans-aconitate forming) (EC 4.2.1.117)

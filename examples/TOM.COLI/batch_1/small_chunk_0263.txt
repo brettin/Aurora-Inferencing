@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_02660	OmpA family protein
-100177.28	Borreliella lusitaniae	QIA24_02665	ortholog to Borrelia burgdorferi BB0398

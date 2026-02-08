@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007050	tusC	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusC
-1005395.227	Pseudomonas bharatica	CSV86_007055	tusD	tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusD

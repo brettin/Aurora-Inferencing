@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_005435	zinc ribbon domain-containing protein
-1005395.227	Pseudomonas bharatica	CSV86_005440	Lipid A phosphoethanolamine transferase,

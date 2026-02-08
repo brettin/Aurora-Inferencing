@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_04690	tilS	tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)
-100177.28	Borreliella lusitaniae	QIA24_04695	ftsH	Cell division-associated, ATP-dependent zinc metalloprotease FtsH

@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_01940		H8NHE5	lspA	Lipoprotein signal peptidase (EC 3.4.23.36)	lspA	lipoprotein signal peptidase
-1003201.3	Rickettsia typhi	RTTH1527_01945		H8NHE6		rickettsial conserved		hypothetical protein

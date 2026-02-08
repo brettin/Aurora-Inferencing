@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_03985	yajC	Protein translocase subunit YajC
-100177.28	Borreliella lusitaniae	QIA24_03990	secD	Protein translocase subunit SecD

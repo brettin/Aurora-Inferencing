@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_00210		H8NIT9		hypothetical protein		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_00215		H8NIU0		Aspartate aminotransferase (EC 2.6.1.1)		aspartate aminotransferase

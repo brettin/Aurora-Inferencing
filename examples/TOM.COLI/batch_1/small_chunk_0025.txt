@@ -1,2 +1,0 @@
-100177.28	Borreliella lusitaniae	QIA24_00270	PTS system, glucose-specific IIC component / PTS system, glucose-specific IIB component (EC 2.7.1.199)
-100177.28	Borreliella lusitaniae	QIA24_00275	hypothetical protein

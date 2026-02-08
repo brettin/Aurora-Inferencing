@@ -1,2 +1,0 @@
-1003201.3	Rickettsia typhi	RTTH1527_02240		H8NHK5		rickettsial conserved		hypothetical protein
-1003201.3	Rickettsia typhi	RTTH1527_02245		H8NHK6		Hydrolase SMc00528, alpha/beta fold family		alpha/beta hydrolase

@@ -1,2 +1,0 @@
-1005395.227	Pseudomonas bharatica	CSV86_007770	hypothetical protein
-1005395.227	Pseudomonas bharatica	CSV86_007775	GGDEF domain protein
