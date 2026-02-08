@@ -112,7 +112,6 @@ fi
 
 #exit
 
->>>>>>> users/khalid/test
 # Process Input Files
 filenames=("$INPUT_DIR"/*)
 total_files=${#filenames[@]}
