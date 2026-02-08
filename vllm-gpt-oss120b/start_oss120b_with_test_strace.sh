@@ -59,7 +59,7 @@ else
     # Clear positional parameters to avoid conda activate picking them up
     set --
     # conda activate /tmp/hf_home/hub/vllm_env
-    source /tmp/vllm_env/bin/activate
+    source /tmp/hf_home/hub/vllm_env/bin/activate
     conda-unpack
     export LD_LIBRARY_PATH=/tmp/hf_home/hub/vllm_env/lib/python3.12/site-packages/intel_extension_for_pytorch/lib:/tmp/hf_home/hub/vllm_env/lib:/tmp/hf_home/hub/vllm_env/lib/python3.12/site-packages/torch/lib:${LD_LIBRARY_PATH}:/usr/lib64
 
@@ -107,8 +107,8 @@ echo "$(date) $HOSTNAME Log file: ${TEST_OUTPUTS_DIR}/${HOSTNAME}.vllm.log"
 export OCL_ICD_FILENAMES="/opt/aurora/25.190.0/oneapi/2025.2/lib/libintelocl.so" 
 export VLLM_DISABLE_SINKS=1
 
-#strace -ff -e trace=%file -o /tmp/strace.%p \
-OCL_ICD_FILENAMES="/opt/aurora/25.190.0/oneapi/2025.2/lib/libintelocl.so" VLLM_DISABLE_SINKS=1 vllm serve ${VLLM_MODEL} \
+strace -ff -e trace=%file -o /tmp/strace.%p \
+vllm serve ${VLLM_MODEL} \
   --dtype bfloat16 \
   --tensor-parallel-size 8 \
   --enforce-eager \
