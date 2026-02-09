@@ -63,7 +63,7 @@ else
     source /tmp/hf_home/hub/vllm_env/bin/activate
     conda-unpack
     export LD_LIBRARY_PATH=/tmp/hf_home/hub/vllm_env/lib/python3.12/site-packages/intel_extension_for_pytorch/lib:/tmp/hf_home/hub/vllm_env/lib:/tmp/hf_home/hub/vllm_env/lib/python3.12/site-packages/torch/lib:${LD_LIBRARY_PATH}:/usr/lib64
-
+    echo "$(date) $HOSTNAME LD_LIBRARY_PATH: ${LD_LIBRARY_PATH}"
     echo "$(date) $HOSTNAME Conda environment activated"
     which python
     python -c 'import sys ; print(sys.path)'
