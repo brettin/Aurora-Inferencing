@@ -8,4 +8,4 @@ make
 make test
 
 # Start command
-$REDIS_DIR/redis-stable//src/redis-server $REDIS_DIR/redis-stable/redis.conf
+$REDIS_DIR/redis-stable/src/redis-server $REDIS_DIR/redis-stable/redis.conf
