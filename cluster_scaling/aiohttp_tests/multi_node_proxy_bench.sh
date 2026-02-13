@@ -3,9 +3,9 @@
 #PBS -l walltime=00:20:00
 #PBS -A candle_aesp_CNDA
 #PBS -q prod
-#PBS -o /home/ngetty/proj/vllm_gpt-oss/Aurora-Inferencing/cluster_scaling/aiohttp_tests/output_multi.log
-#PBS -e /home/ngetty/proj/vllm_gpt-oss/Aurora-Inferencing/cluster_scaling/aiohttp_tests/error_multi.log
-#PBS -l select=16
+#PBS -o /output_multi.log
+#PBS -e /error_multi.log
+#PBS -l select=2
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 
@@ -256,7 +256,7 @@ sleep 5
 # --- 8. RUN BENCHMARK ---
 echo "Running Benchmark..."
 PROXY_URL="http://localhost:8000"
-PROMPTS_PER_CLIENT=800
+PROMPTS_PER_CLIENT=100
 INPUT_LEN=3024
 OUTPUT_LEN=1024
 MODEL="openai/gpt-oss-120b"
