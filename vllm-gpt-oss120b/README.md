@@ -27,9 +27,14 @@ tail -f output.log
 | `OFFSET` | 0 | Starting file index (for resuming) |
 | `STAGE_WEIGHTS` | 1 | Copy model to /tmp (1=yes, 0=no) |
 | `STAGE_CONDA` | 1 | Copy conda environment to /tmp (1=yes, 0=no) |
-| `USE_FRAMEWORKS` | 0 | Use frameworks module instead of staged conda env (1=yes, 0=no)|
+| `USE_FRAMEWORKS` | 0 | Use frameworks module instead of staged conda env (1=yes, 0=no) |
+| `VLLM_HOST_PORT` | 6739 | Port for the vLLM server on each node |
 
-## How It Works
+### Port configuration (submit and start only scripts)
+
+In **`start_oss120b.sh`** and **`submit_oss120b.sh`** (no Python test runner), port handling is server-only: `VLLM_HOST_PORT` sets the vLLM server listen port. The submit script passes it to each node via SSH; the start script uses env or a second argument (`VLLM_HOST_PORT` or `$2`). There is no test client or hostfile consumer in these scripts—they only launch and keep the server running.
+
+## How It Works with Test (submit and start with test scripts)
 
 1. **Job starts** → Reads allocated nodes from PBS
 2. **Stage weights** (optional) → Copies model to /tmp on each node for faster I/O
