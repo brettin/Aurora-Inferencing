@@ -12,8 +12,8 @@ HOSTNAME=$(hostname)
 VLLM_MODEL=${1:-"openai/gpt-oss-120b"}
 VLLM_LOG_DIR="/dev/shm/vllm_logs_${HOSTNAME}_$$"
 
-# VLLM configuration
-VLLM_HOST_PORT=6739
+# VLLM configuration (default to 6739 if not provided)
+VLLM_HOST_PORT=${VLLM_HOST_PORT:-${2:-6739}}
 
 # Authentication
 export HF_TOKEN=${HF_TOKEN:-}
