@@ -1,6 +1,6 @@
     #!/bin/bash
     #PBS -N gpt_oss_120b_vllm
-    #PBS -l walltime=00:25:00
+    #PBS -l walltime=00:30:00
     #PBS -A candle_aesp_CNDA
     #PBS -q debug
     #PBS -o output_multi_engine.log
@@ -207,9 +207,9 @@
     echo "Starting benchmarks..."
 
     MODEL="openai/gpt-oss-120b"
-    NUM_PROMPTS=100
-    INPUT_LEN=3024
-    OUTPUT_LEN=1024
+    NUM_PROMPTS=24
+    INPUT_LEN=100000
+    OUTPUT_LEN=20000
     BASE_URL="http://localhost" # <--- FIX 1: Added http://
 
     # Arrays to store benchmark PIDs

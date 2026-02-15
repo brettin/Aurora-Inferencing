@@ -53,8 +53,6 @@ export FI_MR_CACHE_MONITOR=userfaultfd
 export TORCH_COMPILE_DISABLE=1
 export OMP_NUM_THREADS=52
 
-export OMP_NUM_THREADS=52
-
 wait $CP_PID
 copy_end=$(date +%s)
 weights_copy_time=$((copy_end - copy_start))

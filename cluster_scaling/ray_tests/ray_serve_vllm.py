@@ -33,7 +33,7 @@ from vllm.entrypoints.openai.serving_chat import OpenAIServingChat
 from vllm.entrypoints.openai.serving_completion import OpenAIServingCompletion
 # FIX: Import serving models classes required for recent vLLM versions
 from vllm.entrypoints.openai.serving_models import OpenAIServingModels, BaseModelPath
-from vllm.utils import FlexibleArgumentParser, random_uuid
+
 
 # CRITICAL FIX: Monkey-patch vllm.utils.get_open_port to return our deterministic MASTER_PORT
 # VLLM V1 multiproc_executor ignores MASTER_PORT env var and calls get_open_port(), causing races.
@@ -164,14 +164,25 @@ class VLLMService:
         )
 
         # FIX: Instantiate Chat with exact signature requirements
-        self.openai_serving_chat = OpenAIServingChat(
-            self.engine,                        # Arg 1: engine_client
-            self.openai_serving_models,         # Arg 2: models (OpenAIServingModels instance)
-            response_role="assistant",          # Arg 3: response_role (str)
-            request_logger=None,                # Kwarg: request_logger (Required)
-            chat_template=None,                 # Kwarg: chat_template (Required)
-            chat_template_content_format="auto" # Kwarg: chat_template_content_format (Required)
-        )
+        # FIX: Instantiate Chat with exact signature requirements and retry logic for tiktoken races
+        import time
+        max_retries = 5
+        for attempt in range(max_retries):
+            try:
+                self.openai_serving_chat = OpenAIServingChat(
+                    self.engine,                        # Arg 1: engine_client
+                    self.openai_serving_models,         # Arg 2: models (OpenAIServingModels instance)
+                    response_role="assistant",          # Arg 3: response_role (str)
+                    request_logger=None,                # Kwarg: request_logger
+                    chat_template=None,                 # Kwarg: chat_template
+                    chat_template_content_format="auto" # Kwarg: chat_template_content_format
+                )
+                break
+            except Exception as e:
+                print(f"[VLLM] OpenAIServingChat init failed (attempt {attempt+1}/{max_retries}): {e}")
+                if attempt == max_retries - 1:
+                    raise
+                time.sleep(2)
         self.openai_serving_completion = OpenAIServingCompletion(
             self.engine,
             self.openai_serving_models,

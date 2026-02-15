@@ -1,10 +1,10 @@
     #!/bin/bash
     #PBS -N gpt_oss_120b_vllm
-    #PBS -l walltime=00:25:00
+    #PBS -l walltime=00:40:00
     #PBS -A candle_aesp_CNDA
-    #PBS -q debug
-    #PBS -o output_multi_engine.log
-    #PBS -e error_multi_engine.log
+    #PBS -q debug-scaling
+    #PBS -o output_multi_engine_tp4.log
+    #PBS -e error_multi_engine_tp4.log
     #PBS -l select=1
     #PBS -l filesystems=flare:home
 
@@ -92,6 +92,11 @@
     export RAY_TMPDIR="/tmp"
     export TMPDIR="/tmp"
 
+    # --- CRITICAL FIXES FROM TRAINING SCRIPT ---
+    #export MPICH_GPU_SUPPORT_ENABLED=1
+    #export NUMEXPR_MAX_THREADS=32
+    #export VLLM_RPC_TIMEOUT=1200
+
     export ZE_FLAT_DEVICE_HIERARCHY=FLAT
     unset CCL_PROCESS_LAUNCHER
     export CCL_PROCESS_LAUNCHER=None
@@ -108,6 +113,7 @@
     declare -a TAIL_PIDS
 
     ZE_AFFINITY_MASK=0,1,2,3 \
+    VLLM_PORT=12340 \
     vllm serve openai/gpt-oss-120b \
     --port 8080 \
     --disable-custom-all-reduce \
@@ -119,7 +125,11 @@
     tail -f vllm_8080.log &
     TAIL_PIDS+=($!)
 
+    #echo "Giving Engine 1 time to initialize driver..."
+    #sleep 30
+
     ZE_AFFINITY_MASK=4,5,6,7 \
+    VLLM_PORT=12341 \
     vllm serve openai/gpt-oss-120b \
     --port 8081 \
     --disable-custom-all-reduce \
@@ -131,7 +141,11 @@
     tail -f vllm_8081.log &
     TAIL_PIDS+=($!)
 
+    #echo "Giving Engine 2 time to initialize driver..."
+    #sleep 30
+
     ZE_AFFINITY_MASK=8,9,10,11 \
+    VLLM_PORT=12342 \
     vllm serve openai/gpt-oss-120b \
     --port 8082 \
     --disable-custom-all-reduce \
