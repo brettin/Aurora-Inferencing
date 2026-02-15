@@ -2,10 +2,10 @@
 #PBS -N gpt_oss_120b_vllm
 #PBS -l walltime=01:00:00
 #PBS -A ModCon
-#PBS -q debug
+#PBS -q prod
 #PBS -o output.log
 #PBS -e error.log
-#PBS -l select=2
+#PBS -l select=32
 #PBS -l filesystems=flare:home
 #PBS -l place=scatter
 #PBS -j oe
@@ -49,8 +49,14 @@ start_vllm_on_host() {
 }
 
 # Main Execution
+VLLM_HOST_PORT=${VLLM_HOST_PORT:-6739}
 
-cat "$PBS_NODEFILE" > "$SCRIPT_DIR/hostfile"
+# Write host and port in tab-delimited format to hostfile.
+# Truncates (empties) the hostfile to prepare it for writing a fresh list of hosts for this run.
+: > "$SCRIPT_DIR/hostfile"
+while read -r node; do
+    echo -e "${node}\t${VLLM_HOST_PORT}" >> "$SCRIPT_DIR/hostfile"
+done < "$PBS_NODEFILE"
 
 echo "$(date) vLLM Multi-Node Deployment"
 echo "$(date) Script directory: $SCRIPT_DIR"
@@ -58,6 +64,7 @@ echo "$(date) PBS Job ID: $PBS_JOBID"
 echo "$(date) PBS Job Name: $PBS_JOBNAME"
 echo "$(date) Nodes allocated: $(wc -l < $PBS_NODEFILE)"
 echo "$(date) Model: $MODEL_NAME"
+echo "$(date) VLLM_HOST_PORT: $VLLM_HOST_PORT"
 echo "$(date) Model path: $MODEL_PATH"
 echo "$(date) STAGE_WEIGHTS: $STAGE_WEIGHTS"
 echo "$(date) STAGE_CONDA: $STAGE_CONDA"
@@ -108,7 +115,7 @@ for ((i = 0; i < total_hosts; i++)); do
     host="${hosts[$i]}"
 
     # Launch vLLM on this host
-    start_vllm_on_host "$host" "$MODEL_NAME" &
+    start_vllm_on_host "$host" "$MODEL_NAME" "$VLLM_HOST_PORT" &
     pid=$!
     pids+=($pid)
     launch_hosts+=("$host")
