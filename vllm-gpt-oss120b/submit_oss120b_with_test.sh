@@ -48,15 +48,21 @@ start_vllm_on_host() {
     local host=$1
     local filename=$2
     local model=$3
-    if ! ssh -o ConnectTimeout="${SSH_TIMEOUT}" -o StrictHostKeyChecking=no "$host" "bash -l -c 'cd $SCRIPT_DIR && USE_FRAMEWORKS=${USE_FRAMEWORKS} ./start_oss120b_with_test.sh $filename $model'" 2>&1; then
+    local port=$4
+    if ! ssh -o ConnectTimeout="${SSH_TIMEOUT}" -o StrictHostKeyChecking=no "$host" "bash -l -c 'cd $SCRIPT_DIR && USE_FRAMEWORKS=${USE_FRAMEWORKS} && VLLM_HOST_PORT=${port} ./start_oss120b_with_test.sh $filename $model'" 2>&1; then
         echo "$(date) Failed to launch vLLM on $host (model: $model)"
         return 1
     fi
 }
 
 # Main Execution
+VLLM_HOST_PORT=${VLLM_HOST_PORT:-6739}
 
-cat "$PBS_NODEFILE" > "$SCRIPT_DIR/hostfile"
+# Write host and port in tab-delimited format to hostfile (same format as submit_oss120b.sh)
+: > "$SCRIPT_DIR/hostfile"
+while read -r node; do
+    echo -e "${node}\t${VLLM_HOST_PORT}" >> "$SCRIPT_DIR/hostfile"
+done < "$PBS_NODEFILE"
 
 echo "$(date) vLLM Multi-Node Deployment"
 echo "$(date) Script directory: $SCRIPT_DIR"
@@ -65,6 +71,7 @@ echo "$(date) PBS Job Name: $PBS_JOBNAME"
 echo "$(date) Nodes allocated: $(wc -l < $PBS_NODEFILE)"
 echo "$(date) Model: $MODEL_NAME"
 echo "$(date) Model path: $MODEL_PATH"
+echo "$(date) VLLM_HOST_PORT: $VLLM_HOST_PORT"
 echo "$(date) OFFSET $OFFSET"
 echo "$(date) STAGE_WEIGHTS: $STAGE_WEIGHTS"
 echo "$(date) STAGE_CONDA: $STAGE_CONDA"
@@ -151,7 +158,7 @@ for ((i = 0; i < files_to_process; i++)); do
     infile="${filenames[$file_index]}"
 
     # Launch vLLM on this host
-    start_vllm_on_host "$host" "$infile" "$MODEL_NAME" &
+    start_vllm_on_host "$host" "$infile" "$MODEL_NAME" "$VLLM_HOST_PORT" &
     pid=$!
     pids+=($pid)
     launch_hosts+=("$host")

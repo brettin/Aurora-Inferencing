@@ -21,8 +21,8 @@ OUTPUT_DIR="/dev/shm"
 TEST_OUTPUTS_DIR="${OUTPUT_DIR}/test_outputs_${HOSTNAME}_$$"
 infile_base=$(basename "$INFILE")
 
-# VLLM configuration
-VLLM_HOST_PORT=6739
+# VLLM configuration (default 6739 if not provided via env)
+VLLM_HOST_PORT=${VLLM_HOST_PORT:-6739}
 TEST_BATCH_SIZE=64
 
 # Authentication
