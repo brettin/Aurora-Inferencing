@@ -42,7 +42,8 @@ SSH_TIMEOUT=10                        # SSH connection timeout in seconds
 start_vllm_on_host() {
     local host=$1
     local model=$2
-    if ! ssh -o ConnectTimeout="${SSH_TIMEOUT}" -o StrictHostKeyChecking=no "$host" "bash -l -c 'cd $SCRIPT_DIR && USE_FRAMEWORKS=${USE_FRAMEWORKS} ./start_oss120b.sh \"$model\"'" 2>&1; then
+    local port=$3
+    if ! ssh -o ConnectTimeout="${SSH_TIMEOUT}" -o StrictHostKeyChecking=no "$host" "bash -l -c 'cd $SCRIPT_DIR && USE_FRAMEWORKS=${USE_FRAMEWORKS} && VLLM_HOST_PORT=${port} ./start_oss120b.sh \"$model\"'" 2>&1; then
         echo "$(date) Failed to launch vLLM on $host (model: $model)"
         return 1
     fi
